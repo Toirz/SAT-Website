@@ -117,6 +117,7 @@ async function getTestState(req, res) {
         hasData: false,
         answers: {},
         reviewList: [],
+        highlights: {},
         currentIndex: 0,
         remainingTime: null,
       });
@@ -126,6 +127,7 @@ async function getTestState(req, res) {
       hasData: true,
       answers: JSON.parse(row.answers || "{}"),
       reviewList: JSON.parse(row.review_list || "[]"),
+      highlights: JSON.parse(row.highlights || "{}"),
       currentIndex: row.current_index || 0,
       remainingTime: row.remaining_time || null,
     });
@@ -138,16 +140,17 @@ async function getTestState(req, res) {
 // POST /api/test-state
 async function saveTestState(req, res) {
   const userId = req.session.userId;
-  const { file, answers, reviewList, currentIndex, remainingTime } = req.body;
+  const { file, answers, reviewList, highlights, currentIndex, remainingTime } = req.body;
 
   try {
     await db.query(
       `
-      INSERT INTO test_progress (user_id, test_file, answers, review_list, current_index, remaining_time)
-      VALUES ($1, $2, $3, $4, $5, $6)
+      INSERT INTO test_progress (user_id, test_file, answers, review_list, highlights, current_index, remaining_time)
+      VALUES ($1, $2, $3, $4, $5, $6, $7)
       ON CONFLICT (user_id, test_file) DO UPDATE SET
         answers = EXCLUDED.answers,
         review_list = EXCLUDED.review_list,
+        highlights = EXCLUDED.highlights,
         current_index = EXCLUDED.current_index,
         remaining_time = EXCLUDED.remaining_time,
         updated_at = CURRENT_TIMESTAMP
@@ -157,6 +160,7 @@ async function saveTestState(req, res) {
         file,
         JSON.stringify(answers),
         JSON.stringify(reviewList),
+        JSON.stringify(highlights || {}),
         currentIndex,
         remainingTime,
       ]

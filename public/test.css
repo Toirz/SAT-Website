@@ -47,6 +47,35 @@ html, body {
   padding-bottom: 1.2px;
 }
 
+.highlight-menu {
+  position: absolute;
+  display: flex;
+  gap: 8px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
+  padding: 10px 12px;
+  z-index: 10000;
+  transform: translateX(-50%);
+}
+
+.highlight-action {
+  border: 1.5px solid #d4d4d8;
+  background: #f9fafb;
+  color: #111827;
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.highlight-action:hover {
+  border-color: #f59e0b;
+  background: #fff7ed;
+}
+
 #header-dash {
   padding-top: 0px;
   border-top: 2.3px solid transparent;
@@ -619,6 +648,12 @@ body {
   height: auto;
   /* nếu muốn hạn chế chiều cao: */
   /* max-height: 350px; */
+}
+
+mark.highlight {
+  background: #fef08a;
+  color: inherit;
+  padding: 0 1px;
 }
 
 /* Đảm bảo nội dung passage không bị thanh footer che mất */

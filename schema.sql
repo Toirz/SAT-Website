@@ -50,6 +50,8 @@ CREATE TABLE IF NOT EXISTS test_progress (
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   CONSTRAINT uq_test_progress_user_test UNIQUE (user_id, test_file)
 );
+ALTER TABLE test_progress
+  ADD COLUMN IF NOT EXISTS highlights TEXT;
 
 -- =======================
 -- BẢNG TEST_HISTORY

@@ -16,6 +16,7 @@ let answers = {};
 let reviewList = [];
 let totalQuestions = 0;
 let remainingTime = 0;
+let highlights = {};
 
 /* ------------------------------------------------------------
    ⭐ LOAD STATE + LOAD ĐỀ
@@ -28,6 +29,7 @@ async function load() {
   if (state.hasData) {
     answers = state.answers || {};
     reviewList = state.reviewList || [];
+    highlights = state.highlights || {};
     remainingTime = state.remainingTime || 0;
   }
 
@@ -96,6 +98,7 @@ function startTimer() {
         file,
         answers,
         reviewList,
+        highlights,
         currentIndex: -1, // review page không thay đổi câu hiện tại
         remainingTime
       })

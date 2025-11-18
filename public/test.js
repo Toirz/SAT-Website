@@ -5,6 +5,9 @@ let current = 0;
 let answers = {};
 // review list: [ questionIndex ]
 let reviewList = [];
+// highlights: { questionId: [ { start, end } ] }
+let highlights = {};
+let pendingSelectionOffsets = null;
 
 /* ----------------------------------------------------------
    LẤY THÔNG TIN TỪ URL
@@ -76,6 +79,7 @@ function saveState() {
       file,
       answers,
       reviewList,
+      highlights,
       currentIndex: current,
       remainingTime: timeLimit,
     }),
@@ -134,6 +138,7 @@ async function load() {
   if (state && state.hasData) {
     answers = state.answers || {};
     reviewList = state.reviewList || [];
+    highlights = state.highlights || {};
     current = state.currentIndex || 0;
     if (typeof state.remainingTime === "number" && state.remainingTime > 0) {
       timeLimit = state.remainingTime;
@@ -142,6 +147,7 @@ async function load() {
     // nếu chưa có state, bắt đầu mới
     answers = {};
     reviewList = [];
+    highlights = {};
     current = 0;
     timeLimit = 32 * 60;
   }
@@ -197,11 +203,180 @@ function loadQuestionImage(questionId) {
 }
 
 /* ----------------------------------------------------------
+   HIGHLIGHT HELPERS
+---------------------------------------------------------- */
+function getOffsetsWithinPassage(range, root) {
+  const preSelectionRange = range.cloneRange();
+  preSelectionRange.selectNodeContents(root);
+  preSelectionRange.setEnd(range.startContainer, range.startOffset);
+  const start = preSelectionRange.toString().length;
+
+  const selectionRange = range.cloneRange();
+  selectionRange.selectNodeContents(root);
+  selectionRange.setEnd(range.endContainer, range.endOffset);
+  const end = selectionRange.toString().length;
+
+  const maxLen = root.textContent.length;
+  const normalizedStart = Math.max(0, Math.min(start, maxLen));
+  const normalizedEnd = Math.max(0, Math.min(end, maxLen));
+
+  if (normalizedStart === normalizedEnd) return null;
+
+  return {
+    start: Math.min(normalizedStart, normalizedEnd),
+    end: Math.max(normalizedStart, normalizedEnd),
+  };
+}
+
+function findTextPosition(root, target) {
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  let offset = 0;
+  let node;
+  while ((node = walker.nextNode())) {
+    const next = offset + node.textContent.length;
+    if (target <= next) {
+      return { node, offset: target - offset };
+    }
+    offset = next;
+  }
+  return null;
+}
+
+function wrapRangeInMark(root, start, end) {
+  if (end <= start) return;
+  const startPos = findTextPosition(root, start);
+  const endPos = findTextPosition(root, end);
+  if (!startPos || !endPos) return;
+
+  const range = document.createRange();
+  range.setStart(startPos.node, startPos.offset);
+  range.setEnd(endPos.node, endPos.offset);
+
+  const mark = document.createElement("mark");
+  mark.className = "highlight";
+  range.surroundContents(mark);
+}
+
+function mergeRanges(list) {
+  const sorted = [...list]
+    .filter((r) => r && typeof r.start === "number" && typeof r.end === "number")
+    .sort((a, b) => a.start - b.start);
+
+  const merged = [];
+  sorted.forEach((r) => {
+    if (!merged.length) {
+      merged.push({ start: r.start, end: r.end });
+      return;
+    }
+    const last = merged[merged.length - 1];
+    if (r.start <= last.end) {
+      last.end = Math.max(last.end, r.end);
+    } else {
+      merged.push({ start: r.start, end: r.end });
+    }
+  });
+
+  return merged;
+}
+
+function applyHighlightsForQuestion(questionId) {
+  const passageEl = document.getElementById("passage");
+  const ranges = highlights[questionId] || [];
+  if (!passageEl || !ranges.length) return;
+
+  ranges.forEach((r) => wrapRangeInMark(passageEl, r.start, r.end));
+}
+
+function hideHighlightMenu() {
+  const menu = document.getElementById("highlight-menu");
+  if (menu) {
+    menu.classList.add("hidden");
+  }
+  pendingSelectionOffsets = null;
+}
+
+function positionHighlightMenu(rect) {
+  const menu = document.getElementById("highlight-menu");
+  if (!menu) return;
+
+  const top = rect.bottom + window.scrollY + 8;
+  const left = rect.left + window.scrollX + rect.width / 2;
+  menu.style.top = `${top}px`;
+  menu.style.left = `${left}px`;
+  menu.classList.remove("hidden");
+}
+
+function handlePassageSelection() {
+  const passageEl = document.getElementById("passage");
+  const selection = window.getSelection();
+  if (!passageEl || !selection || selection.rangeCount === 0) {
+    hideHighlightMenu();
+    return;
+  }
+
+  if (selection.isCollapsed) {
+    hideHighlightMenu();
+    return;
+  }
+
+  const range = selection.getRangeAt(0);
+  if (!passageEl.contains(range.commonAncestorContainer)) {
+    hideHighlightMenu();
+    return;
+  }
+
+  const offsets = getOffsetsWithinPassage(range, passageEl);
+  if (!offsets) {
+    hideHighlightMenu();
+    return;
+  }
+
+  pendingSelectionOffsets = offsets;
+  positionHighlightMenu(range.getBoundingClientRect());
+}
+
+function applyHighlightAction(action) {
+  if (!pendingSelectionOffsets) return;
+
+  const passageEl = document.getElementById("passage");
+  const q = questions[current];
+  if (!passageEl || !q) {
+    hideHighlightMenu();
+    return;
+  }
+
+  const qId = q.id;
+  if (!highlights[qId]) highlights[qId] = [];
+
+  if (action === "highlight") {
+    highlights[qId].push(pendingSelectionOffsets);
+    highlights[qId] = mergeRanges(highlights[qId]);
+  } else if (action === "erase") {
+    highlights[qId] = (highlights[qId] || []).filter(
+      (r) => pendingSelectionOffsets.end <= r.start || pendingSelectionOffsets.start >= r.end
+    );
+  }
+
+  const lines = q.question.split("\n");
+  const passage = lines.slice(1).join("\n");
+  passageEl.innerHTML = formatText(passage);
+  applyHighlightsForQuestion(qId);
+
+  const selection = window.getSelection();
+  if (selection) selection.removeAllRanges();
+
+  hideHighlightMenu();
+  saveState();
+}
+
+/* ----------------------------------------------------------
    RENDER MAIN UI
 ---------------------------------------------------------- */
 function render() {
   const q = questions[current];
   if (!q) return;
+
+  hideHighlightMenu();
 
   // --- Bookmark ---
   const icon = document.getElementById("bookmark-icon");
@@ -223,6 +398,8 @@ function render() {
   // Dùng innerHTML + formatText để áp dụng * ** __
   document.getElementById("passage").innerHTML = formatText(passage);
   document.getElementById("question-text").innerHTML = formatText(questionPrompt);
+
+  applyHighlightsForQuestion(q.id);
 
   document.getElementById("q-number-text").innerText = current + 1;
   document.getElementById("current-question").innerText = current + 1;
@@ -339,6 +516,36 @@ document.getElementById("question-toggle-btn").onclick = () => {
 };
 
 document.getElementById("close-popover").onclick = hidePopover;
+
+const passageEl = document.getElementById("passage");
+["mouseup", "touchend"].forEach((evt) => {
+  passageEl.addEventListener(evt, handlePassageSelection);
+});
+
+const highlightActionBtn = document.getElementById("highlight-action");
+const eraseActionBtn = document.getElementById("erase-action");
+if (highlightActionBtn) {
+  highlightActionBtn.onclick = (e) => {
+    e.stopPropagation();
+    applyHighlightAction("highlight");
+  };
+}
+if (eraseActionBtn) {
+  eraseActionBtn.onclick = (e) => {
+    e.stopPropagation();
+    applyHighlightAction("erase");
+  };
+}
+
+["mousedown", "touchstart"].forEach((evt) => {
+  document.addEventListener(evt, (event) => {
+    const menu = document.getElementById("highlight-menu");
+    if (!menu) return;
+    if (!menu.contains(event.target)) {
+      hideHighlightMenu();
+    }
+  });
+});
 
 /* ----------------------------------------------------------
    GO REVIEW
