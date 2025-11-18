@@ -1,0 +1,108 @@
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta charset="UTF-8">
+    <title>SAT Test</title>
+    <link rel="stylesheet" href="test.css">
+  </head>
+
+  <body>
+
+  <!-- 🔵 BLUEBOOK-STYLE TOP TIMER BAR -->
+  <div id="top-timer-bar">
+    <div id="timer-title">Section 1: Reading and Writing</div>
+    <div id="timer-value">0:00</div>
+    <button id="save-exit-btn" class="save-exit-btn">
+    <img src="/images/save-exit.png" alt="Save Exit Icon" class="save-exit-icon">
+    <span>Save & Exit</span>
+</button>
+
+  </div>
+
+
+  <!-- MAIN 2-PANEL LAYOUT -->
+  <div id="container">
+
+    <!-- LEFT: PASSAGE -->
+    <div id="left-pane">
+      <!-- Ảnh câu hỏi (nếu có) -->
+      <div id="question-image-wrapper" class="question-image-wrapper hidden">
+        <img id="question-image" class="question-image" alt="Question illustration">
+      </div>
+      <div id="passage"></div>
+    </div>
+
+    <!-- RIGHT: QUESTION -->
+    <div id="right-pane">
+
+      <!-- QUESTION HEADER (NUMBER + REVIEW BUTTON) -->
+      <div id="question-header">
+        <div id="q-number-box">
+          <span id="q-number-text">1</span>
+        </div>
+
+        <button id="mark-review-btn" class="mark-btn">
+    <img id="bookmark-icon" src="/bookmark/bookmark-outline-gray.svg" width="20">
+    <span id="mark-text">Mark for Review</span>
+  </button>
+    
+
+      </div>
+
+      <!-- DASH LINE UNDER HEADER -->
+      <div id="header-dash"></div>
+
+      <!-- QUESTION TEXT + CHOICES -->
+      <div id="question-text"></div>
+
+      <div id="choices"></div>
+
+    </div>
+
+  </div>
+
+  <!-- BOTTOM NAVIGATION BAR -->
+  <div id="bottom-bar">
+
+    <button id="question-toggle-btn">
+      Question <span id="current-question">1</span> of 
+      <span id="total-question">0</span>
+      <span class="arrow">&#9662;</span>
+    </button>
+
+    <div id="question-progress"></div>
+
+    <div>
+      <button id="back-btn">Back</button>
+      <button id="next-btn">Next</button>
+    </div>
+
+  </div>
+
+  <!-- QUESTION POPUP GRID -->
+  <div id="question-popover" class="hidden">
+    <div class="popover-content">
+
+      <div class="popover-header">
+        <strong>Section 1: Reading and Writing Questions</strong>
+        <span id="close-popover">✕</span>
+      </div>
+
+      <div class="legend">
+        <div><span class="dot current"></span> Answered</div>
+        <div><span class="dot unanswered"></span> Unanswered</div>
+        <div><span class="dot review"></span> For Review</div>
+      </div>
+
+      <div id="question-grid"></div>
+
+      <button id="go-review-btn">Go to Review Page</button>
+
+      <div class="arrow-down"></div>
+    </div>
+  </div>
+
+  <script src="test.js"></script>
+  </body>
+  </html>

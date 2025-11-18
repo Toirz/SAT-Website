@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Review</title>
+  <link rel="stylesheet" href="test.css">
+  <link rel="stylesheet" href="review.css">
+</head>
+
+<body>
+
+<!-- TOP TIMER BAR -->
+<div id="top-timer-bar">
+  <div id="timer-title">Section 1: Reading and Writing</div>
+  <div id="timer-value">0:00</div>
+</div>
+
+<div id="review-wrapper">
+  <h1 id="review-title">Check Your Work</h1>
+
+  <div id="review-desc">
+    <p>On test day, you won’t be able to move on to the next module until time expires.</p>
+    <p>For these practice questions, you can click <b>Next</b> when you’re ready to move on.</p>
+  </div>
+
+  <div id="review-card">
+
+    <div id="review-card-header">
+      <div class="review-section-title">Section 1: Reading and Writing Questions</div>
+
+      <div class="review-legend">
+        <span class="legend-item">
+          <span class="legend-square unanswered"></span> Unanswered
+        </span>
+
+        <span class="legend-item">
+          <span class="legend-square review"></span> For Review
+        </span>
+      </div>
+    </div>
+
+    <hr class="review-divider">
+
+    <div id="review-grid"></div>
+
+  </div>
+</div>
+
+<!-- BOTTOM -->
+<div id="bottom-bar">
+  <div>
+    <button id="back-btn">Back</button>
+    <button id="next-btn">Next</button>
+  </div>
+</div>
+
+<script src="review.js"></script>
+</body>
+</html>

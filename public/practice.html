@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>SigmaSAT – Luyện đề</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <aside class="sidebar">
+    <div class="sigma-logo-top">SigmaSAT</div>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item">🏠 Trang chủ</a>
+      <a href="practice.html" class="sidebar-item active">📝 Luyện đề</a>
+      <a class="sidebar-item">⚙️ Cài đặt</a>
+    </nav>
+
+    <a href="/logout" class="logout-bottom">Đăng xuất</a>
+  </aside>
+
+  <main class="main-content">
+    <h2 class="page-title">Luyện đề</h2>
+
+    <div id="test-list">Loading tests...</div>
+    
+  </main>
+
+<script>
+
+  async function checkState(fullName) {
+    try {
+      const res = await fetch(`/api/test-state?file=${encodeURIComponent(fullName)}`);
+      const data = await res.json();
+      return data && data.hasData === true;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  async function loadTests() {
+    try {
+      const res = await fetch("/api/tests");
+      const tests = await res.json();
+
+      const list = document.getElementById("test-list");
+      list.innerHTML = "";
+
+      const groups = {};
+
+      tests.forEach(name => {
+        const prefix = name.replace(/ - Mod \d+$/, "");
+        if (!groups[prefix]) groups[prefix] = [];
+        groups[prefix].push(name);
+      });
+
+      Object.keys(groups).forEach(testName => {
+        const groupBox = document.createElement("div");
+        groupBox.className = "test-group";
+
+        groupBox.innerHTML = `
+          <div class="group-title">${testName}</div>
+          <div class="group-grid"></div>
+        `;
+
+        const grid = groupBox.querySelector(".group-grid");
+
+        groups[testName].forEach(fullName => {
+          const mod = fullName.match(/Mod (\d+)/)?.[1] || "?";
+
+          const card = document.createElement("div");
+          card.className = "test-card";
+
+          card.innerHTML = `
+            <div class="test-header">
+              Module ${mod}
+              <span class="completed-badge hidden">Hoàn thành</span>
+            </div>
+
+            <div class="test-actions">
+              <button class="btn start-btn">Start</button>
+              <button class="btn history-btn">Xem lại</button>
+            </div>
+          `;
+
+          const startBtn = card.querySelector(".start-btn");
+          const completedBadge = card.querySelector(".completed-badge");
+
+          /* Kiểm tra đang làm dở */
+          checkState(fullName).then(inProgress => {
+            if (inProgress) {
+              startBtn.textContent = "Tiếp tục";
+              startBtn.classList.remove("start-btn");
+              startBtn.classList.add("continue-btn");
+            } else {
+              startBtn.textContent = "Bắt đầu";
+              startBtn.classList.remove("continue-btn");
+              startBtn.classList.add("start-btn");
+            }
+          });
+
+          /* Kiểm tra đã hoàn thành từ DB */
+          fetch(`/api/test-completed?file=${encodeURIComponent(fullName)}`)
+            .then(res => res.json())
+            .then(data => {
+              if (data.completed) {
+                completedBadge.classList.remove("hidden");
+              }
+            });
+
+          startBtn.onclick = () =>
+            window.location.href = "test.html?file=" + encodeURIComponent(fullName);
+
+          card.querySelector(".history-btn").onclick = () =>
+            window.location.href = "history.html?file=" + encodeURIComponent(fullName);
+
+          grid.appendChild(card);
+        });
+
+        list.appendChild(groupBox);
+      });
+
+    } catch (e) {
+      console.error(e);
+      document.getElementById("test-list").innerHTML =
+        "<p>Error loading tests.</p>";
+    }
+  }
+
+  loadTests();
+</script>
+
+</body>
+</html>

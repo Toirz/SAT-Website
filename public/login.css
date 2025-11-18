@@ -1,0 +1,303 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  background: #ffffff;
+  color: #0f172a; /* <-- giống login */
+}
+
+
+.page {
+  min-height: 100vh;
+}
+
+
+/* Buttons */
+
+.btn {
+  border-radius: 999px;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 14px 30px;
+  cursor: pointer;
+  white-space: nowrap;
+
+  /* loại bỏ bubble + shadow + hiệu ứng nhảy */
+  box-shadow: none !important;
+  transform: none !important;
+  transition: background-color 0.12s ease;
+}
+
+.btn-small {
+  padding: 8px 18px;
+  font-size: 14px;
+}
+
+.btn-primary {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background: #1d4ed8;
+}
+
+.btn-secondary {
+  background: #d6ebff;
+  color: #4367b4;
+}
+
+.btn-secondary:hover {
+  background: #bbdcff;
+}
+
+.btn-outline {
+  background: #ffffff;
+  border: 1px solid #2563eb;
+  color: #2563eb;
+}
+
+.btn-outline:hover {
+  background: #ebf2ff;
+}
+
+/* HERO */
+
+.hero {
+  max-width: 1200px;
+  margin: 0 auto;                 /* bỏ margin-top cũ */
+  padding: 220px 24px 80px;       /* chừa chỗ cho logo phía trên */
+  min-height: 100vh;              /* chiếm trọn chiều cao màn hình */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;        /* slogan + nút nằm giữa theo chiều dọc */
+  text-align: center;
+}
+
+
+
+.hero-title {
+  font-size: 52px;                 /* nổi bật hơn */
+  line-height: 1.1;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+
+.hero-subtitle {
+  max-width: 640px;
+  margin: 0 auto 35px;
+  font-size: 17px;
+  color: #4b5563;
+}
+
+
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+/* Hero browser demo card */
+
+.hero-demo-card {
+  margin: 0 auto;
+  max-width: 960px;
+  border-radius: 18px;
+  box-shadow: 0 18px 60px rgba(15, 23, 42, 0.18);
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+  background: #f9fafb;
+}
+
+.browser-title {
+  margin-left: 8px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.browser-body {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 260px;
+}
+
+/* left sidebar */
+.browser-left {
+  background: #f3f4f6;
+  border-right: 1px solid #e5e7eb;
+  padding: 16px 12px;
+}
+
+.sidebar-item {
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #4b5563;
+}
+
+.sidebar-item.active {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+/* right main */
+.browser-right {
+  padding: 20px 24px;
+}
+
+.browser-heading {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.browser-text {
+  font-size: 14px;
+  color: #4b5563;
+  margin-bottom: 16px;
+}
+
+.browser-chart-placeholder {
+  height: 150px;
+  border-radius: 12px;
+  border: 1px dashed #cbd5f5;
+  background: linear-gradient(135deg, #eef2ff, #e0f2fe);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: #2563eb;
+}
+
+/* TRUSTED SECTION */
+
+.trusted-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px 24px;
+  text-align: center;
+}
+
+.trusted-label {
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 16px;
+}
+
+
+/* DEMO SECTION */
+
+.demo-section {
+  max-width: 1200px;
+  margin: 200px auto 100px;     /* cách hero rõ ràng hơn + thoáng hơn */
+  padding: 0 24px;
+  text-align: center;
+}
+
+
+.demo-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.demo-subtitle {
+  font-size: 15px;
+  color: #4b5563;
+  margin-bottom: 28px;
+}
+
+.demo-grid {
+  display: grid;
+  grid-template-columns: 1fr;   /* mỗi hàng 1 ảnh */
+  gap: 24px;
+}
+
+
+.demo-card {
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+  padding: 16px;
+  text-align: left;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.demo-card img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+  background: #f3f4f6;
+}
+
+.demo-card h3 {
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.demo-card p {
+  font-size: 14px;
+  color: #4b5563;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 900px) {
+  .browser-body {
+    grid-template-columns: 1fr;
+  }
+
+  .browser-left {
+    border-right: none;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    gap: 8px;
+  }
+
+  .demo-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .pr-header {
+    padding: 0 16px;
+  }
+
+  .header-nav {
+    display: none;
+  }
+
+  .hero-title {
+    font-size: 32px;
+  }
+
+  .demo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sigma-logo-top {
+  position: fixed;
+  top: 24px;
+  left: 24px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #0f172a;
+  z-index: 1000;
+  user-select: none;
+  
+}

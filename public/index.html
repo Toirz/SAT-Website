@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>SigmaSAT – Trang chủ</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sigma-logo-top">SigmaSAT</div>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item active">🏠 Trang chủ</a>
+      <a href="practice.html" class="sidebar-item">📝 Luyện đề</a>
+      <a class="sidebar-item">⚙️ Cài đặt</a>
+    </nav>
+
+    <a href="/logout" class="logout-bottom">Đăng xuất</a>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main-content">
+    <h2 class="page-title">Trang chủ</h2>
+
+    <!-- ▼▼▼ HEATMAP START ▼▼▼ -->
+     <div id="motivate" style="font-size:18px; font-weight:600; margin-bottom:15px; color:#0f172a;">
+  <!-- message sẽ được JS tự fill -->
+</div>
+
+    <div id="heatmap"></div>
+
+    <div class="stats-box">
+      <div><b id="total-all">0</b> tổng</div>
+      <div><b id="total-year">0</b> năm nay</div>
+      <div><b id="total-month">0</b> tháng này</div>
+      <div><b id="streak">0</b> streak</div>
+      <div><b id="max-streak">0</b> streak max</div>
+    </div>
+    <!-- ▲▲▲ HEATMAP END ▲▲▲ -->
+
+  </main>
+
+  <!-- ▼▼▼ HEATMAP JS (đã sửa phần tính toán text) ▼▼▼ -->
+<script>
+async function loadHeatmap() {
+  // LUÔN LẤY DATA MỚI, KHÔNG CACHE
+  const res = await fetch("/api/heatmap?ts=" + Date.now(), {
+    cache: "no-store"
+  });
+  const data = await res.json();
+
+  const map = {};
+  (data.activity || []).forEach(row => {
+    // row.date dạng "YYYY-MM-DD" từ server (giờ VN)
+    map[row.date] = row.problems_solved;
+  });
+
+  const heatmap = document.getElementById("heatmap");
+  heatmap.innerHTML = ""; // xoá cell cũ nếu có
+
+  const tooltip = document.createElement("div");
+  tooltip.className = "hm-tooltip";
+  document.body.appendChild(tooltip);
+
+  const today = new Date();
+
+  // ngày bắt đầu: 180 ngày trước (dùng giờ local)
+  const oneYearAgo = new Date();
+  oneYearAgo.setDate(oneYearAgo.getDate() - 180);
+
+  // Hàm format ngày local thành "YYYY-MM-DD"
+  const toKey = (d) => d.toLocaleDateString("sv-SE"); // ví dụ: 2025-11-17
+
+  // =======================
+  // THỐNG KÊ
+  // =======================
+  let totalAll = 0;
+  let totalYear = 0;
+  let totalMonth = 0;
+  let maxStreak = 0;
+
+  // Tính max streak + tổng
+  let tmpStreak = 0;
+  for (let d = new Date(oneYearAgo); d <= today; d.setDate(d.getDate() + 1)) {
+    const key = toKey(d);
+    const solved = map[key] || 0;
+
+    totalAll += solved;
+
+    if (d.getFullYear() === today.getFullYear()) {
+      totalYear += solved;
+    }
+
+    if (d.getMonth() === today.getMonth() && d.getFullYear() === today.getFullYear()) {
+      totalMonth += solved;
+    }
+
+    if (solved > 0) {
+      tmpStreak++;
+      maxStreak = Math.max(maxStreak, tmpStreak);
+    } else {
+      tmpStreak = 0;
+    }
+  }
+
+  // Tính streak hiện tại (từ hôm nay lùi lại)
+  let streak = 0;
+  let cur = new Date(today);
+  while (true) {
+    const key = toKey(cur);
+    const solved = map[key] || 0;
+
+    if (solved > 0) streak++;
+    else break;
+
+    cur.setDate(cur.getDate() - 1);
+  }
+
+  // =======================
+  // VẼ HEATMAP
+  // =======================
+  for (let d = new Date(oneYearAgo); d <= today; d.setDate(d.getDate() + 1)) {
+    const key = toKey(d);
+    const solved = map[key] || 0;
+
+    const cell = document.createElement("div");
+    cell.classList.add("hm-cell");
+
+    const level = Math.min(solved, 5);
+    cell.classList.add(`hm-${level}`);
+
+    // tooltip
+    cell.addEventListener("mouseenter", (ev) => {
+      tooltip.innerText = `${key} – ${solved} bài test`;
+      tooltip.style.left = ev.pageX + "px";
+      tooltip.style.top = ev.pageY + "px";
+      tooltip.style.opacity = 1;
+    });
+
+    cell.addEventListener("mousemove", (ev) => {
+      tooltip.style.left = ev.pageX + "px";
+      tooltip.style.top = ev.pageY + "px";
+    });
+
+    cell.addEventListener("mouseleave", () => {
+      tooltip.style.opacity = 0;
+    });
+
+    heatmap.appendChild(cell);
+  }
+
+  // =======================
+  // CẬP NHẬT TEXT
+  // =======================
+  document.getElementById("total-all").innerText = totalAll;
+  document.getElementById("total-year").innerText = totalYear;
+  document.getElementById("total-month").innerText = totalMonth;
+  document.getElementById("streak").innerText = streak;
+  document.getElementById("max-streak").innerText = maxStreak;
+
+  // ===== MOTIVATE MESSAGE =====
+  const todayKey = toKey(today);           // KHÔNG DÙNG toISOString NỮA
+  const todaySolved = map[todayKey] || 0;
+
+  let msg = "";
+  if (todaySolved === 0) msg = "Mất chuỗi bây giờ Beta!";
+  else if (todaySolved < 3) msg = "Tiếp tục làm để trở thành Sigma SAT nào!";
+  else if (todaySolved < 5) msg = "Bạn đích thực là SIGMA SAT. Tiếp tục làm để Aura-farming!";
+  else msg = "Bạn đang Aura-farming đấy!";
+
+  document.getElementById("motivate").innerText = msg;
+}
+
+loadHeatmap();
+</script>
+
+
+  <!-- ▲▲▲ HEATMAP JS END ▲▲▲ -->
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>SigmaSAT – Review Attempt</title>
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="past_exam.css" />
+</head>
+
+<body>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sigma-logo-top">SigmaSAT</div>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item">🏠 Trang chủ</a>
+      <a href="practice.html" class="sidebar-item">📝 Luyện đề</a>
+      <a class="sidebar-item">⚙️ Cài đặt</a>
+    </nav>
+
+    <a href="/logout" class="logout-bottom">Đăng xuất</a>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+
+    <div class="attempt-info-card">
+      <div class="attempt-info-left">
+        <h2 class="attempt-title" id="attempt-test-name">SAT December 2024 – Module 1</h2>
+
+        <div class="attempt-meta">
+          <span id="attempt-correct" class="meta-item">Correct: -- / 27</span>
+          <span id="attempt-time" class="meta-item">Time: --</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- SUMMARY TABLE -->
+    <table id="past-exam-table">
+      <thead>
+        <tr>
+          <th class="col-no">No</th>
+          <th>Question</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody id="summary-body"></tbody>
+    </table>
+
+  </main>
+
+  <!-- POPUP -->
+  <div id="review-overlay" class="review-overlay hidden">
+    <div class="review-main-panel">
+
+      <header class="past-header">
+        <h2 id="past-title" class="past-title-text"></h2>
+
+        <div class="past-controls">
+          <span id="position-text"></span>
+          <button id="prev-btn" class="nav-btn">‹</button>
+          <button id="next-btn" class="nav-btn">›</button>
+          <button id="close-overlay" class="close-btn">✕</button>
+        </div>
+      </header>
+
+      <div id="question-image-wrapper" class="question-image-wrapper hidden">
+        <img id="question-image" class="question-image" />
+      </div>
+
+      <div class="past-main">
+        <div id="question-text" class="question-text"></div>
+        <div id="choices" class="choices"></div>
+        <p id="summary-text" class="summary-text"></p>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="past_exam.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,728 @@
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
+
+/* BASE */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: #f9fafb;  
+  overflow: hidden;
+}
+
+/* LAYOUT 2 PANEL */
+#container {
+  display: flex;
+  height: calc(100% - 48px);
+}
+
+/* LEFT PANE */
+#left-pane {
+  width: 50%;
+  padding: 30px;
+  background: white;
+  border-right: 2px solid #d4d4d8;
+  overflow-y: auto;
+}
+
+/* RIGHT PANE */
+#right-pane {
+  width: 50%;
+  padding: 30px;
+  background: white;
+  overflow-y: auto;
+}
+
+/* QUESTION HEADER */
+#question-header,
+#header-dash {
+  background: #f3f4f6;
+}
+
+#question-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 1.2px;
+}
+
+#header-dash {
+  padding-top: 0px;
+  border-top: 2.3px solid transparent;
+  border-image: repeating-linear-gradient(
+      to right,
+      #000000 0,
+      #000000 24px,
+      transparent 20px,
+      transparent 26px
+  ) 1;
+}
+
+/* QUESTION TEXT */
+#question-text {
+  font-size: 17px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+/* NUMBER BOX */
+#q-number-box {
+  background: #000;
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  min-width: 15px;
+  padding: 0 6px;
+}
+
+/* MARK FOR REVIEW */
+#mark-review-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+#bookmark-icon {
+  width: 18px;
+  height: 18px;
+  background: white;
+  border: 2px solid #000;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+/* CHOICES */
+.choice {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  background: #fff;
+  border: 2px solid #d4d4d8;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.choice:hover {
+  border-color: #2563eb;
+}
+
+.choice.selected {
+  border-color: #2563eb;
+  background: #eff6ff;
+}
+
+.choice span {
+  margin-left: 10px;
+}
+
+/* BOTTOM BAR */
+#bottom-bar {
+  height: 58px;
+  background: #e5edf9;
+  border-top: 2.3px solid transparent;
+  border-image: repeating-linear-gradient(
+      to right,
+      #000000 0,
+      #000000 24px,
+      transparent 20px,
+      transparent 26px
+  ) 1;
+  
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  padding: 0 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+/* XÓA QUESTION-PROGRESS */
+#question-progress {
+  display: none;
+}
+
+/* BACK / NEXT BUTTON GROUP */
+#bottom-bar > div {
+  position: absolute;
+  right: 40px;
+  display: flex;
+  gap: 10px;
+}
+
+/* NAV BUTTONS */
+#back-btn,
+#next-btn {
+  padding: 11px 22px;
+  font-size: 13.5px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  background: #334dc8;
+  color: #fff;
+  font-weight: 600;
+}
+
+/* ======================================================
+   BLUEBOOK POPUP BUTTON (ĐEN)
+====================================================== */
+
+#question-toggle-btn {
+  background: #111;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 10px 14px 10px 17px; /* left 17px, right 14px → cân hơn */
+  font-size: 14px;          /* sửa lỗi */
+  font-weight: 730;         /* chữ đậm */
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  width: fit-content;       /* nút dài theo text */
+  /* hoặc width: 200px; để fix kích thước nếu bạn muốn */
+  margin: 0 1px; /* ép spacing sát hơn */
+}
+
+
+#question-toggle-btn .arrow {
+  color: #fff;
+  font-size: 14px;
+  transform: translateY(1px);
+}
+
+#question-toggle-btn:hover {
+  background: #000;
+}
+
+/* ======================================================
+   POPUP PANEL
+====================================================== */
+
+.hidden {
+  display: none;
+}
+
+#question-popover {
+  position: fixed;
+  bottom: 95px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
+
+.popover-content {
+  background: #fff;
+  width: 480px;
+  padding: 22px;
+  border-radius: 12px;
+  border: 1px solid #d4d4d8;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.20);
+  position: relative;
+}
+
+/* Arrow */
+.arrow-down {
+  position: absolute;
+  bottom: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 14px solid transparent;
+  border-right: 14px solid transparent;
+  border-top: 14px solid white;
+  filter: drop-shadow(0 -2px 2px rgba(0,0,0,0.08));
+}
+
+/* Popup header */
+.popover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+  padding-bottom: 12px;
+}
+
+#close-popover {
+  cursor: pointer;
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+/* Legend */
+.legend {
+  display: flex;
+  gap: 25px;
+  margin-bottom: 16px;
+  font-size: 13.5px;
+  align-items: center;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.dot.current { background: #2563eb; }
+.dot.unanswered { background: #d1d5db; }
+.dot.review { background: #f43f5e; }
+
+/* GRID */
+#question-grid {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.q-item,
+.q-item.answered,
+.q-item.current {
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.q-item {
+  width: 36px;
+  height: 36px;
+  border: 1.5px dashed #c4c4c4;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.q-item.current {
+  border: 2px solid #2563eb;
+  background: #eff6ff;
+}
+
+.q-item.answered {
+  background: #2563eb;
+  color: white;
+  border: 2px solid #2563eb;
+  box-sizing: border-box;
+} 
+
+.q-item.review {
+  background: #fee2e2;
+  border: 2px solid #b91c1c;
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+
+#go-review-btn {
+  width: 100%;
+  padding: 10px 0;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* =========================
+   REVIEW PAGE LAYOUT
+========================= */
+
+#review-wrapper {
+  padding-top: 60px;
+  padding-bottom: 80px;
+  min-height: calc(100% - 58px); /* chừa chỗ cho bottom-bar */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#review-title {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+#review-desc {
+  max-width: 720px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #374151;
+  margin-bottom: 32px;
+}
+
+#review-card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 24px 32px 28px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.15);
+  width: 720px;
+}
+
+#review-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.review-section-title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.review-legend {
+  display: flex;
+  gap: 24px;
+  font-size: 14px;
+  align-items: center;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.legend-square {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  margin-right: 6px;
+}
+
+.legend-square.unanswered {
+  border: 1.5px solid #9ca3af;
+  background: transparent;
+}
+
+.legend-square.review {
+  background: #ef4444;
+}
+
+.review-divider {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 8px 0 18px;
+}
+
+/* dãy số câu hỏi trong review */
+#review-grid {
+  display: flex;
+  flex-wrap: wrap;        /* QUAN TRỌNG: cho phép xuống dòng */
+  justify-content: flex-start;
+  gap: 10px;               /* khoảng cách giữa các ô số */
+  max-width: 100%;
+  /* nhớ bỏ các dòng kiểu: white-space: nowrap; nếu đang dùng */
+}
+
+/* ============================
+   TOP TIMER BAR GIỐNG BLUEBOOK
+===============================*/
+#top-timer-bar {  
+  width: 100%;
+  height: 65px;
+  background: #eef2ff;
+  border-bottom: 2.3px solid transparent;
+  border-image: repeating-linear-gradient(
+      to right,
+      #000000 0,
+      #000000 24px,
+      transparent 20px,
+      transparent 26px
+  ) 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  box-sizing: border-box;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+
+  position: fixed;        /* giữ cố định */
+  /* thêm dòng này để có relative mà không phá fixed */
+  transform: translateZ(0);   /* trick giúp absolute hoạt động */
+}
+
+#timer-title {
+  font-size: 17.5px;
+  font-weight: 600;
+  color: #000000;
+  margin-left: 8px;
+}
+
+#timer-value {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
+/* ĐẨY GIAO DIỆN XUỐNG DƯỚI THANH TIMER */
+body {
+  padding-top: 48px !important;
+}
+
+/*bookmark*/
+#mark-review-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+#mark-review-btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+#bookmark-icon {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  display: inline-block;
+  background: none;
+}
+
+/* ===============================
+   BLUEBOOK MARK FOR REVIEW FIX
+   Giữ nguyên màu ô, chỉ thêm icon
+================================*/
+
+/* Tắt đổi màu ô khi mark */
+.q-item.review {
+  background: inherit !important;
+  border: inherit !important;
+  color: inherit !important;
+  font-weight: inherit !important;
+}
+
+/* Cho phép overlay icon */
+.q-item {
+  position: relative;
+}
+
+/* Icon bookmark đỏ ở góc phải trên */
+.q-item.marked::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 20px;
+  background-image: url("/bookmark/bookmark-outline-red.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+/* ===============================
+   REVIEW PAGE (các ô số câu)
+================================*/
+
+.review-box {
+  position: relative;
+}
+
+.review-box.marked::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 20px;
+  background-image: url("/bookmark/bookmark-outline-red.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Không đổi màu ô trong review page */
+.review-box.review {
+  background: inherit !important;
+  border: inherit !important;
+  color: inherit !important;
+}
+
+/* CUT ROUNDED CORNER FOR ANSWERED + MARKED */
+.q-item.answered.marked::before,
+.review-box.answered.marked::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  width: 13px;   /* kích thước vùng bo cong */
+  height: 13px;
+
+  /* bo cong góc */
+  background: #f9fafb;         /* màu nền popup */
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 22px;
+
+  z-index: 0; /* nằm dưới icon bookmark */
+}
+
+.q-item.current,
+.q-item.answered,
+.q-item.unanswered,
+.review-box,
+.review-box.answered,
+.review-box.unanswered {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.question-image-wrapper {
+  margin: 16px 0;
+  text-align: center;
+}
+
+.question-image-wrapper.hidden {
+  display: none;
+}
+
+.question-image {
+  max-width: 100%;
+  height: auto;
+  /* nếu muốn hạn chế chiều cao: */
+  /* max-height: 350px; */
+}
+
+/* Đảm bảo nội dung passage không bị thanh footer che mất */
+#passage {
+  padding-bottom: 100px;  /* số px ≈ chiều cao thanh footer (có thể chỉnh 80/90/110 tuỳ thực tế) */
+  box-sizing: border-box;
+}
+
+/* Cho ảnh và text tách nhau một chút */
+.question-image-wrapper {
+  margin-bottom: 12px;
+}
+
+/* ===========================
+   SAVE & EXIT BUTTON (NEW)
+=========================== */
+
+.save-exit {
+  background: #3b5bdb;        /* màu xanh giống hình */
+  color: white;
+  border: none;
+  padding: 9px 22px;          /* chỉnh cho nút gọn và cân */
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 999px;       /* bo tròn kiểu pill */
+  cursor: pointer;
+
+  transition: background 0.18s ease;
+}
+
+.save-exit:hover {
+  background: #364fc7;        /* đậm hơn nhẹ khi hover */
+}
+
+/* BUTTON ICON + TEXT VERTICAL */
+.save-exit-btn {
+  background: none;
+  border: none;
+  padding: 6px 8px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;      /* icon trên – text dưới */
+  align-items: center;
+  gap: 4px;
+
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #111;
+  font-size: 12.5px;
+  font-weight: 600;
+
+  transition: opacity 0.15s, transform 0.15s;
+}
+
+.save-exit-btn {
+  background: none;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;              /* ⭐ khoảng cách icon – text (sát nhất) */
+
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #111;
+  font-size: 12.5px;
+  font-weight: 600;
+
+  transition: opacity 0.15s, transform 0.15s;
+}
+
+.save-exit-icon {
+  width: 26px;           /* bạn có thể chỉnh kích thước icon */
+  height: 26px;
+  object-fit: contain;
+}
+
+.save-exit-btn:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+.save-exit-btn:active {
+  opacity: 0.6;
+  transform: translateY(0);
+}
+
+
+
+
+
+
+
+
+
+
+
+   
+
+   
+
+
+
+
+

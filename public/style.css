@@ -1,0 +1,373 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  background: #f9fafb;
+  color: #111827;
+  display: flex;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 230px;
+  min-height: 100vh;
+  background: white;
+  border-right: 1px solid #e5e7eb;
+  padding: 24px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  /* ❗ Bỏ justify-content: space-between */
+  box-shadow: 6px 0 14px rgba(0,0,0,0.04);
+}
+
+/* LOGO */
+.sigma-logo-top {
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 32px;
+  letter-spacing: -0.5px;
+}
+
+/* NAVIGATION */
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sidebar-item {
+  padding: 12px 14px;
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  color: #374151;
+  transition: background 0.2s ease;
+  text-decoration: none !important;
+}
+
+.sidebar-item:hover {
+  background: #f3f4f6;
+}
+
+.sidebar-item.active {
+  background: #dbeafe;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+/* LOGOUT */
+.logout-bottom {
+  margin-top: auto;              /* ❗ Đẩy xuống cuối */
+  font-size: 14px;
+  padding: 12px 14px;
+  background: #fee2e2;
+  color: #b91c1c;
+  border-radius: 12px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.logout-bottom:hover {
+  background: #fecaca;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  margin-left: 250px;
+  padding: 40px;
+  width: calc(100% - 250px);
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+}
+
+/* TEST LIST */
+#test-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ---------- GROUP BOX (Test cha) ---------- */
+.test-group {
+  background: white;
+  border-radius: 20px;
+  padding: 26px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+.group-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 18px;
+  letter-spacing: -0.2px;
+}
+
+/* 2 module trong group */
+.group-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+/* ---------- CARD MODULE ---------- */
+.test-card {
+  background: white;
+  border-radius: 16px;
+  padding: 22px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+  transition: background-color 0.2s ease;
+}
+
+.test-card:hover {
+  background: #f3f4f6;
+}
+
+.test-header {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 14px;
+  color: #111827;
+}
+
+/* Buttons */
+.test-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  transition: background-color 0.18s ease;
+}
+
+.start-btn {
+  background: #2563eb;
+  color: white;
+}
+.start-btn:hover {
+  background: #1d4ed8;
+}
+
+.history-btn {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+.history-btn:hover {
+  background: #bfdbfe;
+}
+
+.hidden {
+  display: none;
+}
+
+/* RESPONSIVE */
+@media (max-width: 700px) {
+  .group-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+/* --- NÚT TIẾP TỤC (KHI ĐANG LÀM DỞ) --- */
+.continue-btn {
+  background: #16a34a;       /* xanh lá nổi bật */
+  color: white;
+}
+
+.continue-btn:hover {
+  background: #15803d;       /* đậm hơn một chút */
+}
+
+/* ===== BADGE HOÀN THÀNH ===== */
+
+.test-header {
+  position: relative;
+}
+
+.completed-badge {
+  position: absolute;
+  top: 0.5px;
+  right: 0.5px;
+
+  background: #22c55e; /* xanh lá */
+  color: #ffffff;
+  font-size: 11px;
+  padding: 2px 20px;
+  border-radius: 12px;
+
+  font-weight: 600;
+  line-height: 1.5;
+  display: inline-block;
+
+  pointer-events: none; /* không ảnh hưởng click */
+}
+
+.hidden {
+  display: none;
+}
+
+/* ========== HEATMAP ========== */
+
+#heatmap {
+  display: grid;
+  grid-template-columns: repeat(10  , 12px);
+  grid-auto-flow: row;          /* ❗ BẮT BUỘC PHẢI CÓ */
+  grid-gap: 3px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.hm-cell {
+  width: 12px;
+  height: 12px;
+  background: #e5e7eb; /* giống tone #f3f4f6 của web bạn */
+  border-radius: 3px;
+}
+
+.hm-1 { background: #c6e48b; }
+.hm-2 { background: #7bc96f; }
+.hm-3 { background: #34a853; }
+.hm-4 { background: #1e7a36; }
+
+.stats-box {
+  display: flex;
+  gap: 28px;
+  margin-top: 12px;
+  margin-bottom: 25px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.stats-box div b {
+  font-size: 19px;
+  color: #0f172a;
+}
+
+.cell {
+  width: 12px;
+  height: 12px;
+  background: #e5e7eb;
+  border-radius: 3px;
+}
+
+.l1 { background: #c6e48b; }
+.l2 { background: #7bc96f; }
+.l3 { background: #34a853; }
+.l4 { background: #1e7a36; }
+
+/* === HEATMAP LEVEL COLORS === */
+.hm-0  { background: #e5e7eb; }        /* xám rất nhạt */
+.hm-1  { background: #d1fae5; }        /* xanh nhạt */
+.hm-2  { background: #a7f3d0; }        /* xanh vừa */
+.hm-3  { background: #6ee7b7; }        /* xanh đậm */
+.hm-4  { background: #34d399; }        /* xanh rất đậm */
+.hm-5  { background: #059669; }        /* xanh maximum */
+
+/* === TOOLTIP === */
+.hm-tooltip {
+  position: absolute;
+  background: #111827;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  white-space: nowrap;
+  z-index: 9999;
+  transform: translate(-50%, -130%);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+/* ========== HEATMAP (MOVED FROM index.html) ========== */
+
+#heatmap {
+  display: grid;
+  grid-template-columns: repeat(37, 12px);  /* số cột bạn muốn */
+  grid-gap: 3px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.hm-cell {
+  width: 12px;
+  height: 12px;
+  background: #e5e7eb;
+  border-radius: 3px;
+}
+
+/* === HEATMAP LEVEL COLORS === */
+.hm-0  { background: #e5e7eb; }
+.hm-1  { background: #d1fae5; }
+.hm-2  { background: #a7f3d0; }
+.hm-3  { background: #6ee7b7; }
+.hm-4  { background: #34d399; }
+.hm-5  { background: #059669; }
+
+/* === TOOLTIP === */
+.hm-tooltip {
+  position: absolute;
+  background: #111827;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  white-space: nowrap;
+  z-index: 9999;
+  transform: translate(-50%, -130%);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+/* === STATS BOX === */
+.stats-box {
+  display: flex;
+  gap: 35px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.stats-box div b {
+  font-size: 20px;
+  color: #111827;
+}
+
+
+

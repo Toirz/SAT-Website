@@ -1,0 +1,195 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  background: #f9fafb;
+  color: #111827;
+  display: flex;
+}
+
+/* ========== SIDEBAR (COPY Y HỆT DASHBOARD) ========== */
+.sidebar {
+  width: 230px;
+  min-height: 100vh;
+  background: white;
+  border-right: 1px solid #e5e7eb;
+  padding: 24px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 6px 0 14px rgba(0,0,0,0.04);
+}
+
+.sigma-logo-top {
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 32px;
+  letter-spacing: -0.5px;
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sidebar-item {
+  padding: 12px 14px;
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  color: #374151;
+  transition: background 0.2s ease;
+}
+
+.sidebar-item:hover {
+  background: #f3f4f6;
+}
+
+.sidebar-item.active {
+  background: #dbeafe;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+.logout-bottom {
+  margin-top: 40px;
+  font-size: 14px;
+  padding: 12px 14px;
+  background: #fee2e2;
+  color: #b91c1c;
+  border-radius: 12px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.logout-bottom:hover {
+  background: #fecaca;
+}
+
+/* ========== MAIN CONTENT ========== */
+.main-content {
+  margin-left: 250px;
+  padding: 40px;
+  width: calc(100% - 250px);
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+}
+
+/* ========== HISTORY CARD ========== */
+.history-card {
+  background: white;
+  border-radius: 20px;
+  padding: 26px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+/* Một dòng history */
+.history-row {
+  padding: 18px 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eceef1;
+}
+
+.history-row:last-child {
+  border-bottom: none;
+}
+
+.history-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.history-time {
+  font-size: 15px;
+  color: #374151;
+}
+
+.history-score {
+  font-size: 15px;
+  color: #111827;
+}
+
+/* Nếu không có history */
+.history-empty {
+  padding: 30px 0;
+  text-align: center;
+  font-size: 15px;
+  color: #6b7280;
+}
+
+/* ========== BUTTONS ========== */
+.btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  transition: background 0.18s ease;
+}
+
+/* Review button (giống History-btn của bạn) */
+.review-btn {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+.review-btn:hover {
+  background: #bfdbfe;
+}
+
+/* Back button */
+.back-btn {
+  margin-top: 25px;
+  background: #2563eb;
+  color: white;
+}
+.back-btn:hover {
+  background: #1d4ed8;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+
+  /* Giúp nó không đẩy các phần khác sang phải */
+  width: fit-content;
+}
+.page-title {
+  width: 100%;
+}
+
+

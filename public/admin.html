@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Admin - Quản lý tài khoản & thiết bị</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        margin: 0;
+        padding: 20px;
+        background: #f5f5f7;
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        background: #fff;
+        padding: 20px 24px 32px;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+      }
+
+      .top-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 24px;
+      }
+
+      .top-bar span {
+        font-size: 14px;
+        color: #555;
+      }
+
+      a {
+        color: #d62828;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      form {
+        margin-bottom: 16px;
+      }
+
+      label {
+        display: inline-block;
+        min-width: 100px;
+        font-size: 14px;
+      }
+
+      input[type="text"],
+      input[type="password"] {
+        padding: 6px 8px;
+        font-size: 14px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+      }
+
+      button {
+        padding: 6px 12px;
+        font-size: 14px;
+        border-radius: 4px;
+        border: none;
+        cursor: pointer;
+      }
+
+      .btn-primary {
+        background: #d62828;
+        color: #fff;
+      }
+
+      .btn-secondary {
+        background: #eee;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 13px;
+        margin-top: 8px;
+      }
+
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 6px 8px;
+        text-align: left;
+      }
+
+      th {
+        background: #fafafa;
+      }
+
+      .badge {
+        padding: 2px 6px;
+        border-radius: 10px;
+        font-size: 11px;
+      }
+
+      .badge-yes {
+        background: #d4f8d4;
+        color: #177a1a;
+      }
+
+      .badge-no {
+        background: #ffe2e2;
+        color: #a11a1a;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="top-bar">
+        <h1>Admin - Quản lý tài khoản & thiết bị</h1>
+        <div>
+          <span>Đăng nhập với: <strong id="admin-username">...</strong></span>
+          &nbsp;|&nbsp;
+          <a href="/logout">Logout</a>
+        </div>
+      </div>
+
+      <hr/>
+
+      <h2>Danh sách thiết bị</h2>
+      <table id="device-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>User</th>
+            <th>Device Token</th>
+            <th>Approved</th>
+            <th>Created At</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- JS sẽ fill dữ liệu vào đây -->
+        </tbody>
+      </table>
+    </div>
+
+    <script>
+      // Khi load trang, gọi API /admin/devices để lấy dữ liệu
+      document.addEventListener("DOMContentLoaded", async () => {
+        try {
+          const res = await fetch("/admin/devices");
+          if (!res.ok) {
+            console.error("Lỗi tải danh sách thiết bị");
+            return;
+          }
+          const data = await res.json();
+          const adminNameEl = document.getElementById("admin-username");
+          const tbody = document.querySelector("#device-table tbody");
+
+          adminNameEl.textContent = data.adminUsername || "";
+
+          tbody.innerHTML = "";
+
+          data.devices.forEach((d) => {
+            const tr = document.createElement("tr");
+
+            const approvedBadge =
+              d.approved === 1
+                ? '<span class="badge badge-yes">Đã duyệt</span>'
+                : '<span class="badge badge-no">Chờ duyệt</span>';
+
+            let actionHtml = "";
+
+if (d.approved === 1) {
+  // Thiết bị đã được approve -> chỉ có nút Revoke
+  actionHtml = `
+    <form method="POST" action="/admin/revoke/${d.id}">
+      <button type="submit" class="btn-secondary">Revoke</button>
+    </form>
+  `;
+} else {
+  // Thiết bị mới, chưa approve -> có cả Approve & Revoke
+  actionHtml = `
+    <form method="POST" action="/admin/approve/${d.id}" style="display:inline-block; margin-right:4px;">
+      <button type="submit" class="btn-primary">Approve</button>
+    </form>
+    <form method="POST" action="/admin/revoke/${d.id}" style="display:inline-block;">
+      <button type="submit" class="btn-secondary">Revoke</button>
+    </form>
+  `;
+}
+
+            tr.innerHTML = `
+              <td>${d.id}</td>
+              <td>${d.username}</td>
+              <td>${d.device_token}</td>
+              <td>${approvedBadge}</td>
+              <td>${d.created_at}</td>
+              <td>${actionHtml}</td>
+            `;
+            tbody.appendChild(tr);
+          });
+        } catch (e) {
+          console.error(e);
+        }
+      });
+    </script>
+  </body>
+</html>

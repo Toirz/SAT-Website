@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="history.css" />
+</head>
+
+<body>
+
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <div>
+      <div class="sigma-logo-top">SigmaSAT</div>
+
+      <div class="sidebar-nav">
+        <a href="index.html" class="sidebar-item">
+          🏠 Trang chủ
+        </a>
+        <a href="practice.html" class="sidebar-item active">
+          📄 Luyện đề
+        </a>
+        <a href="settings.html" class="sidebar-item">
+          ⚙️ Cài đặt
+        </a>
+      </div>
+    </div>
+
+    <a href="/logout" class="logout-bottom">Đăng xuất</a>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <div class="main-content">
+    <h1 class="page-title" id="test-title">Loading...</h1>
+    <div id="history-box" class="history-card">
+      Loading...
+    </div>
+
+    <button id="back-btn" class="btn back-btn">← Back</button>
+  </div>
+
+<script>
+  // Lấy file test
+  const params = new URLSearchParams(window.location.search);
+  const file = params.get("file");
+
+  async function loadHistory() {
+    const box = document.getElementById("history-box");
+
+    if (!file) {
+      box.innerHTML = '<div class="history-empty">Missing file parameter.</div>';
+      return;
+    }
+
+    try {
+      const res = await fetch(`/api/test-history?file=${encodeURIComponent(file)}`, {
+        method: "GET",
+        credentials: "same-origin",
+      });
+
+      const contentType = res.headers.get("content-type") || "";
+      if (!contentType.includes("application/json")) {
+        box.innerHTML = '<div class="history-empty">Please login again.</div>';
+        return;
+      }
+
+      if (!res.ok) {
+        box.innerHTML = `<div class="history-empty">Error loading history</div>`;
+        return;
+      }
+
+      const data = await res.json();
+      const history = data.history || [];
+
+      if (history.length === 0) {
+        box.innerHTML = '<div class="history-empty">No history yet.</div>';
+        return;
+      }
+
+      box.innerHTML = "";
+
+      history.forEach(entry => {
+        const row = document.createElement("div");
+        row.className = "history-row";
+
+        const timeText = new Date(entry.taken_at).toLocaleString("vi-VN");
+
+        row.innerHTML = `
+          <div class="history-info">
+            <div class="history-time">${timeText}</div>
+            <div class="history-score">Score: <b>${entry.score}</b> / ${entry.total_questions}</div>
+          </div>
+
+          <button class="btn review-btn">Review</button>
+        `;
+
+        row.querySelector(".review-btn").onclick = () => {
+          window.location.href =
+            `past_exam.html?attempt=${encodeURIComponent(entry.id)}&file=${encodeURIComponent(file)}`;
+        };
+
+        box.appendChild(row);
+      });
+
+    } catch (err) {
+      box.innerHTML = '<div class="history-empty">Error loading history</div>';
+    }
+  }
+
+  // Back button
+  document.getElementById("back-btn").onclick = () => {
+    window.location.href = "practice.html";
+  };
+  // Set page title = tên test
+if (file) {
+  document.getElementById("test-title").textContent = decodeURIComponent(file);
+} else {
+  document.getElementById("test-title").textContent = "Test";
+}
+  // Load history on page load
+  loadHistory();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,303 @@
+/* ===================================
+   BASE
+=================================== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f1f5f9;
+  font-family: "Montserrat", system-ui, sans-serif;
+  color: #0f172a;
+}
+
+/* ===================================
+   OVERLAY POPUP
+=================================== */
+.review-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9000;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+/* ===================================
+   PANEL POPUP
+=================================== */
+.review-main-panel {
+  width: 90%;
+  max-width: 950px;
+  max-height: 90vh;
+  background: white;
+  border-radius: 18px;
+  padding: 34px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.18);
+}
+
+/* ===================================
+   HEADER
+=================================== */
+.past-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.past-header h2 {
+  font-size: 26px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.past-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+#position-text {
+  font-size: 15px;
+  color: #6b7280;
+}
+
+.nav-btn {
+  width: 34px;
+  height: 34px;
+  border: 1px solid #d8dee4;
+  border-radius: 50%;
+  background: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.nav-btn:hover {
+  background: #e0edff;
+}
+
+.close-btn {
+  font-size: 24px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #475569;
+}
+
+.close-btn:hover {
+  color: #1e293b;
+}
+
+/* ===================================
+   IMAGE
+=================================== */
+.question-image-wrapper {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.question-image {
+  width: 100%;
+  border-radius: 14px;
+}
+
+/* ===================================
+   QUESTION TEXT
+=================================== */
+.question-text {
+  font-size: 17px;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+/* ===================================
+   CHOICES
+=================================== */
+.choices {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.choice {
+  display: flex;
+  gap: 12px;
+  border-radius: 14px;
+  padding: 14px 16px;
+  background: white;
+  border: 1px solid #e2e8f0;
+}
+
+.choice:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.06);
+}
+
+.choice-label {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid #94a3b8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8fafc;
+  font-weight: 700;
+}
+
+.choice-text {
+  flex: 1;
+  font-size: 15px;
+  color: #1e293b;
+}
+
+/* STATES */
+.choice.correct-user {
+  background: #dcfce7;
+  border-color: #16a34a;
+}
+
+.choice.correct {
+  border-color: #16a34a;
+}
+
+.choice.wrong-user {
+  background: #fee2e2;
+  border-color: #ef4444;
+}
+
+.choice.unanswered {
+  opacity: 0.65;
+}
+
+/* ===================================
+   SUMMARY TEXT
+=================================== */
+.summary-text {
+  font-size: 14px;
+  color: #64748b;
+  margin-top: 10px;
+}
+
+/* ===================================
+   TABLE — VIETACCEPTED STYLE
+=================================== */
+
+#past-exam-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  margin-top: 25px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+#past-exam-table thead {
+  background: #f8fafc;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+#past-exam-table th {
+  padding: 14px 18px;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: left;
+  color: #0f172a;
+}
+
+#past-exam-table td {
+  padding: 14px 18px;
+  font-size: 14px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+/* Column sizing */
+.col-no {
+  width: 60px;
+  text-align: center !important;
+  font-weight: 600;
+}
+
+/* Status colors */
+.status-correct {
+  font-weight: 700;
+  color: #16a34a;
+}
+
+.status-incorrect {
+  font-weight: 700;
+  color: #dc2626;
+}
+
+.status-omitted {
+  font-weight: 700;
+  color: #d97706;
+}
+
+/* Review button */
+.summary-review-btn {
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1px solid #2563eb;
+  background: #eff6ff;
+  color: #2563eb;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.summary-review-btn:hover {
+  background: #dbeafe;
+}
+
+/* ===================================
+   ATTEMPT INFO CARD
+=================================== */
+
+.attempt-info-card {
+  background: white;
+  border-radius: 18px;
+  padding: 26px 32px;
+  margin-bottom: 30px;
+  border: 1px solid #dbeafe;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.06);
+}
+
+.attempt-title {
+  font-size: 24px;
+  font-weight: 800;
+  margin: 0;
+  color: #1e3a8a;
+}
+
+.attempt-meta {
+  margin-top: 12px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.meta-item {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  color: #1d4ed8;
+  padding: 6px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+/* Utilities */
+.hidden {
+  display: none !important;
+}
