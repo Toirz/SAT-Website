@@ -67,6 +67,49 @@ body {
   font-weight: 600;
 }
 
+.sidebar-item.collapsible {
+  justify-content: space-between;
+}
+
+.chevron {
+  margin-left: auto;
+  font-size: 12px;
+}
+
+.sidebar-submenu {
+  display: none;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: -4px;
+  margin-bottom: 6px;
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid #e5e7eb;
+}
+
+.sidebar-submenu.open {
+  display: flex;
+}
+
+.sidebar-subitem {
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #4b5563;
+  text-decoration: none !important;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.sidebar-subitem:hover {
+  background: #f3f4f6;
+}
+
+.sidebar-subitem.active {
+  background: #e0f2fe;
+  color: #0284c7;
+}
+
 .logout-bottom {
   margin-top: 40px;
   font-size: 14px;

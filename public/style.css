@@ -69,6 +69,49 @@ body {
   font-weight: 600;
 }
 
+.sidebar-item.collapsible {
+  justify-content: space-between;
+}
+
+.chevron {
+  margin-left: auto;
+  font-size: 12px;
+}
+
+.sidebar-submenu {
+  display: none;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: -4px;
+  margin-bottom: 6px;
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid #e5e7eb;
+}
+
+.sidebar-submenu.open {
+  display: flex;
+}
+
+.sidebar-subitem {
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #4b5563;
+  text-decoration: none !important;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.sidebar-subitem:hover {
+  background: #f3f4f6;
+}
+
+.sidebar-subitem.active {
+  background: #e0f2fe;
+  color: #0284c7;
+}
+
 /* LOGOUT */
 .logout-bottom {
   margin-top: auto;              /* ❗ Đẩy xuống cuối */
@@ -101,11 +144,47 @@ body {
   letter-spacing: -0.5px;
 }
 
+.category-switch {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.category-btn {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  cursor: pointer;
+  font-weight: 600;
+  color: #374151;
+  transition: all 0.2s ease;
+}
+
+.category-btn.active {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+  color: #fff;
+  box-shadow: 0 8px 18px rgba(29, 78, 216, 0.22);
+}
+
+.category-btn:hover {
+  border-color: #9ca3af;
+}
+
 /* TEST LIST */
 #test-list {
   display: flex;
   flex-direction: column;
   gap: 24px;
+}
+
+.empty-tests {
+  padding: 20px;
+  color: #6b7280;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px dashed #d1d5db;
 }
 
 /* ---------- GROUP BOX (Test cha) ---------- */

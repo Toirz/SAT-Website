@@ -3,6 +3,8 @@ let current = 0;
 
 // answers: { questionId: "A" }
 let answers = {};
+// eliminatedChoices: { questionId: ["A", "C"] }
+let eliminatedChoices = {};
 // review list: [ questionIndex ]
 let reviewList = [];
 // highlights: { questionId: [ { start, end, color } ] }
@@ -79,6 +81,7 @@ function saveState() {
     body: JSON.stringify({
       file,
       answers,
+      eliminatedChoices,
       reviewList,
       highlights,
       currentIndex: current,
@@ -123,7 +126,7 @@ function formatText(raw) {
 ---------------------------------------------------------- */
 async function load() {
   // 1. Lấy đề
-  const res = await fetch("/api/parsed-test/" + file);
+  const res = await fetch(`/api/parsed-test?file=${encodeURIComponent(file)}`);
   const data = await res.json();
   questions = data.questions;
   document.getElementById("total-question").innerText = questions.length;
@@ -138,6 +141,7 @@ async function load() {
 
   if (state && state.hasData) {
     answers = state.answers || {};
+    eliminatedChoices = state.eliminatedChoices || {};
     reviewList = state.reviewList || [];
     highlights = state.highlights || {};
     current = state.currentIndex || 0;
@@ -147,6 +151,7 @@ async function load() {
   } else {
     // nếu chưa có state, bắt đầu mới
     answers = {};
+    eliminatedChoices = {};
     reviewList = [];
     highlights = {};
     current = 0;
@@ -383,6 +388,41 @@ function applyHighlightAction(action, color = DEFAULT_HIGHLIGHT_COLOR) {
 }
 
 /* ----------------------------------------------------------
+   ELIMINATION HELPERS
+---------------------------------------------------------- */
+function toggleChoiceElimination(questionId, option) {
+  if (!eliminatedChoices[questionId]) eliminatedChoices[questionId] = [];
+
+  const idx = eliminatedChoices[questionId].indexOf(option);
+  let nowEliminated = false;
+  if (idx >= 0) {
+    eliminatedChoices[questionId].splice(idx, 1);
+  } else {
+    eliminatedChoices[questionId].push(option);
+    nowEliminated = true;
+  }
+
+  if (nowEliminated && answers[questionId] === option) {
+    delete answers[questionId];
+  }
+
+  render();
+  renderGrid();
+  saveState();
+}
+
+function isChoiceEliminated(questionId, option) {
+  return (eliminatedChoices[questionId] || []).includes(option);
+}
+
+function clearEliminationForOption(questionId, option) {
+  if (!eliminatedChoices[questionId]) return;
+  eliminatedChoices[questionId] = eliminatedChoices[questionId].filter(
+    (o) => o !== option
+  );
+}
+
+/* ----------------------------------------------------------
    RENDER MAIN UI
 ---------------------------------------------------------- */
 function render() {
@@ -425,11 +465,15 @@ function render() {
   box.innerHTML = "";
 
   ["A", "B", "C", "D"].forEach((opt) => {
+    const isEliminated = isChoiceEliminated(q.id, opt);
     const wrapper = document.createElement("div");
     wrapper.className =
-      "choice" + (answers[q.id] === opt ? " selected" : "");
+      "choice" +
+      (answers[q.id] === opt ? " selected" : "") +
+      (isEliminated ? " eliminated" : "");
 
     wrapper.onclick = () => {
+      clearEliminationForOption(q.id, opt);
       answers[q.id] = opt;
       render();
       renderGrid();
@@ -438,6 +482,17 @@ function render() {
 
     wrapper.innerHTML = `<b>${opt}</b> <span>${formatText(q.choices[opt])}</span>`;
 
+    const eliminateBtn = document.createElement("button");
+    eliminateBtn.type = "button";
+    eliminateBtn.className = "eliminate-btn";
+    eliminateBtn.innerHTML = isEliminated ? "⊝" : "⊘";
+    eliminateBtn.onclick = (event) => {
+      event.stopPropagation();
+      toggleChoiceElimination(q.id, opt);
+    };
+
+    wrapper.appendChild(eliminateBtn);
+    
     box.appendChild(wrapper);
   });
 }

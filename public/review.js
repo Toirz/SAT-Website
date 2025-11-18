@@ -34,7 +34,7 @@ async function load() {
   }
 
   // 2) Lấy đề để biết tổng số câu (theo FOLDER test)
-  const res = await fetch(`/api/parsed-test/${encodeURIComponent(file)}`);
+   const res = await fetch(`/api/parsed-test?file=${encodeURIComponent(file)}`);
   const data = await res.json();
   totalQuestions = data.questions.length;
 

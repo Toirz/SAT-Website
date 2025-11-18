@@ -121,6 +121,7 @@ async function getTestState(req, res) {
         answers: {},
         reviewList: [],
         highlights: {},
+        eliminatedChoices: {},
         currentIndex: 0,
         remainingTime: null,
       });
@@ -131,6 +132,7 @@ async function getTestState(req, res) {
       answers: JSON.parse(row.answers || "{}"),
       reviewList: JSON.parse(row.review_list || "[]"),
       highlights: JSON.parse(row.highlights || "{}"),
+      eliminatedChoices: JSON.parse(row.eliminated_choices || "{}"),
       currentIndex: row.current_index || 0,
       remainingTime: row.remaining_time || null,
     });
@@ -143,17 +145,26 @@ async function getTestState(req, res) {
 // POST /api/test-state
 async function saveTestState(req, res) {
   const userId = req.session.userId;
-  const { file, answers, reviewList, highlights, currentIndex, remainingTime } = req.body;
+  const {
+    file,
+    answers,
+    eliminatedChoices,
+    reviewList,
+    highlights,
+    currentIndex,
+    remainingTime,
+  } = req.body;
 
   try {
     await db.query(
       `
-      INSERT INTO test_progress (user_id, test_file, answers, review_list, highlights, current_index, remaining_time)
-      VALUES ($1, $2, $3, $4, $5, $6, $7)
+      INSERT INTO test_progress (user_id, test_file, answers, review_list, highlights, eliminated_choices, current_index, remaining_time)
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
       ON CONFLICT (user_id, test_file) DO UPDATE SET
         answers = EXCLUDED.answers,
         review_list = EXCLUDED.review_list,
         highlights = EXCLUDED.highlights,
+        eliminated_choices = EXCLUDED.eliminated_choices,
         current_index = EXCLUDED.current_index,
         remaining_time = EXCLUDED.remaining_time,
         updated_at = CURRENT_TIMESTAMP
@@ -164,6 +175,7 @@ async function saveTestState(req, res) {
         JSON.stringify(answers),
         JSON.stringify(reviewList),
         JSON.stringify(highlights || {}),
+        JSON.stringify(eliminatedChoices || {}),
         currentIndex,
         remainingTime,
       ]

@@ -3,24 +3,52 @@ const fs = require("fs");
 const path = require("path");
 
 const testsDir = path.join(__dirname, "..", "..", "tests");
+const CATEGORY_DIRS = {
+  real_tests: path.join(testsDir, "real_tests"),
+  practice_tests: path.join(testsDir, "practice_tests"),
+};
+
+function listCategory(dirPath) {
+  if (!fs.existsSync(dirPath)) return [];
+
+  return fs
+    .readdirSync(dirPath)
+    .filter((name) => fs.statSync(path.join(dirPath, name)).isDirectory());
+}
 
 // GET /api/tests
 function getTests(req, res) {
   try {
-    const files = fs.readdirSync(testsDir);
-    const tests = files.filter((f) =>
-      fs.statSync(path.join(testsDir, f)).isDirectory()
-    );
-    res.json(tests);
+    const category = req.query.category;
+
+    if (category) {
+      const dirPath = CATEGORY_DIRS[category];
+      if (!dirPath) {
+        return res.status(400).json({ error: "Invalid category" });
+      }
+
+      return res.json({ category, tests: listCategory(dirPath) });
+    }
+
+    const payload = {};
+    Object.entries(CATEGORY_DIRS).forEach(([key, dirPath]) => {
+      payload[key] = listCategory(dirPath);
+    });
+
+    res.json(payload);
   } catch (err) {
     console.error("Error reading tests:", err);
     res.status(500).send("Cannot read tests folder");
   }
 }
 
-// GET /api/parsed-test/:folder
+// GET /api/parsed-test
 function getParsedTest(req, res) {
-  const folder = decodeURIComponent(req.params.folder);
+  const folder = req.query.file;
+  if (!folder) {
+    return res.status(400).json({ error: "Missing file parameter" });
+  }
+  
   const folderPath = path.join(testsDir, folder);
 
   if (!fs.existsSync(folderPath)) {

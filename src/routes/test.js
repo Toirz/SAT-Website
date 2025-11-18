@@ -8,10 +8,6 @@ const testController = require("../controllers/testController");
 router.get("/api/tests", requireLogin, testController.getTests);
 
 // Parse bài test
-router.get(
-  "/api/parsed-test/:folder",
-  requireLogin,
-  testController.getParsedTest
-);
+router.get("/api/parsed-test", requireLogin, testController.getParsedTest);
 
 module.exports = router;

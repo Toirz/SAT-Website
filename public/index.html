@@ -14,7 +14,22 @@
 
     <nav class="sidebar-nav">
       <a href="index.html" class="sidebar-item active">🏠 Trang chủ</a>
-      <a href="practice.html" class="sidebar-item">📝 Luyện đề</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span>📝 Luyện đề</span>
+        <span class="chevron">⌄</span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+      </div>
       <a class="sidebar-item">⚙️ Cài đặt</a>
     </nav>
 
@@ -177,6 +192,27 @@ async function loadHeatmap() {
 loadHeatmap();
 </script>
 
+<script>
+  // Toggle submenu trên sidebar trang chủ
+  (function initPracticeMenu() {
+    const submenu = document.getElementById("practice-submenu");
+    const toggle = document.getElementById("practice-toggle");
+    const chevron = toggle?.querySelector(".chevron");
+
+    function setOpen(open) {
+      if (!submenu || !toggle) return;
+      submenu.classList.toggle("open", open);
+      toggle.classList.toggle("active", open);
+      if (chevron) chevron.textContent = open ? "⌃" : "⌄";
+    }
+
+    if (toggle) {
+      toggle.addEventListener("click", () => setOpen(!submenu?.classList.contains("open")));
+    }
+
+    setOpen(false);
+  })();
+</script>
 
   <!-- ▲▲▲ HEATMAP JS END ▲▲▲ -->
 

@@ -52,6 +52,8 @@ CREATE TABLE IF NOT EXISTS test_progress (
 );
 ALTER TABLE test_progress
   ADD COLUMN IF NOT EXISTS highlights TEXT;
+ALTER TABLE test_progress
+  ADD COLUMN IF NOT EXISTS eliminated_choices TEXT;
 
 -- =======================
 -- BẢNG TEST_HISTORY

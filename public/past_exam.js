@@ -85,7 +85,7 @@ async function loadPastExam() {
     console.log("[PAST] Loading questions from", testFile);
 
     const testRes = await fetch(
-      `/api/parsed-test/${encodeURIComponent(testFile)}`,
+     `/api/parsed-test?file=${encodeURIComponent(testFile)}`,
       { credentials: "same-origin" }
     );
 

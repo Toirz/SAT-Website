@@ -52,7 +52,7 @@ async function loadScore() {
 
     answers = state.answers || {};
 
-    const data = await fetch(`/api/parsed-test/${file}`).then((r) => r.json());
+    const data = await fetch(`/api/parsed-test?file=${encodeURIComponent(file)}`).then((r) => r.json());
     questions = data.questions;
 
     calculateScore();
