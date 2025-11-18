@@ -50,6 +50,8 @@ html, body {
 .highlight-menu {
   position: absolute;
   display: flex;
+  /* flex-direction: column; */
+  align-items: flex-start;
   gap: 8px;
   background: #ffffff;
   border: 1px solid #e5e7eb;
@@ -65,10 +67,43 @@ html, body {
   background: #f9fafb;
   color: #111827;
   border-radius: 8px;
-  padding: 8px 12px;
+  padding: 20px 20px;
   cursor: pointer;
   font-weight: 600;
   transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.highlight-options {
+  display: flex;
+  gap: 8px;
+}
+
+.highlight-action.color-option {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border-color: transparent;
+  color: #111827;
+}
+
+.highlight-action.color-yellow {
+  background: #fef3c7;
+  border-color: #f59e0b;
+}
+
+.highlight-action.color-blue {
+  background: #dbeafe;
+  border-color: #3b82f6;
+}
+
+.highlight-action.color-pink {
+  background: #fce7f3;
+  border-color: #f472b6;
+}
+
+.highlight-action.erase-action {
+  align-self: stretch;
+  text-align: center;
 }
 
 .highlight-action:hover {
@@ -651,9 +686,20 @@ body {
 }
 
 mark.highlight {
-  background: #fef08a;
   color: inherit;
   padding: 0 1px;
+}
+
+mark.highlight-yellow {
+  background: #fef08a;
+}
+
+mark.highlight-blue {
+  background: #bfdbfe;
+}
+
+mark.highlight-pink {
+  background: #fbcfe8;
 }
 
 /* Đảm bảo nội dung passage không bị thanh footer che mất */

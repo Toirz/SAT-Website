@@ -5,9 +5,10 @@ let current = 0;
 let answers = {};
 // review list: [ questionIndex ]
 let reviewList = [];
-// highlights: { questionId: [ { start, end } ] }
+// highlights: { questionId: [ { start, end, color } ] }
 let highlights = {};
 let pendingSelectionOffsets = null;
+const DEFAULT_HIGHLIGHT_COLOR = "yellow";
 
 /* ----------------------------------------------------------
    LẤY THÔNG TIN TỪ URL
@@ -242,7 +243,17 @@ function findTextPosition(root, target) {
   return null;
 }
 
-function wrapRangeInMark(root, start, end) {
+function normalizeHighlightRanges(ranges) {
+  return (ranges || [])
+    .filter((r) => typeof r?.start === "number" && typeof r?.end === "number")
+    .map((r) => ({
+      start: r.start,
+      end: r.end,
+      color: r.color || DEFAULT_HIGHLIGHT_COLOR,
+    }));
+}
+
+function wrapRangeInMark(root, start, end, color = DEFAULT_HIGHLIGHT_COLOR) {
   if (end <= start) return;
   const startPos = findTextPosition(root, start);
   const endPos = findTextPosition(root, end);
@@ -253,26 +264,24 @@ function wrapRangeInMark(root, start, end) {
   range.setEnd(endPos.node, endPos.offset);
 
   const mark = document.createElement("mark");
-  mark.className = "highlight";
+  mark.className = `highlight highlight-${color}`;
   range.surroundContents(mark);
 }
 
 function mergeRanges(list) {
-  const sorted = [...list]
-    .filter((r) => r && typeof r.start === "number" && typeof r.end === "number")
-    .sort((a, b) => a.start - b.start);
+  const sorted = normalizeHighlightRanges(list).sort((a, b) => a.start - b.start);  
 
   const merged = [];
   sorted.forEach((r) => {
     if (!merged.length) {
-      merged.push({ start: r.start, end: r.end });
+      merged.push({ start: r.start, end: r.end, color: r.color });
       return;
     }
     const last = merged[merged.length - 1];
-    if (r.start <= last.end) {
+    if (r.color === last.color && r.start <= last.end) {
       last.end = Math.max(last.end, r.end);
     } else {
-      merged.push({ start: r.start, end: r.end });
+      merged.push({ start: r.start, end: r.end, color: r.color });
     }
   });
 
@@ -281,10 +290,10 @@ function mergeRanges(list) {
 
 function applyHighlightsForQuestion(questionId) {
   const passageEl = document.getElementById("passage");
-  const ranges = highlights[questionId] || [];
+  const ranges = normalizeHighlightRanges(highlights[questionId]);
   if (!passageEl || !ranges.length) return;
 
-  ranges.forEach((r) => wrapRangeInMark(passageEl, r.start, r.end));
+  ranges.forEach((r) => wrapRangeInMark(passageEl, r.start, r.end, r.color));
 }
 
 function hideHighlightMenu() {
@@ -335,7 +344,7 @@ function handlePassageSelection() {
   positionHighlightMenu(range.getBoundingClientRect());
 }
 
-function applyHighlightAction(action) {
+function applyHighlightAction(action, color = DEFAULT_HIGHLIGHT_COLOR) {
   if (!pendingSelectionOffsets) return;
 
   const passageEl = document.getElementById("passage");
@@ -347,9 +356,13 @@ function applyHighlightAction(action) {
 
   const qId = q.id;
   if (!highlights[qId]) highlights[qId] = [];
+  highlights[qId] = normalizeHighlightRanges(highlights[qId]);
 
   if (action === "highlight") {
-    highlights[qId].push(pendingSelectionOffsets);
+    highlights[qId].push({
+      ...pendingSelectionOffsets,
+      color,
+    });
     highlights[qId] = mergeRanges(highlights[qId]);
   } else if (action === "erase") {
     highlights[qId] = (highlights[qId] || []).filter(
@@ -522,14 +535,16 @@ const passageEl = document.getElementById("passage");
   passageEl.addEventListener(evt, handlePassageSelection);
 });
 
-const highlightActionBtn = document.getElementById("highlight-action");
+const highlightColorButtons = document.querySelectorAll("[data-highlight-color]");
 const eraseActionBtn = document.getElementById("erase-action");
-if (highlightActionBtn) {
-  highlightActionBtn.onclick = (e) => {
+highlightColorButtons.forEach((btn) => {
+  btn.onclick = (e) => {
     e.stopPropagation();
-    applyHighlightAction("highlight");
+    const color = btn.getAttribute("data-highlight-color") || DEFAULT_HIGHLIGHT_COLOR;
+    applyHighlightAction("highlight", color);
   };
-}
+});
+
 if (eraseActionBtn) {
   eraseActionBtn.onclick = (e) => {
     e.stopPropagation();

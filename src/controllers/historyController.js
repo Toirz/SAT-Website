@@ -25,6 +25,9 @@ async function saveTestHistory(req, res) {
     // Ghi heatmap
     const today = getVNTime().split(" ")[0]; // YYYY-MM-DD
 
+    // Mỗi lần nộp bài tính là 1 lần luyện tập trong heatmap
+    const solvedCount = 1;
+
     await db.query(
       `
       INSERT INTO user_activity (user_id, date, problems_solved)
@@ -33,7 +36,7 @@ async function saveTestHistory(req, res) {
       DO UPDATE SET
         problems_solved = user_activity.problems_solved + EXCLUDED.problems_solved
     `,
-      [userId, today, 1]
+     [userId, today, solvedCount]
     );
 
     res.json({ ok: true, id: insertedId });
@@ -232,7 +235,19 @@ async function getHeatmap(req, res) {
       [userId]
     );
 
-    res.json({ activity: result.rows });
+    const activity = result.rows.map((row) => {
+      const dateObj = row.date instanceof Date ? row.date : new Date(row.date);
+      const dateStr = dateObj.toLocaleDateString("sv-SE", {
+        timeZone: "Asia/Ho_Chi_Minh",
+      });
+
+      return {
+        date: dateStr,
+        problems_solved: row.problems_solved,
+      };
+    });
+
+    res.json({ activity });
   } catch (err) {
     console.error("getHeatmap error:", err);
     return res.status(500).json({ error: "Lỗi server" });
