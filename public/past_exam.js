@@ -121,7 +121,10 @@ async function loadPastExam() {
     // ===== ĐỔ DỮ LIỆU VÀO PANEL INFO (KHÔNG CÒN SCORE) =====
     const nameEl = document.getElementById("attempt-test-name");
     if (nameEl) {
-      nameEl.textContent = meta.file || "SAT Test";
+      // Hiển thị tên test không kèm tiền tố thư mục (ví dụ: real_tests/ hoặc practice_tests/)
+      const rawName = fileFromQuery || meta.file || "SAT Test";
+      const displayName = String(rawName).replace(/^(?:real_tests|practice_tests)\/+/, "");
+      nameEl.textContent = displayName;
     }
 
     const correctEl = document.getElementById("attempt-correct");
@@ -129,11 +132,7 @@ async function loadPastExam() {
       correctEl.textContent = `Correct: ${correctCount} / ${questions.length}`;
     }
 
-    const timeEl = document.getElementById("attempt-time");
-    if (timeEl) {
-      // nếu meta.time chưa có thì hiện "--"
-      timeEl.textContent = "Time: " + (meta.time ?? "--");
-    }
+    // Thời gian đã bị loại khỏi giao diện (không hiển thị)
 
     // render bảng + popup
     renderQuestion();

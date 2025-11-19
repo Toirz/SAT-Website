@@ -24,7 +24,7 @@ body {
   display: flex;
   flex-direction: column;
   /* ❗ Bỏ justify-content: space-between */
-  box-shadow: 6px 0 14px rgba(0,0,0,0.04);
+  box-shadow: none;
 }
 
 /* LOGO */
@@ -149,7 +149,7 @@ body {
 
 .status-dot.pro {
   background: #fbbf24;
-  box-shadow: 0 0 0 4px rgba(251, 191, 36, 0.2);
+  box-shadow: none;
 }
 
 .logout-bottom {
@@ -190,7 +190,7 @@ body {
 
 .category-btn {
   padding: 10px 14px;
-  border-radius: 10px;
+  border-radius: 50px;
   border: 1px solid #d1d5db;
   background: #ffffff;
   cursor: pointer;
@@ -203,7 +203,7 @@ body {
   background: #1d4ed8;
   border-color: #1d4ed8;
   color: #fff;
-  box-shadow: 0 8px 18px rgba(29, 78, 216, 0.22);
+  box-shadow: none;
 }
 
 .category-btn:hover {
@@ -241,7 +241,7 @@ body {
   border-radius: 20px;
   padding: 26px;
   border: 1px solid #e5e7eb;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+  box-shadow: none;
 }
 
 .group-title {
@@ -265,7 +265,7 @@ body {
   border-radius: 16px;
   padding: 22px;
   border: 1px solid #e5e7eb;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+  box-shadow: none;
   transition: background-color 0.2s ease;
 }
 

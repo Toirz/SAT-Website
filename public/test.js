@@ -39,7 +39,12 @@ document.getElementById("save-exit-btn").onclick = () => {
   // Lưu state rồi mới thoát
   saveState()
     .finally(() => {
-      window.location.href = "index.html";
+      // Nếu biết category (file có dạng "category/name"), quay lại trang practice tương ứng
+      const categoryFromFile = file ? file.split("/")[0] : null;
+      const dest = categoryFromFile
+        ? `practice.html?category=${encodeURIComponent(categoryFromFile)}`
+        : "practice.html";
+      window.location.href = dest;
     });
 };
 

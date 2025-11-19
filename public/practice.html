@@ -9,7 +9,7 @@
 <body>
 
   <aside class="sidebar">
-    <div class="sigma-logo-top">SigmaSAT</div>
+    <a href="index.html" class="sigma-logo-top">SigmaSAT</a>
 
     <nav class="sidebar-nav">
       <a href="index.html" class="sidebar-item">🏠 Trang chủ</a>
@@ -32,7 +32,13 @@
       <a class="sidebar-item">⚙️ Cài đặt</a>
     </nav>
 
-    <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    <div class="sidebar-footer">
+      <div class="account-status" id="account-status">
+        <span class="status-dot"></span>
+        <span class="status-text">Đang tải trạng thái…</span>
+      </div>
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
   </aside>
 
   <main class="main-content">
@@ -235,6 +241,34 @@ const params = new URLSearchParams(window.location.search);
   }
 
   initPracticePage();
+</script>
+
+<script>
+  async function loadAccountStatus() {
+    const el = document.getElementById("account-status");
+    if (!el) return;
+
+    const dot = el.querySelector(".status-dot");
+    const text = el.querySelector(".status-text");
+
+    const setState = (isPro) => {
+      el.classList.toggle("pro", !!isPro);
+      if (dot) dot.classList.toggle("pro", !!isPro);
+      if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+    };
+
+    try {
+      const res = await fetch("/api/me");
+      if (!res.ok) throw new Error("Session not available");
+      const me = await res.json();
+      setState(!!me?.isPro);
+    } catch (err) {
+      if (text) text.textContent = "Không lấy được trạng thái";
+      console.error("Không thể lấy trạng thái tài khoản", err);
+    }
+  }
+
+  loadAccountStatus();
 </script>
 
 </body>

@@ -68,7 +68,7 @@ html, body {
   gap: 8px;
   background: #ffffff;
   border: 1px solid #e5e7eb;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: none;
   border-radius: 10px;
   padding: 10px 12px;
   z-index: 10000;
@@ -337,7 +337,7 @@ html, body {
   padding: 22px;
   border-radius: 12px;
   border: 1px solid #d4d4d8;
-  box-shadow: 0 8px 25px rgba(0,0,0,0.20);
+  box-shadow: none;
   position: relative;
 }
 
@@ -484,7 +484,7 @@ html, body {
   background: #ffffff;
   border-radius: 18px;
   padding: 24px 32px 28px;
-  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.15);
+  box-shadow: none;
   width: 720px;
 }
 
