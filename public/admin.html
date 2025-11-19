@@ -115,6 +115,26 @@
         background: #ffe2e2;
         color: #a11a1a;
       }
+
+      .section-desc {
+        color: #555;
+        font-size: 13px;
+        margin: 4px 0 12px;
+      }
+
+      #user-table {
+        margin-top: 12px;
+      }
+
+      .user-actions form {
+        display: inline-block;
+        margin-right: 6px;
+      }
+
+      .badge-pro {
+        background: #e0e7ff;
+        color: #1e3a8a;
+      }
     </style>
   </head>
   <body>
@@ -129,6 +149,26 @@
       </div>
 
       <hr/>
+
+      <h2>Tài khoản đã đăng nhập</h2>
+      <p class="section-desc">
+        Chỉ cần một lần người dùng đăng nhập là tài khoản xuất hiện ở đây. Bạn có thể
+        cấp hoặc thu hồi quyền Pro để cho phép truy cập mục đề luyện.
+      </p>
+      <table id="user-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Loại tài khoản</th>
+            <th>Admin</th>
+            <th>Thao tác</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <hr />
 
       <h2>Danh sách thiết bị</h2>
       <table id="device-table">
@@ -160,12 +200,52 @@
           const data = await res.json();
           const adminNameEl = document.getElementById("admin-username");
           const tbody = document.querySelector("#device-table tbody");
+          const userTbody = document.querySelector("#user-table tbody");
 
           adminNameEl.textContent = data.adminUsername || "";
 
           tbody.innerHTML = "";
+          userTbody.innerHTML = "";
 
-          data.devices.forEach((d) => {
+          (data.users || []).forEach((user) => {
+            const tr = document.createElement("tr");
+
+            const accountBadge =
+              user.is_pro === 1
+                ? '<span class="badge badge-pro">Pro</span>'
+                : '<span class="badge badge-no">Thường</span>';
+
+            const adminBadge =
+              user.is_admin === 1
+                ? '<span class="badge badge-yes">Admin</span>'
+                : '<span class="badge badge-no">User</span>';
+
+            const actionButton =
+              user.is_pro === 1
+                ? `
+                  <form method="POST" action="/admin/users/${user.id}/pro">
+                    <input type="hidden" name="action" value="revoke" />
+                    <button type="submit" class="btn-secondary">Hạ xuống thường</button>
+                  </form>
+                `
+                : `
+                  <form method="POST" action="/admin/users/${user.id}/pro">
+                    <input type="hidden" name="action" value="grant" />
+                    <button type="submit" class="btn-primary">Cấp Pro</button>
+                  </form>
+                `;
+
+            tr.innerHTML = `
+              <td>${user.id}</td>
+              <td>${user.username}</td>
+              <td>${accountBadge}</td>
+              <td>${adminBadge}</td>
+              <td class="user-actions">${actionButton}</td>
+            `;
+            userTbody.appendChild(tr);
+          });
+
+          (data.devices || []).forEach((d) => {
             const tr = document.createElement("tr");
 
             const approvedBadge =

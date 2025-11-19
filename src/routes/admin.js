@@ -35,4 +35,10 @@ router.post(
   adminController.revokeDevice
 );
 
+router.post(
+  "/admin/users/:id/pro",
+  requireAdmin,
+  adminController.updateUserProStatus
+);
+
 module.exports = router;

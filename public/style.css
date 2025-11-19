@@ -187,6 +187,16 @@ body {
   border: 1px dashed #d1d5db;
 }
 
+.pro-locked {
+  padding: 24px;
+  background: #fff7ed;
+  border: 1px solid #fdba74;
+  border-radius: 12px;
+  color: #9a3412;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
 /* ---------- GROUP BOX (Test cha) ---------- */
 .test-group {
   background: white;

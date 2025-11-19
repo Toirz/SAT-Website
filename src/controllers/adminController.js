@@ -20,9 +20,19 @@ async function getAdminDevices(req, res) {
       []
     );
 
+    const usersResult = await db.query(
+      `
+      SELECT id, username, is_admin, is_pro
+      FROM users
+      ORDER BY id ASC
+    `,
+      []
+    );
+
     res.json({
       adminUsername: req.session.username,
       devices: result.rows,
+      users: usersResult.rows,
     });
   } catch (err) {
     console.error("getAdminDevices error:", err);
@@ -96,10 +106,30 @@ async function revokeDevice(req, res) {
   }
 }
 
+async function updateUserProStatus(req, res) {
+  const userId = req.params.id;
+  const action = req.body.action;
+
+  if (!userId || !["grant", "revoke"].includes(action)) {
+    return res.status(400).send("Thiếu thông tin hợp lệ");
+  }
+
+  const isPro = action === "grant" ? 1 : 0;
+
+  try {
+    await db.query(`UPDATE users SET is_pro = $1 WHERE id = $2`, [isPro, userId]);
+    res.redirect("/admin");
+  } catch (err) {
+    console.error("updateUserProStatus error:", err);
+    return res.status(500).send("Lỗi server");
+  }
+}
+
 module.exports = {
   getAdminPage,
   getAdminDevices,
   createUser,
   approveDevice,
   revokeDevice,
+  updateUserProStatus,
 };

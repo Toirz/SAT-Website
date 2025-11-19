@@ -105,9 +105,21 @@ const params = new URLSearchParams(window.location.search);
     }
   }
 
+  function renderLockedMessage(message) {
+    const list = document.getElementById("test-list");
+    if (list) {
+      list.innerHTML = `<div class="pro-locked">${message}</div>`;
+    }
+  }
+
   async function loadTests() {
     try {
       const res = await fetch(`/api/tests?category=${category}`);
+      if (res.status === 403) {
+        const data = await res.json().catch(() => ({}));
+        renderLockedMessage(data.error || "Bạn không có quyền xem mục này.");
+        return;
+      }
       const data = await res.json();
       const tests = data.tests || [];
 
@@ -201,7 +213,28 @@ const params = new URLSearchParams(window.location.search);
     }
   }
 
-  loadTests();
+  async function initPracticePage() {
+    let me = null;
+    try {
+      const sessionRes = await fetch("/api/me");
+      if (sessionRes.ok) {
+        me = await sessionRes.json();
+      }
+    } catch (e) {
+      me = null;
+    }
+
+    if (category === "practice_tests" && !(me && me.isPro)) {
+      renderLockedMessage(
+        "Mục đề luyện chỉ dành cho tài khoản Pro. Hãy liên hệ admin để được nâng cấp."
+      );
+      return;
+    }
+
+    loadTests();
+  }
+
+  initPracticePage();
 </script>
 
 </body>

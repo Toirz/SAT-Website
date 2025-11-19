@@ -17,6 +17,19 @@ html, body {
   height: calc(100% - 48px);
 }
 
+.pro-locked {
+  padding: 40px;
+  font-size: 18px;
+  background: #fff7ed;
+  border: 1px solid #fdba74;
+  border-radius: 12px;
+  color: #9a3412;
+  margin: 60px auto;
+  max-width: 640px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+
 /* LEFT PANE */
 #left-pane {
   width: 50%;

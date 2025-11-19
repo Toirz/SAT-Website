@@ -36,6 +36,7 @@ async function handleDeviceLogin(req, res, user) {
     req.session.userId = user.id;
     req.session.username = user.username;
     req.session.isAdmin = user.is_admin === 1;
+    req.session.isPro = user.is_pro === 1;
 
     res.cookie("device_token", deviceToken, {
       httpOnly: true,
@@ -118,6 +119,15 @@ async function handleLocalLogin(req, res) {
   }
 }
 
+function getSessionInfo(req, res) {
+  res.json({
+    userId: req.session.userId,
+    username: req.session.username,
+    isAdmin: !!req.session.isAdmin,
+    isPro: !!req.session.isPro,
+  });
+}
+
 module.exports = {
   showLoginPage,
   redirectLogin,
@@ -125,4 +135,5 @@ module.exports = {
   logout,
   handleGoogleCallback,
   handleLocalLogin,
+  getSessionInfo,
 };

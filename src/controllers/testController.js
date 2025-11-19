@@ -1,12 +1,21 @@
 // src/controllers/testController.js
 const fs = require("fs");
 const path = require("path");
+const db = require("../utils/db");
 
 const testsDir = path.join(__dirname, "..", "..", "tests");
 const CATEGORY_DIRS = {
   real_tests: path.join(testsDir, "real_tests"),
   practice_tests: path.join(testsDir, "practice_tests"),
 };
+
+function isPracticeCategory(category) {
+  return category === "practice_tests";
+}
+
+function isPracticeFolder(folder = "") {
+  return folder.startsWith("practice_tests/");
+}
 
 function listCategory(dirPath) {
   if (!fs.existsSync(dirPath)) return [];
@@ -16,12 +25,38 @@ function listCategory(dirPath) {
     .filter((name) => fs.statSync(path.join(dirPath, name)).isDirectory());
 }
 
-// GET /api/tests
-function getTests(req, res) {
+async function ensureProFlag(req) {
+  if (typeof req.session.isPro !== "undefined") {
+    return !!req.session.isPro;
+  }
+  if (!req.session.userId) return false;
+
   try {
+    const result = await db.query(
+      `SELECT is_pro FROM users WHERE id = $1`,
+      [req.session.userId]
+    );
+    const isPro = result.rows[0]?.is_pro === 1;
+    req.session.isPro = isPro;
+    return isPro;
+  } catch (err) {
+    console.error("ensureProFlag error:", err);
+    return false;
+  }
+}
+
+// GET /api/tests
+async function getTests(req, res) {
+  try {
+    const isPro = await ensureProFlag(req);
     const category = req.query.category;
 
     if (category) {
+      if (isPracticeCategory(category) && !isPro) {
+        return res
+          .status(403)
+          .json({ error: "Chỉ tài khoản Pro mới truy cập được đề luyện." });
+      }
       const dirPath = CATEGORY_DIRS[category];
       if (!dirPath) {
         return res.status(400).json({ error: "Invalid category" });
@@ -32,7 +67,11 @@ function getTests(req, res) {
 
     const payload = {};
     Object.entries(CATEGORY_DIRS).forEach(([key, dirPath]) => {
-      payload[key] = listCategory(dirPath);
+      if (isPracticeCategory(key) && !isPro) {
+        payload[key] = [];
+      } else {
+        payload[key] = listCategory(dirPath);
+      }
     });
 
     res.json(payload);
@@ -43,10 +82,18 @@ function getTests(req, res) {
 }
 
 // GET /api/parsed-test
-function getParsedTest(req, res) {
+async function getParsedTest(req, res) {
   const folder = req.query.file;
   if (!folder) {
     return res.status(400).json({ error: "Missing file parameter" });
+  }
+  
+  const isPro = await ensureProFlag(req);
+
+  if (isPracticeFolder(folder) && !isPro) {
+    return res
+      .status(403)
+      .json({ error: "Bạn cần tài khoản Pro để mở đề luyện." });
   }
   
   const folderPath = path.join(testsDir, folder);

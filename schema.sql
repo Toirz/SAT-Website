@@ -20,6 +20,8 @@ CREATE TABLE IF NOT EXISTS users (
   email VARCHAR(255),
   google_id VARCHAR(255)
 );
+ALTER TABLE users
+  ADD COLUMN IF NOT EXISTS is_pro INTEGER NOT NULL DEFAULT 0;
 
 -- =======================
 -- BẢNG DEVICES

@@ -12,6 +12,17 @@ let highlights = {};
 let pendingSelectionOffsets = null;
 const DEFAULT_HIGHLIGHT_COLOR = "yellow";
 
+function showAccessMessage(message) {
+  const container = document.getElementById("container");
+  if (container) {
+    container.innerHTML = `<div class="pro-locked">${message}</div>`;
+  }
+  const bottomBar = document.getElementById("bottom-bar");
+  if (bottomBar) bottomBar.classList.add("hidden");
+  const timerBar = document.getElementById("top-timer-bar");
+  if (timerBar) timerBar.classList.add("hidden");
+}
+
 /* ----------------------------------------------------------
    LẤY THÔNG TIN TỪ URL
 ---------------------------------------------------------- */
@@ -127,6 +138,17 @@ function formatText(raw) {
 async function load() {
   // 1. Lấy đề
   const res = await fetch(`/api/parsed-test?file=${encodeURIComponent(file)}`);
+  if (!res.ok) {
+    let errMsg = "Không thể tải đề thi.";
+    try {
+      const err = await res.json();
+      if (err?.error) errMsg = err.error;
+    } catch (e) {
+      /* ignore */
+    }
+    showAccessMessage(errMsg);
+    return;
+  }
   const data = await res.json();
   questions = data.questions;
   document.getElementById("total-question").innerText = questions.length;

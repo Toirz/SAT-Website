@@ -27,6 +27,8 @@ router.get(
 // Trang index
 router.get("/index", requireLogin, authController.showIndex);
 
+router.get("/api/me", requireLogin, authController.getSessionInfo);
+
 // Logout
 router.get("/logout", authController.logout);
 
