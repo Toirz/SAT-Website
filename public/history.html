@@ -135,7 +135,10 @@
   };
   // Set page title = tên test
 if (file) {
-  document.getElementById("test-title").textContent = decodeURIComponent(file);
+  // Hiển thị tên test không kèm tiền tố thư mục (ví dụ: real_tests/ hoặc practice_tests/)
+  const raw = decodeURIComponent(file);
+  const display = String(raw).replace(/^(?:real_tests|practice_tests)\/+/, "");
+  document.getElementById("test-title").textContent = display;
 } else {
   document.getElementById("test-title").textContent = "Test";
 }
