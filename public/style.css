@@ -59,6 +59,31 @@ body {
   text-decoration: none !important;
 }
 
+/* small icon used in sidebar links */
+.sidebar-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  display: inline-block;
+  margin-right: 12px;
+  vertical-align: middle;
+  flex: 0 0 24px; /* reserve a fixed icon column so labels align */
+}
+
+/* small chevron icon used to indicate submenu open/closed */
+.sidebar-chevron {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Shift active item's label a bit to the left (reduce gap between icon and text) */
+.sidebar-item.active .sidebar-icon {
+  margin-right: 6px;
+}
+
 .sidebar-item:hover {
   background: #f3f4f6;
 }
@@ -631,6 +656,74 @@ a {
   border-radius: 18px;
   padding: 22px;
   margin-top: 20px;
+}
+
+/* Social links block (home page footer) */
+.social-links {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 12px;
+  width: calc(100% - 48px);
+  max-width: 980px;
+  z-index: 60;
+  pointer-events: none; /* container doesn't capture clicks, buttons do */
+}
+.social-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+  padding: 6px 12px;
+  border-radius: 12px;
+  pointer-events: auto; /* allow clicks inside */
+}
+.social-left, .social-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.social-text {
+  font-weight: 400;
+  font-size: 13px;
+  color: #374151;
+}
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  text-decoration: none !important;
+  font-weight: 600;
+  color: inherit;
+  border: 1px solid #e5e7eb;
+  background: #ffffff;
+  font-size: 13px;
+}
+.social-btn .social-icon {
+  width: 18px;
+  height: 18px;
+}
+.social-icon-img {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+.social-btn.tiktok {
+  background: #000000;
+  color: #ffffff;
+  border-color: transparent;
+}
+.social-btn.threads {
+  background: #ffffff;
+  color: #111827;
+}
+
+@media (max-width: 700px) {
+  .social-links { width: calc(100% - 28px); bottom: 8px; }
+  .social-inner { flex-direction: column; gap: 8px; align-items: stretch; }
+  .social-left, .social-right { justify-content: space-between; }
 }
 
 .panel-title {

@@ -15,10 +15,10 @@
     <a href="index.html" class="sigma-logo-top">SigmaSAT</a>
 
     <nav class="sidebar-nav">
-      <a href="index.html" class="sidebar-item">🏠 Trang chủ</a>
+      <a href="index.html" class="sidebar-item"><img src="/images/home.png" class="sidebar-icon" alt="home"> Trang chủ</a>
       <div class="sidebar-item collapsible" id="practice-toggle">
-        <span>📝 Luyện đề</span>
-        <span class="chevron">⌄</span>
+        <span><img src="/images/luyende.png" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.png" class="sidebar-chevron" alt="open"></span>
       </div>
       <div class="sidebar-submenu" id="practice-submenu">
         <a
@@ -32,7 +32,7 @@
           data-category="practice_tests"
         >Đề luyện</a>
       </div>
-      <a class="sidebar-item">⚙️ Cài đặt</a>
+      
     </nav>
 
     <div class="sidebar-footer">
@@ -85,7 +85,10 @@
         if (!submenu || !toggle) return;
         submenu.classList.toggle("open", open);
         toggle.classList.toggle("active", open);
-        if (chevron) chevron.textContent = open ? "⌃" : "⌄";
+        if (chevron) {
+          const img = chevron.querySelector('img');
+          if (img) img.src = open ? '/images/up.png' : '/images/down.png';
+        }
       }
 
       if (toggle) {

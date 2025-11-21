@@ -13,10 +13,10 @@
     <a href="index.html" class="sigma-logo-top">SigmaSAT</a>
 
     <nav class="sidebar-nav">
-      <a href="index.html" class="sidebar-item active">🏠 Trang chủ</a>
+      <a href="index.html" class="sidebar-item active"><img src="/images/home.png" class="sidebar-icon" alt="home"> Trang chủ</a>
       <div class="sidebar-item collapsible" id="practice-toggle">
-        <span>📝 Luyện đề</span>
-        <span class="chevron">⌄</span>
+        <span><img src="/images/luyende.png" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.png" class="sidebar-chevron" alt="open"></span>
       </div>
       <div class="sidebar-submenu" id="practice-submenu">
         <a
@@ -30,7 +30,7 @@
           data-category="practice_tests"
         >Đề luyện</a>
       </div>
-      <a class="sidebar-item">⚙️ Cài đặt</a>
+      
     </nav>
 
     <div class="sidebar-footer">
@@ -103,6 +103,27 @@
           <span class="feature-title">Bộ đề</span>
           <span class="feature-desc">Luyện tập với đề luyện</span>
         </a>
+      </div>
+    </div>
+    
+    <!-- SOCIAL LINKS -->
+    <div class="social-links">
+      <div class="social-inner">
+        <div class="social-left">
+          <div class="social-text">Follow tiktok chúng mình nhé</div>
+          <a class="social-btn tiktok" href="https://www.tiktok.com/@sigma_sat" target="_blank" rel="noopener noreferrer">
+            <img src="/images/tiktok.png" class="social-icon-img" alt="Tiktok">
+            <span>Tiktok</span>
+          </a>
+        </div>
+
+        <div class="social-right">
+          <div class="social-text">Follow sigma.sat trên Threads</div>
+          <a class="social-btn threads" href="https://www.threads.com/@sigma.sat?igshid=NTc4MTIwNjQ2YQ==" target="_blank" rel="noopener noreferrer">
+            <img src="/images/threads.png" class="social-icon-img" alt="Threads">
+            <span>Threads</span>
+          </a>
+        </div>
       </div>
     </div>
     <!-- ▲▲▲ HEATMAP END ▲▲▲ -->
@@ -305,7 +326,10 @@ loadHeatmap();
       if (!submenu || !toggle) return;
       submenu.classList.toggle("open", open);
       toggle.classList.toggle("active", open);
-      if (chevron) chevron.textContent = open ? "⌃" : "⌄";
+      if (chevron) {
+        const img = chevron.querySelector('img');
+        if (img) img.src = open ? '/images/up.png' : '/images/down.png';
+      }
     }
 
     if (toggle) {
