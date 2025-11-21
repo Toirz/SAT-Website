@@ -49,33 +49,37 @@
         <h2 class="page-title">Trang chủ</h2>
         <p class="home-subtitle" id="motivate">Đang tải...</p>
       </div>
-
-    <div class="pie-grid">
-        <div class="pie-card">
-          <div class="pie-chart" id="real-pie">
-            <span class="pie-value" id="real-percent">0%</span>
-          </div>
-          <div class="pie-info">
-            <div class="pie-label">Đề thi thật</div>
-            <div class="pie-count" id="real-count">0/0</div>
-          </div>
-        </div>
-
-        <div class="pie-card">
-          <div class="pie-chart" id="practice-pie">
-            <span class="pie-value" id="practice-percent">0%</span>
-          </div>
-          <div class="pie-info">
-            <div class="pie-label">Đề luyện</div>
-            <div class="pie-count" id="practice-count">0/0</div>
-          </div>
-        </div>
-      </div>
     </div>
 
     <div class="panel heatmap-panel">
       <div class="panel-title">Lịch sử luyện tập</div>
-      <div id="heatmap"></div>
+      <div class="heatmap-content">
+        <div class="heatmap-wrapper">
+          <div id="heatmap"></div>
+        </div>
+
+        <div class="pie-grid heatmap-pies">
+          <div class="pie-card">
+            <div class="pie-chart" id="real-pie">
+              <span class="pie-value" id="real-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Đề thi thật</div>
+              <div class="pie-count" id="real-count">0/0</div>
+            </div>
+          </div>
+          
+          <div class="pie-card">
+            <div class="pie-chart" id="practice-pie">
+              <span class="pie-value" id="practice-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Đề luyện</div>
+              <div class="pie-count" id="practice-count">0/0</div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div class="stats-box">
         <div><b id="total-all">0</b> tổng</div>
@@ -149,7 +153,7 @@ async function loadHeatmap() {
   const map = {};
   (data.activity || []).forEach(row => {
     // row.date dạng "YYYY-MM-DD" từ server (giờ VN)
-    map[row.date] = row.problems_solved;
+    map[row.date] = Number(row.problems_solved) || 0;
   });
 
   const heatmap = document.getElementById("heatmap");
@@ -180,7 +184,7 @@ async function loadHeatmap() {
   let tmpStreak = 0;
   for (let d = new Date(oneYearAgo); d <= today; d.setDate(d.getDate() + 1)) {
     const key = toKey(d);
-    const solved = map[key] || 0;
+    const solved = Number(map[key] || 0);
 
     totalAll += solved;
 
@@ -205,7 +209,7 @@ async function loadHeatmap() {
   let cur = new Date(today);
   while (true) {
     const key = toKey(cur);
-    const solved = map[key] || 0;
+    const solved = Number(map[key] || 0);
 
     if (solved > 0) streak++;
     else break;
@@ -218,13 +222,20 @@ async function loadHeatmap() {
   // =======================
   for (let d = new Date(oneYearAgo); d <= today; d.setDate(d.getDate() + 1)) {
     const key = toKey(d);
-    const solved = map[key] || 0;
+    const solved = Number(map[key] || 0);
 
     const cell = document.createElement("div");
     cell.classList.add("hm-cell");
 
     const level = Math.min(solved, 5);
     cell.classList.add(`hm-${level}`);
+
+    // Fallback: set inline background color so heatmap still shows
+    // even if CSS classes are missing or overridden.
+    const hmColors = ['#e5e7eb', '#d1fae5', '#a7f3d0', '#6ee7b7', '#34d399', '#059669'];
+    const color = hmColors[level] || hmColors[0];
+    cell.style.backgroundColor = color;
+    cell.setAttribute('data-solved', String(solved));
 
     // tooltip
     cell.addEventListener("mouseenter", (ev) => {

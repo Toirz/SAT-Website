@@ -523,6 +523,10 @@ a {
   gap: 12px;
 }
 
+.heatmap-pies {
+  min-width: 260px;
+}
+
 .pie-card {
   display: flex;
   align-items: center;
@@ -590,10 +594,19 @@ a {
   font-size: 18px;
 }
 
-.heatmap-panel #heatmap {
+.heatmap-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.heatmap-wrapper {
   background: #f8fafc;
+  border: 1px solid #e2e8f0;
   border-radius: 12px;
   padding: 16px;
+  display: inline-block;
 }
 
 .panel .stats-box {
@@ -647,6 +660,7 @@ a {
   grid-gap: 3px;
   margin-top: 6px;
   margin-bottom: 10px;
+  width: max-content;
 }
 
 .hm-cell {
