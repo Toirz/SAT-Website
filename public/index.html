@@ -44,25 +44,98 @@
 
   <!-- MAIN -->
   <main class="main-content">
-    <h2 class="page-title">Trang chủ</h2>
+    <div class="home-top">
+      <div class="home-title-block">
+        <h2 class="page-title">Trang chủ</h2>
+        <p class="home-subtitle" id="motivate">Đang tải...</p>
+      </div>
 
-    <!-- ▼▼▼ HEATMAP START ▼▼▼ -->
-     <div id="motivate" style="font-size:18px; font-weight:600; margin-bottom:15px; color:#0f172a;">
-  <!-- message sẽ được JS tự fill -->
-</div>
+    <div class="pie-grid">
+        <div class="pie-card">
+          <div class="pie-chart" id="real-pie">
+            <span class="pie-value" id="real-percent">0%</span>
+          </div>
+          <div class="pie-info">
+            <div class="pie-label">Đề thi thật</div>
+            <div class="pie-count" id="real-count">0/0</div>
+          </div>
+        </div>
 
-    <div id="heatmap"></div>
+        <div class="pie-card">
+          <div class="pie-chart" id="practice-pie">
+            <span class="pie-value" id="practice-percent">0%</span>
+          </div>
+          <div class="pie-info">
+            <div class="pie-label">Đề luyện</div>
+            <div class="pie-count" id="practice-count">0/0</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    <div class="stats-box">
-      <div><b id="total-all">0</b> tổng</div>
-      <div><b id="total-year">0</b> năm nay</div>
-      <div><b id="total-month">0</b> tháng này</div>
-      <div><b id="streak">0</b> streak</div>
-      <div><b id="max-streak">0</b> streak max</div>
+    <div class="panel heatmap-panel">
+      <div class="panel-title">Lịch sử luyện tập</div>
+      <div id="heatmap"></div>
+
+      <div class="stats-box">
+        <div><b id="total-all">0</b> tổng</div>
+        <div><b id="total-year">0</b> năm nay</div>
+        <div><b id="total-month">0</b> tháng này</div>
+        <div><b id="streak">0</b> streak</div>
+        <div><b id="max-streak">0</b> streak max</div>
+      </div>
+    </div>
+
+    <div class="panel feature-panel">
+      <div class="panel-title">Tính năng</div>
+      <div class="feature-grid">
+        <a class="feature-card primary" href="practice.html?category=real_tests">
+          <span class="feature-title">Luyện đề thi thật</span>
+          <span class="feature-desc">Vào ngay danh sách đề thi thật</span>
+        </a>
+        <a class="feature-card" href="practice.html?category=practice_tests">
+          <span class="feature-title">Bộ đề</span>
+          <span class="feature-desc">Luyện tập với đề luyện</span>
+        </a>
+      </div>
     </div>
     <!-- ▲▲▲ HEATMAP END ▲▲▲ -->
 
   </main>
+
+  <script>
+  async function loadHomeStats() {
+    const updateChart = (key, done, total) => {
+      const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+
+      const pie = document.getElementById(`${key}-pie`);
+      const percentEl = document.getElementById(`${key}-percent`);
+      const countEl = document.getElementById(`${key}-count`);
+
+      if (pie) pie.style.setProperty("--percent", percent);
+      if (percentEl) percentEl.textContent = `${percent}%`;
+      if (countEl) countEl.textContent = `${done}/${total}`;
+    };
+
+    try {
+      const res = await fetch("/api/home-stats");
+      const data = await res.json();
+      const totals = data.totals || {};
+      const completed = data.completed || {};
+
+      updateChart("real", completed.real_tests || 0, totals.real_tests || 0);
+      updateChart(
+        "practice",
+        completed.practice_tests || 0,
+        totals.practice_tests || 0
+      );
+    } catch (err) {
+      console.error("Không thể tải thống kê trang chủ", err);
+    }
+  }
+
+  loadHomeStats();
+</script>
 
   <!-- ▼▼▼ HEATMAP JS (đã sửa phần tính toán text) ▼▼▼ -->
 <script>

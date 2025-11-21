@@ -25,6 +25,15 @@ function listCategory(dirPath) {
     .filter((name) => fs.statSync(path.join(dirPath, name)).isDirectory());
 }
 
+function getCategoryTotals() {
+  return Object.fromEntries(
+    Object.entries(CATEGORY_DIRS).map(([key, dirPath]) => [
+      key,
+      listCategory(dirPath).length,
+    ])
+  );
+}
+
 async function ensureProFlag(req) {
   if (typeof req.session.isPro !== "undefined") {
     return !!req.session.isPro;
@@ -78,6 +87,39 @@ async function getTests(req, res) {
   } catch (err) {
     console.error("Error reading tests:", err);
     res.status(500).send("Cannot read tests folder");
+  }
+}
+
+// GET /api/home-stats
+async function getHomeStats(req, res) {
+  const userId = req.session.userId;
+
+  try {
+    const totals = getCategoryTotals();
+
+    const result = await db.query(
+      `
+      SELECT
+        COUNT(DISTINCT test_file) FILTER (WHERE test_file LIKE 'real_tests/%') AS real_completed,
+        COUNT(DISTINCT test_file) FILTER (WHERE test_file LIKE 'practice_tests/%') AS practice_completed
+      FROM test_history
+      WHERE user_id = $1
+    `,
+      [userId]
+    );
+
+    const row = result.rows[0] || {};
+
+    res.json({
+      totals,
+      completed: {
+        real_tests: Number(row.real_completed || 0),
+        practice_tests: Number(row.practice_completed || 0),
+      },
+    });
+  } catch (err) {
+    console.error("getHomeStats error:", err);
+    res.status(500).json({ error: "Cannot load stats" });
   }
 }
 
@@ -170,4 +212,5 @@ async function getParsedTest(req, res) {
 module.exports = {
   getTests,
   getParsedTest,
+  getHomeStats,
 };

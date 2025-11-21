@@ -496,5 +496,162 @@ a {
   color: #111827;
 }
 
+/* ======= HOME PAGE ======= */
+.home-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: center;
+  margin-bottom: 20px;
+}
 
+.home-title-block {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
 
+.home-subtitle {
+  font-size: 16px;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.pie-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.pie-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 14px 16px;
+}
+
+.pie-chart {
+  --percent: 0;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: conic-gradient(#22c55e calc(var(--percent) * 1%), #e5e7eb 0);
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.pie-chart::after {
+  content: "";
+  position: absolute;
+  inset: 14px;
+  background: #f9fafb;
+  border-radius: 50%;
+}
+
+.pie-value {
+  position: relative;
+  font-weight: 800;
+  font-size: 18px;
+  color: #0f172a;
+}
+
+.pie-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.pie-label {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.pie-count {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.panel {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 22px;
+  margin-top: 20px;
+}
+
+.panel-title {
+  font-weight: 800;
+  margin-bottom: 14px;
+  color: #0f172a;
+  font-size: 18px;
+}
+
+.heatmap-panel #heatmap {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.panel .stats-box {
+  margin-top: 18px;
+  margin-bottom: 4px;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 18px 20px;
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+  background: #f8fafc;
+  font-weight: 700;
+  color: #0f172a;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.feature-card.primary {
+  background: #e0f2fe;
+  border-color: #bfdbfe;
+}
+
+.feature-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+}
+
+.feature-title {
+  font-size: 17px;
+}
+
+.feature-desc {
+  font-size: 14px;
+  color: #4b5563;
+  font-weight: 600;
+}
+
+/* Heatmap override to fit card */
+#heatmap {
+  display: grid;
+  grid-template-columns: repeat(37, 12px);
+  grid-gap: 3px;
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+
+.hm-cell {
+  width: 12px;
+  height: 12px;
+  background: #e5e7eb;
+  border-radius: 3px;
+}
