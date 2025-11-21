@@ -196,15 +196,21 @@ async function checkTestCompleted(req, res) {
   try {
     const result = await db.query(
       `
-      SELECT COUNT(*) AS count
+      SELECT score, total_questions
       FROM test_history
       WHERE user_id = $1 AND test_file = $2
+      ORDER BY taken_at DESC
+      LIMIT 1
     `,
       [userId, file]
     );
 
-    const count = Number(result.rows[0].count);
-    res.json({ completed: count > 0 });
+    const row = result.rows[0];
+    res.json({
+      completed: !!row,
+      lastScore: row ? Number(row.score) : null,
+      lastTotal: row ? Number(row.total_questions) : null,
+    });
   } catch (err) {
     console.error("checkTestCompleted error:", err);
     return res.status(500).json({ error: "Server error" });

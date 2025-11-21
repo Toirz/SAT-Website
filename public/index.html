@@ -66,6 +66,7 @@
             <div class="pie-info">
               <div class="pie-label">Đề thi thật</div>
               <div class="pie-count" id="real-count">0/0</div>
+              <div class="pie-accuracy" id="real-accuracy">Tỉ lệ đúng TB: 0%</div>
             </div>
           </div>
           
@@ -76,6 +77,7 @@
             <div class="pie-info">
               <div class="pie-label">Đề luyện</div>
               <div class="pie-count" id="practice-count">0/0</div>
+              <div class="pie-accuracy" id="practice-accuracy">Tỉ lệ đúng TB: 0%</div>
             </div>
           </div>
         </div>
@@ -109,16 +111,19 @@
 
   <script>
   async function loadHomeStats() {
-    const updateChart = (key, done, total) => {
+    const updateChart = (key, done, total, accuracyRatio) => {
       const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+      const accuracy = Math.round((accuracyRatio || 0) * 100);
 
       const pie = document.getElementById(`${key}-pie`);
       const percentEl = document.getElementById(`${key}-percent`);
       const countEl = document.getElementById(`${key}-count`);
+      const accuracyEl = document.getElementById(`${key}-accuracy`);
 
       if (pie) pie.style.setProperty("--percent", percent);
       if (percentEl) percentEl.textContent = `${percent}%`;
       if (countEl) countEl.textContent = `${done}/${total}`;
+      if (accuracyEl) accuracyEl.textContent = `Tỉ lệ đúng: ${accuracy}%`;
     };
 
     try {
@@ -126,12 +131,19 @@
       const data = await res.json();
       const totals = data.totals || {};
       const completed = data.completed || {};
+      const accuracy = data.accuracy || {};
 
-      updateChart("real", completed.real_tests || 0, totals.real_tests || 0);
+      updateChart(
+        "real",
+        completed.real_tests || 0,
+        totals.real_tests || 0,
+        accuracy.real_tests || 0
+      );
       updateChart(
         "practice",
         completed.practice_tests || 0,
-        totals.practice_tests || 0
+        totals.practice_tests || 0,
+        accuracy.practice_tests || 0
       );
     } catch (err) {
       console.error("Không thể tải thống kê trang chủ", err);

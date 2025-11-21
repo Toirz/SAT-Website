@@ -164,10 +164,14 @@ const params = new URLSearchParams(window.location.search);
           card.className = "test-card";
 
           card.innerHTML = `
-            <div class="test-header">
-              Module ${mod}
-              <span class="completed-badge hidden">Hoàn thành</span>
-            </div>
+              <div class="test-header">
+                Module ${mod}
+                <span class="status-badge status-black">Chưa làm bài</span>
+              </div>
+
+              <div class="test-meta">
+                <!-- meta area reserved for extra info if needed -->
+              </div>
 
             <div class="test-actions">
               <button class="btn start-btn">Start</button>
@@ -176,7 +180,7 @@ const params = new URLSearchParams(window.location.search);
           `;
 
           const startBtn = card.querySelector(".start-btn");
-          const completedBadge = card.querySelector(".completed-badge");
+          const statusBadge = card.querySelector(".status-badge");
 
           /* Kiểm tra đang làm dở */
           checkState(filePath).then(inProgress => {
@@ -195,8 +199,32 @@ const params = new URLSearchParams(window.location.search);
           fetch(`/api/test-completed?file=${encodeURIComponent(filePath)}`)
             .then(res => res.json())
             .then(data => {
-              if (data.completed) {
-                completedBadge.classList.remove("hidden");
+              if (!statusBadge) return;
+
+              const score = (typeof data.lastScore === 'number') ? data.lastScore : null;
+              const total = (typeof data.lastTotal === 'number') ? data.lastTotal : null;
+
+              // Reset classes
+              statusBadge.className = 'status-badge';
+
+              if (score === null) {
+                // Not attempted
+                statusBadge.textContent = 'Chưa làm bài';
+                statusBadge.classList.add('status-black');
+              } else {
+                statusBadge.textContent = `${score}/${total}`;
+
+                if (score === total && total > 0) {
+                  statusBadge.classList.add('status-rainbow');
+                } else if (score <= 15) {
+                  statusBadge.classList.add('status-red');
+                } else if (score <= 21) {
+                  statusBadge.classList.add('status-yellow');
+                } else if (score <= 26) {
+                  statusBadge.classList.add('status-green');
+                } else {
+                  statusBadge.classList.add('status-green');
+                }
               }
             });
 

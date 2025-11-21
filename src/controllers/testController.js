@@ -101,7 +101,11 @@ async function getHomeStats(req, res) {
       `
       SELECT
         COUNT(DISTINCT test_file) FILTER (WHERE test_file LIKE 'real_tests/%') AS real_completed,
-        COUNT(DISTINCT test_file) FILTER (WHERE test_file LIKE 'practice_tests/%') AS practice_completed
+        COUNT(DISTINCT test_file) FILTER (WHERE test_file LIKE 'practice_tests/%') AS practice_completed,
+        AVG(CASE WHEN total_questions > 0 THEN score::decimal / total_questions ELSE NULL END)
+          FILTER (WHERE test_file LIKE 'real_tests/%') AS real_accuracy,
+        AVG(CASE WHEN total_questions > 0 THEN score::decimal / total_questions ELSE NULL END)
+          FILTER (WHERE test_file LIKE 'practice_tests/%') AS practice_accuracy
       FROM test_history
       WHERE user_id = $1
     `,
@@ -115,6 +119,10 @@ async function getHomeStats(req, res) {
       completed: {
         real_tests: Number(row.real_completed || 0),
         practice_tests: Number(row.practice_completed || 0),
+      },
+      accuracy: {
+        real_tests: Number(row.real_accuracy || 0),
+        practice_tests: Number(row.practice_accuracy || 0),
       },
     });
   } catch (err) {
