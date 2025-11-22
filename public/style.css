@@ -52,7 +52,7 @@ body {
   font-weight: 500;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   cursor: pointer;
   color: #374151;
   transition: background 0.2s ease;
@@ -65,7 +65,6 @@ body {
   height: 24px;
   object-fit: contain;
   display: inline-block;
-  margin-right: 12px;
   vertical-align: middle;
   flex: 0 0 24px; /* reserve a fixed icon column so labels align */
 }
@@ -77,11 +76,6 @@ body {
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
-}
-
-/* Shift active item's label a bit to the left (reduce gap between icon and text) */
-.sidebar-item.active .sidebar-icon {
-  margin-right: 6px;
 }
 
 .sidebar-item:hover {
@@ -96,6 +90,14 @@ body {
 
 .sidebar-item.collapsible {
   justify-content: space-between;
+}
+
+.sidebar-item.collapsible > span:first-child {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
 }
 
 .chevron {
