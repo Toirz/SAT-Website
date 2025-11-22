@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thanh toán nâng cấp</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="payment-page">
+  <div class="payment-card">
+    <h1>Thanh toán nâng cấp</h1>
+    <p>Quét mã QR để hoàn tất thanh toán gói Pro.</p>
+    <div class="plan-chip" id="plan-chip">Đăng kí 1 tháng · 67.000đ</div>
+
+    <div class="qr-wrapper">
+      <img src="/images/qr.png" alt="Mã QR thanh toán" class="qr-image" />
+    </div>
+
+    <p class="payment-note" id="payment-note">Vui lòng nhập nội dung chuyển khoản là email đăng nhập của bạn.</p>
+  </div>
+
+  <script>
+    const planChip = document.getElementById("plan-chip");
+    const paymentNote = document.getElementById("payment-note");
+    const params = new URLSearchParams(window.location.search);
+    const plan = params.get("plan") || "month";
+
+    const planMap = {
+      month: { label: "Đăng kí 1 tháng", price: "67.000đ" },
+      quarter: { label: "Đăng kí 3 tháng", price: "150.000đ" },
+      free: { label: "Gói miễn phí", price: "0đ" },
+    };
+
+    const planInfo = planMap[plan] || planMap.month;
+    if (planChip) {
+      planChip.textContent = `${planInfo.label} · ${planInfo.price}`;
+    }
+
+    if (paymentNote) {
+      if (plan === "free") {
+        paymentNote.textContent = "Bạn đang ở gói miễn phí. Không cần thanh toán.";
+      } else {
+        paymentNote.textContent = `Vui lòng chuyển ${planInfo.price} và ghi chú email đăng nhập của bạn.`;
+      }
+    }
+  </script>
+</body>
+</html>
