@@ -47,9 +47,17 @@
   <main class="main-content">
     <h2 class="page-title">Luyện đề</h2>
 
-    <div class="category-switch">
-      <button class="category-btn" data-category="real_tests">Đề thi thật</button>
-      <button class="category-btn" data-category="practice_tests">Đề luyện</button>
+    <div class="search-filter">
+      <div class="search-input" id="date-filter">
+        <input
+          type="text"
+          id="filter-display"
+          placeholder="Chọn tháng/năm đề thi thật"
+          readonly
+        />
+        <span class="search-caret">▾</span>
+      </div>
+      <div class="search-options" id="filter-options"></div>
     </div>
 
     <div id="test-list">Loading tests...</div>
@@ -58,8 +66,9 @@
 
 <script>
 
-const params = new URLSearchParams(window.location.search);
+  const params = new URLSearchParams(window.location.search);
   const category = params.get("category") || "real_tests";
+  let filterKeyword = "";
 
   const categoryMap = {
     real_tests: "Đề thi thật",
@@ -94,17 +103,6 @@ const params = new URLSearchParams(window.location.search);
     .querySelectorAll(`.sidebar-subitem[data-category="${category}"]`)
     .forEach((item) => item.classList.add("active"));
 
-  document.querySelectorAll(".category-btn").forEach((btn) => {
-    const btnCat = btn.getAttribute("data-category");
-    if (btnCat === category) btn.classList.add("active");
-
-    btn.addEventListener("click", () => {
-      if (btnCat) {
-        window.location.href = `practice.html?category=${btnCat}`;
-      }
-    });
-  });
-
   async function checkState(fullName) {
     try {
       const res = await fetch(`/api/test-state?file=${encodeURIComponent(fullName)}`);
@@ -122,6 +120,115 @@ const params = new URLSearchParams(window.location.search);
     }
   }
 
+  function extractMonthYear(name = "") {
+    const match = name.match(/^SAT\s+([A-Za-z]+\s+\d{4})/i);
+    return match ? match[1] : null;
+  }
+
+  function monthYearToSortable(value = "") {
+    const parts = value.trim().split(/\s+/);
+    if (parts.length !== 2) return null;
+
+    const [monthName, yearStr] = parts;
+    const year = parseInt(yearStr, 10);
+    const monthIndex =
+      [
+        "january",
+        "february",
+        "march",
+        "april",
+        "may",
+        "june",
+        "july",
+        "august",
+        "september",
+        "october",
+        "november",
+        "december",
+      ].indexOf(monthName.toLowerCase());
+
+    if (Number.isNaN(year) || monthIndex === -1) return null;
+
+    return { year, monthIndex };
+  }
+
+  function buildFilterOptions(realTests = []) {
+    const options = Array.from(
+      new Set(
+        realTests
+          .map((name) => extractMonthYear(name))
+          .filter(Boolean)
+      )
+    ).sort((a, b) => {
+      const aParts = monthYearToSortable(a);
+      const bParts = monthYearToSortable(b);
+
+      if (!aParts || !bParts) return 0;
+
+      if (aParts.year !== bParts.year) return bParts.year - aParts.year;
+      return bParts.monthIndex - aParts.monthIndex;
+    });
+
+    const optionsContainer = document.getElementById("filter-options");
+    const displayInput = document.getElementById("filter-display");
+    if (!optionsContainer || !displayInput) return;
+
+    optionsContainer.innerHTML = "";
+
+    const allBtn = document.createElement("button");
+    allBtn.className = "option-item";
+    allBtn.textContent = "Tất cả đề";
+    allBtn.addEventListener("click", () => {
+      filterKeyword = "";
+      displayInput.value = "";
+      toggleOptions(false);
+      loadTests();
+    });
+    optionsContainer.appendChild(allBtn);
+
+    options.forEach((opt) => {
+      const btn = document.createElement("button");
+      btn.className = "option-item";
+      btn.textContent = opt;
+      btn.addEventListener("click", () => {
+        filterKeyword = opt;
+        displayInput.value = opt;
+        toggleOptions(false);
+        loadTests();
+      });
+      optionsContainer.appendChild(btn);
+    });
+  }
+
+  function toggleOptions(forceState) {
+    const optionsContainer = document.getElementById("filter-options");
+    const inputWrapper = document.getElementById("date-filter");
+    if (!optionsContainer || !inputWrapper) return;
+
+    const isOpen =
+      typeof forceState === "boolean"
+        ? forceState
+        : !optionsContainer.classList.contains("open");
+
+    optionsContainer.classList.toggle("open", isOpen);
+    inputWrapper.classList.toggle("active", isOpen);
+  }
+
+  function attachSearchEvents() {
+    const inputWrapper = document.getElementById("date-filter");
+    const optionsContainer = document.getElementById("filter-options");
+
+    if (!inputWrapper || !optionsContainer) return;
+
+    inputWrapper.addEventListener("click", () => toggleOptions());
+
+    document.addEventListener("click", (e) => {
+      if (!inputWrapper.contains(e.target) && !optionsContainer.contains(e.target)) {
+        toggleOptions(false);
+      }
+    });
+  }
+
   async function loadTests() {
     try {
       const res = await fetch(`/api/tests?category=${category}`);
@@ -136,14 +243,23 @@ const params = new URLSearchParams(window.location.search);
       const list = document.getElementById("test-list");
       list.innerHTML = "";
 
+      const filteredTests = filterKeyword
+        ? tests.filter((name) =>
+            name.toLowerCase().includes(filterKeyword.toLowerCase())
+          )
+        : tests;
+      
       const groups = {};
 
-      if (tests.length === 0) {
-        list.innerHTML = "<p class='empty-tests'>Chưa có đề trong mục này.</p>";
+      if (filteredTests.length === 0) {
+        const noDataMessage = filterKeyword
+          ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
+          : "Chưa có đề trong mục này.";
+        list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
         return;
       }
 
-      tests.forEach(name => {
+      filteredTests.forEach(name => {
         const prefix = name.replace(/ - Mod \d+$/, "");
         if (!groups[prefix]) groups[prefix] = [];
         groups[prefix].push(name);
@@ -267,6 +383,17 @@ const params = new URLSearchParams(window.location.search);
         "Mục đề luyện chỉ dành cho tài khoản Pro. Hãy liên hệ admin để được nâng cấp."
       );
       return;
+    }
+
+    try {
+      const optionsRes = await fetch(`/api/tests?category=real_tests`);
+      if (optionsRes.ok) {
+        const optionsData = await optionsRes.json();
+        buildFilterOptions(optionsData.tests || []);
+        attachSearchEvents();
+      }
+    } catch (err) {
+      console.error("Không thể tải danh sách tháng/năm", err);
     }
 
     loadTests();
