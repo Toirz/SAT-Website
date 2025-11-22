@@ -58,7 +58,7 @@ if (gotoParam === "LAST") {
 /* ----------------------------------------------------------
    TIMER
 ---------------------------------------------------------- */
-let timeLimit = 1 * 60; // 32 phút
+let timeLimit = 32 * 60; // 32 phút
 let timerInterval = null;
 
 function startTimer() {
@@ -182,7 +182,7 @@ async function load() {
     reviewList = [];
     highlights = {};
     current = 0;
-    timeLimit = 1 * 60;
+    timeLimit = 32 * 60;
   }
 
   // 3. Nếu có goto (từ review)
