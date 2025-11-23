@@ -1,0 +1,277 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+One way to evaluate the importance of a scholar’s research is to ______ other scholars’ references to
+that research. For example, a count of other scholars’ citations shows that Cornell University economist
+Francine Blau, who studies labor economics, is referenced frequently, indicating that her work has been
+significant in the field.
+
+A. abridge
+B. enumerate
+C. transpose
+D. circumvent
+Answer: B
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The discoveries of natural satellites by Scott S. Sheppard’s team of astronomers have been _____:
+S/2017 J 2, which the group of researchers found orbiting Jupiter in 2017, is just one of over one hundred
+that they have spotted, while many astronomers have been happy to discover only one or two.
+
+A. plentiful
+B. random
+C. likely
+D. inferior
+Answer: A
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In recent years, the technology startup industry in Lebanon has witnessed significant growth and
+has become a magnet for investors. However, like any burgeoning industry, there are certain loopholes and
+pitfalls that need to be addressed to ensure sustained growth and mitigate risks for investors. To tackle
+these challenges, Lebanon has implemented a series of measures, which have successfully _____ the fears
+of investors.
+
+A. repudiated
+B. assuaged
+C. amplified
+D. designated
+Answer: B
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some pieces of music might have many meanings—the compositions of Mary Anderson Lewis can
+______ as many different interpretations as there are people to listen to them—and so as long as a listener’s
+interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener
+has misunderstood the piece.
+
+A. counteract
+B. yield
+C. refute
+D. partition
+Answer: B
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Archaeologists still had a/an _____ knowledge of archaeological sites until recently the appearance
+of a new technology changes the situation. This advanced technique sharpened scientists’ understanding of
+archaeological remains.
+
+A. nebulous
+B. concrete
+C. unprecedented
+D. convoluted
+Answer: A
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Hydropower constitutes over 57% of Switzerland’s electricity production. Due to the geographical
+availability of renewable resources of energy, Switzerland is in an advantageous position to potentially ______
+the proportion of electricity it produces from renewable resources in the future.
+
+A. induce
+B. augment
+C. alleviate
+D. exhaust
+Answer: B
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A data-transfer project is working to salvage large amounts of data from the Apollo Moon landings
+(1969–1972), as much of the crucial information gathered by radiation and lunar dust detectors is stored on
+now ______ technologies, making it inaccessible to researchers like Philip Metzger.
+
+A. abstruse
+B. prolific
+C. nascent
+D. defunct
+Answer: D
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although our knowledge of the Pliocene epoch and the lives of hominids during this time was once
+___, recent analyses of fossils like that of the individual known as LH 4, discovered in Tanzania in 1974, have
+sharpened our picture of what a day in the life of LH 4 may have looked like.
+
+A. unprecedented
+B. nebulous
+C. intricate
+D. concrete
+Answer: B
+
+Question 9:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Drivers who strongly believe that the toll they must pay to use the San Luis Pass-Vacek Toll Bridge,
+which spans the San Luis Pass in Texas, is currently too high are likely to be ____ arguments for increasing
+the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments
+toward a more persuadable segment of the population.
+
+A. cited in
+B. apprised of
+C. unsympathetic to
+D. placated by
+Answer: C
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+To prevent excessive microbial growth in the closed habitat of the International Space Station, air
+and water are continuously filtered and monitored. Yet certain microbes, among other bacteria, which have
+the potential to damage spacecraft materials, can ______ in the station's water system. These bacteria are
+able to form biofilms in localized humidity conditions that exceed the specified maximum for the station
+overall.
+
+A. abate
+B. recalibrate
+C. proliferate
+D. rehabilitate
+Answer: C
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are enormous collections of electronically stored
+texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If
+one has a ________ that the word "own" has a high incidence in English, for example, an analysis of a corpus
+can support that hypothesis by showing that "own" is the eighth most commonly used adjective.
+
+A. synopsis
+B. scheme
+C. recognition
+D. supposition
+Answer: D
+
+Question 12:
+As used in the text, what does the word “assume” most nearly mean?
+
+The following text is adapted from George Bernard Shaw’s 1905 play Major Barbara.LADY
+BRITOMART: You must learn to face life seriously, Stephen. I really cannot bear the whole burden of our
+family affairs any longer. You must advise me; you must assume the responsibility.
+STEPHEN: —
+LADY BRITOMART: Yes, you, of course. You were 24 last June.
+
+A. Infer
+B. Mimic
+C. Undertake
+D. Presuppose
+Answer: C
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Native Hawaiian fiber artist Marques Hanalei Marzan creates art using the techniques of lauhala
+weaving. Lauhala weaving is a traditional Hawaiian art form that uses leaves of the hala tree. Often, Marzan
+doesn’t have a specific ______ what the final product will look like when he starts a new piece. Instead, he
+makes up his designs as he weaves, allowing inspiration to take him in unexpected directions.
+
+A. intention for
+B. admiration for
+C. imitation of
+D. acceptance of
+Answer: A
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although oil shocks—such as the 10% rise in oil prices in November 1970—can strongly affect
+individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies,
+their effects are often quite ______. The effect of recent oil shocks on the gross domestic product of
+Germany, for example, was only slightly greater than zero.
+
+A. variable
+B. persistent
+C. subdued
+D. beneficial
+Answer: C
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected
+countries’ central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries’ policy
+environments seem to have been ____ swap line decisions: the probability that banks would be granted swap
+lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such
+inflows.
+
+A. predicated on
+B. mediated by
+C. material to
+D. decoupled from
+Answer: C
+
+Question 16:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly
+accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy
+“first” such as Anésia Pinheiro Machado, who was the first female pilot in Brazil to carry passengers and the
+first to make stunt flights, a deed for which she will always be remembered.
+
+A. enduring
+B. conspicuous
+C. uncertain
+D. deserving
+Answer: C
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VI or Louis Philippe I was considered
+historically significant or, conversely, relatively _____ its trajectory was shaped by questions of legitimacy and
+therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to
+assert a claim to the throne successfully.
+
+A. inconsequential
+B. benevolent
+C. genuine
+D. momentous
+Answer: A
+
+Question 18:
+As used in the text, what does the word “tip” most nearly mean?
+
+The following text is from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol, a child, is at a beach in
+Massachusetts with his father.He watches his father raise a kite within minutes into the wind, so high that
+Gogol must tip his head back in order to see, a rippling speck against the sky. The wind whips around their
+ears, turning their faces cold.
+
+A. Lean
+B. Create
+C. Pay
+D. Teach
+Answer: A
+
+Question 19:
+Which choice completes the text with the most logical and precise word or phrase?
+
+It is hardly an exaggeration to characterize modern Hawaiian literature as having _______ the
+traditional stories of the Kanaka Maoli, the Native Hawaiian people. In a variety of ways, Samuel Kamakau,
+Kristiana Kahakauwila, and other acclaimed writers have drawn on these stories to craft a rich portrait of the
+Hawaiian Islands and their people.
+
+A. brooded on
+B. supplanted
+C. anticipated
+D. derived from
+Answer: D
+
+Question 20:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The abundance of references to University of Minnesota financial-policy scholar Ellen R. McGrattan’s
+work serves as compelling ______ of its utility to fellow economists.
+
+A. vindication
+B. detraction
+C. equivocation
+D. platitude
+Answer: A
+

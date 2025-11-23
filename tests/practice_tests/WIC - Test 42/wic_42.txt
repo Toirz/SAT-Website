@@ -1,0 +1,279 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The scientists proposed that individuals in authority concentrate so intensely on their personal
+priorities that they become unaware of those around them. Their subordinates, reluctant to confront the
+leader, _______ this behavior.
+
+A. subvert
+B. imitate
+C. abet
+D. expose
+Answer: C
+
+Question 2:
+As used in the text, what does the word “bounded” most nearly mean?
+
+The following text is from Rainer Maria Rilke’s poem “Evening.”EveningRainer Maria RilkeThe sky
+puts on the darkening blue coatheld for it by a row of ancient trees;thou watch: and the lands grow distant in
+thou sight,one journeying to heaven, one that falls;and leave thou, not at home in either one,not quite so still
+and dark as the darkened houses,not calling to eternity with the passionof what becomes a star each night,
+and rises;and leave thou (inexpressibly to unravel)thou life, with its immensity and fear,so that, now bounded,
+now immeasurable,it is alternately stone in thy and star.
+
+A. phrased
+B. circumscribed
+C. forced
+D. involved
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on
+the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of
+focusing on local companies and thus reflecting economic circumstances ___ Iran. This sensitivity to unique,
+rapidly evolving local conditions benefits the companies and investors alike.
+
+A. irrelevant to
+B. prohibitive in
+C. distinctive to
+D. unchanging in
+Answer: C
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VII or Henry V was historically consequential
+or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be
+understood without a corollary understanding of the characteristics without the monarch would have been
+forced to _____the throne.
+
+A. reciprocate
+B. annotate
+C. abandon
+D. equalize
+Answer: C
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+As with other river deltas, the Krishna River delta is ____: it is a constantly evolving network of
+channels and strips of land that change in size and shape as the river deposits new sedimentary particles
+where the river meets the waters of the Bay of Bengal.
+
+A. sustainable
+B. unrivaled
+C. immutable
+D. protean
+Answer: D
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In an industry dominated by egotists, Bloomfield is _____, frequently offering praise to her
+competitors and infusing her correspondence with self-effacing comments. Her demeanor stands in stark
+contrast to the prevailing arrogance, showcasing her humility and genuine appreciation for others'
+contributions.
+
+A. unassuming
+B. complimentary
+C. acerbic
+D. ingenuous
+Answer: A
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are large collections of electronically stored texts
+that can be used to determine the frequency of ______ words. (Words used mainly in specialized or academic
+publications, on the other hand, tend to be poorly represented.) A corpus could reveal, for example, that the
+word "world" is the eighth most commonly used noun in standard English.
+
+A. trivial
+B. conventional
+C. profound
+D. accidental
+Answer: B
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Archaeologists have identified a plethora of beads fashioned from Tivita gibbosula shells in many
+Middle Stone Age (MSA) sites across western North Africa, including El Mnasra Cave, Morocco. In a 2021
+paper, El Mehdi Sehasseh et al. attribute these artifacts’________ to the evolution and propagation of
+symbolic behavior (e.g., use of personal ornaments) in humans and the availability of T. gibbosula during the
+MSA.
+
+A. expediency
+B. fecundity
+C. ubiquity
+D. heterogeneity
+Answer: C
+
+Question 9:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The discoverers of the minor planet 1227 Geranium named it after the plant genus that includes
+cranesbills. Most of the recently discovered minor planets, however, are given only an identification number,
+largely due to there being over 500,000 such bodies known at present, which makes the already challenging
+task of finding a unique name for each nearly ___.
+
+A. feasible
+B. unnecessary
+C. substantial
+D. insurmountable
+Answer: D
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Behavioral economists note that investors often stick to familiar domestic stocks and shy away
+from foreign equities; whatever the reasons for this ______, it is a poor strategy when confronting global
+market volatility.
+
+A. eccentricity
+B. predilection
+C. vacillation
+D. cowardice
+Answer: B
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Architectural historians point out that the sloping tile roofs and arched façade of Mission Nuestra
+Señora de la Soledad became an icon of Spanish influence in California. Later builders sought to echo that
+look; the design of Santa Clara University, for instance, strives for a remarkable ______ to the appearance of
+the early Spanish missions.
+
+A. ostentation
+B. disparity
+C. verisimilitude
+D. ornamentation
+Answer: C
+
+Question 12:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Chengdu, China, was named a City of Gastronomy by UNESCO in 2010, a title that ______ that
+Chengdu has a unique and vibrant food culture worthy of celebration.
+
+A. renounces
+B. discovers
+C. complains
+D. denotes
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Stock Exchange of Thailand in Bangkok, Thailand, is a dedicated exchange for investing in
+companies operating in Thailand, ensuring those companies receive certain regulatory oversight. Knowing
+this can ______ potential investors’ worries about bureaucratic minutiae and thereby allow them to instead
+focus on identifying sound business opportunities.
+
+A. designate
+B. amplify
+C. assuage
+D. convey
+Answer: C
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Cacao was domesticated in South America. Its physical structure is no longer identical to the
+structure of the wild plant it is descended from. Maize (corn) also ______ its wild ancestor. That ancestor
+plant had a few small kernels. Indigenous people in Mexico carefully bred the crop until it had numerous
+fleshy kernels.
+
+A. varies from
+B. helps with
+C. reacts to
+D. argues with
+Answer: A
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Radar and sonar can detect objects or people through walls, but they are too costly for consumer
+use. Researchers Fadel Adib and Dina Katabi have shown, however, that there may be a comparatively
+_________ alternative: small changes to the Wi-Fi technology used in smartphones can give users a cheap
+way to count people or even identify their gestures through walls.
+
+A. infrequent
+B. inexpensive
+C. impractical
+D. unmistakable
+Answer: B
+
+Question 16:
+As used in the text, what does the word “manifest” most nearly mean?
+
+The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the
+granddaughter of a celebrated poet.[Katharine’s] descent from [a celebrated poet] was no surprise to her, but
+matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very manifest.
+Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the
+conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.
+
+A. Anticipated
+B. Particular
+C. Complex
+D. Evident
+Answer: D
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Since the Hubble Space Telescope was launched into space in 1990, astronauts have needed to
+complete regular missions to repair the telescope and keep it working smoothly. Researchers hope that
+robots will soon be able to make these repairs. Employing robots instead of humans to make repairs will be
+helpful, as ____ astronauts to maintain the telescope can be expensive.
+
+A. straightening
+B. relying on
+C. reducing
+D. forgetting about
+Answer: B
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Jane Goodall has worked tirelessly to _____ the effects of climate change on chimpanzees in
+Tanzania: her research has shown that government commitments to reforestation efforts can help soften the
+negative impacts of warming temperatures on chimpanzee populations in Tanzania as well as other African
+countries.
+
+A. sequester
+B. alleviate
+C. brook
+D. trivialize
+Answer: B
+
+Question 19:
+Which choice completes the text with the most logical and precise word or phrase?
+
+At the turn of the twentieth century, Black residents of Richmond, Virginia, had few formal options
+for banking and other financial services. To____ this situation, Maggie Lena Walker chartered the St. Luke
+Penny Savings Bank in 1903. The bank went on to provide home loans and savings opportunities to
+thousands of Black families over the following decades.
+
+A. retain
+B. highlight
+C. prolong
+D. rectify
+Answer: D
+
+Question 20:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A growing number of contemporary musicians actively ______ the boundary between Indigenous
+traditions and mainstream genres. Choctaw singer-songwriter Samantha Crain, for instance, weaves
+Choctaw hymnal motifs into folk-pop on “When We Remain,” while Oji-Cree/Mi’kmaq artist Anachnid layers
+powwow vocals and Indigenous flute over electronic tracks on her album Dreamweaver.
+
+A. obfuscate
+B. repudiate
+C. heed
+D. supersede
+Answer: B
+

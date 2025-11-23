@@ -1,0 +1,281 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2018 article celebrating films depicting the Black experience, critics for the New York Times
+_______ Ossie Davis’s 1970 film Cotton Comes to Harlem and Cheryl Dunye’s 1996 film The Watermelon
+Woman, praising the former as “especially pointed” and the latter as “heartbreaking and
+inspiring.”
+
+A. inspired
+B. satirized
+C. overlooked
+D. commended
+Answer: D
+
+Question 2:
+As used in the text, what does the word "betraying" most nearly mean?
+
+The following text is from Edward Gibbon's 1796 Memoirs of My Life and Writings. Gibbon reflects
+on publishing a volume of his series The History of the Decline and Fall of the Roman Empire. I am at a loss
+how to describe the success of the work, without betraying the vanity of the writer. The first impression was
+exhausted in a few days; a second and third edition were scarcely adequate to the demand.
+
+A. Forsaking
+B. Distorting
+C. Exploiting
+D. Exposing
+Answer: D
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+With his widely celebrated portraits of poet Seamus Heaney, molecular biologist Struther Arrnold ,
+and other prominent figures in different fields, British painter Peter Edwards has _____ substantial prestige as
+an artist.
+
+A. required
+B. remembered
+C. achieved
+D. avoided
+Answer: C
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although the clustering of information technology firms in Northern California is often cited as
+typical of industrial agglomeration, Giulia Faggio et al. use UK data to show that the mix of factors driving the
+phenomenon is ___ across industries: while the potential for knowledge spillovers can prompt agglomeration,
+collocation among tube manufacturers occurs for different reasons.
+
+A. credible
+B. heterogeneous
+C. imperative
+D. decisive
+Answer: B
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities estimate where sidewalks are located using road maps, which is not very accurate.
+Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Boston
+and used it on images of Brooklyn. The program’s performance was ______ to that of the road-map method: it
+more accurately identified sidewalks, and it even distinguished between concrete and brick.
+
+A. changed
+B. superior
+C. similar
+D. supportive
+Answer: B
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Becoming a member of the organization Indigenous Photograph has helped Sara Aliaga Ticona
+(Aymara) to____ her work with an audience beyond Bolivia, where she's from. The organization's database of
+members is used by photography editors and others in the media industry around the world.
+
+A. share
+B. split
+C. challenge
+D. examine
+Answer: A
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Nutritionists often recommend that individuals adopt dietary regimens that are relatively rigorous
+and consequently challenging to maintain. Nevertheless, studies indicate that the more _____ strategy toward
+dietary adherence appears to prioritize comfort over effectiveness; notably, the third most frequently adopted
+eating habit in 2020 involved the uncomplicated rule of "eat when hungry."
+
+A. intricate
+B. pragmatic
+C. innovative
+D. prevalent
+Answer: D
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+British painter Peter Edwards is known for his portraits of notable figures in different fields, from
+poet Wendy Cope to mathematician Christopher Zeeman. Widespread admiration of these works has helped
+Edwards gain substantial _______ as an artist.
+
+A. sympathy
+B. prestige
+C. assistance
+D. tolerance
+Answer: B
+
+Question 9:
+As used in the text, what does the word "tell" most nearly mean?
+
+The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the
+narrator looking around his father's apartment."Pops's apartment is just his own little bookshelves. He once
+said you can tell a man's worth by the number of books he owns. I guess this means Pops is overflowing
+with riches because ever since I can remember I was never without a book within reach.
+
+A. Judge
+B. Urge
+C. Adore
+D. Teach
+Answer: A
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Egyptian plover—a bird native to Africa—has a symbiotic relationship with the Nile crocodile.
+While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food
+that is stuck in the crocodile’s teeth. This ______ relationship provides a nutritious meal for the bird and
+removes potentially dangerous bacteria from the crocodile’s mouth.
+
+A. reciprocal
+B. interchangeable
+C. inefficient
+D. unequal
+Answer: A
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+About 50 years ago (between 1969 and 1972), the Apollo spacecraft successfully conducted
+multiple landings on the moon. In order to maximize the acquisition of lunar rock samples, the returning
+astronauts abandoned numerous artifacts, which encompassed roughly 10 experimental installations
+dedicated to documenting lunar conditions. These facilities remained operational and continued gathering
+substantial data even after the astronauts’ departure. Subsequently, NASA diverted its focus toward other
+endeavors, inadvertently neglecting the data. Recently, as NASA endeavors to revitalize its lunar program,
+some scientists have once again unearthed this long-forgotten dataset, unveiling novel methodologies to
+_____ its scientific utility.
+
+A. renew
+B. persist
+C. renounce
+D. preclude
+Answer: A
+
+Question 12:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the short story, are recognizable
+as such even as they evolve, there are rarer "intergeneric" forms that might, for example, use elements of
+both fiction and essays to create something unclassifiable. Anne Carson's collection Float arguably fits in
+this category, since it straddles the line between prose and poetry.
+
+A. neutral
+B. equivocal
+C. intermediate
+D. orthodox
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+American surrealistic artist William Nelson Copley and his friend and fellow artist Dimitri Petrov
+cofounded an innovative artists’ magazine known as S.M.S, in which contributors enjoyed complete freedom
+to create artistic works that Copley and Petrov would then reproduce with______ fidelity, sparing no expense
+in producing a biweekly folio of painstakingly replicated art facsimiles.
+
+A. evenhanded
+B. prudent
+C. scrupulous
+D. complacent
+Answer: C
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal
+hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary
+Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a
+single design is a trend with both aesthetic and highly practical purposes.
+
+A. synthesis
+B. designation
+C. analysis
+D. diffusion
+Answer: A
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Cuttlefish appear to be surprisingly ________ at exercising self-control: in a 2021 study conducted by
+behavioral ecologist Alexandra Schnell, these cephalopods routinely demonstrated restraint by delaying
+gratification, waiting for a favorite treat instead of instantly devouring a readily available meal.
+
+A. manageable
+B. maladroit
+C. adept
+D. ingenuous
+Answer: C
+
+Question 16:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The people inhabiting the Ice Age sites now known as Shizitan and Kurtak-4 likely began wearing
+clothing as a defense against the cold, but Ian Gilligan et al. argue that as clothing became ______, its
+purpose shifted from the purely practical. Once wearing clothing turned into a widespread, familiar practice,
+differences in clothes could take on social and cultural significance.
+
+A. ubiquitous
+B. divisive
+C. provisional
+D. feasible
+Answer: A
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A rising illustrator of children’s books spoke at a recent publishing conference about what motivated
+her to pursue a career in children’s literature. The presenter credited much of her inspiration to _____ Kathleen
+Atkins Wilson’s work in The Origin of Life on Earth: An African Creation Myth, which was among the
+presenter’s favorite books as a child.
+
+A. a complacency about
+B. an ambivalence toward
+C. an affinity for
+D. a stipulation about
+Answer: C
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+As the use of non-oil energy resources has increased, the relationship between oil shocks—such as
+the 57% rise in oil prices from May 1979 to January 1980—and national economic activity has ______. Indeed,
+Gbadebo Oladosu and colleagues showed that the effect of recent oil shocks on the gross domestic product
+of India was only slightly greater than zero.
+
+A. reverted
+B. acquiesced
+C. oscillated
+D. abated
+Answer: D
+
+Question 19:
+As used in the text, what does the word “immeasurable” most nearly mean?
+
+The following text is from Rainer Maria Rilke’s poem “Evening.”The sky puts on the darkening blue
+coatheld for it by a row of ancient trees;thou watch: and the lands grow distant in thou sight, one journeying
+to heaven, one that falls;and leave thou, not at home in either one,not quite so still and dark as the darkened
+houses, not calling to eternity with the passionof what becomes a star each night, and rises;and leave thou
+(inexpressibly to unravel) thou life, with its immensity and fear,so that, now bounded, now immeasurable, it is
+alternately stone in thy and star.
+
+A. incalculable
+B. circumscribed
+C. egregious
+D. culpable
+Answer: A
+
+Question 20:
+Which choice completes the text with the most logical and precise word or phrase?
+
+_____ though it seemed to many mathematicians, Nagata’s conjecture, posed in 1972, eventually
+yielded to the combined efforts of Ualhai U. Umirbaev and Ivan P. Shestakov, who presented a proof of it in
+2004.
+
+A. Unequivocal
+B. Ineluctable
+C. Irreproachable
+D. Insuperable
+Answer: D
+

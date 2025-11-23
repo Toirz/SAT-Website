@@ -1,0 +1,277 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Before the Mariner 2 mission completed a successful flyby of Venus in 1962, astronomers' ideas
+about the planet were little more than ____; Venus's atmosphere is so thick that Earth-based observations
+had yielded very little information about the planet.
+
+A. summations
+B. conjectures
+C. exemplifications
+D. conclusions
+Answer: B
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In their natural habitats, mammals are virtually never observed to ______ offspring of another
+species: foxes do not nurse hedgehog pups, zebras do not rear antelope calves, and pandas do not tend
+infant macaques.
+
+A. protects
+B. fosters
+C. aids
+D. cajoles
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Randomized clinical trials that evaluate common medical interventions are often not ______ with the
+conclusions clinicians draw from day-to-day patient observations. One reason for this mismatch is that
+clinicians may overlook confounding variables that actually drive the outcomes they attribute to the
+interventions.
+
+A. consonant
+B. punctilious
+C. salubrious
+D. minatory
+Answer: A
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Postcranial skeletal pneumaticity (PSP) refers to the presence of extensions of an animal’s lungs
+and air sacs inside its bones. Though such structures do not typically fossilize, they are believed to have
+been present in Tyrannosaurus, Sauroposeidon, and other Cretaceous theropods and sauropods. To _____
+PSP from fossils, researchers look for indicators such as large foramina (holes in bones).
+
+A. infer
+B. acquire
+C. isolate
+D. preserve
+Answer: A
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Because blue holes (such as the Great Blue Hole near Belize) and cenotes (such as Cenote Calavera
+in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being
+_______ , but both are water-filled sinkholes typically produced by the natural dissolution and collapse of
+rocks.
+
+A. explicable
+B. distinct
+C. analogous
+D. incongruous
+Answer: C
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The ancestral lineage of Oneida white corn, tracing back to its domestication in southern Mexico
+circa 7000 BCE, reveals that its diffusion to eastern North America was not a direct geographical expansion.
+Instead, the process was remarkably ______, moving first to northern Mexico, then to southwestern
+populations in areas like present-day Arizona by 275 BCE, and only much later reaching the Oneida people.
+
+A. expeditious
+B. parochial
+C. circuitous
+D. fortuitous
+Answer: C
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Literary production in the period after the Mexican Revolution (which lasted from 1910–1920) was
+______, with writers like Octavio Paz contributing to the outpouring of poetry, fiction, essays, and more.
+Unfortunately, this flood of interesting writing can divert scholarly attention from the fascinating work of
+nineteenth-century figures like Guillermo Prieto.
+
+A. occasional
+B. inconsistent
+C. disfavored
+D. prolific
+Answer: D
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Many readers both young and old enjoyed and ____ Kirby Larson's book Hattie Big Sky, so it was not
+a surprise when the Association for Library Service to Children named it a Newbery Honor Book in 2007.
+
+A. ignored
+B. praised
+C. rejected
+D. created
+Answer: B
+
+Question 9:
+Which choice completes the text with the most logical and precise word or phrase?
+
+City planners need accurate maps of their city’s sidewalks to properly maintain them, but mapping
+manually is slow. Maryam Hosseini and her team addressed this by training a computer program to identify
+sidewalks in aerial images of Manhattan. When they used the program on aerial images of Brooklyn, it
+accurately _____ sidewalks and could even distinguish between concrete and cobblestone.
+
+A. approved
+B. neglected
+C. mistook
+D. detected
+Answer: D
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Stars form in cloudlike swirls of gas and dust that cannot be touched, but astrophysicist Nia Imara
+believes these formations need not remain completely _____ to researchers: she uses simulation data and
+sophisticated 3D printers to produce interactive models of these stellar nurseries.
+
+A. regrettable
+B. explicable
+C. intangible
+D. repeatable
+Answer: C
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Irving Langmuir in 1932. But
+scientists recognized with a Nobel Prize do not often conduct their work in _____ the scientific community.
+Instead, success in fields like chemistry is usually achieved through direct cooperation with other experts, as
+was the case for George Smith, who was among those awarded for “the phage display of peptides and
+antibodies.”
+
+A. detachment from
+B. deference to
+C. cooperation with
+D. competition with
+Answer: A
+
+Question 12:
+As used in the text, what does the word “manifest” most nearly mean?
+
+The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the
+granddaughter of a celebrated poet.“[Katharine’s] descent from [a celebrated poet] was no surprise to her, but
+matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very manifest.
+Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the
+conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with
+him.”
+
+A. Possible
+B. Evident
+C. Complex
+D. Particular
+Answer: B
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+British painter Peter Edwards has a ___ painting portraits of notable figures from a variety of
+different fields. These characteristic works include his esteemed portraits of writer Maud Sulter and soccer
+player Bobby Charlton.
+
+A. complaint about
+B. question about
+C. requirement for
+D. reputation for
+Answer: D
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The way in which individual elements are balanced within a photographic image tends to affect how
+viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes
+differences, and radial balance (organizing the elements around a central point) emphasizes the center over
+the periphery. What a photograph conveys is therefore largely ___ how it is balanced.
+
+A. contingent on
+B. reserved for
+C. obligated to
+D. inhibited by
+Answer: A
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+When it comes to crafting policy recommendations to protect species at risk, lessons from previous
+declines in biodiversity can be especially ______. The factors that contributed to the extinction of the
+Caribbean ground sloth around 3000 BCE, for example, may be applicable to endangered species today.
+
+A. singular
+B. facile
+C. germane
+D. contentious
+Answer: C
+
+Question 16:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The subscription model in which consumers who do not deliberately cancel their subscriptions
+automatically pay recurring fees for access to products and services benefits retailers when consumer
+__________ is high. Many of the 8.5 percent of subscribers who canceled their food and beverage
+subscriptions in January 2022 had stopped valuing their subscriptions long before then, but sellers profited
+from those customers’ passivity in the interim.
+
+A. inertia
+B. evasion
+C. decisiveness
+D. turnover
+Answer: A
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2020 paper, Arya Udry et al. cautioned that although similarities in the isotopic signatures of
+elements detected in Mars’ s atmosphere and in Martian meteorites recovered on Earth make it tempting to
+treat the geochemical properties of the meteorites as ________ those of Mars’ s interiors, Mars’ s geology
+cannot be ascertained based solely on meteorite-sample analyses.
+
+A. contrivances of
+B. adjuncts to
+C. proxies for
+D. aberrations in
+Answer: C
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The 4 Africa Exchange in Johannesburg, South Africa, is a dedicated exchange for investing in
+companies operating in South Africa, ensuring those companies receive certain regulatory oversight.
+Knowing this can ______ potential investors' worries about bureaucratic minutiae and thereby allow them to
+instead focus on identifying sound business opportunities.
+
+A. assuage
+B. designate
+C. convey
+D. amplify
+Answer: A
+
+Question 19:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The examination of 150 limestone spheroids dating back 1.4 million years led archaeologists to a
+compelling ______: the rocks' consistent spherical shape was not a natural occurrence but the result of
+intentional crafting by early hominins, an activity that suggests a previously underestimated level of cognitive
+sophistication.
+
+A. consternation
+B. supposition
+C. encomium
+D. aberration
+Answer: B
+
+Question 20:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Siemowit is said to have ruled what eventually became Poland in the 9th century. Unlike that of
+Bezprym or other well-attested figures from early Polish history, Siemowit's existence has been the subject of
+debate, as our knowledge of him is ____ somewhat dubious oral traditions first written down hundreds of
+years after the events they describe.
+
+A. unsupported by
+B. independent of
+C. derived from
+D. reminiscent of
+Answer: C
+

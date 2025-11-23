@@ -1,0 +1,276 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of global relevance, much major research on income inequality performed in
+the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due
+to limited data availability. Researchers would later ____ this shortcoming after gaining new access to
+administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as
+Russia.
+
+A. reprieve
+B. portend
+C. impute
+D. allay
+Answer: D
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although many inequality studies published in the 2010s proclaimed “global” relevance, severe data
+gaps beyond North America and Western Europe forced scholars to limit their analyses to those regions. In
+fact, given the absence of administrative records from countries such as Côte d’Ivoire or Poland, that
+geographic narrowness was simply ______; only after those data became available could researchers widen
+their scope.
+
+A. gratuitous
+B. ineluctable
+C. capricious
+D. nugatory
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Discussions surrounding the adoption of automated essay grading software typically center on its
+efficiency for instructors, but educational theorist Dr. Elara Vance has posited that over-reliance on this
+technology could ______ genuine critical thinking skills in students by incentivizing formulaic writing over
+nuanced argumentation.
+
+A. disparage
+B. galvanize
+C. eclipse
+D. impede
+Answer: D
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+During a 2021 debate at Cambridge, some philosophers argued that mathematical reasoning could
+be an evolved instinct rather than a uniquely rational feat. To academics who view mathematics as the
+pinnacle of human intellect and regard instincts as merely brute impulses, that notion sounds ____.
+
+A. jarring
+B. plausible
+C. gratifying
+D. inevitable
+Answer: A
+
+Question 5:
+As used in the text, what does the word "constantly" most nearly mean?
+
+The following text is adapted from Willa Cather's 1912 novel Alexander's Bridge.For the next few
+days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta
+Street, and was at work almost constantly. He avoided the clubs and usually dined alone at his hotel.
+
+A. imperceptibly
+B. Fearfully
+C. Continuously
+D. Hastily
+Answer: C
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Andrei Tarkovsky’s Solaris has the measured pace typical of slow-cinema films. Thai slow-cinema
+director Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His Past Lives) even states that his
+own work induces sleep in audiences. This might suggest his films are boring, but boredom does not always
+cause sleep: boredom creates an anxious tension in the absence of a place to fix attention, and thus induces
+not somnolence but _____.
+
+A. fortitude
+B. perturbation
+C. nonchalance
+D. indolence
+Answer: B
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+At a 2023 Dublin Literary Festival keynote, critic Aoife Gallagher observed that the Irish concept of
+surrender embraces a striking duality: in one sense, it signals a daring rupture from an oppressive
+commitment, yet in another, it embodies the very height of _____—a quiet yielding to destiny.
+
+A. sham
+B. fissure
+C. desperation
+D. passivity
+Answer: D
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Telemetry archives from the Apollo Moon landings (1969 – 1972)—recordings from solar-wind
+monitors, seismic arrays, and other instruments—sat dormant for decades. Only after a recent digitization
+initiative were those data rendered ______, enabling geophysicist Renee Weber to mine them for clues about
+lunar tectonics.
+
+A. byzantine
+B. emblematic
+C. accessible
+D. foreseeable
+Answer: C
+
+Question 9:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the decades after Mexico won its independence from Spain, literature became a medium through
+which the new nation _____ its autonomous identity, with authors like Manuel Payno and Justo Sierra Méndez
+helping to shape what would become a distinctly Mexican literary tradition.
+
+A. overcame
+B. realized
+C. decried
+D. evaded
+Answer: B
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fact that publications by University of California-Berkeley economist Bronwyn Hughes Hall, who
+studies innovation and economics, are so frequently cited in other scholars' work ______ the usefulness of
+her research for her peers—other economists clearly find her studies valuable for their own scholarship.
+
+A. controverts
+B. accentuates
+C. precludes
+D. supplants
+Answer: B
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis XII or Louis IV was historically consequential
+or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be
+understood without a corollary understanding of the factors that allowed the monarch to _____ his right to
+hold the throne successfully.
+
+A. assert
+B. annotate
+C. reciprocate
+D. disengage
+Answer: A
+
+Question 12:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Maryam Hosseini and colleagues trained a computer program to identify sidewalks in aerial images
+of Manhattan and used it on images of Washington, DC. For both Manhattan and Washington, DC, it _____
+well: the program was very accurate for both cities and could distinguish between concrete and granite.
+
+A. noted
+B. recovered
+C. functioned
+D. promoted
+Answer: C
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Building additional road capacity may seem like an obvious solution to traffic congestion, but
+numerous studies have cast doubt on the _____ of that approach. Not only does additional road capacity
+often fail to relieve congestion, but it can also make traffic worse by encouraging more people to drive.
+
+A. efficacy
+B. aesthetics
+C. originality
+D. popularity
+Answer: A
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Fly River delta is a remarkably ______ landscape: it is a constantly evolving network of channels
+and strips of land that change in size and shape as the river deposits new sedimentary particles where the
+river meets the waters of the Gulf of Papua.
+
+A. protean
+B. salubrious
+C. secluded
+D. monolithic
+Answer: A
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Roc-aux-Sorciers frieze—a group of relief carvings of animals found in what is now France and
+dating from around 14,000 years ago—is thought of as art today, but how the people of the time understood
+the frieze is _____. They may have thought of the frieze as something akin to art in our modern sense, but it is
+entirely possible that they did not—we simply cannot say for certain.
+
+A. unknown
+B. uncontroversial
+C. unsurprising
+D. unalterable
+Answer: A
+
+Question 16:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Artturi Ilmari Virtanen in
+1944. But scientists recognized with a Nobel Prize do not often conduct their work in _____ the scientific
+community. Instead, success in fields like chemistry is usually achieved through direct cooperation with
+other experts, as was the case for Frederick Sanger, who was among those awarded for “the development of
+chemical and biological analyses of DNA structure”.
+
+A. competition with
+B. isolation from
+C. deference to
+D. collaboration with
+Answer: B
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The decline of the giant pika, a species found throughout northern North America before it became
+extinct around 8000 BCE, surely had a number of _____ the larger ecosystem in which it existed. The giant
+pika was part of a complex food web with other organisms, and its disappearance likely affected several
+other species.
+
+A. commonalities to
+B. precedents in
+C. provenances in
+D. repercussions for
+Answer: D
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Randomized clinical trials designed to gauge the efficacy of widely used medical interventions often
+display little ______ with the conclusions clinicians draw from day-to-day experience. One possible cause of
+this mismatch is that clinicians may miss confounding variables that actually drive the outcomes they credit
+to the interventions.
+
+A. implementation
+B. circumvention
+C. resemblance
+D. propagation
+Answer: C
+
+Question 19:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a garden, ____ the spread of unwelcome weeds such as nutgrass can be difficult because weeds
+usually spread easily and quickly become unmanageable, making it hard to remove them completely.
+
+A. Retrieving
+B. Saving
+C. Halting
+D. Pretending
+Answer: C
+
+Question 20:
+As used in the text, what does the word “end” most nearly mean?
+
+The following text is adapted from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol has recently
+begun working at an architecture firm in New York.
+His contributions are incidental, and never fully his own: a stairwell, a skylight, a corridor, an air-conditioning
+duct. Still, he knows that each component of a building, however small, is nevertheless essential, and he
+finds it gratifying that after all his years of schooling, all his crits [reviews] and unbuilt projects, his efforts are
+to have some practical end.
+
+A. Limit
+B. Delay
+C. Decision
+D. Purpose
+Answer: D
+

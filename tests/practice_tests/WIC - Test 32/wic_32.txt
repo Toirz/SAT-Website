@@ -1,0 +1,282 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the American National Corpus are enormous collections of electronically
+stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word
+usage. For example, a linguist who assumes that the word “get” appears quite often in written English could
+________ that assumption with data from a corpus: “get” is the fifth most commonly used verb.
+
+A. refute
+B. transpose
+C. substantiate
+D. entail
+Answer: C
+
+Question 2:
+As used in the text, what does the underlined figurative phrase most nearly mean?
+
+The following text is from William Carlos Williams’s 1925 creative nonfiction book In the American
+Grain. Williams is discussing how writers by nineteenth-century US poet and fiction writer Edgar Allan Poe
+have been guided by Poe's work.Poe must suffer by his originality. Invent that which is new, even if it be
+made of pine from your own yard, and there's none to know what you have done. It is because he has had no
+grounds to stand on. From nothing, of himself. He was American. He was the astounding, inconceivable
+growth of his locality.
+
+A. Personal experiences that are hard for others to comprehend
+B. Ideas you have never previously expressed
+C. Elements of the culture in which you live
+D. Inspiration you received while reading independently
+Answer: C
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Highly influential leader of the US civil rights movement, Martin Luther King Jr._______his
+commitment to nonviolent resistance by organizing and directing numerous peaceful protests like sit-ins
+across the United States in the 1960s; his actions revealed his unwavering dedication to enhancing the
+cause of civil rights without resorting to violence.
+
+A. characterized
+B. evinced
+C. elided
+D. gauged
+Answer: B
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Certain features are almost always included in the designs of mosques, like the minaret (or tower),
+which is considered to be a ____ of mosque architecture. Even mosques that exhibit elements of multiple
+architectural styles, such as the Shah Jahan Mosque, which incorporates elements from the Mughal, Safavid,
+and Timurid styles, will also include several of these standard features.
+
+A. quintessence
+B. repudiation
+C. impetus
+D. replica
+Answer: A
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some social scientists argue that for a democracy to function, the lessons drawn by its electorate
+from the past must be clear and actionable. While professional historians rightly delve into the complexities
+and ambiguities of events, the fundamental political takeaways for the public—the stark warnings against
+authoritarianism, for instance—cannot be mired in academic ambiguity. For the purpose of civic education,
+history's core message must be rendered too ______ to be left solely to the nuanced discourse of academics.
+
+A. salient
+B. erudite
+C. contentious
+D. unequivocal
+Answer: D
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A speaker at a recent children’s book publishing conference noted that, while many authors do
+excellent work, in her mind, no one has ever ________ Ellease Southerland’s work as the author of Let the Lion
+Eat Straw: there is no better example of the form, according to the speaker.
+
+A. cited
+B. augmented
+C. eclipsed
+D. convened
+Answer: C
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The researchers' discovery of similar blood chemistry markers in both high-altitude dwellers and
+residents of below-sea-level towns like Salton City created a significant ______ in the prevailing physiological
+models, which had predicted opposite effects.
+
+A. repudiation
+B. dispcrepancy
+C. diffidence
+D. largesse
+Answer: B
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Derived from research conducted with factory workers from 1924 to 1933, the Hawthorne effect
+suggests that participants’ awareness that they are being studied alters their behavior and influences study
+outcomes. Since then, several researchers have claimed to invalidate this phenomenon, positing that the
+Hawthorne effect cannot be ______ because attempts to detect it invariably involve faulty research methods.
+
+A. substantiated
+B. hypothesized
+C. rectified
+D. inculcated
+Answer: A
+
+Question 9:
+As used in the text, what does the word “straight” most nearly mean?
+
+The following text is from Jacqueline Woodson’s 2018 novel Harbor Me. In the novel, the narrator
+and Esteban are classmates. An hour after class started on that Friday, Esteban came in, his head down,
+his hair slicked wet against his forehead, his Yankees cap dripping with rain. He walked straight to his seat
+without looking at the rest of us. I watched him sink into his seat so sadly and heavily, it felt like the whole
+room shivered.
+
+A. Delightedly
+B. Truthfully
+C. Directly
+D. Formally
+Answer: C
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+People sometimes dismiss a claim if it comes from a source they regard as self-interested, but from
+a strictly logical perspective, the source of a claim is ________: it has no direct bearing on whether the claim is
+true.
+
+A. indistinct
+B. indisputable
+C. implicit
+D. irrelevant
+Answer: D
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the
+United States. In 2006, the fellowship was given to the Puerto Rican stringed-instrument maker Donomedes
+Matos. Matos was ______ to receive it because of his lifetime contributions to the arts.
+
+A. chosen
+B. reluctant
+C. confused
+D. ineligible
+Answer: A
+
+Question 12:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Since its founding in the early 1990s, the discipline of climate-risk forecasting has seen sweeping
+revisions: its once-lofty aim of predicting every social consequence of rising temperatures has been _____, if
+not outright discarded.
+
+A. subverted
+B. abandoned
+C. relinquished
+D. tempered
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The theory of mass glaciation as the primary driver of the End-Ordovician mass extinction,
+responsible for the demise of 85 percent of all marine life, provides a comprehensive framework for the
+event. However, since critical evidence from the Ordovician seafloor has been largely obliterated by tectonic
+subduction, the explanation, compelling as it is, remains more ______ than factual.
+
+A. axiomatic
+B. empirical
+C. notional
+D. tenable
+Answer: C
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Hunting Expedition is an important work of Nihonga, or classical Japanese painting. Unlike Wada
+Eisaku, who adopted traditional European methods such as painting with oil on canvas, Domoto Inshõ _____
+traditional Japanese approaches. For instance, Domoto produced Hunting Expedition by applying color
+pigments to a silk screen.
+
+A. overlooked
+B. renounced
+C. espoused
+D. emancipated
+Answer: C
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+To evaluate their ideas about environmental conditions in the Pleistocene epoch, paleontologists
+must turn to ______ evidence. Only material objects—such as the fossil remains of the individual known as
+Selam-1, discovered in Chad in 1961—can show whether a particular idea about the Pleistocene is
+defensible.
+
+A. intricate
+B. contentious
+C. concrete
+D. nebulous
+Answer: C
+
+Question 16:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are enormous collections of electronically stored
+texts that can be used for empirical testing of hypotheses regarding how _____a word is in spoken and
+written English. For instance, one might have a guess about the incidence of the word “world,” but only an
+analysis of a corpus can prove that “world” is the eighth most commonly used noun.
+
+A. pervasive
+B. credible
+C. assertive
+D. profound
+Answer: A
+
+Question 17:
+Which choice completes the text with the most logical and precise word or phrase?
+
+During the 2007–2010 financial crisis, the United States extended billions of dollars to selected
+countries’ central banks through swap-line agreements. After controlling for variables such as GDP and
+exposure to U.S. banks, Aditi Sahasrabuddhe determined that a country’s policy stance toward foreign-
+capital inflows was virtually _____ to the final swap-line decision: once those other factors were taken into
+account, the probability of receiving a line differed by less than one percentage point between liberal and
+restrictive regimes.
+
+A. instrumental
+B. inconsequential
+C. determinative
+D. germane
+Answer: B
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Ecologist Ezequiel Ezcurra and colleagues found that the inhabitants of the Mexica empire used
+natural landmarks to track time with a high degree of ______. By observing the sun's position in relation to
+various points on the mountains surrounding the Basin of Mexico, the Mexica were able to precisely identify
+the dates when significant events such as solstices occurred.
+
+A. precariousness
+B. exactitude
+C. resilience
+D. inconspicuousness
+Answer: B
+
+Question 19:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Political scientists have found that although voters claim to prefer candidates who have nuanced
+perspectives on issues and who show a willingness to compromise, when asked to compare speeches
+expressing such views with speeches expressing _____ views, voters tend to regard the unyielding rhetoric of
+the latter more favorably.
+
+A. vacillating
+B. dogmatic
+C. banal
+D. disingenuous
+Answer: B
+
+Question 20:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Anadromous birds shift between temperate and tropical climates as part of their annual migration
+patterns. This obligatory movement is why anadromous species can be ______ those that are merely
+stenothermal (capable of surviving a limited temperature range): the stenothermal Arctic tern thrives in cold
+climates but does not require migration between contrasting zones, unlike the anadromous bar-headed
+goose.
+
+A. delineated from
+B. redefined as
+C. inferred from
+D. equated with
+Answer: A
+

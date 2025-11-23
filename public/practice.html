@@ -165,7 +165,6 @@
 
   const params = new URLSearchParams(window.location.search);
   const category = params.get("category") || "real_tests";
-  let filterKeyword = "";
 
   const categoryMap = {
     real_tests: "Đề thi thật",
@@ -217,6 +216,34 @@
     }
   }
 
+  const filterDisplay = document.getElementById("filter-display");
+  const filterOptions = document.getElementById("filter-options");
+  const filterPlaceholder = category === "practice_tests"
+    ? "Chọn dạng bài luyện tập"
+    : "Chọn tháng/năm đề thi thật";
+  if (filterDisplay) {
+    filterDisplay.placeholder = filterPlaceholder;
+  }
+
+  const monthNames = [
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november",
+    "december",
+  ];
+
+  let filterKeyword = "";
+  let cachedTests = [];
+  let searchEventsBound = false;
+
   function extractMonthYear(name = "") {
     const match = name.match(/^SAT\s+([A-Za-z]+\s+\d{4})/i);
     return match ? match[1] : null;
@@ -228,28 +255,50 @@
 
     const [monthName, yearStr] = parts;
     const year = parseInt(yearStr, 10);
-    const monthIndex =
-      [
-        "january",
-        "february",
-        "march",
-        "april",
-        "may",
-        "june",
-        "july",
-        "august",
-        "september",
-        "october",
-        "november",
-        "december",
-      ].indexOf(monthName.toLowerCase());
+    const monthIndex = monthNames.indexOf(monthName.toLowerCase());
 
     if (Number.isNaN(year) || monthIndex === -1) return null;
 
     return { year, monthIndex };
   }
 
-  function buildFilterOptions(realTests = []) {
+  function getPracticeType(name = "") {
+    const [type] = name.split("-");
+    return type ? type.trim() : "";
+  }
+
+  function toggleOptions(forceState) {
+    const inputWrapper = document.getElementById("date-filter");
+    if (!filterOptions || !inputWrapper) return;
+
+    const isOpen =
+      typeof forceState === "boolean"
+        ? forceState
+        : !filterOptions.classList.contains("open");
+
+    filterOptions.classList.toggle("open", isOpen);
+    inputWrapper.classList.toggle("active", isOpen);
+  }
+
+  function attachSearchEvents() {
+    if (searchEventsBound) return;
+    const inputWrapper = document.getElementById("date-filter");
+    if (!inputWrapper || !filterOptions) return;
+
+    inputWrapper.addEventListener("click", () => toggleOptions());
+
+    document.addEventListener("click", (e) => {
+      if (!inputWrapper.contains(e.target) && !filterOptions.contains(e.target)) {
+        toggleOptions(false);
+      }
+    });
+
+    searchEventsBound = true;
+  }
+
+  function buildRealFilterOptions(realTests = []) {
+    if (!filterOptions || !filterDisplay) return;
+
     const options = Array.from(
       new Set(
         realTests
@@ -266,22 +315,18 @@
       return bParts.monthIndex - aParts.monthIndex;
     });
 
-    const optionsContainer = document.getElementById("filter-options");
-    const displayInput = document.getElementById("filter-display");
-    if (!optionsContainer || !displayInput) return;
-
-    optionsContainer.innerHTML = "";
+    filterOptions.innerHTML = "";
 
     const allBtn = document.createElement("button");
     allBtn.className = "option-item";
     allBtn.textContent = "Tất cả đề";
     allBtn.addEventListener("click", () => {
       filterKeyword = "";
-      displayInput.value = "";
+      filterDisplay.value = "";
       toggleOptions(false);
-      loadTests();
+      renderTests();
     });
-    optionsContainer.appendChild(allBtn);
+    filterOptions.appendChild(allBtn);
 
     options.forEach((opt) => {
       const btn = document.createElement("button");
@@ -289,98 +334,93 @@
       btn.textContent = opt;
       btn.addEventListener("click", () => {
         filterKeyword = opt;
-        displayInput.value = opt;
+        filterDisplay.value = opt;
         toggleOptions(false);
-        loadTests();
+        renderTests();
       });
-      optionsContainer.appendChild(btn);
+      filterOptions.appendChild(btn);
     });
   }
 
-  function toggleOptions(forceState) {
-    const optionsContainer = document.getElementById("filter-options");
-    const inputWrapper = document.getElementById("date-filter");
-    if (!optionsContainer || !inputWrapper) return;
+  function buildPracticeFilterOptions(practiceTests = []) {
+    if (!filterOptions || !filterDisplay) return;
 
-    const isOpen =
-      typeof forceState === "boolean"
-        ? forceState
-        : !optionsContainer.classList.contains("open");
+    const types = Array.from(
+      new Set(practiceTests.map((name) => getPracticeType(name)).filter(Boolean))
+    ).sort((a, b) => a.localeCompare(b));
 
-    optionsContainer.classList.toggle("open", isOpen);
-    inputWrapper.classList.toggle("active", isOpen);
-  }
+    filterOptions.innerHTML = "";
 
-  function attachSearchEvents() {
-    const inputWrapper = document.getElementById("date-filter");
-    const optionsContainer = document.getElementById("filter-options");
+    const allBtn = document.createElement("button");
+    allBtn.className = "option-item";
+    allBtn.textContent = "Tất cả dạng bài";
+    allBtn.addEventListener("click", () => {
+      filterKeyword = "";
+      filterDisplay.value = "";
+      toggleOptions(false);
+      renderTests();
+    });
+    filterOptions.appendChild(allBtn);
 
-    if (!inputWrapper || !optionsContainer) return;
-
-    inputWrapper.addEventListener("click", () => toggleOptions());
-
-    document.addEventListener("click", (e) => {
-      if (!inputWrapper.contains(e.target) && !optionsContainer.contains(e.target)) {
+   types.forEach((type) => {
+      const btn = document.createElement("button");
+      btn.className = "option-item";
+      btn.textContent = type;
+      btn.addEventListener("click", () => {
+        filterKeyword = type;
+        filterDisplay.value = type;
         toggleOptions(false);
-      }
+        renderTests();
+      });
+      filterOptions.appendChild(btn);
     });
   }
 
-  async function loadTests() {
-    try {
-      const res = await fetch(`/api/tests?category=${category}`);
-      if (res.status === 403) {
-        const data = await res.json().catch(() => ({}));
-        renderLockedMessage(data.error || "Bạn không có quyền xem mục này.");
-        return;
-      }
-      const data = await res.json();
-      const tests = data.tests || [];
+  function renderRealTests(tests = []) {
+    const list = document.getElementById("test-list");
+    if (!list) return;
 
-      const list = document.getElementById("test-list");
       list.innerHTML = "";
 
       const filteredTests = filterKeyword
-        ? tests.filter((name) =>
-            name.toLowerCase().includes(filterKeyword.toLowerCase())
-          )
-        : tests;
-      
+      ? tests.filter((name) => name.toLowerCase().includes(filterKeyword.toLowerCase()))
+      : tests;
+
       const groups = {};
 
-      if (filteredTests.length === 0) {
-        const noDataMessage = filterKeyword
-          ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
-          : "Chưa có đề trong mục này.";
-        list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
-        return;
-      }
+    if (filteredTests.length === 0) {
+      const noDataMessage = filterKeyword
+        ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
+        : "Chưa có đề trong mục này.";
+      list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
+      return;
+    }
 
-      filteredTests.forEach(name => {
-        const prefix = name.replace(/ - Mod \d+$/, "");
-        if (!groups[prefix]) groups[prefix] = [];
-        groups[prefix].push(name);
-      });
+    filteredTests.forEach((name) => {
+      const prefix = name.replace(/ - Mod \d+$/, "");
+      if (!groups[prefix]) groups[prefix] = [];
+      groups[prefix].push(name);
+    });
 
-      Object.keys(groups).forEach(testName => {
-        const groupBox = document.createElement("div");
-        groupBox.className = "test-group";
+    Object.keys(groups).forEach((testName) => {
+      const groupBox = document.createElement("div");
+      groupBox.className = "test-group";
 
-        groupBox.innerHTML = `
+      groupBox.innerHTML = `
           <div class="group-title">${testName}</div>
           <div class="group-grid"></div>
         `;
 
-        const grid = groupBox.querySelector(".group-grid");
+      const grid = groupBox.querySelector(".group-grid");
 
-        groups[testName].forEach(fullName => {
-          const mod = fullName.match(/Mod (\d+)/)?.[1] || "?";
-          const filePath = `${category}/${fullName}`;
+      groups[testName].forEach((fullName) => {
+        const mod = fullName.match(/Mod (\d+)/)?.[1] || "?";
+        const filePath = `${category}/${fullName}`;
 
-          const card = document.createElement("div");
-          card.className = "test-card";
+        const card = document.createElement("div");
+        card.className = "test-card";
 
-          card.innerHTML = `
+        card.innerHTML = `
               <div class="test-header">
                 Module ${mod}
                 <span class="status-badge status-black">Chưa làm bài</span>
@@ -396,67 +436,209 @@
             </div>
           `;
 
-          const startBtn = card.querySelector(".start-btn");
-          const statusBadge = card.querySelector(".status-badge");
+        const startBtn = card.querySelector(".start-btn");
+        const statusBadge = card.querySelector(".status-badge");
 
-          /* Kiểm tra đang làm dở */
-          checkState(filePath).then(inProgress => {
-            if (inProgress) {
-              startBtn.textContent = "Tiếp tục";
-              startBtn.classList.remove("start-btn");
-              startBtn.classList.add("continue-btn");
+        /* Kiểm tra đang làm dở */
+        checkState(filePath).then((inProgress) => {
+          if (inProgress) {
+            startBtn.textContent = "Tiếp tục";
+            startBtn.classList.remove("start-btn");
+            startBtn.classList.add("continue-btn");
+          } else {
+            startBtn.textContent = "Bắt đầu";
+            startBtn.classList.remove("continue-btn");
+            startBtn.classList.add("start-btn");
+          }
+        });
+
+        /* Kiểm tra đã hoàn thành từ DB */
+        fetch(`/api/test-completed?file=${encodeURIComponent(filePath)}`)
+          .then((res) => res.json())
+          .then((data) => {
+            if (!statusBadge) return;
+
+            const score = typeof data.lastScore === "number" ? data.lastScore : null;
+            const total = typeof data.lastTotal === "number" ? data.lastTotal : null;
+
+            // Reset classes
+            statusBadge.className = "status-badge";
+
+            if (score === null) {
+              // Not attempted
+              statusBadge.textContent = "Chưa làm bài";
+              statusBadge.classList.add("status-black");
             } else {
-              startBtn.textContent = "Bắt đầu";
-              startBtn.classList.remove("continue-btn");
-              startBtn.classList.add("start-btn");
+              statusBadge.textContent = `${score}/${total}`;
+
+              if (score === total && total > 0) {
+                statusBadge.classList.add("status-rainbow");
+              } else if (score <= 15) {
+                statusBadge.classList.add("status-red");
+              } else if (score <= 21) {
+                statusBadge.classList.add("status-yellow");
+              } else if (score <= 26) {
+                statusBadge.classList.add("status-green");
+              } else {
+                statusBadge.classList.add("status-green");
+              }
             }
           });
 
-          /* Kiểm tra đã hoàn thành từ DB */
-          fetch(`/api/test-completed?file=${encodeURIComponent(filePath)}`)
-            .then(res => res.json())
-            .then(data => {
-              if (!statusBadge) return;
+        startBtn.onclick = () =>
+          window.location.href = "test.html?file=" + encodeURIComponent(filePath);
 
-              const score = (typeof data.lastScore === 'number') ? data.lastScore : null;
-              const total = (typeof data.lastTotal === 'number') ? data.lastTotal : null;
+        card.querySelector(".history-btn").onclick = () =>
+          window.location.href = "history.html?file=" + encodeURIComponent(filePath);
 
-              // Reset classes
-              statusBadge.className = 'status-badge';
+        grid.appendChild(card);
+      });
 
-              if (score === null) {
-                // Not attempted
-                statusBadge.textContent = 'Chưa làm bài';
-                statusBadge.classList.add('status-black');
+      list.appendChild(groupBox);
+    });
+  }
+
+  function renderPracticeTests(tests = []) {
+    const list = document.getElementById("test-list");
+    if (!list) return;
+
+    list.innerHTML = "";
+
+    const filteredTests = filterKeyword
+      ? tests.filter((name) => name.toLowerCase().includes(filterKeyword.toLowerCase()))
+      : tests;
+
+    if (filteredTests.length === 0) {
+      const noDataMessage = filterKeyword
+        ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
+        : "Chưa có đề trong mục này.";
+      list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
+      return;
+    }
+
+    const groups = {};
+    filteredTests.forEach((name) => {
+      const type = getPracticeType(name) || "Dạng khác";
+      if (!groups[type]) groups[type] = [];
+      groups[type].push(name);
+    });
+
+    Object.keys(groups)
+      .sort((a, b) => a.localeCompare(b))
+      .forEach((type) => {
+        const groupBox = document.createElement("div");
+        groupBox.className = "test-group";
+
+        groupBox.innerHTML = `
+          <div class="group-title">${type}</div>
+          <div class="group-grid"></div>
+        `;
+
+        const grid = groupBox.querySelector(".group-grid");
+
+        groups[type]
+          .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
+          .forEach((testName) => {
+            const filePath = `${category}/${testName}`;
+            const card = document.createElement("div");
+            card.className = "test-card";
+
+            card.innerHTML = `
+              <div class="test-header">
+                ${testName}
+                <span class="status-badge status-black">Chưa làm bài</span>
+              </div>
+
+              <div class="test-actions">
+                <button class="btn start-btn">Start</button>
+                <button class="btn history-btn">Xem lại</button>
+              </div>
+            `;
+
+            const startBtn = card.querySelector(".start-btn");
+            const statusBadge = card.querySelector(".status-badge");
+
+            checkState(filePath).then((inProgress) => {
+              if (inProgress) {
+                startBtn.textContent = "Tiếp tục";
+                startBtn.classList.remove("start-btn");
+                startBtn.classList.add("continue-btn");
               } else {
-                statusBadge.textContent = `${score}/${total}`;
-
-                if (score === total && total > 0) {
-                  statusBadge.classList.add('status-rainbow');
-                } else if (score <= 15) {
-                  statusBadge.classList.add('status-red');
-                } else if (score <= 21) {
-                  statusBadge.classList.add('status-yellow');
-                } else if (score <= 26) {
-                  statusBadge.classList.add('status-green');
-                } else {
-                  statusBadge.classList.add('status-green');
-                }
+                startBtn.textContent = "Bắt đầu";
+                startBtn.classList.remove("continue-btn");
+                startBtn.classList.add("start-btn");
               }
             });
 
-          startBtn.onclick = () =>
-            window.location.href = "test.html?file=" + encodeURIComponent(filePath);
+            fetch(`/api/test-completed?file=${encodeURIComponent(filePath)}`)
+              .then((res) => res.json())
+              .then((data) => {
+                if (!statusBadge) return;
 
-          card.querySelector(".history-btn").onclick = () =>
-            window.location.href = "history.html?file=" + encodeURIComponent(filePath);
+                const score = typeof data.lastScore === "number" ? data.lastScore : null;
+                const total = typeof data.lastTotal === "number" ? data.lastTotal : null;
 
-          grid.appendChild(card);
-        });
+                statusBadge.className = "status-badge";
+
+                if (score === null) {
+                  statusBadge.textContent = "Chưa làm bài";
+                  statusBadge.classList.add("status-black");
+                } else {
+                  statusBadge.textContent = `${score}/${total}`;
+
+                  if (score === total && total > 0) {
+                    statusBadge.classList.add("status-rainbow");
+                  } else if (score <= 15) {
+                    statusBadge.classList.add("status-red");
+                  } else if (score <= 21) {
+                    statusBadge.classList.add("status-yellow");
+                  } else {
+                    statusBadge.classList.add("status-green");
+                  }
+                }
+              });
+
+            startBtn.onclick = () =>
+              window.location.href = "test.html?file=" + encodeURIComponent(filePath);
+
+            card.querySelector(".history-btn").onclick = () =>
+              window.location.href = "history.html?file=" + encodeURIComponent(filePath);
+
+            grid.appendChild(card);
+          });
 
         list.appendChild(groupBox);
       });
+  }
 
+  function renderTests() {
+    if (category === "practice_tests") {
+      renderPracticeTests(cachedTests);
+    } else {
+      renderRealTests(cachedTests);
+    }
+  }
+
+  async function loadTests() {
+    try {
+      const res = await fetch(`/api/tests?category=${category}`);
+      if (res.status === 403) {
+        const data = await res.json().catch(() => ({}));
+        renderLockedMessage(data.error || "Bạn không có quyền xem mục này.");
+        return;
+      }
+
+      const data = await res.json();
+      cachedTests = data.tests || [];
+
+      if (category === "practice_tests") {
+        buildPracticeFilterOptions(cachedTests);
+      } else {
+        buildRealFilterOptions(cachedTests);
+      }
+
+      attachSearchEvents();
+      renderTests();
     } catch (e) {
       console.error(e);
       document.getElementById("test-list").innerHTML =
@@ -480,17 +662,6 @@
         "Mục đề luyện chỉ dành cho tài khoản Pro. Hãy liên hệ admin để được nâng cấp."
       );
       return;
-    }
-
-    try {
-      const optionsRes = await fetch(`/api/tests?category=real_tests`);
-      if (optionsRes.ok) {
-        const optionsData = await optionsRes.json();
-        buildFilterOptions(optionsData.tests || []);
-        attachSearchEvents();
-      }
-    } catch (err) {
-      console.error("Không thể tải danh sách tháng/năm", err);
     }
 
     loadTests();
