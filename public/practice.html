@@ -647,23 +647,6 @@
   }
 
   async function initPracticePage() {
-    let me = null;
-    try {
-      const sessionRes = await fetch("/api/me");
-      if (sessionRes.ok) {
-        me = await sessionRes.json();
-      }
-    } catch (e) {
-      me = null;
-    }
-
-    if (category === "practice_tests" && !(me && me.isPro)) {
-      renderLockedMessage(
-        "Mục đề luyện chỉ dành cho tài khoản Pro. Hãy liên hệ admin để được nâng cấp."
-      );
-      return;
-    }
-
     loadTests();
   }
 

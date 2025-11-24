@@ -9,12 +9,46 @@ const CATEGORY_DIRS = {
   practice_tests: path.join(testsDir, "practice_tests"),
 };
 
-function isPracticeCategory(category) {
-  return category === "practice_tests";
-}
-
 function isPracticeFolder(folder = "") {
   return folder.startsWith("practice_tests/");
+}
+
+function getRealTestVersion(name = "") {
+  const match = name.match(/version\s+(\d+)/i);
+  return match ? Number(match[1]) : null;
+}
+
+function getPracticeTestNumber(name = "") {
+  const match = name.match(/test\s+(\d+)/i);
+  return match ? Number(match[1]) : null;
+}
+
+function isRealTestLocked(name, isPro) {
+  if (isPro) return false;
+
+  const version = getRealTestVersion(name);
+  return version !== null && version >= 2;
+}
+
+function isPracticeTestLocked(name, isPro) {
+  if (isPro) return false;
+
+  const testNumber = getPracticeTestNumber(name);
+  return testNumber !== null && testNumber >= 2;
+}
+
+function filterAccessibleTests(category, tests, isPro) {
+  if (isPro) return tests;
+
+  if (category === "real_tests") {
+    return tests.filter((name) => !isRealTestLocked(name, isPro));
+  }
+
+  if (category === "practice_tests") {
+    return tests.filter((name) => !isPracticeTestLocked(name, isPro));
+  }
+
+  return tests;
 }
 
 function listCategory(dirPath) {
@@ -61,26 +95,22 @@ async function getTests(req, res) {
     const category = req.query.category;
 
     if (category) {
-      if (isPracticeCategory(category) && !isPro) {
-        return res
-          .status(403)
-          .json({ error: "Chỉ tài khoản Pro mới truy cập được đề luyện." });
-      }
       const dirPath = CATEGORY_DIRS[category];
       if (!dirPath) {
         return res.status(400).json({ error: "Invalid category" });
       }
 
-      return res.json({ category, tests: listCategory(dirPath) });
+      const tests = listCategory(dirPath);
+      return res.json({
+        category,
+        tests: filterAccessibleTests(category, tests, isPro),
+      });
     }
 
     const payload = {};
     Object.entries(CATEGORY_DIRS).forEach(([key, dirPath]) => {
-      if (isPracticeCategory(key) && !isPro) {
-        payload[key] = [];
-      } else {
-        payload[key] = listCategory(dirPath);
-      }
+      const tests = listCategory(dirPath);
+      payload[key] = filterAccessibleTests(key, tests, isPro);
     });
 
     res.json(payload);
@@ -140,10 +170,22 @@ async function getParsedTest(req, res) {
   
   const isPro = await ensureProFlag(req);
 
-  if (isPracticeFolder(folder) && !isPro) {
-    return res
-      .status(403)
-      .json({ error: "Bạn cần tài khoản Pro để mở đề luyện." });
+  if (folder.startsWith("real_tests/")) {
+    const name = folder.replace(/^real_tests\//, "");
+    if (isRealTestLocked(name, isPro)) {
+      return res.status(403).json({
+        error: "Phiên bản này chỉ dành cho tài khoản Pro.",
+      });
+    }
+  }
+
+  if (isPracticeFolder(folder)) {
+    const name = folder.replace(/^practice_tests\//, "");
+    if (isPracticeTestLocked(name, isPro)) {
+      return res
+        .status(403)
+        .json({ error: "Bạn cần tài khoản Pro để mở đề luyện." });
+    }
   }
   
   const folderPath = path.join(testsDir, folder);

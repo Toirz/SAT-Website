@@ -1,0 +1,345 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Economist Jingting Fan argues that the effects of international trade may display spatial variation at sub-national levels. For instance, imported goods may reduce expenses for a country’s average consumer, but for consumers living far from ports, high intranational transport costs could ______ the price advantages associated with imports.
+
+
+A. misconstrue
+B. underestimate
+C. nullify
+D. denigrate
+Answer: C
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+As discussed by scholar Anna Mladentseva, many artworks produced in the mid-1990s to the early 2000s exclusively for exhibition on the internet, such as Sinae Kim’s Genesis (2001), have become inaccessible because viewing them requires the use of ______ software (most notably Adobe Flash, discontinued in 2021).
+
+
+A. extraneous
+B. arcane
+C. defunct
+D. ubiquitous
+Answer: C
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Proposals to raise the age at which retirees begin receiving government transfers of funds are generally discussed in terms of the effects on transfer recipients, but Andria Smythe has argued that delaying such transfers could ______ wealth creation among working adults by lengthening the period in which they are providing financial support to their nonworking parents.
+
+
+A. disparage
+B. compound
+C. outstrip
+D. stymie
+Answer: D
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the 2010s, the price of vintage He-Man action figures rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn’t previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.
+
+
+A. exploiting
+B. appraising
+C. engendering
+D. monetizing
+Answer: C
+
+Question 5:
+What choices best state the main purpose of the passage?
+
+Since the Hawaiian Islands have never been connected to other land masses, the great variety of plants in Hawaii must be a result of the long-distance dispersal of seeds, a process that requires both a method of transport and an equivalence between the ecology of the source area and that of the recipient area. There is some dispute about the method of transport involved. Some biologists argue that ocean and air currents are responsible for the transport of plant seeds to Hawaii. Yet the results of flotation experiments and the low temperatures of air currents cast doubt on these hypotheses. More probable is bird transport, either externally, by accidental attachment of the seeds to feathers, or internally, by the swallowing of fruit and subsequent excretion of the seeds. While it is likely that fewer varieties of plant seeds have reached Hawaii externally than internally, more varieties are known to be adapted to external than to internal transport.
+
+
+A. discussing different approaches biologists have taken to testing theories about the distribution of plants in Hawaii
+B. discussing different theories about the transport of plant seeds to Hawaii
+C. discussing the extent to which air currents are responsible for the dispersal of plant seeds to Hawaii
+D. resolving a dispute about the adaptability of plant seeds to bird transport
+Answer: B
+
+Question 6:
+The author mentions Schumann and Brahms primarily in order to
+
+Was Felix Mendelssohn (1809–1847) a great composer? On its face, the question seems absurd. One of the most gifted prodigies in the history of music, he produced his first masterpiece at sixteen. From then on, he was recognized as an artist of preternatural abilities, not only as a composer but also as a pianist and conductor. But Mendelssohn’s enduring popularity has often been at odds—sometimes quite sharply—with his critical standing. Despite general acknowledgment of his genius, there has been a noticeable reluctance to rank him with, say, Schumann or Brahms. As Haggin put it, Mendelssohn, as a composer, was a “minor master . . . working on a small scale of emotion and texture.”
+
+
+A. provide examples of composers who are often compared with Mendelssohn
+B. identify certain composers who are more popular than Mendelssohn
+C. identify composers whom Mendelssohn influenced
+D. establish a standard of comparison for Mendelssohn as a composer
+Answer: D
+
+Question 7:
+Which choice best states the main purpose of the text?
+
+Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+
+A. To summarize Green and Extavour’s criticism of the study by Chan and colleagues
+B. To suggest that Green and Extavour’s conclusions would be more persuasive if they incorporated findings from the studies by Chan and colleagues and Wittkopp and colleagues
+C. To situate Green and Extavour’s study in the context of their field
+D. To argue that Green and Extavour’s study revealed a previously unrecognized issue that evolutionary biologists need to address
+Answer: C
+
+Question 8:
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 9:
+Which choice best states the main idea of the text?
+
+Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
+
+
+A. A group of economists asserts that people with relatively high incomes are consequently enabled to take certain considerations into account when voting.
+B. According to a group of economists, politicians who support higher taxes on those with high incomes must convince a sufficient number of people with such incomes to vote against their material interest if the politicians are to be elected.
+C. A team of economists finds that people who vote for higher taxes on those with high incomes are likely to think their moral values coincide with their material interests.
+D. According to a team of economists, the higher a voter’s income, the more likely that voter’s values are to conflict with their material interests.
+Answer: A
+
+Question 10:
+Which quotation from There Is Confusion most effectively illustrates the claim?
+
+There Is Confusion is a 1924 novel by Jessie Redmon Fauset. In the novel, the narrator portrays the character Joanna as someone who admires ambition in other people to the exclusion of all other qualities: ______.
+
+
+A. “Joanna was mightily interested in people who had a ‘purpose’ in life. Otherwise not at all.”
+B. “Joanna was like her father not only so far as ambition was concerned but also in her willingness to work.”
+C. “She had a good sense of logic, a strong power of concentration, and a remarkably retentive and visualizing memory.”
+D. “Indeed from the very beginning Joanna showed her preference for her father.”
+Answer: A
+
+Question 11:
+Which finding, if true, would most directly support the researchers' hypothesis presented in the text?
+
+Some herbicides contain copper oxide nanoparticles (CuO-NPs), which can leach into waterways and soils via wastewater. In a 2012 study, Chengfang Pang and colleagues found that CuO-NPs can accumulate in the bodies of New Zealand mud snails (Potamopyrgus antipodarum). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CuO-NP bioaccumulation in invertebrates like P. antipodarum could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as African clawed frogs (Xenopus laevis), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. Compared with X. laevis, P. antipodarum can tolerate significantly higher CuO-NP concentrations without displaying any negative effects.
+B. It is easier to detect low and harmless concentrations of CuO-NPs in P. antipodarum than it is to detect high and harmful concentrations of CuO-NPs in X. laevis.
+C. CuO-NP concentrations in P. antipodarum tend to vary more from individual to individual than do CuO-NP concentrations in X. laevis when the species are exposed to similar levels of CuO-NPs.
+D. In comparable environments, P. antipodarum and X. laevis display comparable rates of CuO-NP uptake.
+Answer: D
+
+Question 12:
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 13:
+Which choice most logically completes the text?
+
+Quasars—such as J0313-1806, located in the Eridanus constellation—are extremely luminous galactic nuclei powered by supermassive black holes. Quasars range in age, with approximately 200 of them known to have developed within the first billion years of the formation of the universe. Scientific researchers have long wondered how any quasars could have formed so early in the universe’s evolution given that conditions are believed to have been ill-suited to their creation, which suggests that ______.
+
+
+A. J0313-1806 is likely less massive than quasars that formed more than a billion years after the beginnings of the universe.
+B. J0313-1806 is thought to have formed less than a billion years after the beginnings of the universe.
+C. some aspect of the scientific understanding of quasar formation or the early universe may be incomplete.
+D. quasars that formed in the early universe are likely not as luminous as those that formed later.
+Answer: C
+
+Question 14:
+Which choice most logically completes the text?
+
+To combat predation by Arizona myotis and other insectivorous bats, many moth species, including Cycina tenera, emit ultrasonic pulses that, in some cases, disrupt the echolocation bats rely on for foraging. Some scientists have hypothesized that this capability evolved because it imposes a lower metabolic cost than does the alternative mechanism of producing chemicals that render moths noxious to bats. Nicholas T. Homziak et al. investigated the acoustic properties of moths’ ultrasonic responses to audio of bat echolocation and then assessed the palatability of the ultrasound-producing moths. They found that several moth genera that emit ultrasonic pulses capable of disrupting bat echolocation are unpalatable to bats, suggesting that ______.
+
+
+A. most genera of moths that produce ultrasound capable of disrupting bat echolocation do so primarily for purposes other than evading capture by Arizona myotis and other predators.
+B. the hypothesis about the development of this ultrasonic defense likely does not account for all instances of the trait in moths.
+C. although previous findings about Cycina tenera are consistent with the hypothesis about the low metabolic cost of producing noxious chemicals, the ability to disrupt bat echolocation and unpalatability are not mutually exclusive traits.
+D. further investigations into moths’ ability to protect themselves by disrupting bat echolocation will likely find that moth genera relying on this mechanism are also generally inedible to bats.
+Answer: B
+
+Question 15:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In recent decades, the field of quantum astrophysics, whose foundational principles were largely theoretical during its inception, has been revitalized by empirical evidence—a renaissance in cosmic inquiry that is primarily credited to physicists like Dr. Evelyn Reed, whose research _______ the intricate entanglement of distant celestial bodies and the universe's fundamental structure prompts a comprehensive reevaluation of general relativity itself.
+
+
+A. has illuminated
+B. is illuminating
+C. illuminating
+D. illuminates
+Answer: C
+
+Question 16:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Austronesian language family includes Acehnese, Ilokano, and some 1,200 other languages throughout the Pacific, making it one of the largest language families in the world and of keen interest to ______ of Yale University.
+
+
+A. linguist, Isidore Dyen
+B. linguist: Isidore Dyen
+C. linguist Isidore Dyen
+D. linguist; Isidore Dyen.
+Answer: C
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Located on the island of Gotland in Sweden, the city of Visby was a member of a powerful mercantile alliance that dominated northern European trade between the 13th and 17th ______ Hanseatic League, a loose confederation of cities from eleven modern-day countries that has been described as a precursor to today’s European Union.
+
+
+A. centuries the
+B. centuries: the
+C. centuries. The
+D. centuries; the
+Answer: B
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A magnificent wrought-iron lattice structure designed by Gustave Eiffel for the 1889 World's ______ the Eiffel Tower has become a global cultural icon of France.
+
+
+A. Fair
+B. Fair:
+C. Fair;
+D. Fair,
+Answer: D
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many of the world’s most famous animals have lived in the Greater Kruger National Park in South Africa. Between 2006 and 2012, for instance, the ______ prowled the park as part of the dominant Mapogo coalition (band of male lions).
+
+
+A. lions Kinky Tail and Mr. T,
+B. lions, Kinky Tail and Mr. T,
+C. lions, Kinky Tail and Mr T
+D. lions Kinky Tail and Mr T
+Answer: D
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Star actress Kiki Omeili, who has appeared in 47 Nollywood films, is one of numerous luminaries to be pictured in Nigerian portraitist like Udé’s exhibition Nollywood Portraits. ______ referred to Nollywood—Nigeria’s $3 billion film industry—as “Africa’s vivid mirror par excellence,” honors its legacy with his vivid classical portraits of Omeili and her peers.
+
+
+A. Udé
+B. Udé, having
+C. Udé, has
+D. Udé has
+Answer: B
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1900, it was little more than a marketing gimmick; brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide’s recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ its modest French eateries were replaced with some of the most esteemed restaurants from around the world, including Hajime in Osaka and Kitcho Arashiyama in Kyoto.
+
+
+A. influence and
+B. influence
+C. influence, and
+D. influence,
+Answer: C
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+With many elements, like osmium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence. ______ this wasn’t the case with all elements. The process of isolating magnesium, for example, took years—53, to be precise.
+
+
+A. Likewise,
+B. Granted,
+C. In other words,
+D. For this reason,
+Answer: B
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+Newer offshore wind turbines often outperform older models. For example, Denmark’s offshore wind farm, built in 1995, has wind turbines that generate about 1 megawatt (MW) of electricity each. ______ China’s Jiangsu Qidong offshore wind farm, built in 2021, has turbines that can generate about 6 MW of electricity each.
+
+
+A. Granted,
+B. In contrast,
+C. For this reason,
+D. Eventually,
+Answer: B
+
+Question 24:
+The student wants to use a quotation from Fazal to explain an advantage of the geothermal system at the Platanares plant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• According to researcher Muhammad Rayyan Fazal, “geothermal electric energy... capable of producing more energy per megawatt per year as compared to similar capacity solar and wind power systems.”
+• Geothermal power plants typically employ dry steam systems, flash steam systems, or binary cycle systems to produce electricity from high-temperature geothermal fluid.
+• The Platanares geothermal power plant in Honduras uses a binary cycle system.
+• Fazal says that binary cycle systems “pump 100% geothermal fluid back to the injection well, hence offering the least environmental impact with little or no emissions.”
+
+
+A. Compared with dry steam systems and flash steam systems, the binary cycle system used at the Platanares plant is “capable of producing more energy per megawatt per year,” Fazal notes.
+B. According to Fazal, because it uses high-temperature geothermal fluid to produce electricity, the system used at the Platanares plant results in “little or no emissions,” making it environmentally friendly.
+C. Since they return all geothermal fluid to the injection well, binary cycle systems—such as the one at the Platanares plant—produce “the least environmental impact,” according to Fazal.
+D. The Platanares plant uses a binary cycle system to produce electricity; in this type of geothermal system, fluid is pumped “back to the injection well.” Fazal explains.
+Answer: C
+
+Question 25:
+The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
+
+While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
+• The CRISPR-Cas9 system, originally identified as an adaptive immune mechanism in prokaryotes, has been repurposed by scientists as a versatile tool for precision genome engineering.
+• The Cas9 protein functions as a molecular scissor, specifically a nuclease, that is capable of inducing a double-strand break (DSB) at a targeted locus within a DNA sequence.
+• The specificity of the Cas9-induced cleavage is dictated by a synthetic single-guide RNA (sgRNA), which contains a ~20-nucleotide sequence complementary to the target DNA.
+• The sgRNA directs the Cas9 protein to the precise genomic location; following the DNA cleavage, the cell's innate DNA repair mechanisms are activated.
+• These repair pathways can be manipulated: Non-homologous end joining (NHEJ) often results in gene knockout, while homology-directed repair (HDR), when a donor template is supplied, can be used for precise gene insertion or correction.
+
+
+A. Guided by a synthetic single-guide RNA (sgRNA) to a specific DNA locus, the Cas9 nuclease creates a double-strand break, which, in the presence of a donor template, can be resolved by the homology-directed repair (HDR) pathway to achieve precise gene correction.
+B. The CRISPR-Cas9 system achieves precise gene insertion by employing the Cas9 protein to make a cut, which is then repaired by the non-homologous end joining (NHEJ) pathway, a process guided by a complementary DNA template.
+C. Originally an adaptive immune system in prokaryotes, CRISPR-Cas9 involves a Cas9 protein and a single-guide RNA that work together to identify and cleave a target DNA sequence.
+D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 protein, which functions as a molecular scissor that, when complexed with an sgRNA, activates the cell's innate knockout mechanisms for repair.
+Answer: A
+
+Question 26:
+Which choice most effectively uses information from the given sentences to begin a narrative about Merle Oberon’s life?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in The Three Passions (1928).
+• Later, she played many named, credited roles, such as Empress Josephine in Désirée (1954).
+
+
+A. In 1954, Merle Oberon played the role of Empress Josephine in the film Désirée.
+B. Merle Oberon appeared in many films, including The Three Passions (1928) and Désirée (1954), and was the first Indian-born actress to be nominated for an Academy Award.
+C. Though she would go on to receive credit in many films, Merle Oberon also played nameless, uncredited roles in many films, such as in the movie The Three Passions (1928).
+D. Merle Oberon’s story begins in Mumbai (then known as Bombay), India, in 1911.
+Answer: D
+
+Question 27:
+The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• He sought to synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s composition Pan Indian Rhythms incorporates Ute notched sticks, a traditional Native instrument.
+• Ethnomusicologist Tara Browner writes that Ballard’s classical music “relies on Indigenous instruments, rhythms, forms,...and other musical elements.”
+
+
+A. Discussing Ballard’s body of works, Browner observes that it relies on elements of various Native musical traditions.
+B. Browner notes that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” further indicating that it synthesizes Western classical music with elements of various Native music traditions.
+C. Consistent with Browner’s observation that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” Pan Indian Rhythms incorporates Ute notched sticks.
+D. Browner’s writing discusses Ballard, the classical music composer responsible for Pan Indian Rhythms.
+Answer: C
+
