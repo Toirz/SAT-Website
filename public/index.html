@@ -140,37 +140,21 @@
       </button>
       <div class="plan-header">
         <div class="plan-title">Nâng cấp gói</div>
-        <div class="plan-subtitle">Chọn gói phù hợp nhất với bạn</div>
+        <div class="plan-subtitle">Trải nghiệm đầy đủ với gói 1 tháng</div>
       </div>
-      <div class="plan-options">
-        <label class="plan-option">
-          <input type="radio" name="plan-option" value="free" checked />
-          <div class="plan-option-content">
-            <div class="plan-option-title">Miễn phí</div>
-            <div class="plan-option-desc">Tiếp tục dùng gói hiện tại</div>
-          </div>
-          <div class="plan-price">0đ</div>
-        </label>
-
-        <label class="plan-option">
-          <input type="radio" name="plan-option" value="month" />
-          <div class="plan-option-content">
+      <div class="plan-showcase">
+        <div class="plan-showcase-card">
+          <div class="plan-showcase-text">
             <div class="plan-option-title">Đăng kí 1 tháng</div>
             <div class="plan-option-desc">Mở khoá toàn bộ tính năng trong 30 ngày</div>
+            <div class="plan-price">67.000đ</div>
           </div>
-          <div class="plan-price">67.000đ</div>
-        </label>
-
-        <label class="plan-option">
-          <input type="radio" name="plan-option" value="quarter" />
-          <div class="plan-option-content">
-            <div class="plan-option-title">Đăng kí 3 tháng</div>
-            <div class="plan-option-desc">Tiết kiệm hơn khi trả trước 3 tháng</div>
+          <div class="plan-preview">
+            <img src="/images/preview.png" alt="Xem trước gói 1 tháng" class="plan-preview-image" />
           </div>
-          <div class="plan-price">150.000đ</div>
-        </label>
+        </div>
       </div>
-      <button class="upgrade-btn" id="upgrade-btn" disabled>Nâng cấp ngay</button>
+      <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
     </div>
   </div>
 
@@ -179,7 +163,6 @@
   const planModal = document.getElementById("plan-modal");
   const closePlanBtn = document.getElementById("plan-close");
   const upgradeBtn = document.getElementById("upgrade-btn");
-  const planOptions = document.querySelectorAll("input[name='plan-option']");
   let isProAccount = false;
 
   function openPlanModal() {
@@ -195,15 +178,7 @@
   }
 
   function getSelectedPlan() {
-    const checked = document.querySelector("input[name='plan-option']:checked");
-    return checked?.value;
-  }
-
-  function updateUpgradeButton() {
-    if (!upgradeBtn) return;
-    const value = getSelectedPlan();
-    const allowUpgrade = value === "month" || value === "quarter";
-    upgradeBtn.disabled = !allowUpgrade;
+    return "month";
   }
 
   if (planModal) {
@@ -219,17 +194,9 @@
   if (upgradeBtn) {
     upgradeBtn.addEventListener("click", () => {
       const plan = getSelectedPlan();
-      if (plan === "month" || plan === "quarter") {
-        window.location.href = `/payment.html?plan=${plan}`;
-      }
+      window.location.href = `/payment.html?plan=${plan}`;
     });
   }
-
-  planOptions.forEach((input) => {
-    input.addEventListener("change", updateUpgradeButton);
-  });
-
-  updateUpgradeButton();
 
   async function loadHomeStats() {
     const updateChart = (key, done, total, accuracyRatio) => {
