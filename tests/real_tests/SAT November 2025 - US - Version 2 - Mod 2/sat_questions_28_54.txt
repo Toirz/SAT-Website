@@ -115,8 +115,6 @@ Based on the text and the table, is the student’s conclusion reasonable?
 In a 2013 study, Akihito Mochizuki et al. determined that aqueous concentration of the element uranium (U) in Lake Biwa, Japan, varies nearly threefold from season to season. Such fluctuations in lakes are driven primarily by variations in lakes’ pH levels. On the basis of the findings of Mochizuki et al., a student analyzing data on concentrations of U-238, an isotope that accounts for more than 99% of all naturally occurring U, in water samples from two Chinese lakes—Gabai Lake and Tuosu Lake—hypothesizes that relative to these two lakes, Lake Biwa experiences greater seasonal variation in pH levels.
 Seasonal Variation in U-238 Concentration in Gabai Lake and Tuosu Lake
 
-
-
 A. No, because the data show only U-238 concentrations and not pH levels in the Gabai Lake and Tuosu Lake samples, making it impossible to draw well-founded conclusions about variation in pH levels in those lakes.
 B. Yes, because the data show that the U-238 concentrations in the samples from Gabai Lake and Tuosu Lake remain relatively stable, increasing only from 16.2 µg/L to 18.3 µg/L and 34.4 µg/L to 35.5 µg/L, respectively, from summer to winter.
 C. No, because the data reveal different ranges of seasonal variation in U-238 concentrations between the sampled lakes, from Gabai Lake ranging from 16.2 µg/L to 18.3 µg/L and the samples from Tuosu Lake ranging from 34.4 µg/L to 35.5 µg/L.
