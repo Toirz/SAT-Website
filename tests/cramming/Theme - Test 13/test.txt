@@ -64,7 +64,7 @@ Answer: C
 Question 6:
 Which choice best describes the function of the underlined portion in the text as a whole?
 
-Researchers César A. Hidalgo, Elisa Casta'er, and Andres Sevtsuk created a computer model to predict the mix of electronics stores, bakeries, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense group lines of amenities that represent human-identified neighborhoods like Boston's Central Square**.** The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of city's amenities.
+Researchers César A. Hidalgo, Elisa Casta'er, and Andres Sevtsuk created a computer model to predict the mix of electronics stores, bakeries, and other businesses found in a given neighborhood. __How we define a neighborhood and its boundaries is subjective__, so the team used a clustering algorithm to locate dense group lines of amenities that represent human-identified neighborhoods like Boston's Central Square**.** The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of city's amenities.
 
 A. It emphasizes the accuracy of an algorithm used to identify the boundaries of specific neighborhoods.
 B. It suggests a difficulty associated with analysing neighbourhoods that the research team attempted to overcome.
@@ -76,7 +76,7 @@ Answer: B
 Question 7:
 Which choice best describes the function of the underlined portion in the text as a whole?
 
-In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Montevideo, Uruguay, were surveyed about parks in their cities. For the 624 residents of both cities, 85.4% reported using their city's parks, and of the 617 respondents from Montevideo, 76.7% indicated using city parks. Given that the percentage of Quito respondents who reported using parks was higher than the percentage of Montevideo respondents, greater proximity alone can't explain the difference in park use.
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Montevideo, Uruguay, were surveyed about parks in their cities. For the 624 residents of both cities, 85.4% reported using their city's parks, and of the 617 respondents from Montevideo, 76.7% indicated using city parks. __Given that the percentage of Quito respondents who reported using parks was higher than the percentage of Montevideo respondents__, greater proximity alone can't explain the difference in park use.
 
 A. It introduces a counterexample to the scenario described earlier in the text.
 B. It identifies the nature of a relationship that is significant to the text's conclusion.
@@ -112,7 +112,7 @@ Answer: A
 Question 10:
 Which choice best describes the function of the underlined portion in the text as a whole?
 
-Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and services often found in a given neighborhood. Their team used data from the Google Places API service to help identify gyms, clothing stores, and other businesses and map their locations. This approach has some limits—data from Places API tends to be restricted to places that are customer facing — but the data set nonetheless provides an extremely reliable source to study collocation patterns of neighborhood amenities.
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and services often found in a given neighborhood. Their team used data from the Google Places API service to help identify gyms, clothing stores, and other businesses and map their locations. This approach has some limits—__data from Places API tends to be restricted to places that are customer facing__ — but the data set nonetheless provides an extremely reliable source to study collocation patterns of neighborhood amenities.
 
 A. It identifies a specific flaw in using a data set about amenities in cities.
 B. It introduces a model that a research team built to evaluate the mix of amenities in urban neighborhoods.
@@ -124,7 +124,7 @@ Answer: A
 Question 11:
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
-Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of movie theaters, gyms, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s Harvard Square. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of movie theaters, gyms, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s Harvard Square. The predictive model, which incorporates this algorithm, __is sure to be invaluable in determining the optimal mix of a city’s amenities__.
 
 A. It praises an algorithm’s accuracy in identifying neighborhood boundaries.
 B. It emphasizes the potential utility of the team’s model.
