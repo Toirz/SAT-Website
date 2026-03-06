@@ -142,6 +142,7 @@ A. It describes how an algorithm can predict the success of certain businesses, 
 B. It introduces a research team’s study of urban neighborhoods, describes an aspect of the study’s methodology, and suggests a potential application of the team’s research.
 C. It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.
 D. It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and identifies one key finding.
+Answer: B
 
 Question 13:
 Which finding, if true, would most directly support the researchers' conclusion?
