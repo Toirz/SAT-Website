@@ -420,6 +420,7 @@ body.modal-open {
   font-weight: 800;
   margin: 0;
   color: #000000;
+  margin-bottom: 10px;
 }
 
 .attempt-meta {
@@ -436,7 +437,122 @@ body.modal-open {
   padding: 6px 14px;
   border-radius: 8px;
   font-weight: 600;
-  font-size : 20px;
+  font-size : 25px;
+}
+
+.attempt-title-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.attempt-subline {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #6b7280;
+}
+
+.attempt-category-value {
+  color: #2563eb;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+
+.attempt-category {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.attempt-category-label {
+  color: #6b7280;
+}
+.attempt-time {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom : 10px;
+}
+
+.attempt-time-label {
+  color: #6b7280;
+}
+
+.attempt-time-value {
+  color: #2563eb;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.meta-label {
+  color: #6b7280;
+}
+
+.meta-value {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.topic-breakdown-panel {
+  width: 50%;
+  min-width: 320px;
+  margin-bottom: 22px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 16px 18px;
+}
+
+.topic-breakdown-panel-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  font-size: 22px;
+  color: #000000;
+  font-weight: 600;
+  margin-left : -10px;
+  margin-top : -5px;
+}
+
+.topic-breakdown-panel-title img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.topic-breakdown-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.topic-breakdown-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  color: #384757;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.topic-breakdown-line-score {
+  margin-left: auto;
+  text-align: right;
+  color: #2563eb;
+  font-weight : bold;
 }
 
 .topic-breakdown {
@@ -659,4 +775,19 @@ body.modal-open {
   justify-content: space-between;
   gap: 16px;
   margin-bottom: 14px;
+}
+
+@media (max-width: 900px) {
+  .topic-breakdown-panel {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .attempt-subline {
+    font-size: 16px;
+  }
+
+  .attempt-time {
+    flex-wrap: wrap;
+  }
 }

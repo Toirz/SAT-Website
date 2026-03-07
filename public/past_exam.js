@@ -138,6 +138,67 @@ function removeTopicLine(rawText = "") {
     .join("\n");
 }
 
+function getCategoryLabelFromFile(testFile = "") {
+  const category = String(testFile || "").split("/").filter(Boolean)[0] || "";
+  const categoryLabels = {
+    real_tests: "Đề thi thật",
+    practice_tests: "Đề luyện",
+    starter: "Starter",
+    cramming: "Cramming",
+    math: "Math",
+    math_cramming: "Math Cramming",
+  };
+
+  return categoryLabels[category] || "Luyện tập";
+}
+
+function renderTopicBreakdown(questionsList = []) {
+  const topicBreakdownEl = document.getElementById("attempt-topic-breakdown");
+  if (!topicBreakdownEl) return;
+
+  const topicStats = new Map();
+  questionsList.forEach((q) => {
+    const topic = extractQuestionTopic(getPlainQuestionText(q));
+    if (!topic) return;
+
+    if (!topicStats.has(topic)) {
+      topicStats.set(topic, { correct: 0, total: 0 });
+    }
+
+    const stats = topicStats.get(topic);
+    stats.total += 1;
+    if (isCorrectAnswer(q, q.userAnswer)) {
+      stats.correct += 1;
+    }
+  });
+
+  if (!topicStats.size) {
+    topicBreakdownEl.classList.add("hidden");
+    topicBreakdownEl.innerHTML = "";
+    return;
+  }
+
+  topicBreakdownEl.classList.remove("hidden");
+  topicBreakdownEl.innerHTML = `
+    <h3 class="topic-breakdown-panel-title">
+      <img src="/images/luyentap.png" alt="Thống kê câu sai">
+      <span>Thống kê câu sai</span>
+    </h3>
+    <ul class="topic-breakdown-list">
+      ${Array.from(topicStats.entries())
+        .map(
+          ([topic, stats]) => `
+            <li class="topic-breakdown-line">
+              <span>${topic}:</span>
+              <span class="topic-breakdown-line-score">${stats.correct} / ${stats.total}</span>
+            </li>
+          `
+        )
+        .join("")}
+    </ul>
+  `;
+}
+
 function extractQuestionStem(rawText = "") {
   const lines = normalizeQuestionText(rawText)
     .split("\n")
@@ -489,60 +550,34 @@ async function loadPastExam() {
       nameEl.textContent = displayName;
     }
 
-    const correctEl = document.getElementById("attempt-correct");
+    const categoryEl = document.getElementById("attempt-category");
+    if (categoryEl) {
+      const categoryText = getCategoryLabelFromFile(fileFromQuery || meta.file || "");
+      categoryEl.innerHTML = `
+        <span class="attempt-category-label">Mục:</span>
+        <span class="attempt-category-value">${categoryText}</span>
+      `;
+    }
+
+    const totalMinutes = questions.length;
+    const elapsedMinutes = totalMinutes;
+    const timeEl = document.getElementById("attempt-time");
+    if (timeEl) {
+      timeEl.innerHTML = `
+        <span class="attempt-time-label">Thời gian làm bài:</span>
+        <span class="attempt-time-value">${elapsedMinutes} phút / ${totalMinutes} phút</span>
+      `;
+    }
+
+      const correctEl = document.getElementById("attempt-correct");
     if (correctEl) {
-      correctEl.textContent = `Số câu đúng: ${correctCount} / ${questions.length}`;
+      correctEl.innerHTML = `
+        <span class="meta-label">Số câu đúng:</span>
+        <span class="meta-value">${correctCount} / ${questions.length}</span>
+      `;
     }
 
-    const topicBreakdownEl = document.getElementById("attempt-topic-breakdown");
-    if (topicBreakdownEl) {
-      const topicStats = new Map();
-
-      questions.forEach((q) => {
-        const topic = extractQuestionTopic(getPlainQuestionText(q));
-        if (!topic) return;
-
-        if (!topicStats.has(topic)) {
-          topicStats.set(topic, { correct: 0, total: 0 });
-        }
-
-        const stats = topicStats.get(topic);
-        stats.total += 1;
-        if (isCorrectAnswer(q, q.userAnswer)) {
-          stats.correct += 1;
-        }
-      });
-
-      if (!topicStats.size) {
-        topicBreakdownEl.classList.add("hidden");
-        topicBreakdownEl.innerHTML = "";
-      } else {
-        topicBreakdownEl.classList.remove("hidden");
-        topicBreakdownEl.innerHTML = Array.from(topicStats.entries())
-          .map(([topic, stats]) => {
-            const percent = stats.total ? Math.round((stats.correct / stats.total) * 100) : 0;
-            const colorClass = percent <= 30
-              ? "progress-low"
-              : percent <= 80
-                ? "progress-mid"
-                : "progress-high";
-
-            return `
-              <div class="topic-breakdown-item">
-                <div class="topic-breakdown-head">
-                  <span class="topic-breakdown-name">${topic}</span>
-                  <span class="topic-breakdown-score">${stats.correct}/${stats.total}</span>
-                </div>
-                <div class="topic-breakdown-progress-track">
-                  <div class="topic-breakdown-progress-fill ${colorClass}" style="width: ${percent}%;"></div>
-                </div>
-              </div>
-            `;
-          })
-          .join("");
-      }
-    }
-
+    renderTopicBreakdown(questions);
 
     // Thời gian đã bị loại khỏi giao diện (không hiển thị)
 
