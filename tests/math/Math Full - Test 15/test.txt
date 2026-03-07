@@ -14,7 +14,7 @@ A right circular cylinder has a radius of 12 centimeters and a volume of {{MATH_
 
 A. 4
 B. 9
-C. 12
+C. 17
 D. 36
 Answer: C
 
