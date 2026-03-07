@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 For most of its length, the Paraná River has sufficiently high flow velocity to suspend sedimentary particles, but when the river reaches the calmer waters of the Atlantic Ocean, its channel widens and divides, reducing flow velocity and thereby ______ sedimentary particle suspension. Particles are thus deposited, eventually forming deltaic lobes.
@@ -11,6 +12,7 @@ D. expediting
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Writer Lydia Davis observed that while ______ literary forms, such as the poem, are recognizable as such even as they evolve, there are rarer “intergeneric” forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson’s long piece *Nox* arguably fits in this category, since it straddles the line between prose and poetry.
@@ -23,6 +25,7 @@ D. orthodox
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The subscription model in which consumers who do not deliberately cancel their subscriptions automatically pay recurring fees for access to products and services benefits retailers when consumer ______ is high. Many of the 7.8 percent of subscribers who canceled their fashion and apparel subscriptions in June 2022 had stopped valuing their subscriptions long before then, but sellers profited from those customers’ passivity in the interim.
@@ -35,6 +38,7 @@ D. evasion
 Answer: A
 
 Question 4:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Founded in New York City in 1904, the Hispanic Society of America is one of the best-known US-based institutions showcasing Latino cultures. Since its founding, it has acquired more than 18,000 objects for its permanent collection. *__Since 2000, the number of Latino cultural institutions in the US has expanded considerably.__* LA Plaza de Cultura y Artes, which opened in Los Angeles in 2011 and focuses on Mexican American art and culture, is among the most prominent.
@@ -47,6 +51,7 @@ D. It analyzes how two institutions’ approach to exhibiting artworks reflects 
 Answer: B
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 One popular hypothesis concerning animal cognition is that the complexity of species’ social networks is the primary driver of cognitive evolution, an idea addressed by Borgeaud and many others. This view holds that the demand of behaviors related to living in groups—trading grooming for access to food, for example—selects for, and thus accounts for, greater cognition. Now, a growing body of research suggests that interactions between species members without a social connection also present challenges that contribute significantly to sophisticated cognitive adaptations.
@@ -59,6 +64,7 @@ D. It asserts that the significance of trading grooming in social groups should 
 Answer: A
 
 Question 6:
+[Cross Text]
 Which choice best describes the relationship between the two texts?
 
 **Text 1**
@@ -74,6 +80,7 @@ D. Text 2 describes a methodology that helps researchers avoid a problem encount
 Answer: A
 
 Question 7:
+[COE]
 Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the method used in the strawberry study?
 
 In a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil microbial communities could affect plants’ flavor chemistry. Whereas Jimenez-Gomez et al. (2017) showed that adding specific bacterial or fungal strains to soil can yield increased vitamin C in strawberry crops, Walsh and team applied intact microbial communities gathered from ecologically distinct settings across Colorado, including areas of ponderosa pine forest and dry pasture, to mustard plants and evaluated the flavor compounds in the plants’ seeds. This ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.
@@ -86,6 +93,7 @@ D. The composition of microorganisms in the soil in the strawberry study may not
 Answer: D
 
 Question 8:
+[COE]
 According to the text, why is the information collected by the Great Sunflower Project valuable?
 
 Information from the Great Sunflower Project helps scientists address pollinator population-size declines caused by habitat loss. Participants monitor which pollinators visit specific plants and the frequency of those visits. Scientists then use this information to determine which plant species best support pollinators and identify where those plant species have declined. Without bees, butterflies, and other pollinators performing their vital role in plant reproduction and food production, ecosystems would suffer—making the conservation efforts informed by this citizen science project all the more important!
@@ -98,6 +106,7 @@ D. It helps scientists develop strategies for addressing pollinator habitat loss
 Answer: D
 
 Question 9:
+[COE]
 Which quotation from "The Monster" most effectively illustrates the claim?
 
 "The Monster" is an 1898 story by Stephen Crane. In the story, the character of Jimmie is a young boy who has been scolded by his father for accidentally damaging a flower in his garden; Jimmie then looks for sympathy from Henry Johnson, the man responsible for the care of Jimmie's father's horses. Crane demonstrates Henry's tendency towards such sympathy, writing, ______
@@ -110,6 +119,7 @@ D. "Henry... could usually provide a sin to place himself on a footing with the 
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most clearly be an exception to the pattern Blatt identified?
 
 Describing the adverb as "a word that distracts," novelist Elmore Leonard is one of several authors and literary critics to recommend minimizing the use of adverbs, especially those ending in -ly (e.g., “grudgingly”), in works of fiction. To investigate the prevalence of -ly adverbs in novels, Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in both popular fiction and in novels that commonly appear on lists of notable works of English literature, such as Willa Cather’s My Ántonia. Blatt concluded that there is a positive correlation between -ly adverb avoidance and novels’ perceived literary merit.
@@ -122,6 +132,7 @@ D. Whereas award-winning and best-selling novels have on average 114 and 115 -ly
 Answer: C
 
 Question 11:
+[COE]
 Which finding from the study by Venter et al., if true, would most directly support the underlined claim?
 
 In public and political discourse, the implementation of green space in urban planning is generally treated as an obvious strategy for effective local abatement of major air pollutants (such as NO₂, O₃, and particulate matter). __Research indicates that the role of such spaces is nuanced, however__. Zander S. Venter et al. analyzed data at three spatial scales (street, neighborhood, and city) from 2010 to 2019 at air-quality monitoring stations in Albania, the US state of West Virginia, and thousands of other locations. When coupled with images from aerial surveys of vegetation patterns at those locations in the same time period, the data reveal several factors mediating the relationship between vegetation and air quality.
@@ -134,6 +145,7 @@ D. There is a moderately positive association between total green space and air 
 Answer: A
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Exclusively inhabiting tropical countries such as Cameroon, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied zoo chimpanzees in Norway and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in winter than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore ______
@@ -146,6 +158,7 @@ D. the effect of supplemental vitamin D on zoo chimpanzees in Norway and other m
 Answer: B
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Because scholars have yet to decipher the script of the Olmec civilization—which flourished in southern Mexico circa 1500 BCE–400 BCE—they are uncertain which language the Olmecs spoke. However, the ancient Olmec sites are situated in the territory of the Mixe-Zoquean family, a group of related languages that includes such present-day representatives as Totontepec Mixe and Rayón Zoque. Moreover, many words in the region’s contemporary Mayan languages—languages otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin. Such lexical borrowing may have occurred because a Mixe-Zoquean language served as a medium of cultural exchange throughout southern Mexico during the era of Olmec hegemony, which would suggest that _______
@@ -158,6 +171,7 @@ D. the Olmecs may have spoken a language that was closer to Mayan languages than
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 During the Bronze Age, collections of metal objects (called hoards) were buried for safekeeping all over Britain. Earlier discoveries of these hoards, such as the discovery around 1931 of the Towednack hoard (which included gold jewelry from the 10th century BCE), were rare and often accidental. But since the 1960s, advancements such as inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier to locate hoards while they are still underground. A more recent find like the 2011 discovery of the Boughton Malherbe hoard was thus much more likely than a pre-1960s discovery to ______
@@ -170,6 +184,7 @@ D. occur before the ground was disturbed.
 Answer: D
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Enacted in 1953, Denmark's 6,221-word constitution, in contrast to Chile's, which was enacted in 1980 and contains a far greater number (25,821) of words, ______ as the 13th shortest in the world. Such data are studied by constitutional scholars like George Tsebelis, who can use them to draw broader conclusions.
@@ -182,6 +197,7 @@ D. have ranked
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many folktales that originate in the Hindi language start with a phrase that roughly translates to “it’s an old story.” Many tales that originate in English use “once upon a time.” Such phrases, known as story starters, ______ from language to language.
@@ -194,6 +210,7 @@ D. varies
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Ford Madox Ford's classic novel about two couples living in Europe was first published in 1915. Of the many revisions that Ford made before publication, the change to the book's title is among the most ______ Ford had originally called the novel The Saddest Story, but he ultimately published it as The Good Soldier—a title that shifted the focus to the novel's strongly ironic tone.
@@ -206,6 +223,7 @@ D. noteworthy—
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The 1913 Armory Show in New York City was a groundbreaking art exhibition planned by a collective of 28 artists, among them D. Putnam Brinley and Everett Shinn. By this time, many of these artists ______ tired of the staid realism that dominated American art at the time; the Armory Show aimed to jolt the artistic establishment awake with bold, experimental modernism.
@@ -218,6 +236,7 @@ D. had grown
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Some theories in astrophysics, such as string theory, posit dimensions beyond our familiar four. In contrast, quantum mechanics achieved prominence in the twentieth century yet still informs much of modern physics, its foundational principles ______ explored by physicists worldwide.
@@ -230,6 +249,7 @@ D. will be
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As categorized by linguists like Isidore Dyen, the languages Cebuano and Malagasy—spoken by roughly 30 million and 17 million people, ______ are part of the Austronesian language family, which altogether accounts for one-fifth of the world’s languages.
@@ -242,6 +262,7 @@ D. respectively:
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a US presidential election, Massachusetts’s 11 electoral votes are currently awarded to the winner of Massachusetts’s popular vote, but a new plan aims to change that. Law professors Akhil and Vikram Amar’s 2001 article ______ that states could instead agree to allocate their electoral votes to the winner of the national popular vote has given rise to the National Popular Vote Interstate Compact (NPVIC).
@@ -254,6 +275,7 @@ D. suggests
 Answer: A
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Oats, olives, and many other species of plants were brought to the Western Hemisphere after the late 15th century. These species were native to the continents of ______ Africa, and Asia in the Eastern Hemisphere.
@@ -266,6 +288,7 @@ D. Europe:
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the narrow gauge Mackay Railway line in Queensland couldn’t travel on the Yarra Valley Railway in Victoria, which used broad gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the “mixed gauge muddle.”
@@ -278,6 +301,7 @@ D. For example,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The Duchy of Gaeta, a sea power based in the Mediterranean port city of Gaeta that reached its height around 900 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s–1900s CE) is known for both land and sea supremacy.
@@ -290,6 +314,7 @@ D. In other words, empires are classified according to their source of power:
 Answer: B
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The Sino–Tibetan language of Kurtöp has only about 15,000 living speakers. Although most Kurtöp speakers live in Bhutan, where the language originated, Kurtöp is also spoken in New York City. ______ the New York–based Endangered Language Alliance has identified a group of Kurtöp speakers in the city’s Sunnyside neighborhood, in the borough of Queens.
@@ -302,6 +327,7 @@ D. Nonetheless,
 Answer: A
 
 Question 26:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Seventeenth-century baroque artist Pietro da Cortona famously created a trompe l’oeil—an illusion of three-dimensional space on a two-dimensional surface—in the interior of the Palazzo Barberini in Rome, Italy. In actuality, the frescoed ceiling of the palace is mostly flat. Da Cortona’s artful use of forced perspective, ______ creates the illusion of dozens of allegorical figures rising into the sky.
@@ -314,6 +340,7 @@ D. in other words,
 Answer: C
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to introduce Tademy to a new audience?
 
 While researching a topic, a student has taken the following notes:

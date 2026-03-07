@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A rising author of children’s books spoke at a recent publishing conference about what motivated her to pursue a career in children’s literature. The presenter credited much of her inspiration to ______ Elease Southerland’s work in *Let the Lion Eat Straw*, which was among the presenter’s favorite books as a child.
@@ -10,6 +11,7 @@ D. a complacency about
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to ______ their art-viewing experience should turn to Chicago’s streets, where they can find works ranging from Magdalena Abakanowicz’s sculpture *Agora* at Grant Park to Justus Roe’s mural *Standing Wave* on South State Street.
@@ -21,6 +23,7 @@ D. supplement
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The people inhabiting the Ice Age sites now known as Shuidonggou 2 and Potočka Cave likely began wearing clothing as a defense against the cold, but Ian Gilligan et al. argue that as clothing became ______, its purpose shifted from the purely practical. Once wearing clothing turned into a widespread, familiar practice, differences in clothes could take on social and cultural significance.
@@ -32,6 +35,7 @@ D. feasible
 Answer: C
 
 Question 4:
+[COE]
 Based on the text, what does Wong most likely mean when she states that she is “composing”?
 
 The following text is from Alice Wong’s 2022 memoir *Year of the Tiger: An Activist’s Life*. Wong has just described her tendency to procrastinate when she has a writing deadline.
@@ -45,6 +49,7 @@ D. She is being soothed by immersing herself in creative works by other people.
 Answer: B
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the island’s split from remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Michael A. Sundue et al. found, however, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of *Grammitis* ferns on Grande Terre is 8.5 million years; Sundue et al. further found that the crown age of the clade of *Grammitis* ferns in the South Pacific generally is approximately 10.0 million years.
@@ -56,6 +61,7 @@ D. It describes an idea that some researchers have put forward, then presents st
 Answer: D
 
 Question 6:
+[Details]
 Which choice best describes the function of the reference to “anvil and strife” in the text as a whole?
 
 The following text is from Anne Spencer’s 1922 poem “Translation.”
@@ -76,6 +82,7 @@ D. It represents a strong contrast to the speaker’s friend’s current experie
 Answer: D
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The scenario of a dwarf mongoose engaging in territorial conflict with an outgroup dwarf mongoose illustrates a major dimension of social life across animal species, from the solitary to those with complex sociality: __intraspecific contact with perceived outsiders.__ Though one prominent hypothesis posits that sophisticated cognitive adaptations are primarily driven by the demands of various behaviors within established social groups (e.g., cooperative response to predation), interactions with same-species outsiders arguably contribute comparably by favoring nuanced analysis (e.g., evaluation of relative physical status).
@@ -87,6 +94,7 @@ D. It defines a scientific term central to the text’s discussion of the role o
 Answer: B
 
 Question 8:
+[Cross Text]
 Based on the texts, how would Odom and colleagues (Text 2) most likely respond to the view of birdsong presented in Text 1?
 
 **Text 1**
@@ -102,6 +110,7 @@ D. They would suggest that it reflects a tendency to study male birds rather tha
 Answer: C
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Anderson’s “Sonnet for Her Labor” and Tyehimba Jess’s “Millie and Christine McCoy”—poems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnet—ostensibly rigid and timeworn—could accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genre’s conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.
@@ -113,6 +122,7 @@ D. Although the sonnet is now recognized for the way it facilitates experimentat
 Answer: B
 
 Question 10:
+[COE]
 Based on the text, what does Zucman’s research suggest about investors residing in Japan?
 
 Economist Gabriel Zucman finds that 8% of worldwide household wealth is held in tax havens (territories such as Singapore with low tax rates for investors who reside outside those territories). Zucman also finds that use of tax havens differs between countries—they are rarely used by investors living in Japan, while many investors who utilize tax havens reside in Saudi Arabia or Greece. Philosopher Ingrid Robeyns disapproves of the use of tax havens as a method of tax avoidance that, though legally permissible, nonetheless helps investors to sidestep payment toward government upkeep.
@@ -124,6 +134,7 @@ D. They are more likely than residents of Greece to engage in tax avoidance.
 Answer: B
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the text?
 
 Terrestrial plants typically carry a negative electrical charge, while hummingbirds and other pollinators tend to accumulate a positive charge. A team of researchers therefore hypothesized that electrostatic attraction (mutual attraction between objects with opposite charges) might enhance pollen transmission between plants and their pollinator species. The team’s experiments showed that the maximum positive charge of foraging honeybees is sufficiently high to facilitate electrostatic pollen transfer, a finding that suggests that ______
@@ -135,6 +146,7 @@ D. Anna’s hummingbirds and houseflies, having greater maximum charges than for
 Answer: B
 
 Question 12:
+[COE]
 Which statement, if true, would most strongly support Wade’s argument?
 
 In medieval England, jugglers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as politely addressing the audience, extensive use of simple rhyming (allowing for easy memorization), and requests for tips (payment) from listeners.
@@ -146,6 +158,7 @@ D. Traveling minstrels are thought to have performed mainly for elite audiences,
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that ______.
@@ -157,6 +170,7 @@ D. consumers are unlikely to purchase physical copies of music that is readily a
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Exclusively inhabiting tropical countries such as Senegal, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied zoo chimpanzees in Italy and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in winter than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore they caution against concluding that ______
@@ -168,6 +182,7 @@ D. winter reductions in UVB irradiance in Italy and other mid-latitude countries
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In an analysis of medieval urbanization in Pisa, Greifswald, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drivers of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______
@@ -179,6 +194,7 @@ D. the constraining influence of hierarchical medieval institutions likely had a
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a chemical equation, converting between the mass of the reactants and the mass of the product requires knowing each component’s molar mass, a quantification of the average mass of the atoms in a compound. The gaseous ______ has a molar mass of 162.15 g/mol.
@@ -190,6 +206,7 @@ D. compound, quindoxin (C₈H₆N₂O₂)
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 19th-century Bengal, cowry shells were used as a commodity currency. By using specific goods like cowry shells as common units of exchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew ______ that requires what economist W.S. Jevons deems a “double coincidence of wants”—in other words, each trading party must want precisely what the other has.
@@ -201,6 +218,7 @@ D. currency, in favor of a direct trade system,
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In economics, soybeans are considered a commodity because they are essentially interchangeable, “essentially” being a word that admits a degree of latitude. In 2021, researchers J. Shorish, M. Stephenson, and M. Zargham devised a mathematical model of fungibility (interchangeability) that would account for such variation. Distinguishing “exactly the same” and “nearly the same” commodities—whether crops, lumber, or precious metals— ______ among their primary aims.
@@ -212,6 +230,7 @@ D. being
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In recent years, the English writer Mary Ann Browne (1812–1845), whose poetry was widely read during her lifetime, has been rediscovered by contemporary audiences—a resurgence of interest that is largely due to literary scholars such as Adriana Craciun, whose work ______ the richness of Browne’s poems and the poet’s historical importance to the Romantic literary movement encourages a broader rethinking of British Romanticism itself.
@@ -223,6 +242,7 @@ D. is highlighting
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The extensive impact that polymeric nanoparticles (PNPs) have had on medicine belies their minuscule size, the nanoparticles typically ______ from only 100 to 300 billionths of a meter.
@@ -234,6 +254,7 @@ D. will range
 Answer: C
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Since 1941, the South Side Community Art Center in Chicago, Illinois, has cultivated a multigenerational community of Black creatives—from writer Gwendolyn Brooks, to musician Nat King Cole, to visual artists like Allen Stringfellow and Frank Hayden, ______ it has garnered a reputation as a hub of Black art and culture in Chicago.
@@ -245,6 +266,7 @@ D. periodically,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera scores were written. ______ opera singers today, such as the soprano Pretty Yende, encounter a wide range of Italian terms—from *furioso* (furiously) to *affrettando* (at a hurried tempo)—when following many eighteenth-century opera scores.
@@ -256,6 +278,7 @@ D. Granted,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At Storm King Art Center, an outdoor sculpture park in New York, Herbert Ferber’s *Konkapot II* is exposed to rain, snow, heat, and humidity. ______ it remains in good condition due to its material: Ferber’s sculpture is made of corrosion-resistant steel.
@@ -267,6 +290,7 @@ D. On the contrary,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Known as an “empire on which the sun never sets,” the Spanish Empire once controlled portions of five continents. Its legacy can still be seen, and heard, in the Spanish-speaking nation of Cuba, which gained its independence from Spain in the nineteenth century. ______ a former colony’s tie to the Spanish Empire is so tenuous that Spanish is seldom spoken there; an example is Sardinia, which ceased to be part of the empire in 1720.
@@ -278,6 +302,7 @@ D. In addition,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to identify what causes meanders. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -295,6 +320,7 @@ D. The meanders in the Willapa River will change shape and shift downstream over
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to provide a detailed overview of the structures at Keet Seel. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -312,6 +338,7 @@ D. The Ancestral Puebloans used adobe and stone in the construction of Keet Seel
 Answer: C
 
 Question 27:
+[Synthesis]
 The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

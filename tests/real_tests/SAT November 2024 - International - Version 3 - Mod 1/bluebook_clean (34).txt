@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Maryam Hosseini and her team used aerial images of well-mapped areas of Boston to train a computer program to identify sidewalks. When it was tested on images of Washington, DC, it ______ identified sidewalks in the vast majority of cases and even whether sidewalks were cobblestone or granite. Hosseini believes the program will improve on this already-strong performance as it gets used more.
@@ -10,6 +11,7 @@ D. clumsily
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Orinoco River delta is a constantly changing landform made up of a network of distributaries, small channels that branch off from the main river. The delta is shaped and reshaped over time as sediments carried by the river ______ where the river meets the Caribbean Sea, eventually forming new portions of land.
@@ -21,6 +23,7 @@ D. accumulate
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word "own" appears quite often in written English could ______ that assumption with data from a corpus: "own" is the eighth most commonly used adjective.
@@ -32,6 +35,7 @@ D. entail
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The minor planet 713 Luscinia was named after the animal genus that includes nightingales. But most minor planets are given only an identification number, largely due to there being over 500,000 such bodies known at present. So while the task of finding a unique name for each minor planet was ______ when few had been discovered, so many minor planets have since been discovered that the task has become nearly impossible.
@@ -43,6 +47,7 @@ D. insurmountable
 Answer: B
 
 Question 5:
+[COE]
 Which choice best describes the overall purpose of the text?
 
 The following text is adapted from Pam Muñoz Ryan's 2020 novel *Mañanaland*.
@@ -56,6 +61,7 @@ D. To criticize Max for disliking summer.
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered "fast painting," a technique (which in part involved slashing in elements with a palette knife) that many Highwaymen, including James Gibson, adopted. __To conclude that this approach accounts for the ethereal actualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair's methods weren't universally practiced by his affiliates__: Harold Newton, for example, painted with greater deliberateness but achieved the same effects.
@@ -67,6 +73,7 @@ D. It details evidence that contradicts a claim mentioned earlier in the text ab
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Like all species of baleen whales, the humpback whale feeds on tiny creatures known as krill by filtering water through bristlelike keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the humpback whale small—it can have a mass as high as 30,000 kg—it is one of the smaller baleen whales and is much smaller than the fin whale, which can weigh a whopping 80,000 kg and consume as much as 24,000 kg of krill per day.
@@ -78,6 +85,7 @@ D. It describes a characteristic shared by all baleen whales and then illustrate
 Answer: D
 
 Question 8:
+[COE]
 The text makes which point about the difference between the proportions of Bogotá residents and Fortaleza residents using parks?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Bogotá, Colombia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 1,121 respondents from Bogotá, 71.996 indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.796 indicated using city parks. Given that the percentage of Bogotá respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.
@@ -89,6 +97,7 @@ D. It could be due to inaccuracies in the survey results.
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Spanning the 1920s to the 1980s, Mexican architect Luis Barragán's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the apartment building for José Mojica, whose unadorned geometric forms contrast with the historically inspired architecture found in the Harper de Garibi House, one of Barragán's early projects in Guadalajara.
@@ -100,6 +109,7 @@ D. Barragán's early work shows an initial dedication to a modernist aesthetic t
 Answer: B
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Nathaniel Hawthorne's 1830 short story "Sir William Phips."
@@ -113,6 +123,7 @@ D. Historians' fidelity to the truth often results in work that is less engaging
 Answer: D
 
 Question 11:
+[COE]
 Which statement about *M. robustus* and the Octopus Garden is best supported by the text?
 
 In 2018, scientists discovered an immense aggregation of *Muusoctopus robustus* (pearl octopuses) along a hydrothermal vent 3,200 meters beneath the ocean's surface. Water temperatures at this site—named the Octopus Garden—climb as high as 11°C, much warmer than the ambient 1.6°C typical at this depth. Based on observations made over three years, scientists concluded that temperatures at the site likely confer reproductive benefits and that the site is used exclusively for reproduction—6,000 *M. robustus* adults, hatchlings, and eggs were observed at the garden, but no juveniles were present.
@@ -124,6 +135,7 @@ D. *M. robustus* leave the Octopus Garden upon reaching an intermediary stage of
 Answer: D
 
 Question 12:
+[COE]
 According to the table, for petri dish number 6, how many CFUs of bacteria were found in the chamber with the venom-treated bacteria?
 
 Scientists recently tested whether scorpion venom reduces the growth of bacteria. The scientists put bacteria in petri dishes with two chambers. They treated the bacteria in one chamber with a saline solution, which does not affect the bacteria. They treated bacteria in the other chamber with scorpion venom. After 14 hours, they counted how many colony-forming units (CFUs) of bacteria were in each chamber.
@@ -135,6 +147,7 @@ D. 103
 Answer: A
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 In 2021, Rocio Uría-Martnez, Megan M. Johnson, and Rul Shan published a report on hydroelectric power plants operating on bodies of water in the US as recently as 2019, and data from their report are shown in the table. Of the plants in the table, the plant with the highest average power generated per year in 2019 was located on the ______
@@ -146,6 +159,7 @@ D. Montreal River.
 Answer: B
 
 Question 14:
+[COE]
 Which quotation from *Poems of Experience* most effectively illustrates the claim?
 
 *Poems of Experience* is a 1910 collection of poetry by Ella Wheeler Wilcox. In one of her poems, the speaker indicates that several beneficial opportunities have recently become available to women, saying, ______
@@ -157,6 +171,7 @@ D. “Time has cut his beard, and lo! / He is but a boy / Singing, on with him w
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Archaeologist Christiana Kohler and her team excavated the Egyptian tomb of Queen Merneith, the wife of a First Dynasty pharaoh. Some scholars claim that she also ruled Egypt on her own and was actually the first female pharaoh. The team found a tablet in Merneith's tomb with writing suggesting that she was in charge of the country's treasury and other central offices. Whether Merneith was a pharaoh or not, this discovery supports the idea that Merneith likely ______
@@ -168,6 +183,7 @@ D. traveled beyond Egypt's borders often.
 Answer: C
 
 Question 16:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 In the periodic table, an element's atomic number indicates how many protons there are in an atom of the element. For example, a zinc atom ______ 30 protons. Professor Raymond Chang explains this concept in more detail in the textbook *Chemistry*.
@@ -179,6 +195,7 @@ D. has
 Answer: D
 
 Question 17:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 Inspired by her Pomo heritage, artist Susan Billy typically uses willow— a strong and flexible ______ craft baskets that are both beautiful and elaborate.
@@ -190,6 +207,7 @@ D. material—to
 Answer: D
 
 Question 18:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 The historian's books about Zachary Taylor ______ what she is best known for, but she is also well regarded for her scholarship on James Monroe.
@@ -201,6 +219,7 @@ D. is
 Answer: A
 
 Question 19:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 The 1970 founding of the Partido Nacional de La Raza Unida and the 1966 *Katzenbach v. Morgan* court decision are regarded as important events in US civil rights ______ former establishing a Latino rights advocacy group and the latter legally affirming the rights of Latino voters.
@@ -212,6 +231,7 @@ D. history, the
 Answer: D
 
 Question 20:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 A government body officially known as the Althing, ______
@@ -223,6 +243,7 @@ D. the first meeting of one of the oldest parliaments in the world, Iceland's, w
 Answer: A
 
 Question 21:
+[COE]
 Which choice completes the text so that it conforms to the conversations of Standard English?
 
 Disyllabic words ______ as trochees in English metrical verse, such as "beverage" and "postal," consist of one stressed syllable followed by one unstressed syllable.
@@ -234,6 +255,7 @@ D. have been classified
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species *Typha latifolia*, or broadleaf cattail, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, *Typha latifolia* absorbs a large amount of cadmium and stores it safely in its roots and shoots; ______ cadmium concentrations in the soil decrease.
@@ -245,6 +267,7 @@ D. nevertheless,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When printing paper money for the colony of Pennsylvania in the 1730s, Benjamin Franklin—then a Philadelphia shop owner—took steps to combat the circulation of counterfeit notes, such as weaving blue threads and Muscovite (a reflective mineral) into the paper he used. _____ he stamped the notes with detailed imprints of sage leaves that proved difficult for forgers to replicate.
@@ -256,6 +279,7 @@ D. Moreover,
 Answer: D
 
 Question 24:
+[Synthesis]
 The student wants to indicate the size of the Pearl Harbor NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -273,6 +297,7 @@ D. Home to the Hawaiian stilt, Hawaii's Pearl Harbor NWR is managed by the US Fi
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the order in which the super continents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -290,6 +315,7 @@ D. Vaalbara and Euramerica were both supercontinents, single landmasses made up 
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -308,6 +334,7 @@ D. Some types of brown seaweed, like North Pacific konbu and arame, trigger umam
 Answer: C
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize when Judea Pearl won the A.M. Turing Award?
 
 While researching a topic, a student has taken the following notes:

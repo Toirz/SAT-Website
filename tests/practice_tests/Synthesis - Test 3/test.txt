@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -14,6 +15,7 @@ D. Browner’s writing discusses Ballard, the classical music composer responsib
 Answer: C
 
 Question 2:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize the discovery of (15836) 1995 DA2 to an audience already familiar with Jane Luu?
 
 While researching a topic, a student has taken the following notes:
@@ -29,6 +31,7 @@ D. On February 24, 1995, Jane Luu and her colleague David C. Jewitt made the exc
 Answer: D
 
 Question 3:
+[Synthesis]
 The student wants to present an overview of the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -46,6 +49,7 @@ D. Researchers found that information was conveyed more quickly in Spanish, at 7
 Answer: A
 
 Question 4:
+[Synthesis]
 The student wants to identify the sculpture for which Arp won a Carnegie Prize gold medal. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -61,6 +65,7 @@ D. The Carnegie Prize is an international art competition administered by the Ca
 Answer: C
 
 Question 5:
+[COE]
 Which choice most effectively uses information from the given sentences to specify what type of neutrino research Kim is known for?
 
 While researching a topic, a student has taken the following notes:
@@ -76,6 +81,7 @@ D. One scientist who has worked to advance our understanding of neutrinos is the
 Answer: C
 
 Question 6:
+[COE]
 Which choice most effectively uses information from the given sentences to begin a narrative about one of the athletes?
 
 While researching a topic, a student has taken the following notes:
@@ -93,6 +99,7 @@ D. Martin’s blend of speed, power, and agility helped him accrue 14,101 rushin
 Answer: B
 
 Question 7:
+[COE]
 Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept of seedling emergence?
 
 • In a 2003 study, Alexander and Schrag tested the effect of plant litter on seedling emergence in a grassland setting.
@@ -107,6 +114,7 @@ D. Alexander and Schrag found that in a mesic grassland and a dry midlatitude cl
 Answer: D
 
 Question 8:
+[Synthesis]
 The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -122,6 +130,7 @@ D. Ballard has different approaches to blending Western classical music with ele
 Answer: A
 
 Question 9:
+[Synthesis]
 The student wants to emphasize the relative scale of the two planets' masses in proportion to their host stars. Which choice most effectively uses information from the given sentences to emphasize this relationship?
 
 While researching a topic, a student has taken the following notes:
@@ -139,6 +148,7 @@ D. The masses of Jupiter and exoplanet HD 100546 b are approximately 318 and 2,3
 Answer: C
 
 Question 10:
+[Synthesis]
 The student wants to synthesize information from the notes to emphasize a key functional similarity between the roles of the CREB and Arc proteins in memory formation. Which choice most effectively uses relevant information to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -155,6 +165,7 @@ D. The roles of the CREB and Arc proteins differ, in that Sharma’s work shows 
 Answer: C
 
 Question 11:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?
 
 While researching a topic, a student has taken the following notes:
@@ -171,6 +182,7 @@ D. The personal journey of George Swanson Starling is featured in the award-winn
 Answer: B
 
 Question 12:
+[Synthesis]
 The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -186,6 +198,7 @@ D. American artist Beau Dunn’s and Mexican-Swiss artist Ana Roldán’s sculpt
 Answer: A
 
 Question 13:
+[Synthesis]
 The student wants to compare McClintock's discovery with Lederberg's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -203,6 +216,7 @@ D. While McClintock first discovered DNA segments capable of altering gene expre
 Answer: A
 
 Question 14:
+[Synthesis]
 The student wants to emphasize a similarity between EPDM rubber and single-ply NiTi wire fibers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -219,6 +233,7 @@ D. Twisting an object will generally cause its temperature to increase, a proces
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to specify the proportion of the total smartphone market sales that belongs to Innovate Inc. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

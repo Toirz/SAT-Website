@@ -1,4 +1,5 @@
 Question 1:
+[Infer]
 Which choice most logically completes the text?
 
 “Gestures” in painting are typically thought of as bold, expressive brushstrokes. In the 1970s, American painter Jack Whitten built a 12-foot (3.7-meter) tool he named the “developer” to apply paint to an entire canvas in one motion, resulting in his series of “slab” paintings from that decade. Whitten described this process as making an entire painting in “one gesture,” signaling a clear departure from the prevalence of gestures in his work from the 1960s. Some art historians claim this shift represents “removing gesture” from the process. Therefore, regardless of whether using the developer constitutes a gesture, both Whitten and these art historians likely agree that ____.
@@ -11,6 +12,7 @@ D. Whitten’s work from the 1960s is much more realistic than his work from the
 Answer: B
 
 Question 2:
+[Infer]
 Which choice most logically completes the text?
 
 In the early nineteenth century, some Euro‐American farmers in the northeastern United States used agricultural techniques developed by the Haudenosaunee (Iroquois) people centuries earlier, but it seems that few of those farmers had actually seen Haudenosaunee farms firsthand. Barring the possibility of several farmers of the same era independently developing techniques that the Haudenosaunee people had already invented, these facts most strongly suggest that ____.
@@ -23,6 +25,7 @@ D. Euro‐American farmers only began to recognize the benefits of Haudenosaunee
 Answer: A
 
 Question 3:
+[Infer]
 Which choice most logically completes the text?
 
 If some artifacts recovered from excavations of the settlement of Kuulo Kataa, in modern Ghana, date from the thirteenth century CE, that may lend credence to claims that the settlement was founded before or around that time. There is other evidence, however, strongly supporting a fourteenth century CE founding date for Kuulo Kataa. If both the artifact dates and the fourteenth century CE founding date are correct, that would imply that ____ .
@@ -35,6 +38,7 @@ D. excavations at Kuulo Kataa may have inadvertently damaged some artifacts dati
 Answer: B
 
 Question 4:
+[Infer]
 Which choice most logically completes the text?
 
 Henry Ossawa Tanner’s 1893 painting *The Banjo Lesson*, which depicts an elderly man teaching a boy to play the banjo, is regarded as a landmark in the history of works by Black artists in the United States. Scholars should be cautious when ascribing political or ideological values to the painting, however: beliefs and assumptions that are commonly held now may have been unfamiliar to Tanner and his contemporaries, and vice versa. Scholars who forget this fact when discussing *The Banjo Lesson* therefore ____.
@@ -47,6 +51,7 @@ D. wrongly assume that Tanner’s painting was intended as a critique of his fel
 Answer: A
 
 Question 5:
+[Infer]
 Which choice most logically completes the text?
 
 Many of William Shakespeare’s tragedies address broad themes that still appeal to today’s audiences. For instance, Romeo and Juliet, which is set in the Italy of Shakespeare’s time, tackles the themes of parents versus children and love versus hate, and the play continues to be read and produced widely around the world. But understanding Shakespeare’s so‐called history plays can require a knowledge of several centuries of English history. Consequently, ____.
@@ -59,6 +64,7 @@ D. experts in English history tend to prefer Shakespeare’s history plays to hi
 Answer: A
 
 Question 6:
+[Infer]
 Which choice most logically completes the text?
 
 The Hubble Space Telescope (HST) is projected to maintain operation until at least 2030, but it has already revolutionized high‐resolution imaging of solar‐system bodies in visible and ultraviolet (UV) light wavelengths, notwithstanding that only about 6% of the bodies imaged by the HST are within the solar system. NASA researcher L. Young and colleagues assert that a new space telescope dedicated exclusively to solar‐system observations would permit an extensive survey of minor solar‐system bodies and long‐term UV observation to discern how solar‐system bodies change over time. Young and colleagues’ recommendation therefore implies that the HST ____.
@@ -71,6 +77,7 @@ D. lacks the sensors to observe the wavelengths of light needed to discern how s
 Answer: A
 
 Question 7:
+[Infer]
 Which choice most logically completes the text?
 
 German theater practitioner Bertolt Brecht (1898–1956) believed that theater should elicit an intellectual rather than an emotional response from audiences, provoking them to consider social and political realities that extend beyond the characters and events depicted onstage. Brecht’s influence can be seen in English playwright Caryl Churchill’s 1979 play Cloud 9: although the play sometimes invites empathetic reactions, it primarily works to engage audiences in an interrogation of patriarchy and colonialism, which it does by placing audiences at a distance, thereby encouraging them to ____.
@@ -83,6 +90,7 @@ D. be dispassionate as they think critically about the social and political ques
 Answer: D
 
 Question 8:
+[Infer]
 Which choice most logically completes the text?
 
 Ratified by more than 90 countries, the Nagoya Protocol is an international agreement ensuring that Indigenous communities are compensated when their agricultural resources and knowledge of wild plants and animals are utilized by agricultural corporations. However, the protocol has shortcomings. For example, it allows corporations to insist that their agreements with communities to conduct research on the commercial uses of the communities’ resources and knowledge remain confidential. Therefore, some Indigenous advocates express concern that the protocol may have the unintended effect of ____ .
@@ -95,6 +103,7 @@ D. discouraging Indigenous communities from learning new methods for harvesting 
 Answer: C
 
 Question 9:
+[Infer]
 Which choice most logically completes the text?
 
 Mosses can struggle in harsh desert conditions because these plants require enough sunlight for photosynthesis but not so much that they risk drying out. Researchers Jenna Ekwealor and Kirsten M. Fisher found several species of *Syntrichia caninervis*, a type of desert moss, growing under quartz crystals in California’s Mojave Desert. To evaluate whether these semitransparent rocks benefited the moss, the researchers compared the shoot tissue, a measure of plant growth, of *S. caninervis* when growing on the soil surface versus when the moss was growing under the quartz rocks. They found that the shoot tissue was 62% longer for moss growing under the quartz as compared to moss on the soil surface, suggesting that ____.
@@ -107,6 +116,7 @@ D. quartz crystals are capable of supporting S. caninervis growth if the cryst
 Answer: C
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Scientists studying Mars long thought the history of its crust was relatively simple. One reason for this is that geologic and climate data collected by a spacecraft showed that the crust was largely composed of basalt, likely as a result of intense volcanic activity that brought about a magma ocean, which then cooled to form the planet’s surface. A study led by Valerie Payré focused on additional information—further analysis of data collected by the spacecraft and infrared wavelengths detected from Mars’s surface—that revealed the presence of surprisingly high concentrations of silica in certain regions on Mars. Since a planetary surface that formed in a mostly basaltic environment would be unlikely to contain large amounts of silica, Payré concluded that ____.

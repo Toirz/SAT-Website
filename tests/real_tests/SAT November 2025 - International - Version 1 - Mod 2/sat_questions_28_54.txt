@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are ______: when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.
@@ -11,6 +12,7 @@ D. interchangeable
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though copies of The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989—an underground computer game that was created anonymously in 1989 as an act of political protest against the authoritarian regime of what was then Czechoslovakia—were originally distributed ______, the game is now readily available online for anyone to play.
@@ -23,6 +25,7 @@ D. disingenuously
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 If some specific predictions in Alvin Toffler’s 1970 book Future Shock seem ludicrous now—people do not wear paper clothing while living in underwater cities—Toffler’s fundamental claim that rapid technological and social change will leave people feeling disoriented and atomized seems, in our age of disequilibrium and fragmentation, remarkably ______.
@@ -35,6 +38,7 @@ D. equivocal
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A conclusive demonstration of the logical certainty of the honeycomb conjecture, posed in the first century BCE, ______ mathematicians’ efforts until Thomas C. Hales presented the first valid proof of the conjecture in 1999.
@@ -47,6 +51,7 @@ D. displaced
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.
@@ -59,6 +64,7 @@ D. It explains how PAs typically affect economic development in the regions wher
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Chitimacha, which is spoken in Louisiana—are isolates, having no demonstrable genealogical relationship to other languages. __Yet Washoe and Chitimacha, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
@@ -71,6 +77,7 @@ D. It proposes that the distinction made between present-day nonisolate language
 Answer: D
 
 Question 7:
+[Cross Text]
 Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?
 
 Text 1:
@@ -86,6 +93,7 @@ D. By contending that the kinds of reactions controversial public artworks often
 Answer: D
 
 Question 8:
+[COE]
 Which choice best describes how Aunt Polly is presented in the text?
 
 The following text is adapted from Mark Twain’s 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew. Aunt Polly asked [Tom] questions that were full of guile, and very deep—for she wanted to trap him into damaging revealments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.
@@ -98,6 +106,7 @@ D. The narrator emphasizes that Aunt Polly’s intentions are good even when she
 Answer: A
 
 Question 9:
+[COE]
 Which statement about the use of hydrogen in the petroleum and heating industries is most strongly supported by the text?
 
 From petroleum refining to fuel for residential heating, hydrogen has many applications. Currently, producing hydrogen is carbon intensive, but Alexandra M. Oliveira is one of many scholars investigating the feasibility of large-scale production of hydrogen through electrolysis, a process that emits no carbon when renewable energy is used. Oliveira suggests that although some obstacles may prevent electrolytic hydrogen from dominating energy systems, there is utility in its ability to decarbonize the petroleum and heating industries, where reducing carbon emissions is especially challenging.
@@ -110,6 +119,7 @@ D. The fact that large-scale electrolytic hydrogen production is not yet availab
 Answer: C
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support the researchers’ conclusion?
 
 In subtropical Asia, *Apis dorsata* (giant honeybee) plays an essential role in pollinating a wide variety of crops and wild plants. To study how different agricultural land covers affect the species, Rika Raffiudin and colleagues monitored the foraging activity of the bees as well as the pollen content of the honey from A. dorsata colonies at two sites in Indonesia: Kampar, characterized by its surrounding monoculture farms (growing a single crop), and Kerinci, a forest-agriculture site where multiple crops, including hot peppers and coffee, are grown nearby. The researchers concluded that a lack of crop variety may reduce total pollen collection by A. dorsata.
@@ -122,6 +132,7 @@ D. In one Kerinci bee colony, a greater proportion of bees returned to their nes
 Answer: B
 
 Question 11:
+[Infer]
 Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
 
 In 2009, the US state of Montana enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Montana, students first collect data on the number of insurers in the state for a few years leading up to and following 2009 and the premium prices for new policies offered by those insurers.
@@ -134,6 +145,7 @@ D. Compare changes over time in the insurer-number data the students have collec
 Answer: B
 
 Question 12:
+[COE]
 Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?
 
 Variously, researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Raymond V. Sidrys’s 1976 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.
@@ -146,6 +158,7 @@ D. Changes to buildings like those that occurred at Malia have not been linked t
 Answer: B
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support the idea that social buffering occurs among C. helleri?
 
 The presence of other individuals of the same species has been observed to mitigate stress in highly social mammals. To investigate whether this phenomenon, known as social buffering, also occurs in reptiles, researchers led by Chelsea E. Martin monitored stress responses in wild southern Pacific rattlesnakes (Crotalus helleri) in three experimental treatments: when alone, with a rope, and with a companion C. helleri. The researchers compared the percent change between baseline and peak heart rate in response to a (harmless) disturbance, with higher values indicating higher stress levels.
@@ -158,6 +171,7 @@ D. Solitary C. helleri had higher average baseline heart rates than did C. helle
 Answer: C
 
 Question 14:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Mountain summits are often described in terms of their elevation, or height above sea level. But a summit’s elevation may not be as good an indication of how high the mountain appears to observers as is the summit’s prominence, or its height above its surroundings, and these values can differ significantly. For example, the Indian mountain of ______
@@ -172,6 +186,7 @@ D. Sri Kailash has an elevation of 6,932 meters and is considered the highest mo
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Whereas Joan Lockard’s 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall’s 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that ______
@@ -184,6 +199,7 @@ D. the study by Lockard reliably represents handedness in captive primates but n
 Answer: A
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Interested in how the color of dogs’ irises affects human responses to dogs, Akitsugu Konno et al. showed images of 12 dogs’ faces to human participants and asked them to rate the dogs’ kindness and trustworthiness as well as the likelihood that they would interact with or keep the dogs. The researchers had previously adjusted the images so that each dog was presented in two versions, one with light irises and one with dark irises. They distributed the images such that no participant saw both the light and dark versions of the same dog. Konno et al. found that participants responded more positively to the latter. The study’s design allowed the researchers to exclude the possibility that the results ______.
@@ -196,6 +212,7 @@ D. could be explained by participants having preexisting positive feelings about
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Growing as large as three meters in diameter, the leaves of the giant Amazonian waterlily feature a complex network of radiating veins that provide structural ______ in thickness from the center to the edges, these veins allow the leaves to maintain their large size and buoyancy with minimal material, optimizing light capture and photosynthesis.
@@ -208,6 +225,7 @@ D. support decreasing
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Charles Dickens’s classic 1850 novel about a young man named David Copperfield has a title that is instantly recognizable to many readers: David Copperfield. Dickens’s novel originally had a different ______ while writing and editing, Dickens had planned to call the novel Mag’s Diversions.
@@ -220,6 +238,7 @@ D. title, though
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat’s photos, the work features a pair of hands. Clasping a microphone, one hand ______ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.
@@ -232,6 +251,7 @@ D. is bare, the other
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The exoplanet Pi Mensae d was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.
@@ -244,6 +264,7 @@ D. distant exoplanets too dim to be observed are detected within the radial velo
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique tradition of embroidery ______ back over two thousand years—one that includes iconic double-sided stitching with different images on each side—remains popular with modern audiences, preserving the city’s cultural heritage.
@@ -256,6 +277,7 @@ D. dating
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The introduction of Saharan dust into the Atlantic atmosphere fundamentally alters the thermodynamic environment for tropical cyclones by scattering sunlight and cooling the sea surface, a process that should logically inhibit storm development. __________ the dust's role as a source of giant cloud condensation nuclei can lead to an invigoration of the storm's rainbands, a counterintuitive strengthening effect.
@@ -268,6 +290,7 @@ D. In short,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The four Galilean moons—Io, Europa, Ganymede, and Callisto—are colossal worlds in their own right, their historical and scientific significance often dominating discussions about Jupiter's satellite system since their 17th-century discovery. __________ the vast majority of Jupiter's moons are comparatively minuscule and irregular bodies, whose discovery in the modern era reveals a far more complex and crowded orbital environment.
@@ -280,6 +303,7 @@ D. Be that as it may,
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When ordering the branches of the Colville River system, cartographers tend to begin with the riverway’s lowest point, the Colville River. ______ hydrologists begin at the top of the river system, with the Siksikpuk River and other tributaries fed by the riverway’s source, Alaska’s De Long Mountains.
@@ -292,6 +316,7 @@ D. In other words,
 Answer: C
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The Sultanate of Brunei, a Malay sea power based on the northern coast of Borneo that reached its height around 1600 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the Ottoman Empire (1300s–1900s CE) is known for both land and sea supremacy.
@@ -304,6 +329,7 @@ D. Of course, the distinction is not always so neat:
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -320,6 +346,7 @@ D. Although the farm-size transition hypothesis may be applicable to some countr
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to connect a quotation to a particular nontraditional design element in Cody's work. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

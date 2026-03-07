@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice best describes data from the table that support the underlined claim?
 
 **Note:** Composition values may not add up to 100 due to rounding.
@@ -12,6 +13,7 @@ D. HEA 5 was processed using arc melting but has relatively low fracture toughne
 Answer: A
 
 Question 2:
+[COE]
 Which choice best describes data from the table that support the underlined claim?
 
 **Note:** Composition values may not add up to 100 due to rounding.
@@ -25,6 +27,7 @@ D. HEA 5 was processed using arc melting but has relatively low fracture toughne
 Answer: C
 
 Question 3:
+[COE]
 Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?
 
 Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.
@@ -38,6 +41,7 @@ D. In early 2019, unusually heavy rains washed excessive nutrients into the bay,
 Answer: D
 
 Question 4:
+[COE]
 Which statement, if true, would account for data shown in the graph and would illustrate the point made in the passage?
 
 Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. An analysis of seagrass populations from 2012 to 2018 suggests that the expansion of widgeon grass was the main driver of the corresponding growth in the bay's total seagrass coverage. The data supports this conclusion by showing that ______.
@@ -51,6 +55,7 @@ D. In early 2019, unusually heavy rains washed excessive nutrients into the bay,
 Answer: C
 
 Question 5:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 High-entropy alloys (HEAs) have been observed to have greater fracture toughness—greater resistance to crack propagation—than conventional alloys. It has been proposed that fracture toughness increases with the proportion of an HEA consisting of cobalt, but data on HEAs compiled by engineer Xuesong Fan show that this is not the case; for example, ______.
@@ -63,6 +68,7 @@ D. cobalt constitutes a different proportion of HEA 25 than it does of HEA 7.
 Answer: A
 
 Question 6:
+[COE]
 Which choice best describes data from the table that support the underlined claim?
 
 **Note:** Composition values may not add up to 100 due to rounding.
@@ -76,6 +82,7 @@ D. HEA 5 was processed using arc melting but has relatively low fracture toughne
 Answer: A
 
 Question 7:
+[COE]
 Which choice best describes data from the table that support the underlined claim?
 
 **Note:** Composition values may not add up to 100 due to rounding.

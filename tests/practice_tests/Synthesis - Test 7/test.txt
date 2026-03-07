@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to emphasize the order in which the two films were released. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -15,6 +16,7 @@ D. Early in her career, Merle Oberon wasn’t listed in some film credits, such 
 Answer: B
 
 Question 2:
+[Synthesis]
 The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -32,6 +34,7 @@ D. At the 1927 Solvay Conference on Physics, Einstein disagreed with Bohr’s ar
 Answer: A
 
 Question 3:
+[Synthesis]
 The student's goal is a comparison of the Big Crunch model with the Heat Death model. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching cosmology, a student has taken the following notes:
@@ -48,6 +51,7 @@ D. In the late 20th century, the Heat Death model was proposed, disagreeing with
 Answer: A
 
 Question 4:
+[Synthesis]
 The student wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -64,6 +68,7 @@ D. The Foucault pendulum at Czech Technical University in Prague, the Czech Repu
 Answer: B
 
 Question 5:
+[Synthesis]
 The student wants to make a generalization about how word order is employed across languages. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -81,6 +86,7 @@ D. The majority of languages place the subject of a sentence before the verb and
 Answer: D
 
 Question 6:
+[Synthesis]
 The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -98,6 +104,7 @@ D. Since it was built under a rock overhang, Antelope House was naturally protec
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -115,6 +122,7 @@ D. The Mohs scale can be used to order calcite, corundum, and apatite by their a
 Answer: C
 
 Question 8:
+[Synthesis]
 The student wants to synthesize the information to distinguish between the two fundamental cellular processes. Which choice most effectively accomplishes this goal?
 
 While researching cellular biology, a student has compiled the following notes on two fundamental processes:
@@ -130,6 +138,7 @@ D. The synthesis of a polypeptide chain during translation relies on transfer RN
 Answer: B
 
 Question 9:
+[Synthesis]
 The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -146,6 +155,7 @@ D. The research done on atmospheric muon-neutrino oscillations exemplifies the w
 Answer: A
 
 Question 10:
+[Synthesis]
 The student wants to contrast first-class levers and second-class levers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -163,6 +173,7 @@ D. In first-class levers, the fulcrum is located between the effort and the load
 Answer: D
 
 Question 11:
+[Synthesis]
 The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -180,6 +191,7 @@ D. A circumnavigation is defined as a sailing trip that goes in a complete circl
 Answer: C
 
 Question 12:
+[COE]
 The student wants to use a quotation from Petrova to explain a safety advantage of the mRNA technology used in the Coronavax vaccine. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -195,6 +207,7 @@ D. The Coronavax vaccine uses an mRNA-based system to stimulate an immune respon
 Answer: C
 
 Question 13:
+[Synthesis]
 The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -212,6 +225,7 @@ D. During the dawn of quantum theory, Einstein maintained the independent realit
 Answer: D
 
 Question 14:
+[Synthesis]
 The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -229,6 +243,7 @@ D. While the sculptures share a common material, one spells out a phrase while t
 Answer: D
 
 Question 15:
+[Synthesis]
 The student wants to write a sentence that emphasizes a key distinction in the scale at which the strong nuclear and electromagnetic forces operate. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic a student has compiled the following notes:

@@ -1,4 +1,5 @@
 Question 71:
+[Infer]
 Which choice most logically completes the text?
 
 In September of 1989, Indonesia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indonesian companies. This was part of a wave of stock market liberalizations around the world—Jamaica in 1991, Nigeria in 1995, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ______.
@@ -11,6 +12,7 @@ D. Economists’ expectations about the effect of liberalization on investment w
 Answer: D
 
 Question 54:
+[Infer]
 Which choice most logically completes the text?
 
 Numerous investigations have identified a positive link between dissolved nitrogen levels and phosphorus in soil samples across European regions. However, a study by Alessandro Moretti, Livia Greco, and Marco Bellini in Italy did not detect this relationship, prompting some researchers to propose that the correlation may be specific to Northern Europe. Yet, several studies outside Northern Europe, including one by Sofia Jensen and her team in Sweden, yielded findings consistent with those from the Northern European studies, while only a few aligned with Moretti, Greco, and Bellini's results, implying that ______
@@ -23,6 +25,7 @@ D. dissolved nitrogen and phosphorus levels in Italian soils are significantly h
 Answer: C
 
 Question 19:
+[Infer]
 Which choice most logically completes the text?
 
 The Busselton Health Survey (BHS) seeks to discover long-term trends related to public health by compiling and analyzing evidence from approximately 10,000 participants in Australia. As with most longitudinal studies, extensive funding support is needed for BHS to collect the relevant data over timescales and at intervals that will support robust conclusions. But the quality of a more constrained investigation, such as a sociology study seeking only to yield the average age at which people in a given city first become parents, is much less dependent on high levels of funding because ______
@@ -35,6 +38,7 @@ D. such studies are likely to be a lower priority for funding than BHS
 Answer: A
 
 Question 68:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Greek in Auburndale. Many immigrants from north China, where Mandarin is the primary language, reside in the neighborhood of Flushing (part of New York City's borough of Queens) while those who emigrated from south China, where many people speak Cantonese or Fuzhounese as a first language, tend to reside in Chinatown, in the borough of Manhattan. Among speakers of Chinese languages, those in Flushing tend to speak Mandarin as their primary language while those in Chinatown tend to speak Cantonese or Fuzhounese as their primary language. This is most likely because ______.
@@ -47,6 +51,7 @@ D. there are geographic differences in primary language within China that are re
 Answer: D
 
 Question 20:
+[Infer]
 Which choice most logically completes the text?
 
 Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and orchestral and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 84.8 decibels, the nonmusician would be expected to ______.
@@ -59,6 +64,7 @@ D. find listening to “Whole Lotta Love” at 84.8 decibels less enjoyable than
 Answer: D
 
 Question 21:
+[Infer]
 Which choice most logically completes the text?
 
 Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as complex and inefficient delivery routes, persist. While innovations to mitigate these challenges have been emerging—the use of autonomous delivery robots, for instance—success has been constrained due to the additional complications that arise (e.g., robots travel relatively slowly since they must navigate many ground-level obstacles). Consequently, __________.
@@ -71,6 +77,7 @@ D. the use of autonomous delivery robots may enable delivery companies to meet c
 Answer: B
 
 Question 44:
+[Infer]
 Which choice most logically completes the text?
 
 Episodes in which technologies fall into disuse after a period of adoption, as occurred with the rapid decline of bronze tools and weapons beginning circa 1300 BCE, are informative for understanding the factors shaping technological development in ancient societies. However, it can be unclear whether an absence of artifacts signifies a cultural shift or is merely an effect of gaps in the archaeological record. A dataset of gold objects, including earrings and beads, recovered from Bronze and Iron Age sites at Simagre, Karmir Blur, and other places in the Caucasus reveals a steep drop in the total number of gold artifacts beginning around 1500 BCE in some locations. That this drop represents a genuine instance of cultural change is likely, given that ______.
@@ -83,6 +90,7 @@ D. far fewer gold objects dating to earlier than 1500 BCE have been recovered fr
 Answer: B
 
 Question 48:
+[Infer]
 Which choice most logically completes the text?
 
 In recent years, architects have heightened their focus on developing eco-conscious and sustainable buildings, as exemplified by Wyndham Clubhouse, a structure conceived by MIA Design Studio. One way to accomplish this goal is through biophilic design, which seeks to augment occupants' emotional and physical well-being by establishing a coherent relationship among the building, nature, and human biology. Along with using ecologically sensitive construction materials, biophilic designs incorporate organic or biomorphic forms and textures. Curves, therefore, are common design features because they ________
@@ -95,6 +103,7 @@ D. are reminiscent of the arcing and contours found among plants and animals.
 Answer: D
 
 Question 34:
+[Infer]
 Which choice most logically completes the text?
 
 Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
@@ -107,6 +116,7 @@ D. the crispier the crust will be when frying is completed.
 Answer: A
 
 Question 62:
+[Infer]
 Which choice most logically completes the text?
 
 The small white heron and the small dark heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only small white herons prefer areas with deep water during breeding season, both small white herons and small dark herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______.

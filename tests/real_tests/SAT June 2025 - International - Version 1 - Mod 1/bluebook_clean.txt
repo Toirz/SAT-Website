@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Portable video game consoles and other small electronic devices tend to ______ batteries that can't be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.
@@ -10,6 +11,7 @@ D. discover
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ______ suggests that early hominins may have been more cognitively sophisticated than previously thought.
@@ -21,6 +23,7 @@ D. deliberate
 Answer: D
 
 Question 3:
+[WIC]
 As used in the text, what does the word "assume" most nearly mean?
 
 The following text is adapted from George Bernard Shaw's 1905 play *Major Barbara*.
@@ -38,6 +41,7 @@ D. Presuppose
 Answer: C
 
 Question 4:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
@@ -51,6 +55,7 @@ D. To convey the narrator's confidence that he understands the role expected of 
 Answer: C
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Saturn is the first planet in our solar system to be discovered to have more than 100 moons orbiting around it. A team of astronomers using the Canada-France-Hawaii Telescope (CFHT) in Hawaii detected 62 undiscovered moons that were previously too small or too dim to see. Saturn now outranks Jupiter as the planet in our solar system with the most observed moons.
@@ -62,6 +67,7 @@ D. To discuss the history of Hawaii.
 Answer: A
 
 Question 6:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is from George Eliot's 1857 short story "The Sad Fortunes of the Rev. Amos Barton." In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton's neighbors.
@@ -75,6 +81,7 @@ D. The narrator implies that a character is not well liked by his neighbors and 
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Allison Q. Byrne and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in collections such as those at the Smithsonian National Museum of Natural History—to investigate the evolutionary origins of a pathogen affecting amphibians. Although this approach can yield many insights about the biological past, it remains a relatively underutilized resource in part because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
@@ -86,6 +93,7 @@ D. It exemplifies a common method of genomic data analysis, then details the dif
 Answer: A
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?
 
 **Text 1**
@@ -101,6 +109,7 @@ D. The programs tend to produce inconsistent results because they vary substanti
 Answer: B
 
 Question 9:
+[COE]
 According to the text, Stephen Graham Jones and Cherie Dimaline are similar in what way?
 
 The 2020 novel *The Only Good Indians* confirmed that Stephen Graham Jones is one of the most talented writers of horror fiction today. By featuring main characters who are Blackfeet, like Jones himself, the novel also helped to ensure that Indigenous people have a place within the horror genre. But Jones is hardly the only Indigenous voice in horror. Métis author Cherie Dimaline has also written in the genre. Her acclaimed 2019 novel *Empire of Wild* is set in a Métis community in southern Canada.
@@ -112,6 +121,7 @@ D. Both have said that they don't like reading horror fiction even though they w
 Answer: C
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Spanning the 1920s to the 1980s, Mexican architect Luis Barragán's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the Chávez Peón de Ochoa House, whose unadorned geometric forms contrast with the historically inspired architecture found in the Aguila House, one of Barragán's early projects in Guadalajara.
@@ -123,6 +133,7 @@ D. Barragán's design of the Aguilar House is considered more experimental than 
 Answer: B
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 In 2021, Rocío Uría-Martínez, Megan M. Johnson, and Rul Shan published a report on hydroelectric power plants operating in the US as recently as 2019, and data from their report are shown in the table. Of the plants in the table, the plant with the lowest average power generated per year in 2019 was located in the state of ______
@@ -134,6 +145,7 @@ D. Indiana.
 Answer: A
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the underlined claim?
 
 When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. But __the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.__
@@ -145,6 +157,7 @@ D. The kind of information a company provides about a new product helps determin
 Answer: C
 
 Question 13:
+[COE]
 Which choice best describes data from the table that support Ehmann and colleagues' hypothesis?
 
 One way that young orangutans acquire foraging skills is through a behavior scientists call peering—closely watching older orangutans as they engage in an activity that the young have not yet mastered. Since female orangutans typically remain in the same area from youth through adulthood and males do not, Beatrice Ehmann and her colleagues hypothesized that it is more advantageous for immature females than males to devote attention to orangutans who are permanent residents of the immature individual's home region, and this should be reflected in sex-specific differences in peering behavior.
@@ -156,6 +169,7 @@ D. Individual 13 engaged in 27 peering events, more than either individual 6 or 
 Answer: A
 
 Question 14:
+[COE]
 Which quotation from the article would best illustrate the theater historian's claim?
 
 Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro's early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville style shows popular in Mexico and the US Southwest in the 1920s and '30s.
@@ -167,6 +181,7 @@ D. "The company presented actos, short comedy sketches, that often relied on exa
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In Switzerland, the white fuzzy mountain flowers known as edelweiss are widely treated as a symbol of strength and courage. Although edelweiss can thrive in extreme conditions, they aren't notably tougher or harder to reach than other mountain flowers growing in the Swiss Alps. Historian Tobias Scheidegger has shown that the popular view of the flowers originated in the mid-1800s when mountain climbing became popular in Switzerland. Mountain climbers spread the idea that the flowers grew only in steep, icy terrains that were dangerous to climb to. Scheidegger says that these claims were self-interested. He suggests that mountain climbers presented edelweiss in this way in order to ______
@@ -178,6 +193,7 @@ D. prove that edelweiss were more common in the Swiss Alps than in other mountai
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A number of scientific phenomena have been named after nineteenth-century Czech physiologist Jan Evangelist Purkinje, including the Purkinje effect, which ______ the eye's tendency to perceive objects as blue tinted in low-light conditions.
@@ -189,6 +205,7 @@ D. is
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The fibularis longus and the ______ move the fibula and humerus, respectively.
@@ -200,6 +217,7 @@ D. brachialis are cylindrical, which are skeletal muscles, in shape and help
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 It was April of 1885 when Vincent van Gogh completed ______ of dozens to be featured in the upcoming exhibition, is an important part of Van Gogh's body of work.
@@ -211,6 +229,7 @@ D. *Study of Two Peasants* the drawing. One
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Fernando Palma Rodriguez creates robotic sculptures that combine mechanical elements with materials like feathers, soil, and seeds. The artist is from a rural farming community outside Mexico City, and he studied engineering in college. The natural and mechanical ______ highlight these two aspects of his background.
@@ -222,6 +241,7 @@ D. materials, that Palma Rodriguez uses in his art,
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Exemplars of Stigler's law ______ there is the Argand diagram; in astronomy, the Cassegrain reflector; and in physics, the Fermi paradox. All the aforementioned share the trait of being named after individuals who were not their initial discoverers or inventors.
@@ -233,6 +253,7 @@ D. abound in mathematics;
 Answer: C
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The eruption of Rusty Geyser in Yellowstone National Park is caused by a sequence of events. First, water seeps down through narrow channels in the bedrock. ______ magma heats the water and turns it into steam. Finally, that steam builds up enough pressure in the narrow channels to force the water above it to burst out of the ground.
@@ -244,6 +265,7 @@ D. Next,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8% to 42.9% between 2015 and 2020. ______ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.
@@ -255,6 +277,7 @@ D. Eventually,
 Answer: A
 
 Question 23:
+[Synthesis]
 The student wants to contrast how the igneous rock at the two national parks formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -273,6 +296,7 @@ D. Two types of igneous rock, which is formed when molten rock cools, are intrus
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to contrast the number of haiku in each poem. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -290,6 +314,7 @@ D. The poems in *Morning Haiku* celebrate the lives or mourn the deaths of "reve
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to indicate that both soundscapes are on the list. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -306,6 +331,7 @@ D. Each soundscape on the list, including the sound of crickets on the banks of 
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to describe Untitled (Topographic Landscape) to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -323,6 +349,7 @@ D. Completed in 1997, Maya Lin's *Untitled (Topographic Landscape)* is a large-s
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to explain Cummings and Knapp's contribution to Lullfitz's study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

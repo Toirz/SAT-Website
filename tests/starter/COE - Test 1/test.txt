@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding from Washington and Mullanithan’s study, if true, would most directly weaken the claim made by people who favor the traditional view of voter behavior?
 
 Political scientists who favor the traditional view of voter behavior claim that voting in an election does not change a voter’s attitude toward the candidates in that election. Focusing on US presidential elections from 1976 to 1996, Ebowan Washington and Sendhil Mullanithan tested this claim by distinguishing between subjects who had just become old enough to vote (around half of whom actually voted) and otherwise similar subjects who were slightly too young to vote (and thus none of whom voted). Washington and Mullanithan compared the attitudes of the groups of subjects toward the winning candidate two years after each election.
@@ -11,6 +12,7 @@ D. Two years after a given election, subjects who voted and subjects who were no
 Answer: C
 
 Question 2:
+[COE]
 Which quotation from a publication by a researcher would most effectively support the student's claim?
 
 A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of livestock harvested for food. The student wishes to make the case that people have mixed feelings about cultured meat that may be a barrier to its worldwide adoption.
@@ -23,6 +25,7 @@ D. "The flavor of meat from livestock differs across species (from pig to chicke
 Answer: A
 
 Question 3:
+[COE]
 Which finding, if true, would most directly weaken the astronomers’ claim?
 
 Given that stars and planets initially form from the same gas and dust in space, some astronomers have posited that host stars (such as the Sun) and their planets (such as those in our solar system) are composed of the same materials, with the planets containing equal or smaller quantities of the materials that make up the host star. This idea is also supported by evidence that rocky planets in our solar system are composed of some of the same materials as the Sun.
@@ -35,6 +38,7 @@ D. The method for determining the composition of rocky planets is discovered to 
 Answer: C
 
 Question 4:
+[COE]
 Which choice most effectively uses a quotation from King Lear to illustrate the claim?
 
 *King Lear* is a circa 1606 play by William Shakespeare. In the play, the character of King Lear attempts to test his three daughters’ devotion to him. He later expresses regret for his actions, as is evident when he:
@@ -47,6 +51,7 @@ D. Says of himself, “I will do such things— / What they are yet, I know not;
 Answer: C
 
 Question 5:
+[COE]
 Which finding, if true, would most directly support the researchers’ claim?
 
 Many archaeologists will tell you that categorizing excavated fragments of pottery by style, period, and what objects they belong to relies not only on standard criteria, but also on instinct developed over years of practice. In a recent study, however, researchers trained a deep-learning computer model on thousands of images of pottery fragments and found that it could categorize them as accurately as a team of expert archaeologists. Some archaeologists have expressed concern that they might be replaced by such computer models, but the researchers claim that outcome is highly unlikely.
@@ -59,6 +64,7 @@ D. A survey of archaeologists showed that few of them received dedicated trainin
 Answer: C
 
 Question 6:
+[COE]
 Which finding, if true, would most strongly support the team’s conclusion?
 
 Archaeologist Petra Vaiglova, anthropologist Xinyi Liu, and their colleagues investigated the domestication of farm animals in China during the Bronze Age (approximately 2000 to 1000 BCE). By analyzing the chemical composition of the bones of sheep, goats, and cattle from this era, the team determined that wild plants made up the bulk of sheep’s and goats’ diets, while the cattle’s diet consisted largely of millet, a crop cultivated by humans. The team concluded that cattle were likely raised closer to human settlements, whereas sheep and goats were allowed to roam farther away.
@@ -71,6 +77,7 @@ D. The diets of sheep, goats, and cattle were found to vary based on what the fa
 Answer: A
 
 Question 7:
+[COE]
 Which finding, if true, would most directly support the journalist’s claim?
 
 While attending school in New York City in the 1980s, Okwui Enwezor encountered few works by African artists in exhibitions, despite New York's reputation as one of the best places to view contemporary art from around the world. According to an arts journalist, later in his career as a renowned curator and art historian, Enwezor sought to remedy this deficiency, not by focusing solely on modern African artists, but by showing how their work fits into the larger context of global modern art and art history.
@@ -83,6 +90,7 @@ D. Enwezor organized the exhibition In/Sight: African Photographers, 1940 to th
 Answer: B
 
 Question 8:
+[COE]
 Which quotation from an art critic most directly challenges the underlined claim in the text?
 
 A member of the Otomi, an Indigenous people in Central Mexico, Octavio Medellin immigrated to the United States as a child, and his sculpture bears the impress of traditions on both sides of the border: US-based modernist sculpture, Mexican modernist painting, Otomi art, and the ancient sculpture of other Mexican Indigenous peoples, including the Maya. In __his 1950 masterpiece *History of Mexico,* Medellin fuses these influences into a style so idiosyncratic that it resists efforts to view his work through the lens of nationality or cultural identity.__ Artists, he insisted, should strive for individual expression, even as they draw inspiration from their heritage and the communities where they live and work.
@@ -95,6 +103,7 @@ D. “While A History of Mexico features modernist motifs, it relies primarily
 Answer: D
 
 Question 9:
+[COE]
 Which finding, if true, would most directly support Valerio and colleagues ' conclusion?
 
 Northern Texas's Carson County is among the most rural counties in the United States: the US Census Bureau classified it as 95.2% rural in 2010. Researchers have struggled to recruit residents of counties like Carson for inclusion in studies. Noting this problem, Melissa Valerio and colleagues tested two recruitment techniques in rural counties: purposive sampling, in which researchers contact many potential participants who have the characteristics desired for a given study, and snowball sampling, in which researchers recruit a few people with the desired characteristics and ask them to recruit additional participants. Valerio and colleagues concluded that the latter approach may be superior.
@@ -107,6 +116,7 @@ D. Snowball sampling yielded significantly more participants with the desired ch
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most directly weaken the team’s hypothesis?
 
 Icebergs generally appear to be mostly white or blue, depending on how the ice reflects sunlight. Ice with air bubbles trapped in it looks white because much of the light reflects off the bubbles. Ice without air bubbles usually looks blue because the light travels deep into the ice and only a little of it is reflected. However, some icebergs in the sea around Antarctica appear to be green. One team of scientists hypothesized that this phenomenon is the result of yellow-tinted dissolved organic carbon in Antarctic waters mixing with blue ice to produce the color green.

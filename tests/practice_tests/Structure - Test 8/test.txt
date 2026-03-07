@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from George Eliot’s 1857 short story "The Sad Fortunes of the Rev. Amos Barton." In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton's neighbors.
@@ -11,6 +12,7 @@ D. Although people appreciate the value of being truthful, they are generally un
 Answer: C
 
 Question 2:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is Emily Dickinson’s circa 1873 poem “There is no Frigate like a Book.” A frigate is a light, fast ship; coursers are swift horses.
@@ -30,6 +32,7 @@ D. Poetry helps people recognize their similarities despite cultural differences
 Answer: C
 
 Question 3:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).

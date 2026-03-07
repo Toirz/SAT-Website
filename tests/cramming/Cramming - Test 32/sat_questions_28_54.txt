@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Contesting claims that the massive increase in patents in recent decades has been ______ a rise in technological innovation, Yuen Ang et al. show that truly novel patents—those, like a 2004 patent for a robot with flexible structures, that combine previously unaffiliated technological domains—have been vastly outnumbered by nonnovel patents (e.g., a 2011 patent for a mobile-phone holder).
@@ -12,6 +13,7 @@ Answer: C
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Exploring labels from obsolete pharmaceuticals, formulas from early 20th-century chemistry sets, and brochures for discontinued chemical products might appear to be a trivial endeavor, yet ephemeral items like these serve as indicators of scientific progress: they can ____ in norms, scientific practices, and issues that more conventional scientific artifacts might overlook.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 As used in the text, what does the word “manifest” most nearly mean?
 
 The following text is adapted from Virginia Woolf’s 1919 novel *Night and Day*. Katharine is the granddaughter of a celebrated poet.
@@ -39,6 +42,7 @@ Answer: B
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Suleiman A. Al-Sweedan and Moath Alhaj's research into the effects of living below sea level on blood chemistry was motivated by their belief that the ______ scientific focus on high-altitude effects has overshadowed other important environmental factors, such as those experienced in California's Niland and Heber.
@@ -52,6 +56,7 @@ Answer: C
 
 
 Question 5:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Louise Erdrich’s 1986 novel The Beet Queen. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator’s sister-in-law, is Dot’s mother.
@@ -67,6 +72,7 @@ Answer: A
 
 
 Question 6:
+[Cross Text]
 Based on the texts, the author of Text 2 would most like to know the answer to which question about Cruz and colleagues' study that is not addressed in Text 1?
 
 Text 1:
@@ -83,6 +89,7 @@ Answer: C
 
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Sara Teasdale’s 1922 poem Two Songs for Solitude.
@@ -100,6 +107,7 @@ Answer: B
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Mauricio Drelichman and Hans-Joachim Voth’s research into the debt defaults of Philip II (who ruled an empire including Spain and much of Belgium from 1536 to 1539) relates to other work on European early modern state finance, including Hoffman and Norberg’s research on the relationship between state finance and political developments. But Drelichman and Voth’s unique contribution to the field is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, demonstrating in turn that Philip’s defaults were caused by short-term cash shortages, not long-term unsustainable debts.
@@ -113,6 +121,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which statement, if true, would most directly support the underlined claim?
 
 Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their language, Native Hawaiian teachers founded the ‘Aha Punana Leo preschool in 1984’. They spoke Hawaiian while teaching, and their Native Hawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations around Hawai‘i and started teaching Hawaiian to elementary and high school students too. __Thanks to Aha Punana Leo, the number of young people who speak the language has increased.__
@@ -126,6 +135,7 @@ Answer: B
 
 
 Question 10:
+[COE]
 According to the text, what did Protas and colleagues focus on in their study?
 
 Meredith E. Protas and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -139,6 +149,7 @@ Answer: B
 
 
 Question 11:
+[COE]
 Which statement about microbes aboard the ISS is best supported by the information in the text and the table?
 
 Fungal Concentrations in One Dust Sample, by Experimental Treatment
@@ -154,6 +165,7 @@ Answer: B
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly weaken Schober’s hypothesis?
 
 In what is now southern Florida, the Calusa people (circa 1000–1600 CE) supported their relatively large population’s dietary needs with hydrological engineering rather than terrestrial farming methods. They constructed watercourts (gated coastal enclosures) out of shells and sediments to trap a variety of fish as waters rose and fell with tides and seasonal sea-level shifts; watercourt pools then held the fish for later consumption. Archaeologist Theresa Schober has pointed an additional purpose of these enclosures, suggesting that they were intended to foster conch. She ties this hypothesis to the high value the sea snails would have had for the Calusa, both nutritionally and as a building material (conch shells are highly durable).
@@ -167,6 +179,7 @@ Answer: C
 
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Studies of the population density of cougars (*Puma concolor*) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Linda L. Sweenor et al. and that reported by David M. Choate et al. might be artificially large if the use of ______.
@@ -180,6 +193,7 @@ Answer: B
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Data collected by the Mars rover Curiosity at the Gale Crater’s Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-Hernández et al. analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-Hernández et al. concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that _____.
@@ -193,6 +207,7 @@ Answer: A
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Exclusively inhabiting tropical countries such as Sierra Leone, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the lower and more variable UVB irradiance in those locations. In a study of zoo chimpanzees in Sweden and other mid-latitude countries, Sophie Moittié and colleagues found not only that chimpanzees’ vitamin D levels correlate with UVB irradiance but also that vitamin D levels show no evidence of plateauing as UVB irradiance reaches its highest local levels, suggesting that ______.
@@ -206,6 +221,7 @@ Answer: D
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When attempting to determine a fault's seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault's physical dimensions and geological features. For example, data from the US Geological Survey show the ______ and most recent deformation (less than 130 thousand years ago) of the Kawich Range fault in Nye County, Nevada.
@@ -219,6 +235,7 @@ Answer: A
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Renewable energy sources have made the generation of sustainable electrical power cheaper than ever. To generate such power by means of wind turbines does raise a significant environmental ______ local regulations stipulate that turbines can be built near wildlife habitats, according to ecologist Marco Gallo, bird populations are not monitored when their migration paths are included in impact studies.
@@ -232,6 +249,7 @@ Answer: B
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Austronesian language family comprises some 1,200 languages—including the ____ Madurese and Bikol, which are spoken by 14 million and 4.6 million speakers, respectively—and accounts for one-fifth of the world’s languages, making it of keen interest to linguists like Diane Massam.
@@ -245,6 +263,7 @@ Answer: A
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Maria K. Hartley collected arthropods with _____ another research team, led by Kimberly J. La Pierre, gathered them with bug vacuums.
@@ -258,6 +277,7 @@ Answer: A
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Artist Yu Bararrada’s exhibition *Ways to Baffle the Wind* incorporates sculpture, textiles, and film. Bararrada’s pieces, utilizing elements as disparate as plant-dyed fabrics, wire crab traps filled with stones, and cotton balls dangling above a fan, ______ the ways humans attempt to organize and regulate nature.
@@ -271,6 +291,7 @@ Answer: B
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The unconventional literary philosophy with which Fernando Pessoa approached his writing is manifested in the Portuguese poet’s "heteronyms," his term for the dozens of fictional personas in whose voices he authored many of his ____ among these personas was Ricardo Reis, author of classical odes in a Horatian style.
@@ -284,6 +305,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A staunch supporter of women’s voting rights, Wilhelmina Kekelaokalaninui Widemann Dowsett sought to coordinate the efforts of suffragists in her native Hawaiʻi. ______ in 1912, she founded the National Women’s Equal Suffrage Association of Hawaiʻi, an organization that lobbied for women’s voting rights in the US territory.
@@ -297,6 +319,7 @@ Answer: B
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Qatar, in 2022. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1950 World Cup in Brazil included only 13 teams, all from Europe and the Americas.
@@ -310,6 +333,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A double-blind study design is often used in clinical trials to ensure unbiased results when testing a new drug's efficacy. Using this methodology offers a number of advantages, such as preventing both researchers and participants from letting their expectations influence the outcome. ______ by eliminating potential sources of bias (like the placebo effect or researcher expectations), it encouraged an objective assessment of the drug's true effects.
@@ -323,6 +347,7 @@ Answer: A
 
 
 Question 25:
+[Synthesis]
 The student wants to explain what Pyrularia odorata is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes
@@ -342,6 +367,7 @@ Answer: B
 
 
 Question 26:
+[Synthesis]
 The student wants to challenge an anthropological hypothesis regarding the origins of technology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -360,6 +386,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to make and support a generalization about linocuts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

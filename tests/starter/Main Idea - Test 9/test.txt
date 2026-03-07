@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Many archaeologists assume that large-scale engineering projects in ancient societies required an elite class to plan and direct the necessary labor. However, recent discoveries, such as the excavation of an ancient canal near the Gulf Coast of Alabama, have complicated this picture. Using radiocarbon dating, a team of researchers concluded that the 1.39-kilometer-long canal was most likely constructed between 576 and 650 CE by an Indigenous society that was relatively free of social classes.
@@ -11,6 +12,7 @@ D. It identifies a gap in scientific research, then presents a strategy used by 
 Answer: A
 
 Question 2:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Michelene Pesantubbee, a historian and citizen of the Choctaw Nation, has identified a dilemma inherent to research on the status of women in her tribe during the 1600s and 1700s: the primary sources from that era, travel narratives and other accounts by male European colonizers, underestimate the degree of power conferred on Choctaw women by their traditional roles in political, civic, and ceremonial life. Pesantubbee argues that the Choctaw oral tradition and findings from archaeological sites in the tribe’s homeland supplement the written record by providing crucial insights into those roles.
@@ -23,6 +25,7 @@ D. It characterizes a particular topic as especially challenging to research, th
 Answer: B
 
 Question 3:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album *Turbulent Indigo* (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s *Self-Portrait with Bandaged Ear* (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover.
@@ -35,6 +38,7 @@ D. It describes the songs on Turbulent Indigo, then explains how they relate to
 Answer: A
 
 Question 4:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is adapted from Paul Laurence Dunbar’s 1902 novel *The Sport of the Gods.* Joe and some of his family members have recently moved to New York City.
@@ -48,6 +52,7 @@ D. It presents a character feeling regret over leaving home.
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main idea of the text?
 
 Many intellectual histories of the Black Power movement of the 1960s and 1970s rely heavily on essays and other explicitly ideological works as primary sources, a tendency that can overrepresent the perspectives of a small number of thinkers, most of whom were male. Historian Ashley D. Farmer has shown that expanding the array of primary sources to encompass more types of print material—including political cartoons, advertisements, and artwork—leads to a much better understanding of the movement and the crucial and diverse roles that Black women played in shaping it.
@@ -60,6 +65,7 @@ D. The figures in the Black Power movement whom historians tend to cite would ha
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from the 1895 poem *Marshlands* by Emily Pauline Johnson, a Kanien’kehá:ka (Mohawk) writer also known as Tekahionwake.
@@ -82,6 +88,7 @@ D. It identifies a location, then refers to a person living there.
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Philadelphia’s Black Pearl Chamber Orchestra, founded by Jeri Lynne Johnson, performs classical music, from well-known compositions by Beethoven to contemporary works by Jessie Montgomery. For the orchestra’s iConduct! program, Johnson invites community members to learn some basic elements of conducting and then experience conducting the Black Pearl orchestra themselves.
@@ -94,6 +101,7 @@ D. Johnson has community members conduct an orchestra to demonstrate how difficu
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Believing that living in an impractical space can heighten awareness and even improve health, conceptual artists Madeline Gins and Shusaku Arakawa designed an apartment building in Japan to be more fanciful than functional. A kitchen counter is chest-high on one side and knee-high on the other; a ceiling has a door to nowhere. The effect is disorienting but invigorating; after four years there, filmmaker Nobu Yamaoka reported significant health benefits.
@@ -106,6 +114,7 @@ D. Although impractical, the design of the apartment building by Gins and Arakaw
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 In *The Here and Now Storybook* (1921), educator Lucy Sprague Mitchell advanced the then-controversial idea that books for very young children should imitate how they use language, since toddlers, who cannot yet grasp narrative or abstract ideas, seek reassurance in verbal repetition and naming. The most enduring example of this idea is Margaret Wise Brown's 1947 picture book *Goodnight Moon*, in which a young rabbit names the objects in his room as he drifts off to sleep. Scholars note that the book's emphasis on repetition, rhythm, and nonsense rhyme speaks directly to Mitchell's influence.
@@ -118,6 +127,7 @@ D. The text presents a philosophy about what material is most suitable for child
 Answer: D
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 The second season finale of "Starfall Chronicles," which first aired in 2018, is an episode in Elena Vance's expansive science-fiction saga, a show planned for a seven-season arc. Consistent with the narrative style of other seasons, the second season concludes on a significant cliffhanger, yet the third season premiere resolves this suspenseful moment almost immediately. Consequently, this unresolved conclusion poses a problem only when the seasons are viewed as self-contained stories. A better understanding of the "Starfall Chronicles" saga comes from its perception as one continuous, epic narrative, much like other serialized epics such as the television adaptation of Dune.
@@ -130,6 +140,7 @@ D. Many viewers enjoy "Starfall Chronicles" for its compelling characters, even 
 Answer: C
 
 Question 11:
+[Structure]
 Which choice best states the main idea of the text?
 
 Culinary anthropologist Vertamae Smart‐Grosvenor may be known for her decades of work in national public television and radio, but her book *Vibration Cooking; or, the Travel Notes of a Geechee Girl* is likely her most influential project. The 1970 book, whose title refers to Smart‐Grosvenor’s roots in the Low Country of South Carolina, was unusual for its time. It combined memoir, recipes, travel writing, and social commentary and challenged notions about conventions of food and cooking. Long admired by many, the book and its author have shaped contemporary approaches to writing about cuisine.

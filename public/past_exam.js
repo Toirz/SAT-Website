@@ -74,6 +74,15 @@ function decodeCipherText(text = "") {
   return String(text || "");
 }
 
+function normalizeQuestionText(rawText = "") {
+  return String(rawText || "")
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .replace(/\\n/g, "\n")
+    .trim();
+}
+
+
 function formatPlainText(raw = "") {
   let text = String(raw || "")
     .replace(/&/g, "&amp;")
@@ -97,14 +106,53 @@ function renderPlainHtml(el, rawText) {
   el.classList.remove("cipher-text");
 }
 function splitQuestionAndPassage(rawText = "") {
-  const lines = String(rawText || "").split("\n");
+  const normalized = normalizeQuestionText(rawText);
+  const lines = normalized.split("\n");
   if (lines.length <= 1) {
-    return { question: rawText, passage: "" };
+    return { question: normalized, passage: "" };
   }
   return {
     question: lines[0] || "",
     passage: lines.slice(1).join("\n"),
   };
+}
+
+function extractQuestionTopic(rawText = "") {
+  const lines = normalizeQuestionText(rawText)
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  if (!lines.length) return "";
+
+  const topicLine = lines.find((line) => /^\[[^\]]+\]$/.test(line));
+  if (!topicLine) return "";
+
+  return topicLine.slice(1, -1).trim();
+}
+
+function removeTopicLine(rawText = "") {
+  return normalizeQuestionText(rawText)
+    .split("\n")
+    .filter((line) => !/^\s*\[[^\]]+\]\s*$/.test(line))
+    .join("\n");
+}
+
+function extractQuestionStem(rawText = "") {
+  const lines = normalizeQuestionText(rawText)
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  const contentLines = lines.filter((line) => !/^\[[^\]]+\]$/.test(line));
+  const questionLine = contentLines.find((line) => line.includes("?")) || contentLines[contentLines.length - 1] || "";
+
+  if (!questionLine) return "";
+
+  const firstQuestionMarkIndex = questionLine.indexOf("?");
+  if (firstQuestionMarkIndex === -1) return questionLine;
+
+  return questionLine.slice(0, firstQuestionMarkIndex + 1).trim();
 }
 
 function setAiPanelStatus(message = "") {
@@ -437,14 +485,64 @@ async function loadPastExam() {
     if (nameEl) {
       // Hiển thị tên test không kèm tiền tố thư mục (ví dụ: real_tests/ hoặc practice_tests/)
       const rawName = fileFromQuery || meta.file || "SAT Test";
-      const displayName = String(rawName).replace(/^(?:real_tests|practice_tests)\/+/, "");
+      const displayName = String(rawName).split("/").filter(Boolean).pop() || "SAT Test";
       nameEl.textContent = displayName;
     }
 
     const correctEl = document.getElementById("attempt-correct");
     if (correctEl) {
-      correctEl.textContent = `Correct: ${correctCount} / ${questions.length}`;
+      correctEl.textContent = `Số câu đúng: ${correctCount} / ${questions.length}`;
     }
+
+    const topicBreakdownEl = document.getElementById("attempt-topic-breakdown");
+    if (topicBreakdownEl) {
+      const topicStats = new Map();
+
+      questions.forEach((q) => {
+        const topic = extractQuestionTopic(getPlainQuestionText(q));
+        if (!topic) return;
+
+        if (!topicStats.has(topic)) {
+          topicStats.set(topic, { correct: 0, total: 0 });
+        }
+
+        const stats = topicStats.get(topic);
+        stats.total += 1;
+        if (isCorrectAnswer(q, q.userAnswer)) {
+          stats.correct += 1;
+        }
+      });
+
+      if (!topicStats.size) {
+        topicBreakdownEl.classList.add("hidden");
+        topicBreakdownEl.innerHTML = "";
+      } else {
+        topicBreakdownEl.classList.remove("hidden");
+        topicBreakdownEl.innerHTML = Array.from(topicStats.entries())
+          .map(([topic, stats]) => {
+            const percent = stats.total ? Math.round((stats.correct / stats.total) * 100) : 0;
+            const colorClass = percent <= 30
+              ? "progress-low"
+              : percent <= 80
+                ? "progress-mid"
+                : "progress-high";
+
+            return `
+              <div class="topic-breakdown-item">
+                <div class="topic-breakdown-head">
+                  <span class="topic-breakdown-name">${topic}</span>
+                  <span class="topic-breakdown-score">${stats.correct}/${stats.total}</span>
+                </div>
+                <div class="topic-breakdown-progress-track">
+                  <div class="topic-breakdown-progress-fill ${colorClass}" style="width: ${percent}%;"></div>
+                </div>
+              </div>
+            `;
+          })
+          .join("");
+      }
+    }
+
 
     // Thời gian đã bị loại khỏi giao diện (không hiển thị)
 
@@ -484,11 +582,11 @@ function renderQuestion() {
 
   // Nội dung câu hỏi
   const qEl = document.getElementById("question-text");
-  if (qEl) {
-    renderPlainHtml(qEl, decodeCipherText(q.cipherQuestion || ""));
-  }
-
   const decodedQuestion = decodeCipherText(q.cipherQuestion || "");
+  const displayQuestion = removeTopicLine(decodedQuestion);
+  if (qEl) {
+    renderPlainHtml(qEl, displayQuestion);
+  }
   const { question: questionPrompt, passage } = splitQuestionAndPassage(decodedQuestion);
 
   const plainChoices = ["A", "B", "C", "D"].reduce((acc, opt) => {
@@ -606,30 +704,20 @@ function renderSummaryTable() {
     tdNo.textContent = q.id;
     tr.appendChild(tdNo);
 
-    // ============================
-    // ⚡ QUESTION STEM (chỉ lấy phần có dấu ?)
-    // ============================
+    // Question
     const tdQ = document.createElement("td");
     tdQ.className = "summary-question-text";
 
-    let full = getPlainQuestionText(q);
-
-    // Tách thành từng dòng, loại bỏ dòng trống
-    let lines = full.split("\n").map(l => l.trim()).filter(Boolean);
-
-    // Tìm dòng có chứa dấu ?
-    let questionLine = lines.find(line => line.includes("?"));
-
-    // Nếu không tìm thấy dấu ?, dùng dòng cuối như fallback
-    if (!questionLine) {
-      questionLine = lines[lines.length - 1] || "";
-    }
-
-    // Lấy đến dấu ? đầu tiên
-    let stem = questionLine.split("?")[0].trim() + "?";
-
-    tdQ.textContent = stem;
+    const fullQuestion = getPlainQuestionText(q);
+    tdQ.textContent = extractQuestionStem(fullQuestion);
     tr.appendChild(tdQ);
+
+    // Topic
+    const tdTopic = document.createElement("td");
+    const topic = extractQuestionTopic(fullQuestion);
+    tdTopic.textContent = topic || "—";
+    tdTopic.className = topic ? "summary-topic-text" : "summary-topic-text topic-empty";
+    tr.appendChild(tdTopic);
 
     // Status
     const tdStatus = document.createElement("td");

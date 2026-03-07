@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 It is tempting to treat the clustering of textile manufacturing firms in Manchester, UK, as representative of industrial agglomeration generally. But Giulia Faggio et al. caution against ______ this one example: the potential for knowledge spillovers, a dominant driver of collocation in this industry, was largely absent from the leather clothing manufacturing industry.
@@ -11,6 +12,7 @@ D. extrapolating from
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Agglomeration economies arise when multiple firms in related industries ___ an area, as with iron and steel production firms and cutlery and hardware manufacturers in Wolverhampton, UK. Economists have assumed that companies cluster for the same reasons, but Giulia Faggio et al. found that factors driving agglomeration in some cases are only weakly correlated with agglomeration in others.
@@ -23,6 +25,7 @@ D. concur with
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Firms in related industries often cluster in an area, as is the case in Hull, UK, where many leather production firms as well as footwear manufacturers are located. Some economists assume that the reasons for this are ________ across sectors, but as Giulia Faggio and colleagues show, certain factors influence some industry groupings more strongly than others.
@@ -35,6 +38,7 @@ D. combined
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although the clustering of information technology firms in Northern California is often cited as typical of industrial agglomeration, Giulia Faggio et al. use UK data to show that the mix of factors driving the phenomenon is ___ across industries: while the potential for knowledge spillovers can prompt agglomeration, collocation among tube manufacturers occurs for different reasons.
@@ -47,6 +51,7 @@ D. decisive
 Answer: B
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The term “agglomeration economies” refers to the economic benefits enjoyed by firms in the same industry that _____ in a region. For example, in the computer manufacturing industry in the United Kingdom, firms that locate near one another can more readily take advantage of increased potential for information sharing among firms that fosters greater technological innovation.
@@ -59,6 +64,7 @@ D. terminate
 Answer: C
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 It is tempting to treat the clustering of textile manufacturing firms in Manchester, UK, as representative of industrial agglomeration generally. But Giulia Faggio et al. caution against ______ this one example: the potential for knowledge spillovers, a dominant driver of collocation in this industry, was largely absent from the leather clothing manufacturing industry.
@@ -71,6 +77,7 @@ D. deducing from
 Answer: D
 
 Question 7:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Agglomeration economies arise when multiple firms in related industries ___ an area, as with iron and steel production firms and cutlery and hardware manufacturers in Wolverhampton, UK. Economists have assumed that companies cluster for the same reasons, but Giulia Faggio et al. found that factors driving agglomeration in some cases are only weakly correlated with agglomeration in others.
@@ -83,6 +90,7 @@ D. concur with
 Answer: A
 
 Question 8:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Because iron-and-steel producers and cutlery manufacturers cluster so densely in Wolverhampton, UK, policymakers often cite the city as evidence that firms in related sectors always co-locate for identical reasons. Yet, as Giulia Faggio et al. show, such emblematic cases can actually ______ the diverse and often weakly correlated forces that drive agglomeration in other industries.
@@ -95,6 +103,7 @@ D. enumerate
 Answer: B
 
 Question 9:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Economists have long observed that firms in related industries tend to cluster in the same area, as is the case in Leeds, UK, where many thread- and yarn-spinning firms as well as textile-weaving firms are located. The factors causing such clustering are ____: what drives firms in certain industries to cluster may not be especially relevant among other industries.
@@ -107,6 +116,7 @@ D. variable
 Answer: D
 
 Question 10:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the underlined sentence in Text 1?
 
 Text 1:
@@ -122,6 +132,7 @@ D. By suggesting that whatever infractions Luttrell might have committed are out
 Answer: C
 
 Question 11:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence in Text 1?
 
 Text 1:
@@ -137,6 +148,7 @@ D. By suggesting that whatever infractions Luttrell might have committed are out
 Answer: C
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Episodes in which technologies fall into disuse after a period of adoption, as occurred with the rapid decline of bronze tools and weapons beginning circa 1300 BCE, are informative for understanding the factors shaping technological development in ancient societies. However, it can be unclear whether an absence of artifacts signifies a cultural shift or is merely an effect of gaps in the archaeological record. A dataset of gold objects, including earrings and beads, recovered from Bronze and Iron Age sites at Simagre, Karmir Blur, and other places in the Caucasus reveals a steep drop in the total number of gold artifacts beginning around 1500 BCE in some locations. That this drop represents a genuine instance of cultural change is likely, given that ______.
@@ -149,6 +161,7 @@ D. far fewer gold objects dating to earlier than 1500 BCE have been recovered fr
 Answer: B
 
 Question 13:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Disproportionate emphasis on instances of invention, such as the emergence of potter's wheels circa 4500 BCE, contributes to a pro-innovation bias that _______ studies of the history of technology. More attention to technological discontinuance (e.g., the disappearance of Roman concrete as a construction material around 500 CE) is thus a necessary corrective to the dominant view that innovations are steadily and inevitably adopted.
@@ -161,6 +174,7 @@ D. supersedes
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Technological discontinuance—when a technological advance, such as the use of bronze metallurgy across the ancient world, is abandoned after sustained adoption—can result when difficulty in accessing resources increases. A dataset of over 4,500 shields, beads, and other gold objects from the Caucasus dating to 4000-500 BCE revealed a drop in the number of gold artifacts from sites in the Middle Kura zone circa 1500 BCE. No such drop occurred in the nearby Middle Arazes zone, but modeling suggests that walking times to the nearest gold ore deposits were comparable in the two regions. Yet, concluding that the abandonment of gold metallurgy in the Middle Kura can’t therefore be attributed to proximity to gold deposits depends on the assumption that ______.
@@ -173,6 +187,7 @@ D. nothing prevented the peoples of the Middle Kura after 1500 BCE from identify
 Answer: D
 
 Question 15:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Contesting claims that the massive increase in patents in recent decades has been ______ a rise in technological innovation, Yuen Ang et al. show that truly novel patents—those, like a 2004 patent for a robot with flexible structures, that combine previously unaffiliated technological domains—have been vastly outnumbered by nonnovel patents (e.g., a 2011 patent for a mobile-phone holder).
@@ -185,6 +200,7 @@ D. misconstrued as
 Answer: C
 
 Question 16:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Yuen Yuen Ang et al. argue that merely tallying the number of patents filed per year ______ the degree of innovation occurring: truly novel patents—those, like a 2014 patent for a system of satellite-linked deep-sea buoys, that combine previously unaffiliated technological domains—are vastly outnumbered by nonnovel patents (e.g., a 2014 patent for a new type of bottle cork).
@@ -197,6 +213,7 @@ D. thwarts
 Answer: C
 
 Question 17:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Lascaux Cave paintings—detailed paintings of animals found in what is now France and dating from around 17,000 years ago—are sometimes said to be emotionally powerful despite their age, but in fact the paintings are ______ precisely because of their age. It is the link of shared humanity with the artists across so many centuries that gives the Lascaux Cave paintings such resonance.
@@ -209,6 +226,7 @@ D. affecting
 Answer: D
 
 Question 18:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Even after 17 millennia, the animal murals at Lascaux still stir viewers; indeed, their pathos stems because of—not in spite of—the vast temporal gulf between present-day observers and the Paleolithic artists whose lives they evoke. That reach across ages renders the paintings deeply ______.
@@ -221,6 +239,7 @@ D. affecting
 Answer: D
 
 Question 19:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Even after 17 millennia, the animal murals at Lascaux stir modern viewers—not despite their antiquity but because of it. The very fact that they bridge such a cavernous span of human history makes the paintings profoundly ______.
@@ -233,6 +252,7 @@ D. poignant
 Answer: D
 
 Question 20:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Chauvet Cave paintings—detailed paintings of animals found in what is now France and dating from 30,000–32,000 years ago—are thought of as art today, but how the people of the time understood the paintings is ______. They may have thought of the paintings as something akin to art in our modern sense, but it is entirely possible that they did not—we simply cannot say for certain.
@@ -245,6 +265,7 @@ D. uncontroversial
 Answer: A
 
 Question 21:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?
 
 Text 1**
@@ -260,6 +281,7 @@ D. By claiming that Bergamo’s chefs were mainly responsible for the city’s r
 Answer: B
 
 Question 22:
+[Cross Text]
 Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
 
 Text 1
@@ -275,6 +297,7 @@ D. The naming of Buenaventura as a City of Gastronomy was long overdue, given th
 Answer: A
 
 Question 23:
+[Cross Text]
 Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
 
 Text 1
@@ -290,6 +313,7 @@ D. The benefits of being named a City of Gastronomy extend well beyond tourism.
 Answer: B
 
 Question 24:
+[Cross Text]
 Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?
 
 Text 1
@@ -305,6 +329,7 @@ D. The author of Text 1 assumes that a city's restaurant owners and chefs are mo
 Answer: B
 
 Question 25:
+[Cross Text]
 Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?
 
 **Text 1**
@@ -320,6 +345,7 @@ D. The author of Text 1 considers the effects of Jeonju's City of Gastronomy sta
 Answer: C
 
 Question 26:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
@@ -332,6 +358,7 @@ D. discern
 Answer: D
 
 Question 27:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fossil remains of the individual known as Jebel Irhoud 1, discovered in Morocco in 1991, can help paleoantthropologists not only identify steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, ______ important details about the time in which Jebel Irhoud 1 lived.

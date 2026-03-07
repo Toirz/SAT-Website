@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 It is hardly an exaggeration to characterize modern Hawaiian literature as having _______ the traditional stories of the Kanaka Maoli, the Native Hawaiian people. In a variety of ways, Samuel Kamakau, Kristiana Kahakauwila, and other acclaimed writers have drawn on these stories to craft a rich portrait of the Hawaiian Islands and their people.
@@ -11,6 +12,7 @@ D. emanated from
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 An influential hypothesis about the origins of ancient Greek drama suggests that theatrical performances evolved from choral songs performed at religious festivals dedicated to Dionysus. Until recent discoveries, however, direct historical evidence for these early festivals was ____, yet historian Elena Karalis and her team now argue they have discovered tangible artifacts linked directly to such performances at archaeological sites in northern Greece.
@@ -23,6 +25,7 @@ D. fallacious
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Research on *Chaenocephalus aceratus* and other icefishes of the Telcostei class has shown that their hearts are pale due to low levels of myoglobin expression, which was once thought to be related to their polar habitats. Recently, researchers have found that some tropical teleost species (such as _Amblyeleotris wheeleri_) also have pale hearts, raising the possibility that myoglobin deficiency in teleosts could be ______ habitat.
@@ -35,6 +38,7 @@ D. irrespective of
 Answer: D
 
 Question 4:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Armando Palacio Valdés’s short story “The Love of Clotilde,” originally published in Spanish in 1884. In the text, Don Jerónimo, a financial supporter of theatrical artists, is speaking to a group of people backstage at a theater.
@@ -48,6 +52,7 @@ D. It illustrates a character’s view of the quality of plays of the time.
 Answer: D
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), Nicole M. Dallar et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on _Nola triguetrana_, a specialist feeding on a limited number of plant species, than on a species like _Himella intractata_ that feeds on several.
@@ -60,6 +65,7 @@ D. attenuates
 Answer: B
 
 Question 6:
+[COE]
 Which choice best describes data from the table that support the journalist's claim?
 
 Highest-Grossing Films in a Language Other than English at US Box Office
@@ -74,6 +80,7 @@ D. Although the opening weekend earnings were $7,846,426 for Instructions Not In
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Striated herons also get creative. They use breadcrumbs and other lures to attract fish to the water’s surface, making it easier for the herons to catch them.
@@ -86,6 +93,7 @@ D. Animals find it difficult to use objects as tools.
 Answer: C
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 mostly likely respond to the argument presented in Text 1?
 
 Text 1
@@ -101,6 +109,7 @@ D. By claiming that a proper analysis of Luttrell’s dispute with Sempringham P
 Answer: A
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than countries with much smaller populations, as can be seen by comparing ____.
@@ -114,6 +123,7 @@ D. The populations of both Lesotho and Benin in 2015 with their populations in 2
 Answer: C
 
 Question 10:
+[COE]
 Which quotation from There Is Confusion most effectively illustrates the claim?
 
 There Is Confusion is a 1924 novel by Jessie Redmon Fauset. In the novel, the narrator portrays the character Joanna as someone who admires ambition in other people to the exclusion of all other qualities: ______.
@@ -126,6 +136,7 @@ D. “Indeed from the very beginning Joanna showed her preference for her father
 Answer: A
 
 Question 11:
+[COE]
 Which finding, if true, would most directly support Jones and colleagues’ conclusion?
 
 Marine ecologist Adrienne Jones believes we may uncover how complex coral colonies originated from single-celled forebears by examining why the solitary microorganism Draconis alveolus—suspected to be an ancient coral precursor—occasionally forms microscopic reef clusters. Jones and her team reviewed multiple investigations on how D. alveolus reacts when it encounters another single-celled group, algae, including Markus Stein’s research with Tetraselmis marina algae and Elena Prior’s work with Chaetoceros conicus algae. Jones and her colleagues concluded that neither T. marina nor C. conicus likely played a decisive role in the progression toward reef-building life forms.
@@ -138,6 +149,7 @@ D. Both Stein and Prior discovered that existing D. alveolus micro-reefs halte
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Ghale in Jackson Heights. English is the most common, with 65% of New Yorkers speaking it at home; Spanish is second, at 20%. A linguist hypothesizes that a Spanish dialect—a variation differing from the parent language in some of its vocabulary, pronunciation, and grammar—has developed in New York City, partly due to its linguistic interaction with English. Previous research shows that younger speakers of intermarriage languages are more likely to borrow words from the majority language of a region than are older speakers. If the linguist's hypothesis is correct, it is therefore likely to be the case that ____
@@ -150,6 +162,7 @@ D. younger speakers of Spanish in New York City would be more likely to use a di
 Answer: D
 
 Question 13:
+[COE]
 Which statement, if true, would most strongly support Wade’s argument?
 
 In medieval England, harpers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as directly appealing to the audience, extensive use of repetition (allowing for easy memorization), and requests for tips (payment) from listeners.
@@ -162,6 +175,7 @@ D. The three pieces in question contain references that presume that the audienc
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
@@ -174,6 +188,7 @@ D. the language of the Olmec civilization made contributions not only to the voc
 Answer: C
 
 Question 15:
+[COE]
 What does the text most strongly suggest about Poe's work and American readers?
 
 The following text is from William Carlos Williams's 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
@@ -187,6 +202,7 @@ D. American readers failed to appreciate Poe's work because of its novelty and t
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Tanzania's constitution, enacted in 1977, contains just two of the six constitutional features that enhance judicial independence, as identified by legal scholars James Melton and Tom Ginsburg. After 1985, such de jure judicial independence became more prevalent, as exemplified in Kyrgyzstan's constitution, enacted in 2010 and ______ three of these features.
@@ -199,6 +215,7 @@ D. contains
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the transformative era of agrarian England, identified as the precursor to the Industrial Revolution, a controversial policy of land enclosure ______ back to the 15th century—one that consolidated small communal landholdings into larger, privately held farms—altered the socioeconomic landscape irrevocably, forcing the migration of the peasantry to urban centers.
@@ -211,6 +228,7 @@ D. dating
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Released in 1998, the Alpha 21264 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. _______ a “power wall” in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.
@@ -223,6 +241,7 @@ D. They hit
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To the layperson, the heliocentric model—relegating Earth to a mere orbital body—is arguably the defining intellectual contribution of the Renaissance astronomer Nicolaus Copernicus. This cosmological reorientation did not originate with _____ in the third century BCE, the hypothesis was essentially formulated by the Greek mathematician Aristarchus of Samos.
@@ -235,6 +254,7 @@ D. Copernicus, though;
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Was the Greek mythological figure Chronos, god of time, based on a real person? That was the question posed by the writer Euhemerus (fourth century BCE). Euhemerus claimed that Chronos and the other Greek deities were based on real-life heroes or leaders, tales of whose exploits, told and retold over time, _______ myths—a position later known as euhemerism.
@@ -247,6 +267,7 @@ D. to eventually become
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Susana Wadgymar is a biologist at Davidson ______ conducts research on plants.
@@ -259,6 +280,7 @@ D. College she
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a transdisciplinary study, a scholar examines a concept from another academic field, such as economics, anthropology, or psychology. Elena Rodriguez’s 2012 research paper Keynesian Perspectives, for instance, analyzes John Keynes’s 1936 economic theory General Theory of Employment; Mark Tanaka’s 2020 paper Human Rituals, ____ engages with a theory from another discipline: Victor Turner’s 1969 anthropological work The Ritual Process.
@@ -271,6 +293,7 @@ D. conversely.
 Answer: B
 
 Question 23:
+[Synthesis]
 The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -289,6 +312,7 @@ D. Because Earth rotates beneath it, the swing path of the Foucault pendulum at 
 Answer: A
 
 Question 24:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize the number of medals won by Kenny?
 
 While researching a topic, a student has taken the following notes:
@@ -306,6 +330,7 @@ D. Mike Kenny competed at the Paralympic Games, a series of international sporti
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a similarity between the two national union federations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -321,6 +346,7 @@ D. The Trade Union Congress of Namibia and the Trade Union Confederation of Buru
 Answer: B
 
 Question 26:
+[Synthesis]
 The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
 
 While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
@@ -338,6 +364,7 @@ D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 p
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to contrast the song 'Poor Miner's Farewell' with the song 'Bring Him Back Home. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

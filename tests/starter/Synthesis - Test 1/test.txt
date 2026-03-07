@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to emphasize a similarity between the two ways a magnificent frigatebird acquires food. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -16,6 +17,7 @@ D. In addition to snatching prey from the water with its hook-tipped bill, a mag
 Answer: B
 
 Question 2:
+[Synthesis]
 The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 **While researching a topic, a student has taken the following notes:**
@@ -33,6 +35,7 @@ D. Thomas Rogers and F. Leland Russell analyzed core samples from oak trees on a
 Answer: A
 
 Question 3:
+[Synthesis]
 The student wants to emphasize the relative sizes of the two capitals’ populations. Which choice most effectively uses information from the given sentences to emphasize the relative sizes of the two capitals’ populations?
 
 While researching a topic, a student has taken the following notes:
@@ -51,6 +54,7 @@ D. The populations of the capitals of Mongolia and Vietnam are 907,802 (Ulaanbaa
 Answer: C
 
 Question 4:
+[COE]
 The student wants to summarize the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -68,6 +72,7 @@ D. According to Padmanabhan and Chen, the brain can toggle between capturing olf
 Answer: D
 
 Question 5:
+[Synthesis]
 The student wants to explain a disadvantage of relying on audio features to predict a song’s popularity. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -85,6 +90,7 @@ D. The MSD’s descriptive tags are reliable predictors of a song’s popularity
 Answer: B
 
 Question 6:
+[Synthesis]
 The student wants to explain how the House of Wisdom preserved the world’s knowledge. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -102,6 +108,7 @@ D. The House of Wisdom collected writings from different countries and created p
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to present Tan’s research to an audience unfamiliar with Angkor Wat. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 **While researching a topic, a student has taken the following notes:**

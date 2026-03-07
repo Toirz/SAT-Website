@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word "find" most nearly mean?
 
 The following text is adapted from Yone Noguchi's 1914 memoir *The Story of Yone Noguchi*. Noguchi is returning home after eleven years abroad.
@@ -12,6 +13,7 @@ D. Locate
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The ______ Stacey Lee's book *Outrun the Moon* has been very positive. Many reviewers have praised the book, and it won the Asian Pacific American Award for Literature.
@@ -23,6 +25,7 @@ D. neglect of
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A speaker at a recent children's book publishing conference noted that, while many illustrators do excellent work, in her mind, no one has ever ______ Kathleen Atkins Wilson's work as the illustrator of *The Origin of Life on Earth: An African Creation Myth*: there is no better example of the form, according to the speaker.
@@ -34,6 +37,7 @@ D. cited
 Answer: B
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 *The Song of the Lark*, painted in the realist style by Jules Breton, depicts a barefoot peasant woman pausing in the fields at sunset and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely ______ the conventions of the romantic style evident in many paintings by Charles Gleyre, which instead accentuated their subjects' positive traits by, for example, placing them in staged settings with expensive looking decorations and presenting them with smooth, unblemished skin.
@@ -45,6 +49,7 @@ D. epitomized
 Answer: A
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined phrase in the text as a whole?
 
 In the early days of television in the 1940s, many people thought that US television programs would rely on the financial support of ad agencies and commercial sponsors, much like radio did. But advertisers hesitated to jump into a new space, __particularly at a time when the manufacturing of new television sets was stalled due to the US's involvement in World War II__. Broadcasters, like the National Broadcasting Company (NBC), needed to persuade advertisers to support their programming despite not knowing whether there would be a robust television audience to begin with.
@@ -56,6 +61,7 @@ D. It identifies a specific reason behind some advertisers' hesitance to support
 Answer: D
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Armando Palacio Valdes's short story "The Love of Clotilde." Originally published in Spanish in 1884, in the story, Don Jerónimo is a financial supporter of artists in the theater.
@@ -69,6 +75,7 @@ D. It explains Don Jerónimo's view of the quality of theatrical works of the ti
 Answer: C
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined phrase in the text as a whole?
 
 *Dubautia latifolia* is a species in a family of plants __known collectively as the silversword alliance__, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed's descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.
@@ -80,6 +87,7 @@ D. It provides the common name for the *Dubautia latifolia* plant.
 Answer: A
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of musician and composer Nina Simone. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman making tortillas. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.
@@ -91,6 +99,7 @@ D. Villasana's portrayal of a woman making tortillas focuses more on human conne
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Community science involves professional scientists collaborating with members of the public to study a topic. This approach to research can promote community engagement by providing youth with learning experiences outside of the classroom. It's also very effective because it greatly increases the amount of data that can be collected, such as when biologist Grace Herzel and colleagues studied butterfly wing patterns and their relation to behavior and used findings reported by hundreds of students and community members in northwestern Arkansas.
@@ -102,6 +111,7 @@ D. A community science approach can benefit communities by increasing learning o
 Answer: C
 
 Question 10:
+[COE]
 Which choice best describes data from the table that support the student's conclusion?
 
 Biologists Christina Zdenek, Damian Candusso, and their team exposed various snakes to airborne sound and recorded whether they moved toward or away from the sound. The table shows the results for three of the snakes observed in the study. Based on the table, a student concludes that Glory and Squishy behaved similarly in the sound trials.
@@ -113,6 +123,7 @@ D. Glory and Squishy both moved away from the sound.
 Answer: D
 
 Question 11:
+[COE]
 Which statement, if true, would most directly support the administrators' claim?
 
 Among the most visited art museums in the world, the Museo del Prado in Madrid had approximately 3.5 million visitors in 2019. The Museo del Prado also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.
@@ -124,6 +135,7 @@ D. Many surveyed visitors to the Museo del Prado indicated that they would likel
 Answer: C
 
 Question 12:
+[COE]
 Which quotation from *The Age of Innocence* best illustrates the claim?
 
 *The Age of Innocence* is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera; in the audience is May Welland, with whom he is romantically involved. Newland visualizes the details of a future with May: ______
@@ -135,6 +147,7 @@ D. "Already [Newland's] imagination, leaping ahead of the engagement ring, the b
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the white-headed langur (*Trachypithecus poliocephalus*). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______
@@ -146,6 +159,7 @@ D. fail to consider less-well-known conservation approaches for the white-headed
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The musical *Hadestown* was produced off Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical's storytelling. However, Green also explained that he had seen the earlier version of *Hadestown* in 2016 and had found the storytelling to be very confusing. This suggests that in Green's view, ______
@@ -157,6 +171,7 @@ D. the 2016 version of *Hadestown* had fewer storytelling problems than the 2019
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Biochemists I. Sam Saguy and Fli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks dahibara aludam and paneer pakora, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food's fat content. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ______
@@ -168,6 +183,7 @@ D. the higher the temperature must be to fry the food.
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Water boils at around 212°F at sea level, but in Butte, Montana (elevation: 5,538 feet above sea level), it boils at around 202°F. Food writer J. Kenji López-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations "can wreak all sorts of havoc on recipes."
@@ -179,6 +195,7 @@ D. have explained
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a chemical reaction, the value known as molar mass helps convert between the mass of the reactants and the mass of the product. The gaseous ______ have molar masses of 150.21 and 16.04 g/mol, respectively.
@@ -190,6 +207,7 @@ D. compounds thymol and methane,
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With the short drama *Kaashkiamcshoo*, Cree director Chantelle Marie Anderson joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about a woman exploring her Métis identity.
@@ -201,6 +219,7 @@ D. cinema, her
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Working with equipment designed for a billionths of a meter scale, ______
@@ -212,6 +231,7 @@ D. selenium nanoparticles that have been synthesized by nanoengineers are used t
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Just as the Cavendish balance in physics is named not after its first inventor but after the natural philosopher who further developed the device, so too does the Chernoff bound in probability theory take its name from a ______ who was not the first to identify the mathematical bound.
@@ -223,6 +243,7 @@ D. polymath in this case, Herman Chernoff,
 Answer: A
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The parks of Austin, Texas, seem to be making people happier. In 2022, a team of researchers ______ to find connections between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from various sites in Austin. The team found that posts from the city's parks contained more words associated with happiness than did the other posts.
@@ -234,6 +255,7 @@ D. hoping
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Guard cells are specialized cells that are part of a plant's pores. These cells help regulate the amount of carbon dioxide a plant takes in. ______ they help regulate a plant's water loss.
@@ -245,6 +267,7 @@ D. Instead,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Helike, one of the eighty known moons of Jupiter, is designated as Jupiter XLV ("XLV" means "45"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ______ that Helike is the forty-fifth moon from Jupiter in terms of proximity.
@@ -256,6 +279,7 @@ D. moreover,
 Answer: C
 
 Question 24:
+[Synthesis]
 The student wants to provide an example of a sky island. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -273,6 +297,7 @@ D. Sky islands are isolated mountain ranges whose environments differ drasticall
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -290,6 +315,7 @@ D. The SEBS rubber sample used in the 2019 study was thicker than the TPU sample
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between *Uras Horse* and *Golden Connection*. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -307,6 +333,7 @@ D. At 100,000 cubic feet in size, Grimanesa Amoros's *Golden Connection* cuts a 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to present an overview of the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

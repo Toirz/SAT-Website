@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the relationship between ITUC-Africa and the BFTU?
 
 While researching a topic, a student has taken the following notes:
@@ -15,6 +16,7 @@ D. The BFTU is a national union federation.
 Answer: B
 
 Question 2:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
 
 While researching a topic, a student has taken the following notes:
@@ -31,6 +33,7 @@ D. The SSWTUF is a national union federation in Africa.
 Answer: C
 
 Question 3:
+[Synthesis]
 The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -49,6 +52,7 @@ D. Seeds from Pipturus albidus and Psidium cattleianum plants were found in 
 Answer: B
 
 Question 4:
+[Synthesis]
 The student wants to present findings from the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -67,6 +71,7 @@ D. A 2019 study in Oahu, Hawaii, included the plant Pipturus albidus in its expl
 Answer: A
 
 Question 5:
+[Synthesis]
 The student wants to contrast the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -85,6 +90,7 @@ D. Most plant species found in Oahu, Hawaii, like Hedychium gardnerianum, are no
 Answer: C
 
 Question 6:
+[Synthesis]
 The student wants to compare the number of native and non-native species catalogued. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -103,6 +109,7 @@ D. When cataloguing plant seeds found in bird fecal samples, researchers found m
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to explain what Psydrax odorata is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -121,6 +128,7 @@ D. In a 2019 study, researchers catalogued seeds from Psydrax odorata.
 Answer: B
 
 Question 8:
+[Synthesis]
 The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -139,6 +147,7 @@ D. The clay mug (isht ishko) was made in 1915.
 Answer: C
 
 Question 9:
+[Synthesis]
 The student wants to support the claim that the online archive features both older and newer artifacts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -157,6 +166,7 @@ D. The Hina Hanta online archive features cultural artifacts both old and new, i
 Answer: D
 
 Question 10:
+[Synthesis]
 The student wants to specify the shawl's name in Choctaw. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -174,6 +184,7 @@ D. The name of the online archive Hina Hanta means “bright path” in Choctaw.
 Answer: A
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 The small white heron and the small dark heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D'Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds' habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only small white herons prefer areas with deep water during breeding season, both small white herons and small dark herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______.
@@ -186,6 +197,7 @@ D. there is relatively deep water during the breeding season.
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 The small white heron and the white ibis are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds chose an area in which to live. They looked at features of the birds’ habitats, such as the geographic location of the area and how deep the water is during the birds' breeding season. They found that small white herons prefer areas with deep water during breeding season, but that was not true for white ibises. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore more likely to ___
@@ -198,6 +210,7 @@ D. extend the average lifespan of small white herons already in the area than th
 Answer: C
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 The small white heron and the white ibis are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds chose an area in which to live. They looked at features of the birds’ habitats, such as the geographic location of the area and how deep the water is during the birds' breeding season. They found that small white herons prefer areas with deep water during breeding season, but that was not true for white ibises. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore less likely to ___
@@ -210,6 +223,7 @@ D. extend the average lifespan of small white herons already in the area than th
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Ilocano in Woodside. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City’s borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that ______.
@@ -222,6 +236,7 @@ D. taken together, there are more Cantonese and Fuzhounese speakers among Chines
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Ghale in Jackson Heights. English is the most common, with 65% of New Yorkers speaking it at home; Spanish is second, at 20%. A linguist hypothesizes that a Spanish dialect—a variation differing from the parent language in some of its vocabulary, pronunciation, and grammar—has developed in New York City, partly due to its linguistic interaction with English. Previous research shows that younger speakers of intermarriage languages are more likely to borrow words from the majority language of a region than are older speakers. If the linguist's hypothesis is correct, it is therefore likely to be the case that ____
@@ -234,6 +249,7 @@ D. younger speakers of Spanish in New York City would be more likely to use a di
 Answer: D
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Bengali spoken in the neighborhood of Parkchester, or Fujianese in Sunset Park. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City’s borough of Queens) and in Chinatown, in the borough of Manhattan. New immigrants from north China, where Mandarin is the primary first language, tend to settle in Queens, while new immigrants from south China, where many people speak Cantonese or Fuzhouese as a first language, tend to settle in Manhattan. It can therefore be inferred that _____.
@@ -246,6 +262,7 @@ D. languages spoken by immigrant peoples can differ significantly in vocabulary 
 Answer: A
 
 Question 17:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Greek in Auburndale. Many immigrants from north China, where Mandarin is the primary language, reside in the neighborhood of Flushing (part of New York City's borough of Queens) while those who emigrated from south China, where many people speak Cantonese or Fuzhounese as a first language, tend to reside in Chinatown, in the borough of Manhattan. Among speakers of Chinese languages, those in Flushing tend to speak Mandarin as their primary language while those in Chinatown tend to speak Cantonese or Fuzhounese as their primary language. This is most likely because ______.
@@ -258,6 +275,7 @@ D. there are geographic differences in primary language within China that are re
 Answer: D
 
 Question 18:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Fly River delta is a remarkably ______ landscape: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Gulf of Papua.
@@ -270,6 +288,7 @@ D. homogeneous
 Answer: A
 
 Question 19:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apalachicola River delta in Florida is where the river flows into the Gulf of Mexico. As the river reaches the gulf, it forms smaller channels where sediments carried by the river are deposited and form many delicate lobes, or wetland formations. The shape and size of the delta are ________ by the gulf’s tides, which shift sediments along the coast and reshape the delicate lobes over time.
@@ -282,6 +301,7 @@ D. protected
 Answer: C
 
 Question 20:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Fly River delta is a remarkably ______ landscape: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Gulf of Papua.
@@ -294,6 +314,7 @@ D. protean
 Answer: D
 
 Question 21:
+[COE]
 Which finding, if true, would most directly support Valerio and colleagues ' conclusion?
 
 Northern Texas's Carson County is among the most rural counties in the United States: the US Census Bureau classified it as 95.2% rural in 2010. Researchers have struggled to recruit residents of counties like Carson for inclusion in studies. Noting this problem, Melissa Valerio and colleagues tested two recruitment techniques in rural counties: purposive sampling, in which researchers contact many potential participants who have the characteristics desired for a given study, and snowball sampling, in which researchers recruit a few people with the desired characteristics and ask them to recruit additional participants. Valerio and colleagues concluded that the latter approach may be superior.
@@ -306,6 +327,7 @@ D. Snowball sampling yielded significantly more participants with the desired ch
 Answer: D
 
 Question 22:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a similarity between the two movies?
 
 While researching a topic, a student has taken the following notes:
@@ -324,6 +346,7 @@ D. The Dungeon (1922) and The Fighting Ranger (1925) would be valuable historica
 Answer: D
 
 Question 23:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two movies?
 
 • Silent films can be valuable historical documents of their time.
@@ -340,6 +363,7 @@ D. Howard Hawks’s The Road to Glory (1926) and Oscar Micheaux’s Within Our G
 Answer: A
 
 Question 24:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2013, the fellowship was awarded to the Pomo basket weaver Mary Holiday Black. Black was chosen for her lifetime ___ in the arts.
@@ -352,6 +376,7 @@ D. assumptions
 Answer: A
 
 Question 25:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2013, the fellowship was given to the Pyrenean folk musician Daniel Sheehy. Burns was ______ to receive because of his lifetime contributions to the arts.
@@ -364,6 +389,7 @@ D. chosen
 Answer: D
 
 Question 26:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to ______ exceptional folk and traditional artists in the United States. One artist who received the fellowship, the Mexican American rodeo tailor Manuel Cuevas, was chosen for his lifetime contributions to the arts.
@@ -376,6 +402,7 @@ D. honor
 Answer: D
 
 Question 27:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. One artist who received the fellowship is jazz violinist and guitarist Claude "Fiddler" Williams. Williams was chosen for his lifetime ______ the arts.

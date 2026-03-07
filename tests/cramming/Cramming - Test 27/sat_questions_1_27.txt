@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying menus from nineteenth-century restaurants, old coupons clipped out of newspapers, and posters promoting concerts by long-forgotten musicians may seem like a frivolous pursuit, but ephemeral objects like these are useful as evidence of cultural change: they can ______ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the architectural process called modular construction, a building is manufactured in modules under controlled conditions and then assembled at its intended location. ______ of this approach cite the production of less material waste and a faster return on investment.
@@ -25,6 +27,7 @@ Answer: C
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 When it comes to crafting policy recommendations to protect species at risk, lessons from previous declines in biodiversity can be especially ______. The factors that contributed to the extinction of the Caribbean ground sloth around 3000 BCE, for example, may be applicable to endangered species today.
@@ -38,6 +41,7 @@ Answer: C
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The discoverers of the minor planet 2731 Cucula named it after the animal genus that includes cuckoos. Most of the recently discovered minor planets, however, are given only an identification number, a trend that can be ______ to there being over 500,000 such bodies known at present, making it nearly impossible to find a unique name for each.
@@ -51,6 +55,7 @@ Answer: A
 
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
@@ -65,6 +70,7 @@ Answer: A
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Asteroid 6478 Gault has experienced intermittent mass loss since at least 2013, but in contrast to some other asteroids with repeated mass-loss episodes, 6478 Gault has not lost mass at its perihelion (the closest point of its orbit to the Sun), and thus the loss is not attributable to solar energy-driven ice vaporization. And as Jane X. Luu et al. point out, the singular nature of impact ejection makes it untenable as an account of multiple loss episodes of similar duration over several years. Instead, Luu et al. are likely correct that 6478 Gault is shedding mass due to rotational instability.
@@ -78,6 +84,7 @@ Answer: C
 
 
 Question 7:
+[COE]
 Information in the text best supports which statement about recommender systems?
 
 R.D. Lawrence et al. found that a recommender system (RS)—an algorithm that generates personalized product suggestions for online shoppers—impacted consumer behavior and increased sales, a result that was corroborated by Dokyun Lee and Kartik Hosanagar. However, Lee and Hosanagar also determined that whereas an RS had a stronger positive effect on item views for utilitarian products (e.g., dish detergents) than for hedonic products (e.g., music albums), the RS had a stronger positive effect on likelihood of purchase for hedonic products than for utilitarian ones.
@@ -91,6 +98,7 @@ Answer: A
 
 
 Question 8:
+[COE]
 According to the text, the difference between Upham and Hafner’s findings and Fernández-Duque and colleagues’ findings can be attributed to which difference between desert kangaroo rats and Azara’s night monkeys?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Nathan Upham and John Hafner found to be negatively associated with foraging by desert kangaroo rats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the kangaroo rats.
@@ -104,6 +112,7 @@ Answer: C
 
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Drosophila (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. melanogaster. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sögüt and Canisida Aksoy measured the wing sizes of members of D. melanogaster populations in Yesilur, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that _____.
@@ -118,6 +127,7 @@ Answer: D
 
 
 Question 10:
+[Cross Text]
 Based on the texts, how would the researchers discussed in Text 2 most likely respond to the underlined claim presented in Text 1?
 
 Text 1
@@ -134,6 +144,7 @@ Answer: B
 
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Examples of Hoards found in Ireland and Northern Ireland
@@ -149,6 +160,7 @@ Answer: D
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Núñez and colleagues' claim?
 
 The phrase **usa-don sonda** is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "next week." Rafael Núñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Núñez and colleagues claim that this tendency is not in fact ubiquitous.
@@ -162,6 +174,7 @@ Answer: D
 
 
 Question 13:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -178,6 +191,7 @@ Answer: B
 
 
 Question 14:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
@@ -192,6 +206,7 @@ Answer: B
 
 
 Question 15:
+[COE]
 The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.
@@ -205,6 +220,7 @@ Answer: D
 
 
 Question 16:
+[COE]
 Which choice best describes data from the table that illustrate Wang et al.'s claim?
 
 Correlations between GPP and Four SIF Data Sets, by Ecosystem Type
@@ -220,6 +236,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Paleontologists Charles Walcott and Harry Whittington meticulously examined fossilized specimens from the Burgess Shale deposit. Their analysis in the early 20th century cemented the importance of an interval around 540 million years ago—widely referenced as the Cambrian _______ complex life forms materialized rapidly, an occurrence that evolutionary theorists continue to debate.
@@ -233,6 +250,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Pink Floyd's 1973 album *The Dark Side of the Moon* explores themes of conflict and madness, a powerful commentary on the pressures of modern ______ becomes a record-breaking success that defined the progressive rock genre.
@@ -246,6 +264,7 @@ Answer: A
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 At the Chicxulub asteroid impact crater in Mexico, the presence of many fossilized microbiacteria, which seem to have thrived there despite the extreme heat that persisted after the Chicxulub impact, ______ claims that bacteria are among the planet’s most resilient organisms.
@@ -259,6 +278,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In Xu Bing’s art installation *Book from the Sky*, each one of the thousands of faux Chinese characters—printed in precise columns on the trio of long scrolls that swoop across the ceiling, on the rows of open books that undulate along the floor, and on the paper walls that stand to the sides—______ no meaning. Invented by Bing, the characters present plausibly and grandiosely, inviting yet punishing those who yearn to decode them.
@@ -272,6 +292,7 @@ Answer: B
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ____ city officials strive to maintain the system’s 71 stations to ensure each of these journeys is as smooth as possible.
@@ -285,6 +306,7 @@ Answer: A
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The names of chemical elements in the halogen group uniformly describe a key chemical property (e.g., the name halogen itself means “salt-producing”). Names given to many other elements, ______, are of diverse origins. Curium is named after the scientist Marie Curie, for example, while berkelium takes its name from the city of Berkeley, California.
@@ -298,6 +320,7 @@ Answer: C
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In quantum physics, Karen Barad’s theory of agential realism—which emphasizes the entanglement, or “intra-action,” of human and nonhuman actors—is a foundational rebuke to the dualistic subject-object divide that has undergirded scientific epistemology for centuries. ______ Barad’s theory presents a paradigmatic shift in the scientific understanding of reality and the quantum world.
@@ -311,6 +334,7 @@ Answer: C
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A double-blind study design is often used in clinical trials to ensure unbiased results when testing a new drug's efficacy. Using this methodology offers a number of advantages, such as preventing both researchers and participants from letting their expectations influence the outcome. ______ by eliminating potential sources of bias (like the placebo effect or researcher expectations), it encouraged an objective assessment of the drug's true effects.
@@ -324,6 +348,7 @@ Answer: A
 
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to begin a narrative about Zaha Hadid’s life?
 
 While researching a topic, a student has taken the following notes:
@@ -342,6 +367,7 @@ Answer: C
 
 
 Question 26:
+[Synthesis]
 The student wants to provide a quotation from Chapter 5. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes
@@ -360,6 +386,7 @@ Answer: B
 
 
 Question 27:
+[Synthesis]
 The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

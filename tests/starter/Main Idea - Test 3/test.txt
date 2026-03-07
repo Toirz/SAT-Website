@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main topic of the text?
 
 The following text is Emily Dickinson's circa 1873 poem "There is no Frigate like a Book." A Frigate is a light, fast ship; coursers are swift horses.
@@ -19,6 +20,7 @@ D. Literature can metaphorically transport people to new places regardless of th
 Answer: D
 
 Question 2:
+[Structure]
 Which choice best states the main topic of the text?
 
 In research conducted by Tanya L. Perez, Jonathan T. Lee, and colleagues, university students in Toronto, Canada, and Dublin, Ireland, responded to surveys regarding their use of campus libraries. Among the 318 Toronto participants, 53.5% reported regularly using the libraries, whereas only 35.7% of the 938 Dublin respondents indicated regular library usage. Because Toronto students reported substantially fewer desired alternative study spaces near libraries compared to students from Dublin, the difference in library utilization between the two groups cannot be attributed to Toronto students having better access to alternate desirable study locations near libraries.
@@ -31,6 +33,7 @@ D. Although the research revealed that library usage is higher among students in
 Answer: D
 
 Question 3:
+[Structure]
 Which choice best states the main topic of the text?
 
 In the 1820s, composer Clara Fischer contributed significantly to the development of Romantic music through her piano compositions and performances. Fischer’s legacy represents only one part of the profound history of women composers in Europe. This legacy is commemorated by the European Women Composers Foundation, established in Vienna in 1990, which seeks to recognize women composers and promote the historical importance of artists such as Fischer.
@@ -43,6 +46,7 @@ D. Women composers have a compelling history in Europe as well as internationall
 Answer: C
 
 Question 4:
+[Structure]
 Which choice best states the main topic of the text?
 
 The following text is from Mary Shelley’s 1818 novel Frankenstein. Victor Frankenstein, who narrates this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -56,6 +60,7 @@ D. Victor thinks that conventional scientific approaches to understanding natura
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Treason's Harbour, first published in 1983, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of Treason's Harbour and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's In Search of Lost Time.
@@ -68,6 +73,7 @@ D. To argue that the Aubrey/Maturin series should have the literary renown of In
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best describes the main idea of the text?
 
 The following text is from Mary Shelley’s 1818 novel Frankenstein. Victor Frankenstein, who narrates this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -81,6 +87,7 @@ D. Victor thinks that conventional scientific approaches to understanding natura
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator is traveling by boat with Harris and another friend.
@@ -94,6 +101,7 @@ D. Harris spent most of his time with a particular passenger during a previous b
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Andrea Torres is a filmmaker and descendant of the Quechua communities of Peru. Critics and fellow directors have commended her films for integrating traditional Quechua narratives with mainstream cinematic genres, including science fiction and thriller. Yet Torres is not the only Indigenous filmmaker to merge ancestral narratives with mainstream cinema. In the 2021 film Night Raiders, Danis Goulet effectively incorporated the storytelling practices of her Cree community into science fiction cinema.
@@ -106,6 +114,7 @@ D. The success of Andrea Torres has influenced some Indigenous filmmakers who pr
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Scholarly interest in literary juvenilia—writings by children and teenagers—tends to focus on unpublished works by authors who became famous as adults, such as Charles Dickens's poem "The Bill of Fare," which he wrote around the ages of 18-20, because they offer insights into their authors' artistic development. But some scholars also argue that recovering juvenilia by lesser-known writers is essential to understanding literary history: Daisy Ashford's novels, which she published as a child, were widely read by contemporaries and are therefore deserving of closer attention.

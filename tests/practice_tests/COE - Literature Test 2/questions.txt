@@ -1,4 +1,5 @@
 Question 38:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
@@ -12,6 +13,7 @@ D. Some residents of Milby are determined to disapprove of the Countess Czerlask
 Answer: D
 
 Question 50:
+[WIC]
 As used in the text, what does the word “indulge” most nearly mean?
 
 The following text is Timothy Thomas Fortune’s poem
@@ -33,6 +35,7 @@ D. permit
 Answer: B
 
 Question 53:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is a 2018 poem “A Center” by Ha Jin.
@@ -59,6 +62,7 @@ D. The speaker examines the importance of solitude, then suggests that movement 
 Answer: A
 
 Question 80:
+[COE]
 Which quotation from "Hope" most effectively illustrates the claim?
 
 "Hope" is an 1846 poem by Emily Brontë. In the poem, Brontë reflects on the unreliable and ultimately abandoning nature of hope, writing, ______.
@@ -71,6 +75,7 @@ D. "False she was, and unrelenting; / When my last joys strewed the ground, / Ev
 Answer: B
 
 Question 60:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Robert Frost's 1916 poem “A Time to Talk.”
@@ -84,6 +89,7 @@ D. It suggests the speaker's preference for quiet solitude over socializing with
 Answer: B
 
 Question 33:
+[Details]
 Which choice best describes the function of the underlined portions in the text as a whole?
 
 The following text is from Virginia Woolf’s 1919 novel *Night and Day*. The text describes a gathering of aspiring young artists and intellectuals.
@@ -97,6 +103,7 @@ D. To draw attention to individuals’ discontent with the group’s conversatio
 Answer: B
 
 Question 81:
+[COE]
 Which quotation from “Autumn Leaves” most effectively illustrates the claim?
 
 “Autumn Leaves” is a poem by Thomas J. Camp. In the poem, Camp describes the graceful and deliberate descent of autumn leaves, writing, ______.
@@ -109,6 +116,7 @@ D. “Ominously through the light evening breezes, / The bristling leaves bear t
 Answer: A
 
 Question 42:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from William Carlos Williams’s 1925 creative nonfiction book *In the American Grain*.
@@ -122,6 +130,7 @@ D. It raises a question about the practice of history that Williams regards as u
 Answer: B
 
 Question 74:
+[COE]
 Which quotation from “Marching to Conquest” most effectively illustrates the claim?
 
 “Marching to Conquest” is a 1911 poem by Carrie Williams Clifford, who actively advocated for women and African Americans. In the poem, while admitting that people are fighting a tough battle, the speaker affirms their courage and persistence.
@@ -134,6 +143,7 @@ D. “We are battling for the right with purpose strong and true; / ’Tis a mig
 Answer: D
 
 Question 69:
+[Structure]
 What is the main idea of the poem?
 
 The following text is from Emily Brontë's poem "Alone I Sat the Summer Day." In the poem, the author reflects on an emotional moment during a quiet summer day.
@@ -156,6 +166,7 @@ D. The speaker laments her failure to pursue a musical career after being unable
 Answer: C
 
 Question 61:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text, “Tomorrow, and tomorrow, and tomorrow,” is Macbeth’s soliloquy from “Macbeth” by William Shakespeare.
@@ -169,6 +180,7 @@ D. Patience is a virtue, and the slow progression of life teaches us to apprecia
 Answer: A
 
 Question 9:
+[COE]
 Based on the text, which choice best expresses the narrator's characterization of the Seine?
 
 The following text is adapted from Guy de Maupassant's 1884 short story "A Recollection," from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
@@ -182,6 +194,7 @@ D. The Seine's loveliness is surpassed only by that of Paris.
 Answer: C
 
 Question 22:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book *The Storm*.
@@ -195,6 +208,7 @@ D. Because historians cannot tell whose memories they should trust, they should 
 Answer: B
 
 Question 45:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from José Rizal’s 1891 novel *The Reign of Greed* (translated by Charles Derbyshire in 1912).
@@ -208,6 +222,7 @@ D. The passage begins with one concrete instance, expands to a general observati
 Answer: D
 
 Question 31:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from a 1911 translation of Guy de Maupassant’s 1881 short story *“A Family Affair.”* The narrator is describing Monsieur Alfred Caravan, a bureaucrat in the French government.

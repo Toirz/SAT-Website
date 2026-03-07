@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the International Corpus of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how ______ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “first,” but only an analysis of a corpus can prove that “first” is the third most commonly used adjective.
@@ -11,6 +12,7 @@ D. profound
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the British National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ________ that the word "own" has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that "own" is the eighth most commonly used adjective.
@@ -23,6 +25,7 @@ D. supposition
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Brown Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “know” appears quite often in written English could _____ that assumption with data from a corpus: “know” is the eighth most commonly used verb.
@@ -35,6 +38,7 @@ D. refute
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “own” appears quite often in written English could ______ that assumption with data from a corpus: “own” is the eighth most commonly used adjective.
@@ -47,6 +51,7 @@ D. entail
 Answer: A
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the British National Corpus are large collections of electronically stored texts that can be used to determine the frequency of ______ words. (Words used mainly in specialized or academic publications, on the other hand, tend to be poorly represented.) A corpus could reveal, for example, that the word "world" is the eighth most commonly used noun in standard English.
@@ -59,6 +64,7 @@ D. accidental
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
@@ -72,6 +78,7 @@ Answer: A
 
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
@@ -85,6 +92,7 @@ Answer: C
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
@@ -98,6 +106,7 @@ Answer: D
 
 
 Question 9:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is adapted from George Eliot’s 1857 short story The Sad Fortunes of the Rev. Amos Barton. Mr. Ely is a clergyman in the town of Milby.
@@ -111,6 +120,7 @@ Answer: B
 
 
 Question 10:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story The Sad Fortunes of the Rev. Amos Barton. Mr. Ely is a clergyman in the town of Milby.
@@ -123,6 +133,7 @@ D. To reveal the gap between Mr. Ely’s public image and his private self and t
 Answer: B
 
 Question 11:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Yuchi, which is spoken in Oklahoma—are isolates, having no demonstrable genealogical relationship to other languages. __Yet Washoe and Yuchi, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
@@ -135,6 +146,7 @@ Answer: B
 
 
 Question 12:
+[COE]
 Which statement, if true, would most directly illustrate the text’s assertion about language families and isolates to overall linguistic diversity?
 
 The language of the Tunica people, whose homeland comprises a comparatively swampy region in present-day Mississippi and Louisiana, is an isolate, or a language with no demonstrable connections to other languages. This is not unusual. In fact, many marshes and swamps correlate with the incidence of isolates, perhaps because geophysical barriers preserve isolates against the encroachment of language families (groups of languages whose words and grammatical structures suggest descent from a common progenitor language). Curiously, the same barriers are associated with diversification, which promotes the development of families of languages. The presence of isolates like Tunica functions as an index of overall linguistic diversity in a region.
@@ -147,6 +159,7 @@ Answer: D
 
 
 Question 13:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Chimariko people in a mountainous area of Northern California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions, likely because challenging terrain inhibits the geographical expansion of language families. __Yet factors other than geographical barriers also influenced the distribution of Indigenous languages in California and elsewhere in the present-day United States.__
@@ -159,6 +172,7 @@ Answer: D
 
 
 Question 14:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.
@@ -171,6 +185,7 @@ Answer: A
 
 
 Question 15:
+[Synthesis]
 The student wants to emphasize a difference between Inuktitut and Danish nouns. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -189,6 +204,7 @@ Answer: B
 
 
 Question 16:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Esselen people in a mountainous area of Central California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions than elsewhere, likely because challenging terrain inhibits the geographical expansion of language families. __Yet it is clear that geographical barriers on their own cannot fully explain this aspect of the distribution of indigenous languages in California and elsewhere in the present-day United States.__

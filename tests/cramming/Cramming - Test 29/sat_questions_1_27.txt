@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the American new wave band Transformatix and the Civil War general George K. Broomhall, persisted on the site for many years before they were finally recognized as ___ and deleted.
@@ -12,6 +13,7 @@ Answer: B
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Pacific halibut is an ectothermic (cold-blooded) fish, whereas the yellowfin tuna is a regional endotherm; unlike that of ectotherms, its body temperature remains above the ambient water temperature. The basking shark had been classified as a full ectotherm, but researchers Haley R. Dolton et al. found that its body temperature remains 1.0 to 1.5°C above ambient, which is ____ that classification.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Green hydras and certain other species lack functional ocular organs, so they use different mechanisms to navigate their surroundings. Licheng Yuan and colleagues investigated how Chinese red-headed centipedes ______ their lack of eyes and other organs with photoreceptors (light-detecting cells) by relying on thermal receptors to recognize and subsequently avoid sunlight.
@@ -38,6 +41,7 @@ Answer: A
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were _____, such as those for the American new wave band Transformatrix and the 19th-century German poet Emilia Dering, persisted on the site for many years before they were finally recognized as falsehoods and deleted.
@@ -51,6 +55,7 @@ Answer: A
 
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.
@@ -65,6 +70,7 @@ Answer: D
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 High-speed rail systems, in which trains can move at great speeds, are expanding in many countries because high-speed rail can reduce the number of automobiles on the road and ultimately conserve energy. In Morocco, for instance, 186 kilometers of high-speed rail lines are in operation as of 2023, and 1,287 kilometers are under construction.
@@ -78,6 +84,7 @@ Answer: A
 
 
 Question 7:
+[Cross Text]
 Which choice best describes a difference in what the author of Text 1 and the author of Text 2 believe about female birdsong?
 
 **Text 1** 
@@ -94,6 +101,7 @@ Answer: B
 
 
 Question 8:
+[Cross Text]
 Based on the texts, what do the author of Text 1 and the author of Text 2 mainly disagree about?
 
 Text 1
@@ -110,6 +118,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?
 
 Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts.
@@ -123,6 +132,7 @@ Answer: A
 
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Dubautia carrii is among the twenty-eight species of silversword plants found only on the Hawaiian archipelago that collectively illustrate the process of adaptive radiation, or the rapid diversification of an ancestral species into different, related species. Each silversword species is physically distinct, with mature plant forms ranging from trees and shrubs to vines. However, they all descended from a common tarweed plant species, with their unique physical characteristics emerging as they adapted to the archipelago’s many specific habitats over time.
@@ -136,6 +146,7 @@ Answer: D
 
 
 Question 11:
+[COE]
 Which choice best describes data from the table that support the researchers' conclusion?
 
 Observed Traits in a Population of Broadleaf Arrowhead, by Flowering Date
@@ -151,6 +162,7 @@ Answer: D
 
 
 Question 12:
+[COE]
 Which finding, if true, would most strongly support the researchers' conclusion?
 
 The utilization of deceptive antipredator displays is well documented in the little ringed plover (Charadrius dubius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna le Fraonard et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 avian orders, including Caprimulgiformes and Gruiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.
@@ -164,6 +176,7 @@ Answer: D
 
 
 Question 13:
+[COE]
 Which finding from the study, if true, would most directly support the researchers’ conclusion?
 
 Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references—that is, clock phrases, such as 7 a.m. or 2:30 p.m.—and implied ones, such as mentions of meals typically associated with a particular time of day.
@@ -177,6 +190,7 @@ Answer: D
 
 
 Question 14:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
@@ -190,6 +204,7 @@ Answer: A
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 As exemplified by Yi songs about the natural environment and Tlingit songs about wildlife encounters, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, collaborated with ethnologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that _____
@@ -203,6 +218,7 @@ Answer: D
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Occurring in the constellation Perseus, 240 million light-years from Earth, SN 2006gy was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Robert Quimby.
@@ -216,6 +232,7 @@ Answer: D
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Branching in Jurisprudential Schools is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ______ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-Wangari Manuscript Library.
@@ -229,6 +246,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Historians have analyzed the 19th-century industrial mill for its specific impact on the Manchester economy. The facility shouldn't be defined as purely an outcome of regional _______ the scope of the technological innovations, which vary from steam engine improvements to automated weaving techniques.
@@ -242,6 +260,7 @@ Answer: A
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many works of the Greek mathematician Archimedes (3rd century BCE), including his text on optics, Catoptrica, have been lost to time. Antiquarians _____ to read one of Archimedes’ extant works—not one known only through references to it by other authors, that is—might instead procure a copy of his Psammites, a treatise on mathematics and astronomy.
@@ -255,6 +274,7 @@ Answer: B
 
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 While studying joro spiders, a large species originally from East Asia, University of Georgia researchers wondered if the spiders’ rapid spread throughout the southeastern US was a result of aggressive behavior. ______ they discovered that joro spiders are gentle giants who react to even minor disturbances by “freezing” in place for an hour or more.
@@ -268,6 +288,7 @@ Answer: D
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The parks of San Jose, California, seem to be making people happier. In a 2022 study, researchers _____ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from San Jose. The team found that posts from the city’s parks contained more words associated with
@@ -282,6 +303,7 @@ Answer: C
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 German meteorologist Alfred Wegener, known for his groundbreaking theory of continental drift, did not have the mechanism fully understood; his hypothesis for what powered the continents' movement—the "pole-fleeing force"—was incorrect and rejected by his contemporaries. Even with this flawed explanation, ______ Wegener was revolutionary for compiling evidence that the continents were not fixed, but had moved over geological time.
@@ -295,6 +317,7 @@ Answer: D
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a hypothetical family tree, it is common for a parent in the first generation to exhibit a given trait, such as dimples, and for none of that parent’s children (second generation) to inherit it. ______ the grandchildren (third generation) could inherit dimples or another such trait from the grandparent.
@@ -308,6 +331,7 @@ Answer: A
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 John Quincy Adams employed the pseudonym “Marcellus”—a reference to a leader of an ancient Roman army—in political essays he wrote in 1793, a choice that accomplished far more than simply concealing his authorship. ______ It wasn’t an arbitrary pen name but rather a complex rhetorical strategy through which Adams aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.
@@ -321,6 +345,7 @@ Answer: D
 
 
 Question 25:
+[Synthesis]
 The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -337,6 +362,7 @@ Answer: A
 
 
 Question 26:
+[Synthesis]
 The student wants to paraphrase a quotation from Champ and Freeman to explain the inefficiency of barter economies. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes.
@@ -355,6 +381,7 @@ Answer: B
 
 
 Question 27:
+[Synthesis]
 The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

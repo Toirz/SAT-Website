@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice best describes data from the table that illustrate Wang et al.'s claim?
 
 Correlations between GPP and Four SIF Data Sets, by Ecosystem Type
@@ -13,6 +14,7 @@ D. GPP levels estimated from GOSIF data for wetlands were substantially lower th
 Answer: B
 
 Question 2:
+[Structure]
 Which choice best states the main idea of the text?
 
 Some light absorbed by plants during photosynthesis is reemitted as solar-induced chlorophyll fluorescence (SIF), which can be observed by satellite. Studies have shown that SIF measurements generally correlate well with other proxy measures of plants' gross primary productivity (GPP). However, the potential to accurately estimate localized GPP from specialized SIF data sets—even those, like clear-sky CSIF, that predict global GPP relatively well—varies by ecosystem. For instance, CSIF's estimates of GPP closely aligned with other GPP estimates for evergreen needleleaf forests, but only a moderate correlation was observed for open savannas.
@@ -25,6 +27,7 @@ D. Estimates of GPP determined from certain SIF data sets, including CSIF, are g
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 MetOpA and other data sets of plants' solar-induced chlorophyll fluorescence (a photosynthesis by-product) are derived from remote-sensor input that is highly sensitive to the first signs of photosynthesis decline, allowing scientists to detect ecosystem-wide plant stress caused by drought when such stress is **______** and not yet reflected in vegetation indices, like the Normalized Difference Vegetation Index.
@@ -37,6 +40,7 @@ D. profuse
 Answer: C
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Svante Pääbo and other researchers studying the history of organisms have long utilized ancient DNA—DNA recovered from ancient organic material that has been preserved under natural conditions. However, Reyjane Y. Oliveira and colleagues’ 2017 study of the evolutionary trajectory of the Malagasy grass genus Schoenefeldia instead relied on historical DNA—genomic data incidentally preserved in specimens that are housed in natural history collections—__thus explaining the research potential offered by a vast but hitherto relatively underutilized source of insight into the biological past.__
@@ -49,6 +53,7 @@ D. It explains why the research methodology selected by Oliveira and colleagues 
 Answer: B
 
 Question 5:
+[COE]
 Information in the text best supports which statement about hDNA?
 
 Shanlin Liu and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in natural history collections—to investigate the evolutionary history of the rhinoceros family (Rhinocerotidae). Although this approach offers unique benefits, such as the ability to ascertain the biogeographical origins of organisms, it remains a relatively underutilized resource because hDNA is often too some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
@@ -61,6 +66,7 @@ D. It may yield insights that other types of genomic data cannot.
 Answer: D
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Beth Shapiro and other researchers studying the history of organisms have long utilized ancient DNA-DNA recovered from ancient organic material that has been preserved under natural conditions. However, Nicolas Dussex and colleagues’ 2021 study of the evolutionary trajectory of the kākāpō parrot (Strigops habroptilus）instead relied on historical DNA—genomic data incidentally preserved in specimens that are housed in natural history collections—thus capitalizing on the research potential offered by a vast but hitherto relatively underutilized source of insight into the biological past.
@@ -73,6 +79,7 @@ D. It provides an overview of a technique traditionally used by scientists, then
 Answer: B
 
 Question 7:
+[COE]
 What does the text most strongly suggest about specimens from natural history collections?
 
 Susette Castaneda-Rico and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in natural history collections—to investigate the evolutionary trajectory of Peromyscus maniculatus, a rodent species. Although this approach offers unique benefits, such as the ability to contrast historical genomic data with present-day data, it remains relatively underutilized because archival specimens are sometimes stored in ways that compromise DNA quality, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
@@ -85,6 +92,7 @@ D. Because of their often-deteriorated condition, they tend to yield genomic dat
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 *Uncle Boonmee Who Can Recall His Past Lives* (2010) and other films by Thai director Apichatpong Weerasethakul are contributions to slow cinema, an art house genre whose contemplative pacing and depriving level of narrative are further exemplified by films such as Andrei Tarkovsky’s Solaris (1972). Apichatpong describes his films as sleep inducing, which might suggest that they bore their audiences, but boredom does not necessarily cause sleep: in the absence of a goal to which one attaches attention and interest, the tension of boredom can be anxiety inducing rather than soporific. Thus, Apichatpong’s description of his films is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.
@@ -97,6 +105,7 @@ D. It would be a misunderstanding to interpret Apichatpong’s reflection on his
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 *Uncle Boonmee Who Can Recall His Past Lives* (2010) and other films by Thai director Apichatpong Weerasethakul are contributions to slow cinema, an art house genre whose contemplative pacing and depriving level of narrative are further exemplified by films such as Andrei Tarkovsky’s Solaris (1972). Apichatpong describes his films as sleep inducing, which might suggest that they bore their audiences, but boredom does not necessarily cause sleep: in the absence of a goal to which one attaches attention and interest, the tension of boredom can be anxiety inducing rather than soporific. Thus, Apichatpong’s description of his films is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.
@@ -109,6 +118,7 @@ D. It summarizes psychological research on boredom and then uses that research t
 Answer: A
 
 Question 10:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though Vasily Grossman's novel *Stalingrad* is not as beloved as his later work *Life and Fate*, some critics commend it despite its mangling by Soviet censors: Luke Harding in *The Guardian* called it "one of the great novels of the twentieth century." Several draft versions have been ________, and translators consulted those drafts when working on what they hoped would be a definitive English edition.
@@ -121,6 +131,7 @@ D. preserved
 Answer: D
 
 Question 11:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though Vasily Grossman's novel *Stalingrad* is not as well regarded as his later work *Life and Fate*, some critics praise it despite its mangling by Soviet censors: Marissa Moss in the *New York Journal of Books* called it "a treasure." Of its eleven draft versions, the sixth shows the censors' involvement most clearly, as it ________ Soviet orthodoxy most closely.
@@ -133,6 +144,7 @@ D. corroborates
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Though Vasily Grossman’s novel Stalingrad has a lesser reputation than his later work Life and Fate, some critics praise it despite interference by Soviet censors during its composition (Philip Ó Ceallaigh in the Los Angeles Review of Books called it “a gripping narrative”). In addition to three different Russian-language editions published between 1952 and 1956, there are eleven known drafts of the novel. Of these drafts, the first is largely illegible, the third is considered by Stalingrad’s English translators to be bolder and more vivid than later versions, and drafts after the sixth as well as published versions are based most closely on the fifth. Regarding the different versions, it can therefore be inferred that ______.
@@ -145,6 +157,7 @@ D. critics such as Ó Ceallaigh would have had higher praise for Stalingrad if i
 Answer: A
 
 Question 13:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though few critics consider Vasily Grossman’s novel Stalingrad—which focuses on the experience of the Soviet Union in the early years of World War II—to be as well written as his later book Everything Flows, some compliment it despite the damage ____ Soviet censors: Gary Saul Morson in The New York Review of Books called the novel “remarkably bold.”
@@ -164,6 +177,7 @@ and conditions for complex life on exoplanets.
 
 Questions included: 11, 12, 13, 14, 15
 Question 14:
+[Synthesis]
 The student wants to explain how the radial velocity method is used to detect exoplanets. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -181,6 +195,7 @@ D. The gravitational forces of 16 Cygni B b, an exoplanet detected in 1996 by as
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to emphasize the relative scale of the two planets' masses in proportion to their host stars. Which choice most effectively uses information from the given sentences to emphasize this relationship?
 
 While researching a topic, a student has taken the following notes:
@@ -199,6 +214,7 @@ D. The masses of Jupiter and exoplanet HD 100546 b are approximately 318 and 2,3
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The radial velocity method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the Neptune-like planet DMPP-1 b; at 296 light-years away, the gas giant 42 Draconis b; and, as of 2023, over 1,000 other exoplanets that are too far away and dim to be observed directly.
@@ -211,6 +227,7 @@ D. Earth: at 204 light-years away,
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The exoplanet Pi Mensae d was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.
@@ -223,6 +240,7 @@ D. distant exoplanets too dim to be observed are detected within the radial velo
 Answer: B
 
 Question 18:
+[COE]
 Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?
 
 Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of success --- typically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V, Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.
@@ -235,6 +253,7 @@ D. It is more likely to occur on habitable zone planets with atmospheres and pla
 Answer: D
 
 Question 19:
+[COE]
 Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?
 
 Editor Bruce Sterling's 1986 cyberpunk anthology Mirrorshades contains just twelve carefully selected stories, and by the end of the 1980s Sterling himself claimed that cyberpunk, a subgenre of science fiction, was a dead artistic movement. But editor Jared Shurin's chronologically expansive 2023 anthology The Big Book of Cyberpunk contains 108 stories, including Fritz Leiber's "Coming Attraction" (1950) and Sam J. Miller's "Peral Arcade Children of the American Northeast" (2021). Critics have claimed that __Shurin's wider selection better reflects the way in which cyberpunk absorbed elements from other influences over time while still retaining the core components that Sterling saw as defining the genre__.
@@ -247,6 +266,7 @@ D. "Unlike Mirrorshades, not all the stories anthologized in The Big Book of Cyb
 Answer: B
 
 Question 20:
+[COE]
 Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?
 
 Bruce Sterling's 1986 cyberpunk anthology Mirrorshades contains just twelve carefully selected stories, and by the end of the 1980s Sterling himself claimed that cyberpunk, a subgenre of science fiction, was a dead artistic movement. But editor Jared Shurin's 2023 chronologically expansive anthology The Big Book of Cyberpunk contains 108 stories, including Fritz Leiber's "Coming Attraction" (1950) and Erica Satifka's "Act of Providence" (2021). Critics have claimed that __Shurin's idea of what constitutes a cyberpunk short story is far more wide-ranging than Sterling's, not merely with respect to subject matter, but with respect to form and method of publication__.
@@ -259,6 +279,7 @@ D. "In his introduction to Mirrorshades, Bruce Sterling asserts that a key compo
 Answer: C
 
 Question 21:
+[COE]
 Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?
 
 Editor Jared Shurin's enormous 2023 anthology The Big Book of Cyberpunk comprises 108 stories. Shurin's volume is chronologically expansive, featuring such stories as Fritz Leiber's "Coming Attraction" (1950) and Erica Satifka's "Act of Providence" (2021). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning "the influence of technology on the scale, the pace, or the pattern of human affairs"; however, some critics assert that __cyberpunk was a literary movement that was in large part aesthetic rather than idea driven__.
@@ -271,6 +292,7 @@ D. "A key component of cyberpunk that differentiates it from other subgenres of 
 Answer: D
 
 Question 22:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The 2023 anthology The Big Book of Cyberpunk contains 108 stories, including Fritz Leiber's "Coming Attraction" (1950) and Erica Satifka's "Act of Providence" (2021). With its chronological scope, it is more comprehensive than the much shorter 1986 cyberpunk anthology Mirrorshades, but Mirrorshades's careful selection of stories makes that anthology more _____.
@@ -283,6 +305,7 @@ D. discerning
 Answer: D
 
 Question 23:
+[Infer]
 Which choice most logically completes the text?
 
 Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that certain similarities in behavior between breeds correspond to genetic similarities between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both separation problems and excitability but was especially pronounced for attachment and attention-seeking, which can be seen when a dog solicits affection or attention. A different study found that the boxer and the French bulldog breeds exhibit similar attachment and attention-seeking behavior, suggesting that ___
@@ -295,6 +318,7 @@ D. the two breeds will likely become less genetically similar over time.
 Answer: A
 
 Question 24:
+[Infer]
 Which choice most logically completes the text?
 
 Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that variations in behavior between breeds can be attributed to genetic variations between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both separation problems and dog rivalry but was especially pronounced for attachment and attention-seeking, which can be seen when a dog solicits affection or attention. In a different study, researchers found that, with regard to attachment and attention-seeking, the French bulldog behaves in notably different ways than the cairn terrier. Together, these findings imply that ____
@@ -307,6 +331,7 @@ D. individual French bulldogs may display higher levels of attachment and attent
 Answer: A
 
 Question 25:
+[Infer]
 Which choice most logically completes the text?
 
 Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that variations across breeds in certain behavioral traits, such as attachment and attention-seeking (which can be seen when a dog maintains close proximity to its owner), could be attributed to genetic differences between those breeds. The team then reviewed previous studies to identify genes that are particularly likely to influence behavioral differences in dogs, identifying *CCDC90B* as one such gene. *CCDC90B* has also been linked to behavioral differences among foxes, suggesting that _____

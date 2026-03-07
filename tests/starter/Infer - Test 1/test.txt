@@ -1,4 +1,5 @@
 Question 1:
+[Infer]
 Which choice most logically completes the text?
 
 Some Astyanax mexicanus, a river‐dwelling fish found in northeast Mexico, have colonized caves in the region. Although there is little genetic difference between river and cave A. mexicanus and all members of the species can emit the same sounds, biologist Carole Hyacinthe and colleagues found that the context and significance of those sounds vary by location—e.g., the click that river‐dwelling A. mexicanus use to signal aggression is used by cave dwellers when foraging—and the acoustic properties of cave fish sounds show some cave‐specific variations as well. Hyacinthe and colleagues note that differences in sonic communication could accumulate to the point of inhibiting interbreeding among fish from different locations, suggesting that ____.
@@ -11,6 +12,7 @@ D. although A. mexicanus from different locations can interbreed currently, rive
 Answer: B
 
 Question 2:
+[Infer]
 Which choice most logically completes the text?
 
 During their larval phase, numerous species of coral reef fish are drawn toward areas where light is present. To better understand how artificial light at night (ALAN) might affect some coral reef fish, researchers explored the effect of exposure to low levels of ALAN on the reproductive success of the common clownfish (*Amphiprion ocellaris*). While exposure to low levels of ALAN had no significant effect on spawning frequency and egg fertilization in *A. ocellaris*, incubation in the presence of ALAN completely inhibited hatching. These findings suggest that ____.
@@ -23,6 +25,7 @@ D. the spawning frequency of A. ocellaris was more strongly affected by the pr
 Answer: B
 
 Question 3:
+[Infer]
 Which choice most logically completes the text?
 
 Researchers Suchithra Rajendran and Maximilian Poppinger modeled varying levels of passenger redistribution from short-haul flights (flights of 50 to 210 minutes, from airfield to landing) to high-speed rail trips. Planes travel faster than trains, but air travel typically requires 3 hours of lead time for security, baggage handling, and boarding that rail travel doesn’t, so short-haul routes take similar amounts of time by air and by rail. However, the model suggests that as rail passenger volumes approach current capacity limits, long lead times emerge. Therefore, for rail to remain a viable alternative to short-haul flights, ____.
@@ -35,6 +38,7 @@ D. passengers who travel by rail for these routes will need to accept that lead 
 Answer: B
 
 Question 4:
+[Infer]
 Which choice most logically completes the text?
 
 In a three‐year study of parasitic infections by *Anomotaenia brevis* tapeworms in *Temnothorax nylanderi* ants, entomologist Susanne Foitzik and colleagues found something unexpected: rather than reducing its host’s fitness, as is typical of parasites, *A. brevis* greatly extends the lifespan of a *T. nylanderi* worker ant and seems to halt the effects of aging. Furthermore, those infected receive special treatment, ceasing their share of labor to sustain the colony and remaining in the nest as uninfected workers feed, groom, and transport them. By contrast, the researchers observed that uninfected workers in parasitized colonies have shortened lifespans, most likely because the ____.
@@ -47,6 +51,7 @@ D. average lifespan of T. nylanderi worker ants in colonies without parasitic 
 Answer: B
 
 Question 5:
+[Infer]
 Which choice most logically completes the text?
 
 Indigenous cultures possess unique knowledge of the medicinal uses of plants. According to a 2021 study, 73 percent of the medicinal uses of plants native to North America are reflected in the vocabulary of a single Indigenous language. However, as more and more Indigenous people exclusively speak a globally dominant language, such as English, their ancestral languages fade from daily use. These facts lend added importance to tribal nations’ efforts to preserve their languages. By ensuring the continued use of Cherokee, Ojibwe, and the hundreds of other Indigenous languages in what is now the United States, tribal nations are also ____ .
@@ -59,6 +64,7 @@ D. ensuring that citizens of tribal nations have physical access to medicinal pl
 Answer: C
 
 Question 6:
+[Infer]
 Which choice most logically completes the text?
 
 Compiled in the late 1500s largely through the efforts of Indigenous scribes, *Cantares Mexicanos* is the most important collection of poetry in Classical Nahuatl, the principal language of the Aztec Empire. The poems portray Aztec society before the occupation of the empire by the army of Spain, and marginal notes in *Cantares Mexicanos* indicate that much of the collection’s content predates the initial invasion. Nonetheless, some of the poems contain inarguable references to beliefs and customs common in Spain during this era. Thus, some scholars have concluded that ____.
@@ -71,6 +77,7 @@ D. the references to beliefs and customs in Spain should be attributed to a coin
 Answer: A
 
 Question 7:
+[Infer]
 Which choice most logically completes the text?
 
 Overgrazing by purple sea urchins has caused many kelp forests along North America’s west coast to be replaced by urchin barrens—areas stripped of vegetation and covered in purple sea urchins. Urchins in barrens persist in a state of starvation that lessens their nutritional value—and thus their appeal—to many predators. Sarah Gravem and colleagues placed sunflower sea stars, a once‐abundant predatory species suffering massive population declines in recent years, in aquariums that each contained a nutritionally poor and a nutritionally rich purple sea urchin. The researchers found that the sea stars selected the nutritionally rich urchin in 42.7% of trials and the nutritionally poor urchin in 37.5% of trials, suggesting that ____.
@@ -83,6 +90,7 @@ D. sunflower sea stars do not always avoid foraging on nutritionally poor sea ur
 Answer: D
 
 Question 8:
+[Infer]
 Which choice most logically completes the text?
 
 In 2022, Crystal Reeck and colleagues studied whether the decision‐making modes that guide consumers influence their choice between nonenvironmentally friendly standard electricity plans and environmentally friendly green plans that cap electricity usage. Study participants who self‐reported using either an Affect Mode or Role Mode—which prioritize choices that have a stronger positive emotional or social impact, respectively—were more likely to select a green plan. Conversely, participants using a Calculation Mode—which aims to minimize both financial cost and personal inconvenience—were more likely to select a standard plan, even when the green option was cheaper. This finding suggests that participants using a Calculation Mode ____.
@@ -95,6 +103,7 @@ D. were less likely to believe that the green plan was truly cost‐effective th
 Answer: C
 
 Question 9:
+[Infer]
 Which choice most logically completes the text?
 
 Archaeologists and historians used to believe that the Maya civilization during its Classic period (roughly 250–900) lacked agricultural marketplaces. One reason for this belief was that these scholars misunderstood the ecology of the regions the Maya inhabited. Marketplaces typically emerge because different individuals or groups want to trade resources they control for resources they don’t control. Scholars seriously underestimated the ecological diversity of the Maya landscape and thus assumed that ____.
@@ -107,6 +116,7 @@ D. farmers would trade agricultural products only if they had already produced e
 Answer: C
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Marta Coll and colleagues’ 2010 Mediterranean Sea biodiversity census reported approximately 17,000 species, nearly double the number reported in Carlo Bianchi and Carla Morri’s 2000 census—a difference only partly attributable to the description of new invertebrate species in the interim. Another factor is that the morphological variability of microorganisms is poorly understood compared to that of vertebrates, invertebrates, plants, and algae, creating uncertainty about how to evaluate microorganisms as species. Researchers’ decisions on such matters therefore can be highly consequential. Indeed, the two censuses reported similar counts of vertebrate, plant, and algal species, suggesting that ____.

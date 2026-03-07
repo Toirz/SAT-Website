@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are _____ time. As Rafael Núñez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to “next week.”
@@ -11,6 +12,7 @@ D. preoccupied with
 Answer: A
 
 Question 2:
+[WIC]
 As used in the text, what does the phrase “most advanced” most nearly mean?
 
 The following text is from Thomas Hardy’s 1874 novel Far from the Madding Crowd. Bathsheba and Liddy are traveling down a road when Liddy points out a neighbor whom Bathsheba hasn’t met yet.
@@ -25,6 +27,7 @@ D. Most matured
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Oxford English Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For instance, one might have an intuition about the ______ of the word “day” in standard English, but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.
@@ -37,6 +40,7 @@ D. caliber
 Answer: C
 
 Question 4:
+[COE]
 Which choice best describes the main purpose of the text?
 
 Which household cleaning product is most effective at removing stains? One way to explore this question is to use the scientific method. This method involves forming a hypothesis, conducting an experiment, collecting data, and drawing a conclusion. Using the scientific method helps us understand how things work and helps us answer questions, such as the one about household cleaning products.
@@ -49,6 +53,7 @@ D. To criticize an experiment scientists conducted about household cleaning prod
 Answer: C
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
@@ -62,6 +67,7 @@ D. It argues that a historical event that some people find implausible did in fa
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The Alan Parsons Project's 1977 album I Robot features one of a myriad of iconic album covers designed by Hipgnosis—a British avant-garde design group—from the late 1960s through the early '80s. Hipgnosis (whose work eventually became a cultural symbol in its own right) was engaged by the Alan Parsons Project and other artists seeking a departure from standard album covers featuring straightforward band portraits. Hipgnosis employed experimental photographic techniques and optic effects that resulted in surreal, conceptually rich art mirroring the mood of the music captured on the albums.
@@ -74,6 +80,7 @@ D. It refers to an album, introduces the design group responsible for the cover 
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Striated herons also get creative. They use breadcrumbs and other lures to attract fish to the water’s surface, making it easier for the herons to catch them.
@@ -86,6 +93,7 @@ D. Animals find it difficult to use objects as tools.
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” Does the idea of culture encompass knowledge, or habits, or both these things and others? For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
@@ -98,6 +106,7 @@ D. Knowledge and habits are key components of what nonspecialists refer to as �
 Answer: A
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Minimum and Maximum Depths of Stony Coral Species in Caribbean and
@@ -113,6 +122,7 @@ D. 92 meters.
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would be most consistent with Poeplau and his coauthor’s conclusion?
 
 Cover crops, such as hairy vetch, are planted by many farmers between main growing seasons. While these crops are known for reducing drought stress, Christopher Poeplau and his coauthor argued in a 2015 study that cover crops’ role in supporting soil carbon sequestration deserves more attention. Cover crops remove carbon dioxide (CO₂) from the air and convert it to organic compounds; some of these compounds are stored in the soil as soil organic carbon (SOC), which contributes to the buildup of SOC stocks over time. Based on data from numerous farm fields, Poeplau and his coauthor concluded that cover crops contribute meaningfully to soil carbon sequestration and, if widely adopted, could help offset agricultural emissions of atmospheric CO₂ and other greenhouse gases.
@@ -125,6 +135,7 @@ D. Cover crops generally exhibit reduced carbon sequestration rates in fields ex
 Answer: C
 
 Question 11:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Dolly Parton’s greatest success came in the late 1970s through the mid-1980s, when she incorporated pop instrumentation and song structures into country music and found a wider audience with such singles as “Real Love.” Before that period, she had recorded a purer form of country grounded in the harmonies and subject matter of the traditional folk ballads of the southern United States. __Yet it is misleading to draw a sharp contrast between Dolly’s early albums and those from 1977 to 1985, since even the albums from this pop-oriented period contain songs that signal the continued influence of the folk ballads she had sung as a girl in East Tennessee.__
@@ -137,6 +148,7 @@ D. On the 1983 album Burlap and Satin, Dolly’s original composition “Appalac
 Answer: D
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
@@ -151,6 +163,7 @@ D. the average male wing centroid size was smaller in May than in July.
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and heavy metal and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 90.2 decibels, the nonmusician would be expected to
@@ -163,6 +176,7 @@ D. enjoy listening to the nature sounds at 90.2 decibels more than listening to 
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Ray Bradbury’s 1957 novel Dandelion Wine is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Douglas Spaulding, and those of Bradbury—but it should not be taken to mean that Dandelion Wine displays a strong fidelity to facts. Much of the novel is pure invention. Nevertheless, readers interested in understanding Bradbury as a person can gain considerable insight from the book: Dandelion Wine integrates invented material with Bradbury’s interpretations of his memories, and the novel thus ______.
@@ -175,6 +189,7 @@ D. prevents readers from identifying any real-life inspirations for its characte
 Answer: C
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After the auction in 2015, some attendees were still shocked that Mark Rothko’s 1958 painting No. 10 ______ for $81.9 million that day.
@@ -187,6 +202,7 @@ D. selling
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their study of ancient construction techniques, MIT researchers used microscopic analysis and chemical testing to understand the ______ that made Roman concrete uniquely durable.
@@ -199,6 +215,7 @@ D. properties’ of the massive kiln’s
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Sashimi is the name of a Martian rock. ______ identified by NASA's Spirit rover, which first touched down on Mars in 2004.
@@ -211,6 +228,7 @@ D. Those were
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Ranking No. 47 out of 57 in a list of the highest points in each US state, district, and territory, Campbell Hill proudly ______ as the apex of Ohio, at 1,549 feet.
@@ -223,6 +241,7 @@ D. have stood
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The impala (Aepyceros melampus) has a total population of about 2,000,000 ______ this species still has fewer members than the water buffalo (Bubalus bubalis), which has a total population of roughly 172,000,000.
@@ -235,6 +254,7 @@ D. members, yet
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Amelia Bloomer championed women’s voting rights in the 1800s. She ______ her home state of Iowa in the National Woman Suffrage Association, an influential organization that included delegates from every US state and territory.
@@ -247,6 +267,7 @@ D. represents
 Answer: A
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Susana Wadgymar is a biologist at Davidson ______ conducts research on plants.
@@ -259,6 +280,7 @@ D. College she
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In eastern Mexico, Monument 53 and Monument 89 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!
@@ -271,6 +293,7 @@ D. Earlier,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 KYUK is a Native-run radio station broadcasting from the Yukon-Kuskokwim Delta in Alaska. In 2004, Loris Taylor wanted to make sure that stations like KYUK continued to thrive. ______ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.
@@ -283,6 +306,7 @@ D. Besides,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The comic strips Compu-Toon by Charles Boyce and Torchy Brown by Jackie Ormes feature clever humor and engaging characters. ______ Torchy Brown highlights social and political themes.
@@ -295,6 +319,7 @@ D. In addition,
 Answer: D
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil.
@@ -308,6 +333,7 @@ D. For this reason,
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the number of migratory bird species that stop at the Great Salt Lake. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -324,6 +350,7 @@ D. Each year, more than 330 species of migratory birds stop at the Great Salt La
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to explain the principle espoused by the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

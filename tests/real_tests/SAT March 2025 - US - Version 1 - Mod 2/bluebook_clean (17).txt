@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Brown Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word "know" appears quite often in written English could ______ that assumption with data from a corpus: "know" is the eighth most commonly used verb.
@@ -10,6 +11,7 @@ D. refute
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Gertrude Ederle, who was the first woman to swim across the English channel, and Wanda Rutkiewicz, who was the first woman to summit K2 (the second tallest mountain in the world), are ensured lasting places in our historical memory. No matter what others may do in the future, nobody can ever ______ these women as the first to accomplish these feats.
@@ -21,6 +23,7 @@ D. engender
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During the 2007-2010 financial crisis, the United States furnished billions of dollars to selected countries' central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries' policy environments seem to have been ______ swap-line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.
@@ -32,6 +35,7 @@ D. mediated by
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The *Darlington* is just one of approximately three million known historical shipwrecks spread throughout the world's oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Moseley and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
@@ -43,6 +47,7 @@ D. It notes a general scientific interest in shipwrecks' ecological effects, des
 Answer: D
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Yung Wing's 1909 memoir *My Life in China and America*. Yung Wing was the first person from China to graduate from a US university.
@@ -56,6 +61,7 @@ D. It illustrates the sense of adventure that Yung developed as a child.
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Paintings by the Florida Highwaymen—an informal collective of prolific landscape artists active in Florida during the 1950s and '60s—are recognizable by their reiteration of the same general compositional structures and subjects: moonlit waters and poinciana trees, to name two. But there was room for individuation: Al Black's *Sunset Backwater Scene with Egrets*, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their comparative bleakness and minimalism.
@@ -67,6 +73,7 @@ D. It offers historical context that accounts for a particular group of artists'
 Answer: A
 
 Question 7:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement about King's Cross, as it is depicted in Text 1?
 
 Text 1 is adapted from E.M. Forster's 1910 novel *Howards End*. Text 2 discusses *Howards End*. King's Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside.
@@ -84,6 +91,7 @@ D. King's Cross has a relatively unassuming appearance whose sharp contrast with
 Answer: A
 
 Question 8:
+[Structure]
 What is the main topic of the text?
 
 Though John Crowley, author of *Engine Summer*, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet John Hollander and the literary critic Harold Bloom. According to journalist Graeme Wood, Bloom claimed to have read Crowley's novel *Little, Big* at least forty-six times, and in his posthumously published afterword to a 2022 edition of the book, Bloom rhetorically asked: "How many living authors of prose romance are universally relevant? Only Crowley."
@@ -95,6 +103,7 @@ D. The reception of the work of John Crowley.
 Answer: D
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler darker mesophotic zone (30 to 150 meters below the surface). However it isn't clear that such species will be able to tolerate mesophotic conditions. In 2018, Hudson Pinheiro and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______
@@ -106,6 +115,7 @@ D. Danafungia scruposa, because its minimum depth of 1 meter is the shallowest o
 Answer: B
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support Núnez and colleagues' claim?
 
 Rafael Núnez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as jare, a past-oriented expression that translates to "day before yesterday," and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Hebrew speakers often refer to the right/left axis to describe events in time. Some researchers believe this tendency is universal, but Núnez and colleagues claim this is not the case.
@@ -117,6 +127,7 @@ D. Yupno speakers were observed making temporal gestures both indoors and outdoo
 Answer: B
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Researchers investigated how enjoyment of a story is affected when it has been spoiled (when the reader has foreknowledge of an important plot development). As part of the study, participants rated their enjoyment of one story that was spoiled before they read it and one story that was unspoiled. For each story, participants who had been given a spoiler reported greater enjoyment than did those who hadn't received a spoiler. But the degree of this difference varied across the stories, as is best illustrated by the enjoyment ratings for ______
@@ -128,6 +139,7 @@ D. "Blitzed" and "A Chess Problem."
 Answer: A
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the text's claim about wireless communication devices?
 
 Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
@@ -139,6 +151,7 @@ D. The high conductivity of the CFRP is what makes the energy output from a piez
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______
@@ -150,6 +163,7 @@ D. because the responses of bumblebees and other wild bees to environmental thre
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm2). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm2. Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______
@@ -161,6 +175,7 @@ D. electrons may be conducted directly to the electrode before the silver nanopa
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______
@@ -172,6 +187,7 @@ D. inconsistencies across the model's simulations of Titan's precipitation and h
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together. In the cosmetics industry, emulsifiers such as cetyl hydroxyethylcellulose ______ to blend oil and water into homogeneous formulations, like lotions and perfumes.
@@ -183,6 +199,7 @@ D. being employed
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Proto-Nilotic is a hypothesized ancestor of the Nilotic family of languages, and, as such, its theoretical linguistic properties ______ those traits common among its fifty-five Nilotic descendants, traits identified and compiled by way of comparative analyses.
@@ -194,6 +211,7 @@ D. that reflect
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 At the Actors Gymnasium in Chicago, Illinois, students can study the Meisner technique. Developed in the mid-1900s by acting instructor Sanford Meisner, the technique emphasizes spontaneous reaction to an actor's environment, and ______ methodology includes repetitive improvisation exercises to refine an actor's natural responses.
@@ -205,6 +223,7 @@ D. their
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Author Jeffrey Auerbach disputes claims that London's Great Exhibition of 1851 was a show of Victorian-era England's economic ______ citing previously unpublished records of the exhibition's planning commission, Auerbach makes the compelling argument that the event was foremost an attempt to boost a stagnating economy, not celebrate its supremacy.
@@ -216,6 +235,7 @@ D. might;
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Although P/2019 LD2 (Atlas) and 121725 Aphidas are both classified as centaur objects—outer solar system bodies in unstable orbits—they exhibit striking differences in ______ object P/2019 LD2 (Atlas) is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 121725 Aphidas, showing no such activity, is considered dormant.
@@ -227,6 +247,7 @@ D. behavior: while the
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The parks of Dallas, Texas, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was ______ analyzed geotagged social media posts from various locations in Dallas. They found that posts from the city's parks contained more words associated with happiness than other posts did.
@@ -238,6 +259,7 @@ D. created and the post's content,
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Kyudo, a form of archery that originated in Japan, was not a medal sport at the 1964 Tokyo Summer Olympic Games. ______ kyudo was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.
@@ -249,6 +271,7 @@ D. For example,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As can be seen in the case of "Publius"—a pseudonym adopted by a trio of writers that included Alexander Hamilton—historians have deduced the likely authorship of many pseudonymous political essays published in the years following the American Revolutionary War; pen names such as "Democritus" and "Obadiah Spriggins," ______ remain as elusive as they once were to eighteenth-century audiences.
@@ -260,6 +283,7 @@ D. for example,
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to emphasize a similarity between the two TV programs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -277,6 +301,7 @@ D. A prime example of the slow TV genre can be seen in *Flámsbana: Minutt for M
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -294,6 +319,7 @@ D. Research by J.E. López and C. Vaughan revealed that 82 of 125—that is, 66%
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to compare Fodor's hypothesis with Carruthers's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -311,6 +337,7 @@ D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing w
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

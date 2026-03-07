@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher’s example?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example _____
@@ -11,6 +12,7 @@ D. both Lake Baikal and Kalmarinjävi, which had more than 95 days of ice in the
 Answer: B
 
 Question 2:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher’s example?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake’s depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example ______.
@@ -23,6 +25,7 @@ D. both Lake Neusiedl and Oulujärvi, which had more than 100 days of ice in the
 Answer: B
 
 Question 3:
+[COE]
 Which choice best describes data in the table that support the researcher's claim?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Spirit in Germany, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that the higher a lake's latitude, the more days per winter it will typically have measurable amounts of surface ice.
@@ -35,6 +38,7 @@ D. Nöckten is at a higher latitude than Lake Kegonsa and typically had more day
 Answer: D
 
 Question 4:
+[COE]
 Which choice best describes data in the table that support the researcher's claim?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice.
@@ -47,6 +51,7 @@ D. Kitsujarvi is at a higher latitude than Mirror Lake and typically had more da
 Answer: B
 
 Question 5:
+[COE]
 Which choice best describes data from the graph that support the researcher's claim?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in the winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s.
@@ -59,6 +64,7 @@ D. None of the three lakes had fewer days of ice in the winter of 1980–81 than
 Answer: B
 
 Question 6:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 Number of Women Judges on Highest Courts in Selected Countries (2009-2013)
@@ -72,6 +78,7 @@ D. Sweden was the same in 2013 as in 2009, but it had more women on its high cou
 Answer: C
 
 Question 7:
+[COE]
 Which choice most effectively uses data from the table to complete the excample?
 
 A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations’ highest courts, such as the Supreme Court of Justice in Mexico and the Supreme Court in the Philippines, found that the overall trend is toward more women serving on the high courts in 2010 than in 1980. For example, none of the countries in the graph had more than 2 women in these positions in 1980, but ______
@@ -84,6 +91,7 @@ D. Mexico had 2 women on its high courts in 1980 and 3 in 2010.
 Answer: A
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations' highest courts, such as the Supreme court in Finland and the Supreme Court in the Dominican republic. From 2009 to 2013, the number of women serving as justices or magistrates on highest courts in most countries increased. However, there are also countries where the number decreased or remained unchanged; for example, _____
@@ -96,6 +104,7 @@ D. the Dominican Republic was lower in 2013 than in 2009, whereas the number in 
 Answer: D
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 **Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters**
@@ -110,6 +119,7 @@ D. Psammocora albopicta, because its maximum depth of 35 meters already extends 
 Answer: D
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ___.

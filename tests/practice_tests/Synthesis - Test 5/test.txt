@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to describe the study’s research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -15,6 +16,7 @@ D. Research by J.E. López and C. Vaughan revealed that 82 of 125—that is, 66%
 Answer: A
 
 Question 2:
+[Synthesis]
 The student wants to provide a specific example of a slow TV program. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -31,6 +33,7 @@ D. With their uninterrupted broadcasts, slow TV programs offer what film scholar
 Answer: B
 
 Question 3:
+[Synthesis]
 The student wants to specify when Ur formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -48,6 +51,7 @@ D. Over hundreds of millions of years, the supercontinent cycle results in super
 Answer: B
 
 Question 4:
+[Synthesis]
 The student wants to emphasize the order in which the two films were released. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -64,6 +68,7 @@ D. Early in her career, Merle Oberon wasn't listed in some film credits, such as
 Answer: A
 
 Question 5:
+[Synthesis]
 The student wants to emphasize the global rank of Mauritania’s youth population. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -80,6 +85,7 @@ D. “Only if these new generations are fully empowered to realize their best po
 Answer: A
 
 Question 6:
+[Synthesis]
 The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -95,6 +101,7 @@ D. While both compositions integrate various Native musical traditions, Katchina
 Answer: D
 
 Question 7:
+[COE]
 Which choice most effectively uses information from the given sentences to present the study and its findings?
 
 While researching a topic, a student has taken the following notes:
@@ -111,6 +118,7 @@ D. There are 146 species of springtail (noninsect hexapods) in Puerto Rico, but 
 Answer: B
 
 Question 8:
+[Synthesis]
 The student wants to make a generalization about the materials used in dhow replicas. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -127,6 +135,7 @@ D. Contemporary shipbuilders in Oman build replicas of the dhow, which was an an
 Answer: C
 
 Question 9:
+[Synthesis]
 The student wants to contrast intaglio and relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -143,6 +152,7 @@ D. In both relief printing and intaglio, an image is carved onto a printing bloc
 Answer: A
 
 Question 10:
+[Synthesis]
 The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -159,6 +169,7 @@ D. Research by K. Heer et al. revealed that 111 of 120—that is, 93%—of the F
 Answer: B
 
 Question 11:
+[COE]
 The researcher wants to contrast the orbital characteristics of these two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -176,6 +187,7 @@ D. Rhea’s satellites, including Thamus and Marata, revolve around the planet s
 Answer: C
 
 Question 12:
+[Synthesis]
 The student wants to present findings from the analysis. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -193,6 +205,7 @@ D. A 2022 analysis of online discourse included the platform "Future Forward" in
 Answer: A
 
 Question 13:
+[Synthesis]
 The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -210,6 +223,7 @@ D. With broadcasts of ordinary events, like artists at work, occurring in real t
 Answer: C
 
 Question 14:
+[Synthesis]
 The student wants to specify the order in which different government entities were given the authority to regulate airline safety in the United States. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 *While researching a topic, a student has taken the following notes:*
@@ -226,6 +240,7 @@ D. The FAA has regulated airline safety since it was established by the US Congr
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to specify the total mass of Earth’s magnesium relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

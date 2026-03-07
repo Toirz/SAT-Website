@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Paintings by the Florida Highwaymen—an informal collective of prolific landscape artists active in Florida during the 1950s and ’60s—are recognizable by their reiteration of the same general compositional structures and subjects: breaking waves and backcountry pines, to name two. But there was room for individuation: Sam Newton’s Tangerine Sky, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their more realistic and less impressionistic qualities.
@@ -10,6 +11,7 @@ D. It explains how a particular group of artists began collaborating and then re
 Answer: A
 
 Question 2:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Ralph Waldo Emerson’s 1841 essay The Method of Nature.
@@ -22,6 +24,7 @@ D. In a country whose citizens are largely preoccupied with tangible gains, it i
 Answer: D
 
 Question 3:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Spanning the 1920s to the 1980s, Mexican architect Luis Barragán’s prolific career evolved through distinct phases. As epitomized by the house in Calle Pedro Loza in Guadalajara, many of Barragán’s first projects integrated traditional Mexican building techniques into Mediterranean designs. Extensive travels abroad later sparked an engagement with modernist and functionalist aesthetics—styles whose emphasis on utility and whose repudiation of traditional architecture’s more ornamental elements are readily apparent in Barragán’s Pizarro Suárez House.
@@ -33,6 +36,7 @@ D. It summarizes the career of a particular architect, states how that architect
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -44,6 +48,7 @@ D. According to a team of economists, the higher a voter’s income, the more li
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 In Ojibwe, an Indigenous language from the Great Lakes region of what are now the United States and Canada, *wisa*means “far” whereas *wa-iwisa* means “far apart.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element “wa” in *wisa* gets repeated in *wa-iwisa*. There are many examples of this type of reduplication in Ojibwe.
@@ -55,6 +60,7 @@ D. It explains the phenomenon of reduplication, discusses why reduplication has 
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.
@@ -67,6 +73,7 @@ D. It contrasts great-uncle Richard’s wary first impressions of Adam with his 
 Answer: A
 
 Question 7:
+[Structure]
 Which choice best describes the main idea of the text?
 
 In a study by Mika R. Moran, Daniel A Rodriguez, and colleagues, residents of Quito, Ecuador, and Buenos Aires, Argentina, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 683 respondents from Buenos Aires, 69.9% indicated using city parks. Given that the percentage of Quito respondents who reported having access to other desired amenities near parks was much lower than that reported by Buenos Aires respondents, the difference in park use can’t be explained by Quito residents having more access to desired nonpark amenities near parks.
@@ -78,6 +85,7 @@ D. The study’s finding that a greater proportion of residents use parks in Qui
 Answer: B
 
 Question 8:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is adapted from George Eliot’s 1857 short story The Sad Fortunes of the Rev. Amos Barton. Mr. Ely is a clergyman in the town of Milby.
@@ -90,6 +98,7 @@ D. It highlights the disparity between Mr. Ely’s public and private behavior a
 Answer: C
 
 Question 9:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Armando Palacio Valdés’s short story "The Love of Clotilde," originally published in Spanish in 1884.
@@ -103,6 +112,7 @@ D. To compare the reception of Don Jerónimo’s plays with the support he provi
 Answer: B
 
 Question 10:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In 2023 Nobel Prize-winning physicist Giorgio Parisi published In a Flight of Starlings, a collection of essays on scientific subjects. Acclaimed author Sam Kean, who uses the form of nonfiction narrative to explore scientific discoveries, is interested in the collection less for its aesthetic merit than for its focus on the “false starts and mistakes that beset real scientific research every day.” Kean argues that all too often, scientists omit this “human stuff” from written accounts of their research and thus ultimately “fail to explain how science really gets done.”

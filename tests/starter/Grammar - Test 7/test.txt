@@ -1,4 +1,5 @@
 Question 1:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Situated along the Silk Road, the ancient city of Samarkand was a vital hub of commerce and culture that influenced trade routes between the East and West for several ______ Silk Road network, an interconnected system of trade routes spanning numerous civilizations, has been hailed as a precursor to modern globalized trade systems.
@@ -11,6 +12,7 @@ D. centuries; the
 Answer: B
 
 Question 2:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The prisoner's dilemma, a fundamental concept in game theory, illustrates the potential conflict between individual and collective interests, where both players can benefit from cooperating, but each player has an incentive to betray the other in pursuit of _______ own gain.
@@ -23,6 +25,7 @@ D. its
 Answer: B
 
 Question 3:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Not all animals adapt equally to the same type of _______Arctic foxes and snowshoe hares, for instance, are well-suited to cold, tundra habitats; many large mammals, such as elephants and giraffes, thrive in savanna ecosystems; and desert animals, such as camels, have evolved to survive in extreme heat with minimal water.
@@ -35,6 +38,7 @@ D. adaptations:
 Answer: D
 
 Question 4:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Within the sphere of macroeconomic theory, the assertion that the central bank's monetary policy exerts a decisive influence on national inflation rates was acknowledged by all ____ formulating the prevailing economic models proved more contentious.
@@ -47,6 +51,7 @@ D. concerned;
 Answer: D
 
 Question 5:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For Japan, a member of the World Trade Organization (WTO) since 1995, the WTO's principle of mutual trade benefits grants both advantages and ______ organization's diverse members, countries as distinct as the United States and Kenya, are all expected to engage in equitable trade practices with Japan, the reverse is also true.
@@ -59,6 +64,7 @@ D. responsibilities: while the
 Answer: D
 
 Question 6:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The philosopher John Locke's treatise Two Treatises of Government, symbolically _____ to advocate for the inherent rights of individuals against the oppression of absolute monarchy, remains a pivotal work in the history of political thought.
@@ -71,6 +77,7 @@ D. operates,
 Answer: C
 
 Question 7:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Some pages contained flaps that could be peeled back to reveal hidden _______ incorporated discs that rotated, showing information through windows cut into the page.
@@ -83,6 +90,7 @@ D. illustrations with others
 Answer: B
 
 Question 8:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Included among a distinct group of early-twentieth-century philosophers known as the Vienna Circle, Austrian logical ______ was recognized for developing groundbreaking theories in formal logic and for shaping modern analytic philosophy with his work on language and meaning.
@@ -95,6 +103,7 @@ D. theorist: Ludwig Wittgenstein
 Answer: A
 
 Question 9:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While other large carnivorous species, such as the grey wolf (Canis lupus), thrive in various regions across the globe, the Iberian lynx (Lynx pardinus) has an estimated population of only around 400 to 500 ______ one of the conditions that classify it as a critically endangered species.

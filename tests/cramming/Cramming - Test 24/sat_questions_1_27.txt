@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The visually arresting use of concrete in iconic Brutalist structures like London's Barbican Estate is often discussed in aesthetic terms. However, given the unprecedented expansion of public services in the United Kingdom during the 1950s-70s—a period requiring widescale, inexpensive construction—the architectural shift toward plentiful concrete was arguably _______.
@@ -12,6 +13,7 @@ Answer: C
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Egyptian plover—a bird native to Africa—has a symbiotic relationship with the Nile crocodile. While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food that is stuck in the crocodile’s teeth. This ______ relationship provides a nutritious meal for the bird and removes potentially dangerous bacteria from the crocodile’s mouth.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The pronghorn can run very fast—up to 89 kilometers per hour (km/hr)—but it is significantly slower than the frigatebird, which can fly at speeds up to 153 km/hr. The difference between these speeds is largely ____ of the fact that the features that make flight possible do less to limit top speeds than the features suitable for running on land.
@@ -38,6 +41,7 @@ Answer: A
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to honor the resilience of exceptional folk and traditional artists in the United States. One artist who received the fellowship is Navajo (Diné) basket weaver Mary Holiday Black. Black was chosen for her perseverance in advancing her art form despite a lifetime of ______ and cultural hardship.
@@ -51,6 +55,7 @@ Answer: D
 
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Akwaeke Emezi’s 2019 novel Pet. Jam is a teenager who lives with her father, Aloe, and her mother, Bitter, who is a painter.
@@ -65,6 +70,7 @@ Answer: C
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards. To assess how birds respond to shoreline hardening and other landscape alterations, Diann Proser et al. used a tool known as the Index of Waterbird Community Integrity to survey bird communities consisting of sixty-four species, including the tundra swan and the great blue heron, in the Chesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land development for uses such as housing.
@@ -78,6 +84,7 @@ Answer: B
 
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Can field mustard plants grow on Mars? Can pea plants? You might think the answer to these questions is obviously no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 30 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planet.
@@ -91,6 +98,7 @@ Answer: B
 
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Studies of the population density of cougars (Puma concolor) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. If, for example, the use of clustered camera trapping and GPS tracking of collars tends to lead to underestimates of cougar population density, that may explain why the study by ___.
@@ -105,6 +113,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which of the following findings, if true, would offer the most direct support for the conclusion made by the team?
 
 In traditional cultural transmission, skills are passed from one generation to the next within a society, but in cultural diffusion, a practice is adopted from a separate culture. A 2023 study by archeologist Dr. Ivan Petrov and his team examined cultural diffusion between ancient civilizations—specifically, a unique metal-folding technique used in sword-making, which was passed down for centuries within the Calradian Empire and has now been identified in artifacts from the remote Vlandian tribes. This discovery of the technique's transfer is perplexing, as the Vlandian tribes were geographically isolated and are not believed to have survived direct military encounters with the Calradian Empire, which would have been necessary for them to capture and replicate the technology. However, the team concluded that the metal-folding technique was indeed acquired by the Vlandians from the Calradian Empire, either directly or indirectly, through cultural diffusion.
@@ -118,6 +127,7 @@ Answer: B
 
 
 Question 10:
+[COE]
 Which finding, if true, would provide evidence that the possibility Grasby et al.investigated does occur?
 
 The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -131,6 +141,7 @@ Answer: C
 
 
 Question 11:
+[COE]
 Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
 
 Table: Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
@@ -146,6 +157,7 @@ Answer: D
 
 
 Question 12:
+[COE]
 Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
 
 The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle's house in Kansas is remote and solitary, writing that ______.
@@ -159,6 +171,7 @@ Answer: A
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Certain songs of the Tlingit people in the extreme northwestern United States tell stories of encounters with wolves and other wildlife, and those of the Kaluli people in Papua New Guinea sometimes replicate rainforest sounds to evoke specific locations. Ethnomusicologists have long studied the cultural meaning of music within societies but have only recently begun to recognize the critical role —particularly for languages known by fewer and fewer contemporary speakers— of indigenous songs such as these as a unique repository of historical ecological knowledge. This shift in perspective is important because it enables ethnographers to ______.
@@ -172,6 +185,7 @@ Answer: D
 
 
 Question 14:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Louisiana resident P.B.S. Pinchback, one of the nearly two thousand African Americans elected to public office during the decade that followed the Civil War, ____ his term as a member of the state senate in 1868.
@@ -185,6 +199,7 @@ Answer: B
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Blue holes—large marine sinkholes, like Watling’s Blue Hole near San Salvador Island—can be hundreds of meters deep and are sometimes part of widespread subterranean networks of passageways. In 2021, researchers conducted the first formal study of the Taam ja’ Blue Hole (TJBH), located in a bay of fresh water and salt water on Mexico’s coast, and reported a maximum depth of 274 meters. Oscar F. Reyes-Mendoza and colleagues later reinvestigated the depth of the TJBH, determining that it exceeded 400 meters; additionally, they detected variations in characteristics across water layers. Layers more than 400 meters deep began to show density and salinity conditions akin to those of the nearby Caribbean Sea. Reyes-Mendoza and colleagues therefore suggest that ______.
@@ -198,6 +213,7 @@ Answer: A
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Fatoumata Keïta is a novelist from Baguinéda, Mali, who has earned international acclaim in recent years. Writers of other literary forms, such as poetry and drama, are less likely to be recognized beyond their nations’ borders, but many are still well _____ Fama Diagne Sène, for example, is a celebrated playwright from Senegal.
@@ -211,6 +227,7 @@ Answer: A
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Occurring in the constellation Coma Berenices, 38 million light-years from Earth, SN 1940B was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Josef Johnson.
@@ -224,6 +241,7 @@ Answer: C
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Contrasting a high saturation color palette against dark paper and stoneware, Atlanta-based artist Jiha Moon creates fused pieces, wherein Korean folk art, Western contemporary art, and global popular culture mix. New York’s Derek Eller Gallery ____ her work in a solo exhibition that ran in early 2022.
@@ -237,6 +255,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Proto-Cariban—a protolanguage, or ancestral language of a family of descendant (daughter) languages—is said to be the common ancestor of all Cariban languages. This designation is ______ Proto-Cariban is only postulated, its characteristics being inferred from the linguistic properties of its twenty-nine daughters.
@@ -250,6 +269,7 @@ Answer: B
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The story of Chile’s electrification is perhaps most readily understood by studying developments in several key years: 1916, when engineer Arturo Salazar attended the Pan-American Scientific Conference; 1936, when the study entitled “Política eléctrica chilena” was ______ 1943, when the national electrical plan was finalized.
@@ -263,6 +283,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In most of the continent’s woods, bears are a standard black or brown variety. The bear at Spirit Island in BC is an _____ bears take their color from genes for dark- and deep-toned fur and hair, genes for recessive white pigmentation and other genetic traits give the bear at Spirit Island a snowy white coat.
@@ -276,6 +297,7 @@ Answer: C
 
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Initially titled All’s Well That Ends Well, Leo Tolstoy’s novel about the lives of several Russian families was ultimately published as War and Peace in ______ the novel’s epic scope and historical themes, the new title reflected the evolution of Tolstoy’s original vision for the story over the course of the writing process.
@@ -289,6 +311,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Marcel Duchamp intended his 1917 so-called ready-made sculpture Fountain to challenge then-prevailing conceptions about the nature of art. _____ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.
@@ -302,6 +325,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state’s USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
@@ -315,6 +339,7 @@ Answer: C
 
 
 Question 25:
+[Synthesis]
 The student's goal is a comparison of the Big Crunch model with the Heat Death model. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching cosmology, a student has taken the following notes:
@@ -333,6 +358,7 @@ Answer: A
 
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -352,6 +378,7 @@ Answer: A
 
 
 Question 27:
+[Synthesis]
 The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

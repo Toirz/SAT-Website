@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 _____ though it seemed to many mathematicians, Nagata’s conjecture, posed in 1972, eventually yielded to the combined efforts of Ualhai U. Umirbaev and Ivan P. Shestakov, who presented a proof of it in 2004.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Noah Fierer and colleagues ______ pots of sterilized soil with slurries of live microbes collected from soil in five sites across Colorado, including areas of sagebrush and ponderosa pine forest. Fierer and team then grew mustard plants in the pots to see if the different microbial slurries affected levels of spicy glucosinolates like 3-methylthiopropyl in the plants’ seeds.
@@ -25,6 +27,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite a growing view among young people and others in South Africa that celebrated anti-apartheid leader Nelson Mandela should have taken greater strides as president to effect more substantive structural changes in the country’s stratified society, years after his death in 2013 Mandela continues to be ______ by many worldwide.
@@ -38,6 +41,7 @@ Answer: C
 
 
 Question 4:
+[COE]
 Which choice best states the function of the undefined portion in the text as a whole?
 
 Benjamin Prud’homme and colleagues have explored how convergent evolution—__a phenomenon that occurs when the same trait evolves independently in two reproducitively separate lineages__—can result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Spanish words and phrases often appear in Sandra Cisneros’s short story “Eyes of Zapata.” Their meaning is implied by the surrounding English-language text. Ana Castillo’s approach to Spanish words and phrases in *So Far from God* is ______ Cisneros’s approach. Therefore, readers who aren’t familiar with Spanish can easily read both works.
@@ -64,6 +69,7 @@ Answer: D
 
 
 Question 6:
+[COE]
 According to the text, Cardelús’s study is from what year?
 
 In rainforests in Costa Rica, there are large kapok trees. Dead leaves and other falling things collect in the trees’ branches and break down into mats of soil. This is called canopy soil because it forms in a tree’s branches (its canopy). Scientist Catherine L. Cardelús’s 2008 study of canopy soil found that it helps preserve healthy nutrient cycling (how nutrients move through the environment) in forests.
@@ -77,6 +83,7 @@ Answer: A
 
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from a translation of María Dueñas’s 2009 novel *The Time in Between*. The narrator has just rented an apartment and is entering it for the first time.
@@ -91,6 +98,7 @@ Answer: C
 
 
 Question 8:
+[COE]
 Information in the text best supports which statement about the design of the house in Calle Liceo?
 
 Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the houses in Avenida Parque Mexico, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Liceo, which evince the aesthetics of traditional Mediterranean and Mexican styles.
@@ -104,6 +112,7 @@ Answer: C
 
 
 Question 9:
+[Structure]
 Which choice best describes the main idea of the text?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Buenos Aires, Argentina, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 683 respondents from Buenos Aires, 69.9% indicated using city parks. Given that the percentage of Quito respondents who reported having access to other desired amenities near parks was much lower than that reported by Buenos Aires respondents, the difference in park use can’t be explained by Quito residents having more access to desired nonpark amenities near parks.
@@ -117,6 +126,7 @@ Answer: B
 
 
 Question 10:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Microwave heating, a thermal technology used to preserve food on an industrial scale, is generally considered to be an improvement over more conventional thermal preservation methods. Scientists in Latin America have contributed to a better understanding of this technology, with researchers from Brazil demonstrating its effectiveness in preserving mango peels. As research continues, scientists hope to make advancements in hybrid systems combining multiple food preservation technologies, which would be advantageous over using microwave heating alone, given that __it often heats food unevenly.__
@@ -130,6 +140,7 @@ Answer: B
 
 
 Question 11:
+[COE]
 Which finding, if true, would most directly support the researcher’s claim?
 
 A team of public transportation experts in Oceanside, California, is creating a new light rail stop for the SPRINTER system that will service a neighborhood in which a stop does not currently exist. To decide where to place the stop, the team is using a survey from ten years ago that asked how far neighborhood residents would be willing to walk to a light rail stop. The team also looked at studies showing that people’s willingness to walk to public transit is influenced by factors like weather and the presence of well-enforced low speed limits for cars. A researcher has argued that the survey does not accurately reflect the feelings of today’s residents of this neighborhood.
@@ -143,6 +154,7 @@ Answer: D
 
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Northern New York’s Hamilton County is among the most rural counties in the United States: the US Census Bureau classified it as 100% rural in 2010. Researchers often struggle to recruit residents of counties like Hamilton for inclusion in studies. Melissa Valerio and colleagues tested whether an approach called snowball sampling improves recruitment. Working in two rural counties, they recruited a few people (known as “seeds”) with the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______
@@ -156,6 +168,7 @@ Answer: A
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) presents a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as complex and inefficient delivery routes, persist. While innovations to mitigate these challenges have been emerging—the use of autonomous delivery robots, for instance—success has been constrained due to the additional complications that arise (e.g., robots travel relatively slowly since they must navigate many ground-level obstacles). Consequently, ____
@@ -169,6 +182,7 @@ Answer: D
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Indigenous songs are an important resource for ecological information. Songs of the Waripiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Temiar people in Malaysia represent landforms and landmarks through melody and pitch. There have been efforts made to preserve Indigenous languages over the years—e.g., the United Nations' International Decade of Indigenous Languages (2022–2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must ______.
@@ -182,6 +196,7 @@ Answer: D
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerrgren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ____.
@@ -195,6 +210,7 @@ Answer: A
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An upcoming exhibition will showcase Vincent van Gogh’s drawing *Sale of Building Scrap*, which Van Gogh ____ in the city of Nuenen nearly 150 years ago.
@@ -208,6 +224,7 @@ Answer: D
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Epic poetry is a literary genre characterized by lengthy narratives that emphasize the heroic or divine. *Georgics*, an epic poem of Roman origin, dates back to the ______ the poem's heroic narrative still captivates modern readers.
@@ -221,6 +238,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Jean Alexandru Steriadi and Stefan Dimitrescu were among a group of Romanian artists based in Balchik in the early twentieth century ______ group is referred to as the Balchik School.
@@ -234,6 +252,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A pet rabbit is held by its owner on a beach in *Boo and His Rabbit*, a photograph by British ____ Chris Killip.
@@ -247,6 +266,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Dana Claxton is a Hunkpapa Lakota artist whose body of ____ interdisciplinary, encompassing photography, video, and performance and often intertwining them.
@@ -260,6 +280,7 @@ Answer: B
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though the words are synonymous in everyday ______ “modern” and “contemporary” have different meanings in parts of visual arts culture, where “modern” refers to art from the nineteenth and early twentieth centuries, such as American Landscape (1930) by Charles Sheeler, and “contemporary” encompasses art from the late 1960s to the present day, such as Los Angeles No. 4 (Barnes) (2000) by R.B. Kitaj. New York City’s Museum of Modern Art (MoMA) houses the finest works from both of these periods.
@@ -273,6 +294,7 @@ Answer: B
 
 
 Question 22:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -292,6 +314,7 @@ Answer: C
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the Panamanian golden frog and the cane toad—safely engage in migratory behavior during the day. ____ with the sun in the sky, the amphibians’ striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.
@@ -305,6 +328,7 @@ Answer: B
 
 
 Question 24:
+[Synthesis]
 The student wants to emphasize the different locations of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -324,6 +348,7 @@ Answer: B
 
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
 
 •The Mauritius Trade Union Congress (MTUC) is a national union federation for the African nation of Mauritius.
@@ -340,6 +365,7 @@ Answer: C
 
 
 Question 26:
+[COE]
 The student wants to summarize the history of Timbuktu's famous manuscripts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -358,6 +384,7 @@ Answer: D
 
 
 Question 27:
+[Synthesis]
 The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

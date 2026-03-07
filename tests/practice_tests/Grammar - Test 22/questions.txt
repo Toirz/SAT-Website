@@ -1,4 +1,5 @@
 Question 122:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Leptoptilos dubius, also known as the greater ______ can be found in places like the Central Tanintharyi Coast in Myanmar and Chitwan National Park in Nepal, but more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of a conservation effort that aims to bring adjutants back from near extinction.
@@ -11,6 +12,7 @@ D. adjutant,
 Answer: D
 
 Question 169:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Sashimi is the name of a Martian rock. ______ identified by NASA's Spirit rover, which first touched down on Mars in 2004.
@@ -23,6 +25,7 @@ D. Those were
 Answer: A
 
 Question 204:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Occurring in the constellation Perseus, 240 million light-years from Earth, SN 2006gy was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Robert Quimby.
@@ -35,6 +38,7 @@ D. supernova—the
 Answer: D
 
 Question 268:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Released in 1992, the Hewlett-Packard PA-7100 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. ______ a "power wall" in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.
@@ -47,6 +51,7 @@ D. Upon hitting
 Answer: B
 
 Question 197:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 From 2009 to 2019, travelers flew out of major urban airports with increasing ___ Washington Dulles International Airport in Washington, DC, saw a 6.9 percent increase in airline passengers, from 11,122,438 total passengers in 2009 to 11,892,778 in 2019.
@@ -59,6 +64,7 @@ D. frequency; for example,
 Answer: D
 
 Question 335:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Nicolay de Caveri, the Genoese geographer responsible for creating a sixteenth-century world map, and Flemish ____ known for showing the world in a cordiform projection, are both remembered for their contributions to the history of mapmaking during the early modern period.
@@ -71,6 +77,7 @@ D. cartographer, Abraham Ortelius,
 Answer: A
 
 Question 306:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After finding information about Ronald V. Dellums, who represented California in the United States House of Representatives, the student discovered biographical sketches of two other Black Americans who served in ___ Ralph Harold Metcalfe of Illinois and George Henry White of North Carolina.
@@ -83,6 +90,7 @@ D. Congress
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though he's performed on many respected albums, including DBIII: Live at the Cotton Club Tokyo by Dean Brown, drummer Dennis Chambers may be best known for his time as house drummer for the hip-hop label Sugar Hill Records. He did not play drums on the label's classic song "Rapper's Delight," _____ joined the label after the song's release.
@@ -95,6 +103,7 @@ D. however. He
 Answer: D
 
 Question 209:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Kizomba, a genre of spoken that originated in Angola, has become an international ______ 2022, the Indian dance duo known as Elvis and Namrata defeated performers from around the world to win the annual Olympiads of Kizomba competition held in Paris, France, becoming the first-ever Asian winners.
@@ -107,6 +116,7 @@ D. phenomenon, in
 Answer: C
 
 Question 125:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In Puerto Rico, it’s not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, climate, famous residents, or chief export. For example, the Puerto Rican municipality of Cabo Rojo is well known for being the birthplace of Ramón Emeterio Betances y Alacán, one of the leaders of the Puerto Rican independence ______ this distinction has earned it a fitting nickname: “the Cradle of Betances.”
@@ -119,6 +129,7 @@ D. movement,
 Answer: A
 
 Question 188:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In Los Angeles County, California, bicycle paths such as the Arroyo Seco bicycle path—which is 2.27 miles long—have become an increasingly popular means of travel. Moreover, lawyer and cycling ______ has identified several features of the Los Angeles landscape, like its temperate climate and mostly flat roads, that make the city naturally bike-friendly.
@@ -131,6 +142,7 @@ D. advocate, Ernesto Hernandez-Lopez,
 Answer: C
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With the development of new technologies that use natural resources more efficiently, the overall consumption of those resources might be expected to decrease. Economists have observed that improvements in efficiency often correlate negatively with resource ____with efficiency gains, lowering the cost of use, increasing demand to the extent that resource consumption ultimately rises.
@@ -143,6 +155,7 @@ D. conservation, though;
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their research, behavioral ____ integrate methods from psychology and economics to analyze how and why people make particular choices and to examine the broader implications of those choices for the economy.
@@ -155,6 +168,7 @@ D. economists, Laura Gee and Muriel Niederle,
 Answer: B
 
 Question 146:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Novelist and playwright Mary Russell Mitford joined with 55 other prominent British writers in 1837 to petition the US Congress for greater copyright protections. This cadre of renowned ______ that American publishers’ appropriation of their work caused, in the words of the petition, “deep and extensive injuries…on their reputation and property,” helped sow the seeds for the International Copyright Act of 1891.
@@ -167,6 +181,7 @@ D. authors were asserting
 Answer: B
 
 Question 269:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Should the United Kingdom cut taxes? As of 2017, the United Kingdom's top tax rate (59%) was lower than the highest point on the country's Laffer curve. A theoretical relationship between tax rates and revenues, the curve can be used to determine whether tax cuts will ultimately increase a country's tax revenue, according to some ______ 2017 data suggested that the United Kingdom was below the threshold for a tax cut.
@@ -179,6 +194,7 @@ D. economists. The
 Answer: D
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An upcoming exhibition will showcase Vincent van Gogh’s drawing Building in Eindhoven, which Van Gogh _____ in the city of Nuenen nearly 150 years ago.
@@ -191,6 +207,7 @@ D. is completing
 Answer: A
 
 Question 62:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Industrial Revolution transformed board games from handcrafted luxuries into affordable entertainment. Manufacturing innovations included mechanized printing processes, which created vibrant game boards at low ______ production methods, which ensured uniform playing pieces and packaging; and widespread distribution networks.
@@ -203,6 +220,7 @@ D. costs; standardized
 Answer: D
 
 Question 271:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For her installation The Last Cruze, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative documentary nature of Frazier’s work.
@@ -215,6 +233,7 @@ D. punctuates
 Answer: D
 
 Question 207:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Paraguay, one of many places that reveal their imperial history in their language. Contrast Paraguay with the Netherlands, which ceased to be part of the empire in ______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.
@@ -227,6 +246,7 @@ D. 1648 and
 Answer: C
 
 Question 213:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian’s macroanalysis ____ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.
@@ -239,6 +259,7 @@ D. had examined
 Answer: B
 
 Question 93:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 1813, French paleontologist Georges Cuvier proposed that Earth’s geologic features are shaped by catastrophic events. This theory ______ to explain geological evolution, though widely accepted for a time, eventually lost favor among members of the scientific community.
@@ -251,6 +272,7 @@ D. attempting
 Answer: D
 
 Question 301:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a 2022 study, Fa-Gang Wang et al. concluded that other artifacts excavated from an archaeological site in China date to between 39,000 and 41,000 years ago. The reliability of the dates that Wang et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the other artifacts were last exposed to sunlight, ______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.
@@ -263,6 +285,7 @@ D. depends
 Answer: D
 
 Question 5:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun’s surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715—now known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.
@@ -275,6 +298,7 @@ D. Minimum, when
 Answer: A
 
 Question 369:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Included in *Every Day: Selections from the Collection*, a 2019 group exhibition at the Baltimore Museum of Art in Maryland, was the work of multimedia artist Lorna Simpson. The impact of Simpson's work is _____ conceptual photographic art, challenging conventional notions of race, gender, history, and memory, and shedding light on the experience of African American women in contemporary society.
@@ -287,6 +311,7 @@ D. threefold: expanding
 Answer: D
 
 Question 83:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Included in Black Refractions: Highlights from The Studio Museum in Harlem, a 2019 group exhibition at the Museum of the African Diaspora in San Francisco, California, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ___ she is credited with expanding the horizons of conceptual photographic art.

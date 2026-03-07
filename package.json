@@ -11,7 +11,6 @@
     "migrate": "node scripts/migrate.js",
     "start:with-migrate": "node scripts/migrate.js && node server.js"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -24,6 +23,6 @@
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
     "pg": "^8.16.3",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.0.2"
   }
 }

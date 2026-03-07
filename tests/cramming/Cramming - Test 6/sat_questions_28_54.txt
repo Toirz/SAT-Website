@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are _____ time. As Rafael Núñez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to “next week.”
@@ -11,6 +12,7 @@ D. preoccupied with
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A study revealed that in March 2023, 8.3 percent of users canceled their subscriptions to streaming platforms. Addressing this level of user attrition presents a significant hurdle for service providers: subscribers’ initial excitement about a new service frequently begins to ____, prompting companies to explore additional strategies to sustain engagement.
@@ -23,6 +25,7 @@ D. rectify
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying menus from nineteenth-century restaurants, advertisements for defunct amusement parks, and posters promoting long-forgotten plays may seem like a frivolous pursuit, but ephemeral objects like these are useful as markers of cultural change: they can ___ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
@@ -35,6 +38,7 @@ D. preclude
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In his analysis of works by James Joyce and other renowned English-language novelists, Ben Blatt discovered that high rates of -ly adverbs are rarely found in critically acclaimed literature; his findings suggest that a ______ of such modifiers may actually enhance a novel's perceived literary merit.
@@ -47,6 +51,7 @@ D. predilection
 Answer: A
 
 Question 5:
+[Structure]
 What choices best state the main purpose of the passage?
 
 Since the Hawaiian Islands have never been connected to other land masses, the great variety of plants in Hawaii must be a result of the long-distance dispersal of seeds, a process that requires both a method of transport and an equivalence between the ecology of the source area and that of the recipient area. There is some dispute about the method of transport involved. Some biologists argue that ocean and air currents are responsible for the transport of plant seeds to Hawaii. Yet the results of flotation experiments and the low temperatures of air currents cast doubt on these hypotheses. More probable is bird transport, either externally, by accidental attachment of the seeds to feathers, or internally, by the swallowing of fruit and subsequent excretion of the seeds. While it is likely that fewer varieties of plant seeds have reached Hawaii externally than internally, more varieties are known to be adapted to external than to internal transport.
@@ -59,6 +64,7 @@ D. resolving a dispute about the adaptability of plant seeds to bird transport
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Puck and other nineteenth- and early twentieth-century US general-interest periodicals included contributions by various individual writers but often strove to display a single, broadly appealing style and perspective. Accordingly, scholars long characterized the genre of mass-media periodicals as having __erased the distinctiveness of individual voices in service of commercial aims.__ More recently, scholars have complicated this picture by showing that Half-Century Magazine and other titles from the period that were marketed to Black women featured a more heterogeneous mix of voices.
@@ -71,6 +77,7 @@ D. It reveals why the publications referenced earlier in the text have historica
 Answer: C
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The Life of Martin R. Delany is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Frances Rollin Whipper rather than Frank A. Rollin, in this case). Claire Jarvis and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
@@ -83,6 +90,7 @@ D. Details about a reissue of The Life of Martin R. Delany are given, a question
 Answer: B
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
@@ -95,6 +103,7 @@ D. Previous studies have suggested that steepness mediates breaking in traveling
 Answer: C
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to challenge the student's hypothesis?
 
 **** To evaluate the efficacy of a new bio-fertilizer, a team of agronomists measured the average crop yield for three different soil types before and after the fertilizer's application over one growing season. The results are presented in the table below. After reviewing the data, a student hypothesizes that the application of this new bio-fertilizer consistently leads to an increase in crop yield.
@@ -109,6 +118,7 @@ D. Although the crop yield for Silty Clay soil remained high after the applicati
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most directly weaken the student’s claim?
 
 Geneticist Elaine Ostrander led an international collaboration in which Jocelyn Plassais and other researchers investigated the evolutionary history of size variation in modern dogs. The researchers identified multiple versions of the gene regulating the production of IGF-1 (insulin-like growth factor 1) in dogs and found that dogs of the same breed consistently share the same version of the gene. In a discussion of the study, a student hypothesizes that small breeds of dogs (for example, toy poodles) must share a version that represses IGF-1 production that would otherwise confer larger body size.
@@ -121,6 +131,7 @@ D. Some breeds with small body sizes and low IGF-1 concentrations have a differe
 Answer: D
 
 Question 11:
+[COE]
 Which finding from Davis and Chen's study, if true, would most directly weaken the claim made by psychologists who hold the conventional view of motivation?
 
 Psychologists who hold a conventional view of motivation argue that publicly declaring a personal goal does not alter an individual's likelihood of achieving that goal. To test this claim, researchers Amir Davis and Li Chen conducted a year-long study focused on individuals attempting to learn a new complex skill. The study made a distinction between subjects who were part of a group encouraged to announce their goal on social media (roughly half of whom did so) and a comparable group of subjects who were instructed not to make any public announcement. Davis and Chen then compared the self-reported satisfaction levels of the two groups of subjects one year after the study began.
@@ -133,6 +144,7 @@ D. A similar tendency to report disappointment about their progress was observed
 Answer: C
 
 Question 12:
+[Infer]
 Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
 
 In 2002, the US state of Minnesota enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Minnesota, students first collect data on the number of insurers in the state for a few years leading up to and following 2002 and the premium prices for new policies offered by those insurers.
@@ -145,6 +157,7 @@ D. Compare changes over time in the premium price data the students have collect
 Answer: B
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Ethnographers have spent decades analyzing the traditional songs of Indigenous peoples around the world. Only recently, however, have ethnographers started to recognize that many Indigenous songs encode and transmit valuable ecological knowledge—citing, for instance, songs of the Kwakwaka’ wakw people in British Columbia, Canada, that share vital information about clam gardens, and those of the Sakha people in Siberia, Russia, that address the effects of climate change on local ecosystems. It seems likely, therefore, that ethnographers may want to ________
@@ -157,6 +170,7 @@ D. place greater emphasis on the use of Indigenous songs by individuals than on 
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 India has classified the spiraling whitefly as an invasive species that could harm some of the country’s native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that "invasive" and "native" are labels that describe temporary circumstances. Changes in Earth’s climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldn’t live previously. In the case of India, these observations suggest that ___
@@ -169,6 +183,7 @@ D. the country was previously home to some spiraling whiteflies but they were ou
 Answer: A
 
 Question 15:
+[COE]
 Which completion of the text is best supported by data in the table?
 
 In a materials science study, researchers are developing two new anti-corrosive coatings, "Ceramax" (C) and "Duroshield" (D), for steel alloys used in marine environments. They prepared three types of steel samples for testing: Type C samples coated only with Ceramax, Type D samples coated only with Duroshield, and Type CD samples which were left uncoated to serve as a baseline. The researchers already know from prior studies that resistance to industrial chemical spills is significantly enhanced by Ceramax, but is not affected by the presence of Duroshield. To test performance in marine conditions, the samples were exposed to a continuous saltwater spray, and their structural integrity was measured over several weeks. The data from this test, combined with the prior knowledge about chemical resistance, suggest that _______.
@@ -183,6 +198,7 @@ D. the greatest protection against saltwater corrosion is achieved when both Cer
 Answer: A
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product’s risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Vietnam, investigating participants’ intentions to purchase a new skin-care product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh’s study are broadly applicable, this finding suggests that _______ .
@@ -195,6 +211,7 @@ D. parents of small children likely prioritize other factors over a product’s 
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On July 19, 2013, marine biologists observed a remarkable and uncommon event in the Great Barrier Reef, approximately 100 kilometers from ______ bleaching event of a large coral reef, a visually dramatic yet temporary occurrence generally caused by prolonged exposure to elevated water temperatures.
@@ -207,6 +224,7 @@ D. shore; the
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ____ is displayed in the National Portrait Gallery in London.
@@ -219,6 +237,7 @@ D. Smith
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Investigating the star Betelgeuse—______ 2020 study by astronomers Elena Petrova, Kenji Tanaka, and Sam Carter determined that a dust cloud, not an impending supernova, caused its recent unusual dimming.
@@ -231,6 +250,7 @@ D. the famous red supergiant in Orion's shoulder —as it's often described, a
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A 2016 study by researchers Andreas Keller and Leslie Vosshall evaluating how participants described the odors of various chemical compounds revealed some similarities between the odor of sample 17 (o-anisaldehyde) and that of sample 8 (DL-phenylalanine). The ______ primary descriptors both included “burnt”; however, the next most common word used for sample 17 was “sour,” while that for sample 8 was “edible.”
@@ -243,6 +263,7 @@ D. samples’ odor’s
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In September 1928, a Scottish physician accidentally discovered a powerful antibiotic in his London laboratory. Regarded as a turning point in medical history, a result of a contaminated petri dish, ______ Fleming was jointly awarded the 1945 Nobel Prize in Medicine.
@@ -255,6 +276,7 @@ D. the mold's bacteria-killing properties were revealed by the discovery, which 
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for "iron path." As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ______ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.
@@ -267,6 +289,7 @@ D. More often,
 Answer: D
 
 Question 23:
+[Synthesis]
 The student wants to explain wind farms to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -284,6 +307,7 @@ D. Wind farms use turbines to generate electricity from a renewable energy sourc
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The near-Earth asteroid Atira is orbited by the moonlet S/2017 (163693). In 2022 scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.
@@ -296,6 +320,7 @@ D. For example,
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to explain why the modern scientific consensus rejects the concept of linguistic determinism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching cognitive linguistics, a student has taken the following notes:
@@ -315,6 +340,7 @@ D. Because the weak version of the hypothesis has been supported by evidence, th
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to synthesize the information to make a generalization about the modern scientific view of planetary habitability. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While conducting research for a paper on astrobiology, a student compiled the following notes:
@@ -332,6 +358,7 @@ D. The concept of an "abiogenesis zone" has largely replaced the outdated "Goldi
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to contrast ethylene and hexachloroethane. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

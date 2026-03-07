@@ -1,4 +1,5 @@
 Question 35:
+[COE]
 Which finding, if true, will support the conclusion?
 
 Describing adverbs "as damaging to a writer," novelist Graham Greene is one of several authors and literary critics who have recommended minimizing the use of adverbs, especially those ending in -ly (e.g., "obediently"), in works of fiction. To investigate the prevalence of -ly adverbs in novels, author and statistician Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in the novels of Ernest Hemingway, who was awarded the Nobel Prize in Literature in 1954. Blatt concluded that in Hemingway’s oeuvre, there is a negative correlation between -ly adverb proliferation and perceived literary merit.
@@ -11,6 +12,7 @@ D. In The Sun Also Rises, which is widely recognized as a literary masterpiece,
 Answer: D
 
 Question 7:
+[COE]
 Which finding, if true, would most directly support Martinez and colleagues' hypothesis?
 
 The bird species Corapipo gutturalis (the white-throated manakin) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Cymbilaimus lineatus (the fasciated antshrike), on the other hand, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martinez and colleagues, who studied the ecological community these species share in French Guiana, hypothesized that avian foraging strategies that reduce individual vigilance are associated with greater reliance on other species to watch for predators.
@@ -23,6 +25,7 @@ D. Of several species practicing foliage gleaning that Martinez and colleagues o
 Answer: B
 
 Question 9:
+[COE]
 Which finding, if true, would most directly support the underlined claim?
 
 The Reckoning and Resilience (2022) exhibition at Duke University's Nasher Museum of Art in Durham, North Carolina, is dedicated to the work of thirty North Carolina artists, including Lien Truong, Kennedi Carter, and Meg Stein. __Although the Nasher Museum has focused exhibitions entirely on North Carolina artists before, as it did previously in the photography exhibition Across County Lines, the breadth of disciplines in Reckoning and Resilience sets it apart.__
@@ -35,6 +38,7 @@ D. Carter is a North Carolina photographer, as were all of the artists featured 
 Answer: B
 
 Question 15:
+[COE]
 Which finding, if true, would most directly support the hypothesis presented in the text?
 
 Some food packaging contains silver nanoparticles (Ag-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Tina Ramskov and colleagues found that Ag-NPs can accumulate in the bodies of marine annelid worms (*Capitella teleta*). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that Ag-NP bioaccumulation in invertebrates like *C. teleta* could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as Atlantic salmon (*Salmo salar*), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
@@ -47,6 +51,7 @@ D. It is easier to detect low and harmless concentrations of Ag-NPs in C. telet
 Answer: B
 
 Question 16:
+[COE]
 Which finding, if true, would most directly weaken the hypothesis presented in the text?
 
 Many pastes contain copper oxide nanoparticles (CuO-NPs), which can leach into waterways and soils via wastewater. In a 2012 study. Superb K. Misra and colleagues found that CuO-NPs can accumulate in the bodies of great pond snails (*Lymnaea stagnalis*). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CuO-NP bioaccumulation in invertebrates like *L. stagnalis* could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species–such as African clawed frogs (*Xenopus laevis*), commonly used in regulatory compliance testing–for nanoparticle bioaccumulation, as environmental protection laws currently require.
@@ -59,6 +64,7 @@ D. Compared with X. laevis, L stagnalis can accumulate detectable Cu NP concen
 Answer: C
 
 Question 18:
+[COE]
 Which finding, if true, would most directly support the idea advanced by Gil de Zúñiga and Diehl?
 
 As media consumption has become increasingly multiplatform and socially mediated, active news acquisition has diminished in favor of an attitude known as “news finds me” (NFM), in which people passively rely on their social networks and ambient media environments for information about current events. Homero Gil de Zúñiga and Trevor Diehl examined data on a representative group of adults in the United States to determine participants’ strength of NFM attitude, political knowledge, and political interest. Although no major election took place sufficiently near the study for Gil de Zúñiga and Diehl to identify causality between NFM and voting behavior, they did posit that NFM may reduce voting probability through an indirect effect.
@@ -71,6 +77,7 @@ D. The likelihood of voting increases as political knowledge increases, and the 
 Answer: B
 
 Question 2:
+[COE]
 Which finding, if true, would most strongly support the underlined explanation?
 
 Gorgets, or necklaces with large pendants, have been part of the ceremonial attire of tribes from the US Southeast for centuries. One of the oldest examples, the Fairfield Gorget, was found in Fairfield, Missouri, in 1958. Its overall design resembles that of other art from the region during the Mississippian period (900–1600 CE). Yet the image on the gorget is of a jaguar—a species whose range doesn’t extend to Missouri. Jaguar images are common in ancient Mexican art, and Mexico lies squarely in the species’ range. Therefore, some scholars argue that __long-distance trade in Mexican art objects brought the imagery to Missouri, where a local artist could have adopted it and incorporated it into the Fairfield Gorget.__
@@ -83,6 +90,7 @@ D. Certain works by present-day artists from Southeastern tribes reflect outside
 Answer: C
 
 Question 8:
+[COE]
 Which finding, if true, would most directly support Nuñez and colleagues' claim?
 
 The phrase usa-don sonda is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to “next week.” Rafael Nuñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker’s manual gestures. Previous research has found evidence of English speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Nuñez and colleagues claim that this tendency is not in fact ubiquitous.
@@ -95,6 +103,7 @@ D. Yupno speakers were observed making temporal gestures both indoors and outdoo
 Answer: A
 
 Question 41:
+[COE]
 Which finding, if true, would most directly weaken the students' conclusion?
 
 Students in a biology class investigated why individual house mice (Mus musculus) can differ from one another. They found that knockout mice with the gene Asb5 deactivated tended to have lower concentrations of sodium in their blood than did wild-type mice, the students concluded that the varying concentrations of sodium among house mice in nature are solely attributable to variations in the level of expression of Asb5.

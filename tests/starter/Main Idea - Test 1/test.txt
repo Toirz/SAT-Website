@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In 2013 Frederick Jutfelt and Maria Hedgärde published a study concluding that ocean acidification has a strong effect on the behavior of Gobies marinus, a species of fish. However, Jutfelt and Hedgärde's study relied on a mean sample size of only about 15 fish. In a 2020 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Jennifer Sunday and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.
@@ -11,6 +12,7 @@ D. To present a debate between two research teams about a cause of ocean acidifi
 Answer: B
 
 Question 2:
+[Structure]
 Which choice best states the main idea of the text?
 
 In the 1960s, astronomer Alejandro Reyes was part of the Universidad de Chile team, specializing in studies of early planetary discoveries. Reyes’s contributions represent merely one case of the extensive heritage of astronomy research in South America. This legacy is safeguarded by the Southern Astronomy Research Society, established in Santiago, Chile, in 1983 to assist astronomers across Latin America and commemorate figures such as Reyes.
@@ -23,6 +25,7 @@ D. Astronomy research has a compelling legacy both inside and outside South Amer
 Answer: C
 
 Question 3:
+[Structure]
 Which choice best states the main purpose of the text?
 
 *Echoes of Jupiter*, initially released in 2005, is a composition within Elena Diaz’s Celestial Symphonies cycle, which consists of twelve complete orchestral pieces. Some reviewers have criticized the abrupt conclusions of *Echoes of Jupiter* and other compositions in the cycle, arguing that they fail to resolve neatly but instead seem to stop unexpectedly. However, other commentators assert that these compositions should not be viewed as independent works with conventional openings and closings but rather as a single extensive musical narrative, comparable to other multi-part compositions, such as Gustav Holst’s *The Planets*.
@@ -35,6 +38,7 @@ D. To explain why many reviewers find the Celestial Symphonies to be remarkably 
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 In present-day Chiapas, Mexico, archaeologist Robert Rosenswig, remote-sensing specialist Ricardo López-Torrijos, and colleagues have located 41 smaller settlements surrounding the ancient Mesoamerican city of Izapa. The researchers have concluded that these settlements were culturally linked to Izapa because each of the settlements is the same age and configured in the same manner as Izapa, with a pyramid to the north and a plaza to the south. Their shared structural orientation suggests that residents of the settlements likely performed some of the same cultural ceremonies as residents in Izapa did.
@@ -47,6 +51,7 @@ D. Researchers have determined that the arrangement of Izapa's structures was ba
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main topic of the text?
 
 The excerpt below is derived from historian Margaret L. Johnson's 1903 memoir *A Diplomat’s Tales*. The speaker is recounting a diplomatic mission she undertook with Ambassador Carter and another colleague.
@@ -60,6 +65,7 @@ D. Carter primarily interacted with one particular official throughout a previou
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Adib Khorram’s 2018 novel Darius the Great Is Not Okay. Darius, a teenager from the United States, is visiting his grandparents, Babou and Mamou, in Iran. They are preparing for a holiday celebration.
@@ -77,6 +83,7 @@ D. To suggest that Babou and Mamou will visit Darius in the United States soon
 Answer: C
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is Emily Dickinson's circa 1873 poem "There is no Frigate like a Book." A Frigate is a light, fast ship; coursers are swift horses.
@@ -97,6 +104,7 @@ D. Literature can metaphorically transport people to new places regardless of th
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best describes the main idea of the text?
 
 In research conducted by Lydia T. Carter, Joshua L. Hughes, and associates, students from Montreal, Canada, and Chicago, United States, were surveyed about libraries at their universities. Of the 420 participants from Montreal, 61.2% reported that they regularly visit their university libraries, while among the 1,240 Chicago respondents, 44.9% reported using campus libraries. Since the proportion of Montreal students indicating access to alternative study spaces near libraries was significantly lower than that of Chicago respondents, the variation in library usage cannot be attributed to Montreal students having greater availability of desired alternative spaces near libraries.
@@ -109,6 +117,7 @@ D. Although the study found that a greater proportion of students use libraries 
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main topic of the text?
 
 Architect Francis Kéré, originally from Burkina Faso, is well-known for designs that creatively integrate traditional West African building methods with contemporary architectural styles, such as sustainable modernism. Architecture critics and professional peers have praised his approach for this distinctive synthesis. However, Kéré is not the sole architect merging local cultural techniques with contemporary design. For instance, Diébédo Kéré’s 2001 project, the Gando Primary School, also notably fused traditional earthen construction techniques from his home region with modern sustainable architecture.

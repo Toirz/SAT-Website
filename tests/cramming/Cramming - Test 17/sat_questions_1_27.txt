@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although modern Scandinavian art is remarkably diverse in style and medium, it is also marked by notable thematic ______; art historians have identified recurring motifs in the works of painters such as Edvard Munch and Anders Zorn that reflect the cultural and folkloric traditions of the Nordic people.
@@ -11,6 +12,7 @@ D. originality
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall’s *Four Seasons* at sites like Chase Tower to innovative street art like Kashink’s mural *Be the Change You Wish To See*located on South Wabash Avenue. The ____ public art on display in the city can thus satisfy any art lover.
@@ -23,6 +25,7 @@ D. apathy toward
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Oxford English Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For instance, one might have an intuition about the ______ of the word “day” in standard English, but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.
@@ -35,6 +38,7 @@ D. caliber
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Given that both bats and moths can perceive sound waves in their environments, the hypothesis that their auditory systems are functionally interchangeable is ultimately _____. While moths are adapted to detect the relatively loud ultrasonic clicks emitted by bats for predator avoidance, bats, in contrast, must be able to discern the far fainter echoes produced by their own calls bouncing off nearby prey for echolocation.
@@ -47,6 +51,7 @@ D. meritorious
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Dong Hoang and Els Breugelmans examined consumer reactions to product substitutions when groceries ordered online are out of stock. They found that for margarine—a product category where consumers' purchase decisions typically depend on objective criteria like price—consumers prefer substitutions from national labels to ones from private labels (store brands that often mimic national brands' packaging and ingredients). However, for potato chips—a product category where decisions tend to depend on subjective criteria like texture preferences—consumers exhibited the opposite tendency.
@@ -59,6 +64,7 @@ D. To assert that consumers' tolerance for product substitutions from certain la
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The Alan Parsons Project's 1977 album I Robot features one of a myriad of iconic album covers designed by Hipgnosis—a British avant-garde design group—from the late 1960s through the early '80s. Hipgnosis (whose work eventually became a cultural symbol in its own right) was engaged by the Alan Parsons Project and other artists seeking a departure from standard album covers featuring straightforward band portraits. Hipgnosis employed experimental photographic techniques and optic effects that resulted in surreal, conceptually rich art mirroring the mood of the music captured on the albums.
@@ -71,6 +77,7 @@ D. It refers to an album, introduces the design group responsible for the cover 
 Answer: D
 
 Question 7:
+[COE]
 According to the text, which choice most accurately describes the significance of the proportion of succulent tissue in the lotus’s stems?
 
 Bamboo and the water lily are hydrophytic species—meaning they thrive in aquatic settings—whereas the cactus and aloe are xerophytes, retaining moisture in specialized tissues to endure arid environments. Unlike hydrophytes, xerophytic plants often exhibit a noticeably large share (exceeding 30%) of succulent cells in their stems, a key adaptation for water storage. In a 2023 investigation, Dr. Helena Rodgers and her research group established that the lotus—an aquatic organism formerly viewed as entirely hydrophytic—possesses approximately 47% of these succulent tissues, thereby challenging that earlier classification.
@@ -83,6 +90,7 @@ D. On its own, this finding suffices to overturn the prior view of how the lotus
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.
@@ -95,6 +103,7 @@ D. It explains how PAs typically affect economic development in the regions wher
 Answer: C
 
 Question 9:
+[COE]
 Which statement about the mycelium of the twenty mushroom species is best supported by the text?
 
 Ellie Rose Mattoon et al. have confirmed that twenty mushroom species (including *Marasmius capillaris* and species from the genus *Cantharellus*) maintain ambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coolness was more pronounced in fruiting than in nonfruiting sites of the mycelium—a difference that persisted even after fruited bodies were detached—the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
@@ -107,6 +116,7 @@ D. Variation in thermoregulation across the mycelium may occur independent of th
 Answer: D
 
 Question 10:
+[Cross Text]
 Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
 
 Text 1
@@ -122,6 +132,7 @@ D. It must widen its focus to include aspects of modernist fiction beyond style,
 Answer: A
 
 Question 11:
+[COE]
 Which quotation from the translation of Uncle Vanya most effectively illustrates the claim?
 
 Uncle Vanya: Scenes from *Country Life in Four Acts* is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helen have come to live in their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays Vanya as feeling underappreciated by the professor, as is evident when _______ .
@@ -134,6 +145,7 @@ D. Vanya says to Professor Serebrakoff, "For twenty-five years I have managed th
 Answer: D
 
 Question 12:
+[COE]
 Which quotation from The Age of Innocence best illustrates the claim?
 
 *The Age of Innocence* is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera; in the audience is May Welland, with whom he is romantically involved. Newland visualizes the details of a future with May: ____.
@@ -146,6 +158,7 @@ D. “Already [Newland’s] imagination, leaping ahead of the engagement ring, t
 Answer: D
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to support Macqueen et al.'s conclusion?
 
 Myoglobin (Mb) Levels in the Cardiac Tissue of Three Teleost Species
@@ -160,6 +173,7 @@ D. On average, G. petersii had higher Mb levels in their cardiac tissue than 
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Ray Bradbury’s 1957 novel Dandelion Wine is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Douglas Spaulding, and those of Bradbury—but it should not be taken to mean that Dandelion Wine displays a strong fidelity to facts. Much of the novel is pure invention. Nevertheless, readers interested in understanding Bradbury as a person can gain considerable insight from the book: Dandelion Wine integrates invented material with Bradbury’s interpretations of his memories, and the novel thus ______.
@@ -172,6 +186,7 @@ D. prevents readers from identifying any real-life inspirations for its characte
 Answer: C
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 1995, the journal *Nature* published the findings of Swiss ___ who famously discovered the first exoplanet orbiting a sun-like star.
@@ -184,6 +199,7 @@ D. astronomer, Michel Mayor,
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Qhapaq Ñan, _____ over 30,000 kilometers through the rugged Andean cordillera, demonstrates the sophisticated engineering prowess of the Inca Empire.
@@ -196,6 +212,7 @@ D. stretch
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Hungary has the world’s 91st shortest constitution (15,247 words). In their 2016 analysis, political ___ presented statistical evidence that shorter constitutions correlate with higher GDPs (gross domestic products); less detailed constitutions, the scientists posit, have fewer provisions that could restrict necessary legislation during periods of economic volatility.
@@ -208,6 +225,7 @@ D. scientists, George Tsebelis and Dominic J. Nardi
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their 2021 analysis of moth populations in the Blue Ridge Mountains, ecologist Dr. Amelia Grant and her research team identified 1,432 moths representing 126 distinct species, including a single specimen of the _______ *Eudocima phalonia*, a highly uncommon species recognized by entomologists for its striking orange patterns.
@@ -220,6 +238,7 @@ D. species,
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The mathematician Emmy Noether’s groundbreaking theorem, conceptually _____ to illustrate the deep connection between symmetry and conservation laws in physics, remains a celebrated cornerstone of theoretical science.
@@ -232,6 +251,7 @@ D. serves,
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Neurobiologists recently posited that Arc protein (a crucial immediate early gene product) aggregates found within dendritic spines were likely scaffolds produced by local translation. This postulate, based on proteomic studies of synaptic fractions isolated via synaptoneurosome preparations, is corroborated by the protein primarily originating from mRNA—a transcript that, because of its ______ be rapidly translated by proximal ribosomes using extant machinery.
@@ -244,6 +264,7 @@ D. localization could-
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1900, it was little more than a marketing gimmick; brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide’s recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ its modest French eateries were replaced with some of the most esteemed restaurants from around the world, including Hajime in Osaka and Kitcho Arashiyama in Kyoto.
@@ -256,6 +277,7 @@ D. influence,
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In the early 1920s, researchers at the US Geological Survey determined the geographic center of Michigan using a simple method. First, they attached a string to the middle point of a cardboard cutout of the state and suspended it in the air. _________ they adjusted the suspension point until the cutout hung perfectly flat. Ultimately, this point was determined to be the center.
@@ -268,6 +290,7 @@ D. In other words,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Nineteenth-century poet Elizabeth Browning initially composed an early draft of her collection Sonnets from the Portuguese in 1850. In 1855, she performed a major revision, cutting 32 lines in total. ______ it originally comprised 388 lines, whereas the final published version contained only 356.
@@ -280,6 +303,7 @@ D. That is,
 Answer: D
 
 Question 24:
+[Synthesis]
 The student wants to emphasize a similarity between the Yanakie Isthmus and the Tayabas Isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -298,6 +322,7 @@ D. The Yanakie Isthmus and the Tayabas Isthmus both connect two larger pieces of
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to provide a concise explanation of how the CRISPR-Cas9 system enables targeted gene modification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -316,6 +341,7 @@ D. CRISPR-Cas9 functions by creating a gRNA-Cas9 complex that cuts a target gene
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to place Einstein's argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -334,6 +360,7 @@ D. Attendees of the 1927 Solvay Conference among whom were the era’s most bril
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

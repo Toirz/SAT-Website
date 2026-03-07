@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice most effectively relies on data from the graph to logically complete the text?
 
 Every year in Oregon, millions of dollars' worth of blueberry crops are lost because of bird damage: when crows and other pest birds peck blueberries and other kinds of fruit, they leave the fruit scarred or spoiled. Qing Chen et al. conducted an experiment in comparable areas of a pear orchard over a set period to see if an acoustic bird repeller would reduce damage. In one area, the repeller was connected to a webcam and neural network and was triggered to emit sound when the mechanism detected a nearby pest bird; in another area, the repeller emitted sound continuously; and in a control area, no repeller was installed. A comparison of the damage rates suggests that birds in the orchard likely ______.
@@ -12,6 +13,7 @@ D. started to become accustomed to the sound intended to repel them more quickly
 Answer: D
 
 Question 2:
+[COE]
 Which choice most effectively relies on data from the graph to logically complete the text?
 
 Robins and other pest birds damage fruit grown on farms by pecking it: in Oregon, millions of dollars' worth of blueberry crops are lost annually. To test whether a sonic repellent might reduce damage from bird activity, Qing Chen et al. installed sonic repellers in two areas of a pear orchard in China: in one the device emitted a constant sound, while in the other it emitted sound only when triggered by a connected webcam and neural network trained to recognize pest birds. A third area with no repeller present served as a control. The results for the three conditions most strongly suggest that ______
@@ -25,6 +27,7 @@ D. the greatest damage occurred in the control area because more pears were avai
 Answer: A
 
 Question 3:
+[COE]
 Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
 
 Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
@@ -39,6 +42,7 @@ D. Productivity loss was largely due to absenteeism for the EHP group at 12 mont
 Answer: C
 
 Question 4:
+[COE]
 Which choice best describes data from the table that most effectively weaken Pereira and colleagues' conclusion?
 
 Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
@@ -53,6 +57,7 @@ D. Productivity loss was largely due to absenteeism for the EHP group at 12 mont
 Answer: A
 
 Question 5:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
@@ -66,6 +71,7 @@ D. dogs that participants rated as friendlier were also dogs that participants i
 Answer: B
 
 Question 6:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Interested in how differences in the color of dogs' irises affect human responses to dogs, Akitsugu Konno et al. showed a series of close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Konno et al. hypothesized that a primary factor influencing a participant's desire to interact with a dog would be its perceived friendliness. This hypothesis was supported by the finding that ______.
@@ -79,6 +85,7 @@ D. dogs that participants rated as friendlier were also dogs that participants i
 Answer: D
 
 Question 7:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
@@ -93,6 +100,7 @@ D. differences in dogs’ pupil size may elicit a stronger response in humans th
 Answer: C
 
 Question 8:
+[COE]
 Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?
 
 Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.
@@ -106,6 +114,7 @@ D. In early 2019, unusually heavy rains washed excessive nutrients into the bay,
 Answer: D
 
 Question 9:
+[COE]
 Which statement, if true, would account for data shown in the graph and would illustrate the point made in the passage?
 
 Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. An analysis of seagrass populations from 2012 to 2018 suggests that the expansion of widgeon grass was the main driver of the corresponding growth in the bay's total seagrass coverage. The data supports this conclusion by showing that ______.
@@ -119,6 +128,7 @@ D. In early 2019, unusually heavy rains washed excessive nutrients into the bay,
 Answer: C
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 High-entropy alloys (HEAs) have been observed to have greater fracture toughness—greater resistance to crack propagation—than conventional alloys. It has been proposed that fracture toughness increases with the proportion of an HEA consisting of cobalt, but data on HEAs compiled by engineer Xuesong Fan show that this is not the case; for example, ______.

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The National Heritage Fellowship was created to ______ exceptional folk and traditional artists in the United States. One artist who received the fellowship, the Mexican American rodeo tailor Manuel Cuevas, was chosen for his lifetime contributions to the arts.
@@ -10,6 +11,7 @@ D. honor
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Brooklyn. The program's performance was ______ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between cobblestone and brick.
@@ -21,6 +23,7 @@ D. changed
 Answer: A
 
 Question 3:
+[WIC]
 As used in the text, what does the word "good" most nearly mean?
 
 The following text is from Charles Chesnutt's 1905 novel *The Colonel's Dream*. Mr. French and Mr. Kirby work together.
@@ -34,6 +37,7 @@ D. Reliable
 Answer: B
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Often, the Nobel Prize in Chemistry is given to a single person, such as George de Hevesy in 1943. But recognition isn't restricted to ______ individuals. Instead, success in fields like chemistry is usually achieved through collaboration with other experts, as was the case for Max Ferdinand Perutz, who was among those awarded for "their studies of the structures of globular proteins."
@@ -45,6 +49,7 @@ D. coincidental
 Answer: A
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apollo Moon landings (1969-1972) brought atmospheric sensors and soil sensors to the Moon and produced large amounts of data, much of which was stored on outdated technologies. A data-transfer project is making the data available again, thereby ______ the Apollo data's usefulness, as the data are used to study the geology of the Moon.
@@ -56,6 +61,7 @@ D. exceeding
 Answer: C
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Any effort to raise the toll that drivers must pay to use the Lewiston-Queenston Bridge, which spans the Niagara River to connect New York State and Ontario, Canada, should explain why a higher toll is necessary; no amount of justification, however, is likely to persuade some drivers who believe the current toll is ______.
@@ -67,6 +73,7 @@ D. contentious
 Answer: B
 
 Question 7:
+[Cross Text]
 Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
 
 **Text 1**
@@ -82,6 +89,7 @@ D. The benefits of being named a City of Gastronomy extend well beyond tourism.
 Answer: B
 
 Question 8:
+[COE]
 The text makes which point about Hoocąk?
 
 In Hoocąk, an Indigenous language from the Midwest region of what is now the United States, *zi* means "yellow," whereas *zizi* means "yellow in spots." This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the entire word *zi* gets repeated in *zizi*. There are many examples of this type of reduplication in Hoocąk.
@@ -93,6 +101,7 @@ D. It has a wide variety of reduplicated words and phrases that mean "yellow."
 Answer: C
 
 Question 9:
+[COE]
 Based on the text, what do the essays "Concerning Dangers from Dissensions between the States" and "The Senate" have in common?
 
 The Federalist Papers are a collection of 85 essays written by Alexander Hamilton, John Jay, and James Madison. Their publication (under a single pen name) was divided among the *Daily Advertiser* and other New York newspapers in 1787-88. The essays argue that New Yorkers should vote to ratify the proposed United States Constitution. Though the authorship of most of the individual essays is certain, that of a few is in question: for instance, while No. 6, "Concerning Dangers from Dissensions between the States," was surely penned by Hamilton, No. 62, "The Senate," may have been written by either Hamilton or Madison.
@@ -104,6 +113,7 @@ D. They were both published in the *Daily Advertiser*.
 Answer: B
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 A student is using the graph for a class presentation on historic employment trends in the agriculture, hunting, and forestry sectors in two European countries. The student notes that from 1995 to 2007 ______
@@ -115,6 +125,7 @@ D. the number of employees working in these sectors increased in the Czech Repub
 Answer: B
 
 Question 11:
+[COE]
 Which choice best describes information from the table that supports the student's claim?
 
 A student is researching volcanoes in Ecuador. The student claims that Ecuador is home to several different types of volcanoes.
@@ -126,6 +137,7 @@ D. Wolf and Tungurahua are both shield volcanoes, whereas Imbabura and Chacana a
 Answer: A
 
 Question 12:
+[COE]
 Which quotation from *Memoirs of Elleanor Eldridge* most effectively illustrates the claim?
 
 *Memoirs of Elleanor Eldridge* is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors assert that all people naturally have an emotional attachment to where they live, writing, ______
@@ -137,6 +149,7 @@ D. "Home is home, to the lowly as well as the great; and no rank, or color, dest
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks malapua and puri bhaji, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process ______
@@ -148,6 +161,7 @@ D. will have a higher temperature after frying is completed than sections that l
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Ants and aphids are known to be mutualistic: ants feed on the honeydew produced by aphids, while aphids benefit from ants' protection against predators. If aphid colonies—which generally require relatively stable surfaces, such as trees or other woody plants, to thrive—are too small to produce significant volumes of honeydew, however, ants will prey on aphids. Researcher Tae-Sung Kwon examined ant and aphid abundance in two habitats in South Korea, one on the mainland and one on Jeju Island. Though the habitats differed in some important respects, both were predominantly grassland, which could help explain why Kwon observed ______
@@ -159,6 +173,7 @@ D. diminished ant and aphid abundance on the mainland compared to that on the is
 Answer: C
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Museo del Autonomismo Puertorriqueño is a history museum in Ponce, Puerto Rico. It's one of more than eighty museums in the US territory. Puerto Rico's ______ showcase everything from the territory's history to its architecture to its coffee.
@@ -170,6 +185,7 @@ D. museums—
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 *Creek Council Tree* (1967) and *Cimarron Iron Bridge* (1972) are two oil landscape paintings by renowned Pawnee Nation artist Brummett Echohawk. In 2023, ______ displayed alongside other works by Echohawk at the student-curated exhibition *Brummett Echohawk: An Artist's Journey* at the Oklahoma State University Museum of Art.
@@ -181,6 +197,7 @@ D. some were
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the 1980s, Latino filmmakers Luis Valdez, Gregory Nava, and Ramón Menéndez helped expand on-screen representation of Latino Americans with the films *Zoot Suit* ______ and *Stand and Deliver* (1988), respectively.
@@ -192,6 +209,7 @@ D. (1981), *El Norte* (1983),
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Olga Tokarczuk of Poland won it; George Bernard Shaw of Ireland won it, too. These are just two examples of the wide range of writers to be granted what is arguably the most prestigious ______ the Nobel Prize in Literature.
@@ -203,6 +221,7 @@ D. award for a person of letters:
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Grootbos florilegium in South Africa contains a collection of botanical paintings, with each painting depicting a local plant species in exquisite detail. The florilegium includes a vignette painting by contributing artist Sibonelo Chiliza. Unlike most paintings in the florilegium, ______
@@ -214,6 +233,7 @@ D. Chiliza's vignette contextualizes a plant within an ecosystem.
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For scientists to produce new iron nanoparticles of a specific size or strength, they must first be able to monitor reactions between oxygen and existing iron nanoparticles at a near-atomic level of detail. Fortunately, chemistry ______ and his colleagues at Temple University recently developed a new approach that does just that.
@@ -225,6 +245,7 @@ D. professor, Yugang Sun,
 Answer: A
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Topographical prominence is a measure of a mountain's independence from other mountains. Having 11,486 feet of prominence, ______
@@ -236,6 +257,7 @@ D. the ranking given by geographers to Mount Hayes, a peak located in the United
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Analyses of Rembrandt's seventeenth-century painting *The Night Watch*, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, ______ just an extension of the stylings of the Renaissance era.
@@ -247,6 +269,7 @@ D. nevertheless,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Physicist Walter Massey led numerous scientific organizations over his long career. His most prominent appointment came in 1990, when Massey was named director of the National Science Foundation. ______ Massey had served as the first president of the National Society of Black Physicists.
@@ -258,6 +281,7 @@ D. For example,
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to explain how soap removes a surface contaminant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -275,6 +299,7 @@ D. Dirt, an example of a hydrophobic surface contaminant, can be removed from a 
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -293,6 +318,7 @@ D. After tasting two types of brown seaweed, sea palm and bull kelp, participant
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -311,6 +337,7 @@ D. The clay mug (*isht ishko*) was made in 1915.
 Answer: C
 
 Question 27:
+[Synthesis]
 The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

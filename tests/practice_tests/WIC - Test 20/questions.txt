@@ -1,4 +1,5 @@
 Question 30:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it _______ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or asphalt. Hosseini believes the program will improve on this already-strong performance as it gets used more.
@@ -11,6 +12,7 @@ D. clumsily
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Smart watches and wireless speakers tend to rely on batteries that can't be easily taken out and swapped for new ones. Environmental policy researcher Jessika Richter warns that because these gadgets can't ___ without working batteries, once the batteries stop working, the devices are typically disposed of as trash.
@@ -23,6 +25,7 @@ D. function
 Answer: D
 
 Question 240:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Contesting claims that the massive increase in patents in recent decades has been ______ a rise in technological innovation, Yuen Yuen Ang et al. show that truly novel patents—those, like a 2004 patent for a robot with flexible structures, that combine previously unaffiliated technological domains—have been vastly outnumbered by nonnovel patents (e.g., a 2011 patent for a mobile-phone holder).
@@ -35,6 +38,7 @@ D. tantamount to
 Answer: D
 
 Question 65:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Portable video game consoles and wireless speakers tend to contain batteries that can't be easily _______. Environmental policy researcher Jessica Richter warns that because new batteries can't be put in once the old ones no longer work, the gadgets stop functioning and are usually disposed of as trash.
@@ -47,6 +51,7 @@ D. replaced
 Answer: D
 
 Question 136:
+[WIC]
 As used in the text, what does the phrase “reaching across to” most nearly mean?
 
 The following text is adapted from Elizabeth von Arnim's 1922 novel The Enchanted April. Mrs. Wilkins and her friend Rose are traveling in Italy.
@@ -60,6 +65,7 @@ D. Arriving at
 Answer: C
 
 Question 274:
+[COE]
 Which choice completes the text with most logical and precise word or phrase?
 
 Excavating a dilophosaur fossil is a ______ process, since it can take weeks or even months of hard, physically tiring work to clear away the dirt and rock covering the specimen.
@@ -72,6 +78,7 @@ D. arduous
 Answer: D
 
 Question 256:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Whether the reign of a French monarch such as Louis XII or Louis IV was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to _____ his right to hold the throne successfully.
@@ -84,6 +91,7 @@ D. disengage
 Answer: A
 
 Question 99:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Boston and used it on images of Brooklyn. The program’s performance was ______ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between concrete and brick.
@@ -96,6 +104,7 @@ D. supportive
 Answer: B
 
 Question 268:
+[WIC]
 As used in the text, what does the phrase “concern myself with” most nearly mean?
 
 The following text is from Rudolfo Anaya’s 1972 novel Bless Me, Ultima. The young narrator is eating breakfast with his two sisters in their home in rural New Mexico.
@@ -110,6 +119,7 @@ D. Care about
 Answer: D
 
 Question 109:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Richard Kindersley's sculpture The Seven Ages of Man) to popular music (such as the band Supergrass's song "Richard II").
@@ -122,6 +132,7 @@ D. subtle
 Answer: B
 
 Question 41:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Whether the reign of a French monarch such as Louis VI or Louis Philippe I was considered historically significant or, conversely, relatively _____ its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to assert a claim to the throne successfully.
@@ -134,6 +145,7 @@ D. momentous
 Answer: A
 
 Question 40:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A number of recording artists _____ Indigenous music with other musical styles. Inuit singer-songwriter Tanya Tagaq masterfully incorporated Inuit throat singing into electronic music on her album Tongues. Similarly, Algonquin singer-songwriter Laura Niquay combined powwow music with folk-rock on her album Waska Matisiwin.
@@ -146,6 +158,7 @@ D. blended
 Answer: D
 
 Question 29:
+[WIC]
 As used in the text, what does the word "wander" most nearly mean?
 
 The following text is from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.
@@ -159,6 +172,7 @@ D. Walk
 Answer: D
 
 Question 287:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 James Cook's work documenting plant life from around the world with high scientific value. His genuine philosophy was practical, undoubtedly accomplished much, but to people's memories in our historical memory, there is little that can _______ being the first to circumnavigate, for example, people will always remember that Jean Batten was the first person to fly between England and New Zealand solo.
@@ -171,6 +185,7 @@ D. prevail over
 Answer: D
 
 Question 24:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the town of Stone Ridge, Maryland, and the 18th-century forestry magnate Guillermo Garcia, persisted on the site for many years before they were finally recognized as ___ and deleted.
@@ -183,6 +198,7 @@ D. revelations
 Answer: B
 
 Question 127:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Research on *Chaenocephalus aceratus* and other icefishes of the Telcostei class has shown that their hearts are pale due to low levels of myoglobin expression, which was once thought to be related to their polar habitats. Recently, researchers have found that some tropical teleost species (such as _Amblyeleotris wheeleri_) also have pale hearts, raising the possibility that myoglobin deficiency in teleosts could be ______ habitat.
@@ -195,6 +211,7 @@ D. irrespective of
 Answer: D
 
 Question 131:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 MetOpA and other data sets of plants' solar-induced chlorophyll fluorescence (a photosynthesis by-product) are derived from remote-sensor input that is highly sensitive to the first signs of photosynthesis decline, allowing scientists to detect ecosystem-wide plant stress caused by drought when such stress is **______** and not yet reflected in vegetation indices, like the Normalized Difference Vegetation Index.
@@ -207,6 +224,7 @@ D. profuse
 Answer: C
 
 Question 169:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Certain features are almost always included in the designs of mosques, like the ablution (ritual cleansing) area, which is considered to be a ______ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Al-Masjid an-Nabawi, which incorporates elements from the Islamic, Ottoman, and Mamluk revivalist styles, will also include several of these standard features.
@@ -219,6 +237,7 @@ D. duplicate
 Answer: B
 
 Question 190:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Certain features are almost always included in the designs of mosques, like the minaret (or tower), which is considered to be a ____ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Shah Jahan Mosque, which incorporates elements from the Mughal, Safavid, and Timurid styles, will also include several of these standard features.
@@ -231,6 +250,7 @@ D. Duplicate
 Answer: A
 
 Question 233:
+[WIC]
 As used in the text, what does the word “end” most nearly mean?
 
 The following text is adapted from Jhumpa Lahiri’s 2003 novel The Namesake. Gogol has recently begun working at an architecture firm in New York.

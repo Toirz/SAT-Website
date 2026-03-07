@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Jane Goodall has argued that inconsistent government commitments to reforestation ______ efforts to mitigate the effects of climate change on chimpanzees in Tanzania and other African countries, as temporary gains are often reversed by subsequent inaction, undermining long-term population stability.
@@ -11,6 +12,7 @@ D. hamstring
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Run by researchers in Australia, the Australian Longitudinal Study on Women's Health (ALSWH) is an examination of women's health that has attempted to track approximately 50,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of _______ : over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.
@@ -23,6 +25,7 @@ D. circumspection
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Given that healthy genetic diversity supports honey bee population robustness—a matter of public interest given the bees’ crucial role as pollinators of many crops, such as watermelon—a study revealing a ______ of diversity among US honey bees raised concern, though it also noted the potential to enhance the number of bees carrying several newly discovered genetic variants (e.g., C3-567-USA).
@@ -35,6 +38,7 @@ D. redundancy
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of P. seppenradensis from Montana and Parapuzosia leptophylla (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.
@@ -47,6 +51,7 @@ D. It notes the discovery of a new ammonite species and then remarks on the impo
 Answer: B
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 __Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.__ While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Enterococcus cecorum and Lactobacillus curvatus—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
@@ -59,6 +64,7 @@ D. It proposes a direction for future research into a biological phenomenon.
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Nathaniel Hawthorne's 1830 short story "Sir William Phips":
@@ -72,6 +78,7 @@ D. Paintings may be more beautiful than maps, but maps are more useful than pain
 Answer: C
 
 Question 7:
+[COE]
 Which choice most effectively uses data from the graph to complete the text?
 
 Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they’re in the water, they get almost none. In a study of fur seals’ sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study ______
@@ -85,6 +92,7 @@ D. showed no significant difference between REM sleep after returning to land an
 Answer: C
 
 Question 8:
+[Infer]
 Which choice most logically completes the text?
 
 Paleontologist Amelia Drake and her colleagues analyzed a fossilized bird skeleton unearthed in 1995 at an ancient settlement site in northern Australia, where tools like stone blades were also found. The team identified the bird as *Corvus antiquus*, an extinct species similar to a crow, and radiocarbon dating revealed that the bird coexisted with human inhabitants of the site. Interestingly, while wild crows typically consume only meat, isotopic analysis of the fossil’s beak showed that its diet included plant-based foods, much like the diet of the humans. As a result, Drake and her team concluded that _____.
@@ -97,6 +105,7 @@ D. the humans who lived alongside the bird likely used the stone blades found at
 Answer: C
 
 Question 9:
+[COE]
 Which finding, if true, would provide evidence that the possibility Grasby et al. investigated does occur?
 
 The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -109,6 +118,7 @@ D. Consumers’ ratings and the changes in probability calculated by the researc
 Answer: B
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 US Hydroelectric Power Plants, 2019
@@ -123,6 +133,7 @@ D. highest average power generated annually in the table is by a run-of-river pl
 Answer: B
 
 Question 11:
+[COE]
 Which choice best describes data from the graph that support the student’s claim?
 
 In a college course on urban affairs, a student asserts that increased traffic congestion in the United States in the 1990s was present both in very large cities such as Philadelphia, Pennsylvania, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Anchorage, Alaska; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.
@@ -136,6 +147,7 @@ D. In 1992, the amount of traffic delay in the Philadelphia, Pennsylvania, area 
 Answer: A
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
@@ -150,6 +162,7 @@ D. the average male wing centroid size was smaller in May than in July.
 Answer: D
 
 Question 13:
+[COE]
 Which quotation from The Monster most effectively illustrates the claim?
 
 *The Monster* is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim's energy and his distracted absorption in his play by writing, _______ .
@@ -162,6 +175,7 @@ D. "Little Jim was, for the time, engine Number 36, and he was making the run be
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that certain similarities in behavior between breeds correspond to genetic similarities between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both dog rivalry and energy but was especially pronounced for chasing, which can be seen when a dog pursues small animals like birds or squirrels. A different study found that the French bulldog and the bullmastiff breeds exhibit similar chasing behavior, suggesting that ______.
@@ -174,6 +188,7 @@ D. the two breeds will likely become less genetically similar over time.
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In an analysis of medieval urbanization in Coventry, Macon, and other European settlements, researchers dive on modern urban scaling theory, which posits that population density in core urban areas decreases as a city grows. They hypothesized that this typical pattern might not have held in medieval settlements because of the constraining influence of strict hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drives of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that _____.
@@ -186,6 +201,7 @@ D. the social and economic dynamics that affect urban agglomeration were likely 
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The "rational actor" model in classical economics posits that individuals consistently make decisions to maximize utility, creating efficient markets. However, behavioral economists have identified systematic deviations from this logic in volatile financial environments ______ speculative bubbles often persist despite contradictory data, effectively challenging the premise of self-correcting equilibrium.
@@ -198,6 +214,7 @@ D. environments, though,
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Sashimi is the name of a Martian rock. ______ identified by NASA's Spirit rover, which first touched down on Mars in 2004.
@@ -210,6 +227,7 @@ D. Those were
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The 2015 scholarly compendium on Astrobiological Engineering was composed by Dr. Selena Moritz. When the manuscript was initially circulated, numerous reviewers were unaware that Moritz was the ______ codename that appeared on the compendium’s cover—“E. Cartwright”— concealed the researcher’s genuine identity.
@@ -222,6 +240,7 @@ D. author, though the
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Among the world’s largest deserts are the Great Basin Desert, ranked _______ and the Atacama Desert, ranked twenty-sixth.
@@ -234,6 +253,7 @@ D. tenth in size the Namib Desert, ranked twenty-third
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Star actress Kiki Omeili, who has appeared in 47 Nollywood films, is one of numerous luminaries to be pictured in Nigerian portraitist like Udé’s exhibition Nollywood Portraits. ______ referred to Nollywood—Nigeria’s $3 billion film industry—as “Africa’s vivid mirror par excellence,” honors its legacy with his vivid classical portraits of Omeili and her peers.
@@ -246,6 +266,7 @@ D. Udé has
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 F. Julius LeMoyne was an outspoken abolitionist whose Pennsylvania home was a stop on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). It was relatively rare for supporters of the railroad to be secretive about their antislavery views. _____ they were vocal abolitionists like LeMoyne.
@@ -258,6 +279,7 @@ D. For example,
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Much like Tennessee designates a state flower, tree, and bird, it also has a state soil known as Dickson soil. Dickson is an apt selection for state soil, largely due to its widespread presence throughout the state. _____ Dickson soil holds significance in Tennessee’s agricultural sector as it plays a vital role in cultivating various crops, including com and soybeans.
@@ -270,6 +292,7 @@ D. Additionally,
 Answer: D
 
 Question 23:
+[COE]
 Which option most logically completes the text?
 
 On April 12, 1981, NASA celebrated the first successful mission of the Space Shuttle program with a public ceremony in Washington, D.C. This event was only one among many celebrations recognizing achievements in space exploration. ____ from 1961 to 2020, Washington, D.C. hosted eighteen major public ceremonies honoring American astronauts.
@@ -282,6 +305,7 @@ D. In sum,
 Answer: D
 
 Question 24:
+[COE]
 The student wants to explain the principle summarized by the phrase “survival of the fittest.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -299,6 +323,7 @@ D. An organism's traits and its environment are two elements of the biological p
 Answer: A
 
 Question 25:
+[Synthesis]
 The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
 
 While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
@@ -316,6 +341,7 @@ D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 p
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to describe how Martinez’s paintings integrate Zapotec and modern artistic traditions. Which option most effectively uses relevant details from the notes to achieve this objective?
 
 While researching a topic, a student compiled the following notes:
@@ -332,6 +358,7 @@ D. Martinez uses distinct methods to integrate contemporary abstract techniques 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to provide an overview of the matsutake commodity chain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

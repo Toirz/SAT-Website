@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Exposed to harsh environmental conditions for centuries, lighthouses such as La Jument lighthouse off the coast of Brittany, France, exemplify the ______ between marine structures and ocean forces: the continuous impact of breaking waves necessitates periodic reinforcements to or redesigns of the structures that in turn may alter local wave patterns.
@@ -11,6 +12,7 @@ D. continuum
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 ______ the mythological and heroic subject matter often found in works by Horace Vernet and other establishment figures, Honoré Daumier’s painting The Third-Class Carriage instead focuses on something decidedly mundane: working-class travelers in a third-class railway car.
@@ -23,6 +25,7 @@ D. Appraising
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though copies of The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989—an underground computer game that was created anonymously in 1989 as an act of political protest against the authoritarian regime of what was then Czechoslovakia—were originally distributed ______ the game is now readily available online for anyone to play.
@@ -35,6 +38,7 @@ D. succinctly
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), James Mickley et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on Catocala ilia, a specialist feeding on a limited number of plant species, than on a species like Achatia distincta that feeds on several.
@@ -47,6 +51,7 @@ D. subsumes
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Establishing protected areas (PAs), such as the Mamanuca Islands in Fiji, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Hasita Bhammar et al. found that tourism associated with the Mamanuca Islands boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from retail in nearby areas.
@@ -59,6 +64,7 @@ D. It states a hypothesis that accounts for why PAs generally negatively impact 
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Typically, synthetic leather is petroleum based, but materials scientists searching for an ecologically sustainable alternative have used various bacteria that secrete linear chains of glucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in color. The standard process for dyeing leather generates substantial wastewater and other undesirable byproducts, so __adopting such a regimen would run counter to the ecological promise of the pellicle approach.__ To address this, Kenneth T. Walker and colleagues worked to modify Komagataelbacter rhaeticus bacteria to produce a pellicle with embedded pigmentation cells, thereby allowing the pellicle to “dye” itself from the inside.
@@ -71,6 +77,7 @@ D. To describe a consideration that led the researchers to employ an alternative
 Answer: D
 
 Question 7:
+[Cross Text]
 Which choice best describes the relationship between the two texts?
 
 Text 1: Mooseberry (Viburnum edule) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (Polygonum aviculare) plants have established themselves in Alaska. Previous research conducted in non-boreal ecosystems has documented warming-induced increases in summer temperatures benefiting invasive species more than native species.
@@ -84,6 +91,7 @@ D. Text 2 discusses an observation that challenges the validity of the findings 
 Answer: C
 
 Question 8:
+[COE]
 Information in the text best supports which statement about Azara’s night monkeys?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which W.J. Cresswell and Stephen Harris found to be negatively associated with foraging by European badgers but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the badgers.
@@ -96,6 +104,7 @@ D. If increased lunar intensity creates any disadvantages for the monkeys, those
 Answer: D
 
 Question 9:
+[COE]
 Which choice best describes data in the table that support the city planner’s conclusion?
 
 Ranking of Environmental and Sociocultural Benefits of Urban Agriculture (scale of 1 to 25; 1 = highest)
@@ -110,6 +119,7 @@ D. The improvement of social cohesion was ranked higher for project leaders than
 Answer: C
 
 Question 10:
+[COE]
 Which choice best presents a conclusion about the habits of New Year’s resolution makers that is best supported by information in the text and the table?
 
 A Pew Research Center survey conducted in January 2024 found that three out of ten US adults make at least one New Year’s resolution (a promise for the year ahead), while half of those who make a resolution make more than one. The survey asked participants what kinds of resolutions they made and separated them into several categories. The table presents percentages of people who make particular kinds of New Year’s resolutions among those who choose to make them, indexed by age bracket.
@@ -124,6 +134,7 @@ D. Resolution makers between the ages of 50 and 64 are more likely to make resol
 Answer: D
 
 Question 11:
+[COE]
 Which quotation from Richard II most effectively illustrates the claim?
 
 Richard II is a play from the 1590s by William Shakespeare. Although King Richard has been vanquished by his cousin Henry Bolingbroke, he intimates that he is not entirely ready to show subservience to his cousin, saying, _____
@@ -136,6 +147,7 @@ D. “Alack, why am I sent for to a king, / Before I have shook off the regal th
 Answer: D
 
 Question 12:
+[COE]
 Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
 
 Scholars cite Men of Maize, the 1949 novel by Guatemalan author Miguel Ángel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the spiritual and narrative traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors in the United States, including Susan Power, __whose 1994 novel The Grass Dancer resembles classic magical realist novels in its juxtaposition of literary realism with long-established cultural traditions—namely, those of the Dakota people of the northern plains.__
@@ -148,6 +160,7 @@ D. "Much of the interest of The Grass Dancer derives from the productive tension
 Answer: B
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 While mammals collectively exhibit the highest ratio of brain size to body size among vertebrates, a team led by paleontologist Ornella Bertrand demonstrates that for ten million years following the extinction of dinosaurs, that ratio in fact shrank for mammals as they evolved to fill newly vacated ecological niches and their bodies increased in size more rapidly than their brains. Competition for resources tends to favor intelligence and thus large, complex brains, but during this period, the abundance of resources relative to mammalian population numbers likely moderated competition and facilitated an increase in body size. Bertrand and her team reason that as population numbers swelled, competition intensified, creating conditions that ______
@@ -160,6 +173,7 @@ D. heightened the advantage that large body size conferred on mammals in certain
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Duckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vámos and colleagues collected samples of four duckweed ecotypes (genetically and geographically distinct populations within a species), along with water from each ecotype’s habitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants, the researchers grew each ecotype in all four water samples and with three levels of zinc (none, low, high). (The researchers did not replicate local differences in light or temperature.) They found that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration, suggesting that ______.
@@ -172,6 +186,7 @@ D. although the researchers’ hypothesis does not appear to be supported, this 
 Answer: B
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Enacted in 1991, Latvia’s 4,917-word constitution, in contrast to Chile’s, which was enacted in 1980 and contains a far greater number (25,821) of words, ______ as the 4th shortest in the world. Such data are studied by constitutional scholars like Dominic J. Nardi, who can use them to draw broader conclusions.
@@ -184,6 +199,7 @@ D. are ranking
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun’s surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715—now known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.
@@ -196,6 +212,7 @@ D. Minimum, when
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To British musician Jacob Collier, substituting the II chord for the bvii chord—its opposite in pitch and tone—adds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ______ in 1985, the idea was first articulated in Swiss musicologist Ernst Levy’s posthumously published book A Theory of Harmony.
@@ -208,6 +225,7 @@ D. Collier; though,
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The statement “all tarantulas are venomous” is scientific because it could be proved false by a single observation to the contrary, according to Karl Popper. Popper’s theory ______ that scientific hypotheses must be refutable, termed the criterion of falsifiability, rejects the confirmationist position that uses verifiability as the standard for scientific hypotheses.
@@ -220,6 +238,7 @@ D. dictates
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Novelist and playwright Mary Russell Mitford joined with 55 other prominent British writers in 1837 to petition the US Congress for greater copyright protections. This cadre of renowned ______ that American publishers’ appropriation of their work caused, in the words of the petition, “deep and extensive injuries…on their reputation and property,” helped sow the seeds for the International Copyright Act of 1891.
@@ -232,6 +251,7 @@ D. authors were asserting
 Answer: B
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Provolone Valpadana from Trentino-Alto Adige and Ragusano from Sicily, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.
@@ -244,6 +264,7 @@ D. then,
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the broad gauge Victorian Goldfields Railway line in Victoria couldn’t travel on the Hotham Valley Railway in Western Australia, which used narrow gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the “mixed gauge muddle.”
@@ -256,6 +277,7 @@ D. Likewise,
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When ordering the branches of the Yukon River system, cartographers tend to begin with the riverway's lowest point, the Yukon River. ______ hydrologists begin at the top of the river system, with the Iditarod River and other tributaries fed by the riverway's source, Alaska's Llewellyn Glacier.
@@ -268,6 +290,7 @@ D. In other words,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Charles Demuth's 1931 painting Chimney and Water Tower is a classic Precisionist work. The Precisionists strove for cold, machine-like perfection, with crisp lines, geometric shapes, and smooth, brushstroke-free surfaces. ______ Precisionist works often feature skyscrapers, bridges, and factories, highlighting these angular structures' engineered symmetry.
@@ -280,6 +303,7 @@ D. In the end,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. Ischia in Italy, for example, is a complex volcano, a mixed landform consisting of related volcanic centers and their associated lava flows and pyroclastic rock. Mount Vsevidof in Alaska, ______ is a stratovolcano, a conical volcano built up by many layers of hardened lava and tephra.
@@ -292,6 +316,7 @@ D. in conclusion,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to provide a historical overview of the Shackleton expedition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -310,6 +335,7 @@ D. Shackleton’s expedition has inspired a 1959 book, a 2001 film, and a 2022 d
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to support Browner’s claim about Louis Ballard’s compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -326,6 +352,7 @@ D. Browner posits that Louis Ballard’s compositions rely on elements originati
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 It can be inferred from the passage that Schatz would most likely agree with which of the following about the intellectuals mentioned in the passage?
 
 Before its reassessment by film historians in the 1980s, the Hollywood studio system of the 1930s and 40s was largely seen by contemporary intellectuals as a factory for formulaic escapism—a creatively bankrupt, commercialized purveyor of standardized entertainment. Later analyses of the studio era, however, highlight its capacity for social commentary, particularly the subtle critiques of capitalism embedded in many genre films. The reconciliation of these films' subversive undercurrents with their adherence to strict genre conventions and production codes has been a challenge for scholars. Seeking to explain this paradox, scholar Jeanine Basinger argues that filmmakers strategically used conventional genres as a "smokescreen" to conceal critical messages from studio heads and censors. An alternative interpretation is offered by Thomas Schatz, who suggests that the genre system itself could foster socially significant, not just conformist, results by tapping into collective cultural anxieties and channeling them into cathartic narratives that implicitly questioned the status quo.
@@ -10,6 +11,7 @@ D. They incorrectly presuppose that a formulaic or commercial framework is inher
 Answer: D
 
 Question 2:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows how reductive this model is, however: __although income of course constrained fuel choice__, several circumstances, including the local availability of different fuel sources, influenced decisions.
@@ -21,6 +23,7 @@ D. It concedes that a finding may not appear to support the main view that the t
 Answer: C
 
 Question 3:
+[COE]
 Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
@@ -32,6 +35,7 @@ D. During periods of high lunar intensity, Azara’s night monkeys increase thei
 Answer: C
 
 Question 4:
+[COE]
 The passage indicates which of the following as a reason for the traditional separate analysis of Italian Renaissance artistic centers by historians?
 
 During the 15th and 16th centuries, Italian Renaissance art was dominated by three major centers of artistic production: Florence, Rome, and Venice, which employed a significant number of the era's artists. An analysis of these artistic hubs has been traditionally conducted separately by art historians, a result of their high degree of diversity in style, patronage, and technique. However, a unifying influence across all three hubs was the rediscovery of classical antiquity, which profoundly shaped artistic practice. Based on this shared foundation, historian Alistair Finch posits that an integrated examination of these three centers is necessary. Such a holistic approach, Finch contends, would enable the identification of pan-Italian artistic trends that may have shaped the Renaissance art world as a whole.
@@ -43,6 +47,7 @@ D. variations in artistic techniques among the three major centers
 Answer: D
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Established knowledge of prehistoric societies primarily stems from analysis of durable historical artifacts, including stone tools, but Mercedes Murillo-Barroso and team have contributed new insights with a unique analysis of plant-based items. Plant-based artifacts, including straw baskets, are seldom studied due to their perishable nature. __This relative scarcity__ made it all the more exciting when the team examined remains of well-preserved organic artifacts discovered in a cave in Spain and determined that they dated even further back than previously thought.
@@ -54,6 +59,7 @@ D. It refers to a challenging situation presented earlier in the text.
 Answer: D
 
 Question 6:
+[COE]
 Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
 
 The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.
@@ -65,6 +71,7 @@ D. “When Dorothy stood in the doorway and looked around, she could see nothing
 Answer: C
 
 Question 7:
+[COE]
 Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
 
 Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor’s daughter from a previous marriage. Chekhov portrays the relationship between Vanya and Professor Serebrakoff as being much more strained than it once was, as is evident when _____.
@@ -76,6 +83,7 @@ D. Professor Serebrakoff says to Helena, “It is funny that everybody listens t
 Answer: C
 
 Question 8:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Armando Palacio Valdés's short story *“The Love of Clotilde,”* originally published in Spanish in 1884. In the story, Don Jerónimo is a financial supporter of artists in the theater.
@@ -88,6 +96,7 @@ D. It explains Don Jerónimo’s view of the quality of theatrical works of the 
 Answer: C
 
 Question 9:
+[COE]
 The text suggests that the narrator's initial perception of Mr. Holloway, upon starting his employment, was that of a
 
 This excerpt is from Diana Miller's novel, The Apprentice, first released in 2001.
@@ -100,6 +109,7 @@ D. rigorous guide.
 Answer: B
 
 Question 10:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Historical consensus holds that the great pyramids of Egypt were constructed by massive crews of enslaved laborers, a narrative popularized by ancient historians and later reinforced in popular culture. __Nevertheless, a reexamination of archaeological findings indicates that a paid, skilled workforce was likely responsible for this monumental feat__: excavations near the pyramids have unearthed settlements with evidence of well-fed workers who received medical care, and detailed administrative records documenting rations have also been found. Without this organized labor force, the precision engineering of the pyramids would have been nearly impossible, and the society required to support the project would have been fundamentally different.

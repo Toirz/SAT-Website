@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Often, the Nobel Prize in Chemistry is given to a single person, such as Richard Martin Willstätter in 1915. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ____. For instance, in 2020, Jennifer Doudna was among those awarded for “the development of a method for genome editing.”
@@ -12,6 +13,7 @@ Answer: C
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Originating in the traditional stories of the *Kanaka Maoli*, the Native Hawaiian people, the literature of Hawaii has a rich history that was later brought to international prominence by writers such as Mary Kawena Pukui. Now, by producing acclaimed works, Eric Chock has ___ his place in that literary tradition.
@@ -25,6 +27,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some pieces of music might have an infinite number of possible meanings—the compositions of Phyllis Fergus might be understood in as many ways as there are people to listen to them—and so as long as the evidence a listener uses to support an interpretation is ___, it is difficult to the claim that the interpretation is incorrect.
@@ -38,6 +41,7 @@ Answer: D
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Brazilian artist Camila Rosa started her career with a female street art collective called Colectivo Chá. Rosa says that her artistic style has been ______ by her time in the group and her interest in things like punk rock and political movements. Those inspirations can be seen in her artworks’ references to identity and social justice.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria *Carnobacterium viridans* and *Moraxella caviae*—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought__.
@@ -64,6 +69,7 @@ Answer: C
 
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 In Nimipuutimit, an Indigenous language from the interior Northwest region of what is now the United States, *pit’iin’* means “girl,” whereas *pi-pit’in’* is used to refer to two or more girls. __This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication.__ In this case, the element “*pi”* in *pit’iin’* gets repeated in *pi-pit’in’.* There are many examples of this type of reduplication in Nimipuutimit.
@@ -77,6 +83,7 @@ Answer: D
 
 
 Question 7:
+[Cross Text]
 Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
 
 Text 1
@@ -93,6 +100,7 @@ Answer: C
 
 
 Question 8:
+[COE]
 What does the text most strongly suggest about paintings by Roberts?
 
 Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved swift applications of paint. That many of Hair’s acolytes, including Livingston Roberts, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group’s shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Charles Walker was also prolific, his paintings were executed with greater attention to detail.
@@ -106,6 +114,7 @@ Answer: A
 
 
 Question 9:
+[COE]
 Which statement about sonnet cycles is best supported by the text?
 
 When read sequentially, the individual sonnets of a sonnet cycle—a series of fourteen-line poems that rhyme in a fixed pattern—typically evince a loose narrative arc that traditionally dramatizes the speaker’s persistent efforts to win the affections of an aloof addressee, as occurs in Edmund Spenser’s 1595 *Amoretti.* However, by using the sonnet cycle to instead relay a loosely autobiographical account of his travels abroad, modern poet Claude McKay’s series “Cities” subverts entrenched sonnet conventions to reveal the form’s potential for new possibilities.
@@ -119,6 +128,7 @@ Answer: A
 
 
 Question 10:
+[COE]
 Assuming that the Volga and Don basins supported similarly sized hunter-gatherer populations 6,500–8,000 years ago, which finding, if true, would most directly support Courel and colleagues’ explanation?
 
 Blandine Courel and her colleagues analyzed pottery fragments from thirty-five sites across the Volga and Don river basins to determine whether the ways in which hunter-gatherer societies used pottery in these regions around 6,500–8,000 years ago were influenced primarily by local food availability or primarily by cultural factors. Analysis of organic residues on the pottery fragments showed different prevailing uses for pottery in these locations—cooking and storing terrestrial animal protein at Volga sites and cooking and storing aquatic animal protein at Don sites—which Courel and colleagues attribute to cultural differences.
@@ -132,6 +142,7 @@ Answer: A
 
 
 Question 11:
+[COE]
 Which choice best describes data from the graph that weaken the student’s claim?
 
 Average Total Agricultural Export Growth Rate, Five Years Pre- and Post-FTA with the United States
@@ -147,6 +158,7 @@ Answer: B
 
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 From November 1980 to February 1981, oil prices rose 45%, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks’ effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists’ estimates of national economies’ responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of the United States during a recent oil shock, for instance—suggesting that ______.
@@ -160,6 +172,7 @@ Answer: C
 
 
 Question 13:
+[COE]
 Which quotation from The Age of Innocence best illustrates the claim?
 
 The Age of Innocence is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera. The narrator describes the New York society to which Archer belongs as preferring familiarity over novelty: _____
@@ -173,6 +186,7 @@ Answer: D
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services HieartRadio and Tidal, among others. Datta et al. Studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______.
@@ -186,6 +200,7 @@ Answer: D
 
 
 Question 15:
+[COE]
 Which choice best describes how Aunt Polly is presented in the text?
 
 The following text is adapted from Mark Twain’s 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew.
@@ -200,6 +215,7 @@ Answer: A
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Ulster Cycle is an epic poem originally composed in Old Irish. Epic poems are typically ______ that tell a story and focus on heroic deeds.
@@ -213,6 +229,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawai‘i Register of Historic Places, which includes Menehune Fishpond and the Wailuku School. However, Okinaka doesn’t make such decisions ______ all historical designations must be approved by a group of nine other experts from the fields of architecture, archaeology, history, and Hawaiian culture.
@@ -226,6 +243,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam’s diameter) of 85 micrometers.
@@ -239,6 +257,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The 2020 documentary Without a Whisper—Konnon:Kwe was directed by Katsitsionni Fox. It explores how Indigenous Haudenosaunee culture shaped the woman suffrage movement in the early nineteenth ____ how the personal and political authority Haudenosaunee women had in their communities influenced the first suffragists in the US.
@@ -252,6 +271,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the list “Things That Make One’s Heart Beat Faster” from Sei Shōnagon’s *Pillow Book*, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ____ readers a thousand years later.
@@ -265,6 +285,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian’s macroanalysis ____ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.
@@ -278,6 +299,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
@@ -291,6 +313,7 @@ Answer: D
 
 
 Question 23:
+[Synthesis]
 The student wants to identify the title of NoViolet Bulawayo’s first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -308,6 +331,7 @@ Answer: D
 
 
 Question 24:
+[Synthesis]
 The student wants to specify a location where Caspian terns stop during migration. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -326,6 +350,7 @@ Answer: D
 
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between the two scrolls. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -345,6 +370,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between Macready and Keene. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -364,6 +390,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

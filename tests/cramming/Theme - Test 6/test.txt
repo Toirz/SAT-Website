@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would most directly undermine the claim about an archaic corn variety in the last sentence?
 
 Still grown by the Chickasaw people, Chickasaw red corn is a variety of flint corn, a lineage associated with Woodlands tribes of eastern North America. Genetic analyses trace the lineage to populations grown at Woodlands sites in Arkansas circa 1000 CE and, beyond that, to southwestern populations, including one in New Mexico circa 1375 BCE, and ultimately to older Mexican populations, corroborating a narrative of diffusion out of Mexico via the Southwest. The intriguing presence of microscopic corn particles dated to circa 126 BCE at a site in Illinois suggests that an archaic variety diffused into the Woodlands but, given its absence from the archaeological record of the Common Era (CE), vanished before flint corn's arrival in the region.
@@ -11,6 +12,7 @@ D. Corn specimens with intact DNA are recovered at a different Woodlands site th
 Answer: D
 
 Question 2:
+[COE]
 Which statement about Narragansett flint corn is best supported by the text?
 
 Still grown by the Narragansett people, Narragansett flint corn belongs to the group of varieties known as flint corn that are adapted to the Woodlands of eastern North America. Yet corn was domesticated in Mexico. Did flint corn's ancestors spread to the Woodlands by way of a western route through the Southwest or an eastern route along the Gulf Coast? One genetic study shows that Woodlands flint varieties descend from corn populations at Southwestern sites, including one in Arizona dating to roughly 275 BCE. No ancient specimens of flint corn have been found along the Gulf Coast.
@@ -23,6 +25,7 @@ D. It doesn't descend from the ancient flint corn populations that once grew alo
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The ancestral lineage of Oneida white corn, tracing back to its domestication in southern Mexico circa 7000 BCE, reveals that its diffusion to eastern North America was not a direct geographical expansion. Instead, the process was remarkably ______, moving first to northern Mexico, then to southwestern populations in areas like present-day Arizona by 275 BCE, and only much later reaching the Oneida people.
@@ -35,6 +38,7 @@ D. fortuitous
 Answer: C
 
 Question 4:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Corn's diffusion toward the Oneida people was a geographically and temporally complex process rather than a simple, linear migration. __________, the ancestry of Oneida white corn traces a multi-millennial path from its domestication in southern Mexico circa 7000 BCE, through populations in northern Mexico, to a variety grown in Arizona circa 275 BCE, before finally reaching eastern North America.
@@ -47,6 +51,7 @@ D. In the meantime,
 Answer: B
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Miko Branden raises Chickasaw red corn, a variety developed by his Chickasaw ancestors centuries ago. It belongs to a group of related varieties known as flint corn. Although flint corn was developed by tribes in eastern North America, genetic studies trace its ancestry to corn populations in the Southwest, including one cultivated in Utah around 225 CE. The Southwestern populations themselves descended from varieties originated by tribes in ancient Mexico. __Thus, the ears of dark red corn grown by Brandon represent thousands of years of agricultural history.__
@@ -59,6 +64,7 @@ D. It stresses the relationship of Chickasaw red corn farmed in the present to a
 Answer: D
 
 Question 6:
+[COE]
 Which choice best states the function of the underlined word in the text as a whole?
 
 Still cultivated by the Chickasaw people, Chickasaw red corn is a variety of flint corn, a clade associated with the tribes of eastern North America. Genetic analyses link the collective flint lineage to corn populations in what is now the US Southwest, including one cluster in Arizona circa 275 BCE and one in Texas circa 25 CE, with the two clusters descending in turn from populations cultivated in northern Mexico in the deep past, though—__crucially__—not from the same ones. What emerges from the data is a complex geography of diffusion, likely through trade between contiguous tribes.
@@ -71,6 +77,7 @@ D. It positions genetic data on ancient corn populations in Arizona and Texas as
 Answer: D
 
 Question 7:
+[COE]
 Which finding, if true, would most directly support the underlined claim?
 
 Seneca farmer Dave Bray raises Seneca white corn, a variety that his tribe developed centuries ago. It belongs to a group of related varieties known as flint corn, which have smooth, hard kernels and are adapted to the Woodlands of eastern North America. Genetic studies have traced flint corn's lineage to corn populations at Woodlands sites in Arkansas dating to as early as 1000 CE and, before that, to populations in the Southwest, including one in Arizona dating to roughly 275 BCE. Even further back, flint corn descends from populations in Mexico. __The diversity seen in flint varieties overall suggests that corn likely spread from Mexico in multiple waves, with the population in each wave possessing a unique array of genes.__
@@ -83,6 +90,7 @@ D. A genetic study of Seneca white corn demonstrates that while it descends prim
 Answer: D
 
 Question 8:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Corn’s diffusion toward the Oneida people was geographically and temporally ______: as with other varieties developed by eastern North American tribes, the ancestry of Oneida white corn extends to southwestern populations, including one grown in Arizona circa 275 BCE, to older populations in northern Mexico, and finally to southern Mexico, where corn was domesticated circa 7000 BCE.
@@ -95,6 +103,7 @@ D. idiosyncratic
 Answer: B
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Elio Sucena and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -107,6 +116,7 @@ D. Before Green and Extavour’s study, convergent evolution was assumed to requ
 Answer: A
 
 Question 10:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -119,6 +129,7 @@ D. To argue that Green and Extavour’s study revealed a previously unrecognized
 Answer: C
 
 Question 11:
+[COE]
 Which choice best states the overall structure of the text?
 
 Elio Sucena and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -131,6 +142,7 @@ D. It describes a phenomenon, provides examples of two studies of that phenomeno
 Answer: D
 
 Question 12:
+[Structure]
 Which choice best states the main topic of the text?
 
 Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms. However, the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -143,6 +155,7 @@ D. Why convergent evolution is particularly difficult for biologists to study
 Answer: B
 
 Question 13:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 Benjamin Prud’homme and colleagues have explored how convergent evolution—__a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages__—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -155,6 +168,7 @@ D. It introduces a method of scientific analysis that is discussed in greater de
 Answer: B
 
 Question 14:
+[COE]
 According to the text, what did Chan and colleagues focus on in their study?
 
 Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -167,6 +181,7 @@ D. The convergence of traits in lineages that are not reproductively separate
 Answer: B
 
 Question 15:
+[Structure]
 Which choice best states the main idea of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -179,6 +194,7 @@ D. According to a team of economists, the higher a voter’s income, the more li
 Answer: A
 
 Question 16:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -191,6 +207,7 @@ D. It declares that moral values always override material interest and then crit
 Answer: B
 
 Question 17:
+[Structure]
 Which choice best states the main idea of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -203,6 +220,7 @@ D. According to a team of economists, the higher a voter’s income, the more li
 Answer: A
 
 Question 18:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -215,6 +233,7 @@ D. It declares that moral values always override material interest and then crit
 Answer: B
 
 Question 19:
+[Infer]
 Which choice most logically completes the text?
 
 In an analysis of medieval urbanization in Coventry, Macon, and other European settlements, researchers dive on modern urban scaling theory, which posits that population density in core urban areas decreases as a city grows. They hypothesized that this typical pattern might not have held in medieval settlements because of the constraining influence of strict hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drives of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that _____.
@@ -227,6 +246,7 @@ D. the social and economic dynamics that affect urban agglomeration were likely 
 Answer: A
 
 Question 20:
+[Infer]
 Which choice most logically completes the text?
 
 Rudolf Cesaretti et al. conducted an analysis of historical urban scaling trends circa 1300 CE in Western Europe, focusing on agglomeration patterns within medieval settlements. They examined settlements in urban systems across Western Europe, with groupings based on regionally distinct political structures, economic focuses, and spatial constraints—including the aristocratically controlled city-state of Parma in northern Italy, merchant controlled city-states like Goerlitz in Germany, the wool-trading centers of Lincoln and Canterbury in England, and prime trade-fair towns like Troyes in France. A prevalent trend emerged: as a city's total settled area increased, so did population density in its core urban areas. This finding implies that ______

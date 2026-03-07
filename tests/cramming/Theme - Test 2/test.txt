@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as Russia.
@@ -11,6 +12,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.
@@ -23,6 +25,7 @@ Answer: B
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although many inequality studies published in the 2010s proclaimed “global” relevance, severe data gaps beyond North America and Western Europe forced scholars to limit their analyses to those regions. In fact, given the absence of administrative records from countries such as Côte d’Ivoire or Poland, that geographic narrowness was simply ______; only after those data became available could researchers widen their scope.
@@ -35,6 +38,7 @@ Answer: B
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as Russia.
@@ -47,6 +51,7 @@ Answer: C
 
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as Russia.
@@ -59,6 +64,7 @@ Answer: D
 
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.
@@ -70,6 +76,7 @@ D. pervasiveness
 Answer: C
 
 Question 7:
+[COE]
 According to the text, what change coincided with Don Jerónimo becoming a patron of the theater?
 
 The following text is adapted from Armando Palacio Valdés’s short story 'The Love of Clotilde,' originally published in Spanish in 1884.
@@ -83,6 +90,7 @@ D. He achieved public recognition for a novel he had written earlier.
 Answer: A
 
 Question 8:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Armando Palacio Valdés's short story *“The Love of Clotilde,”* originally published in Spanish in 1884. In the story, Don Jerónimo is a financial supporter of artists in the theater.
@@ -96,6 +104,7 @@ D. It explains Don Jerónimo’s view of the quality of theatrical works of the 
 Answer: C
 
 Question 9:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Armando Palacio Valdés's short story *“The Love of Clotilde,”* originally published in Spanish in 1884. In the story, Don Jerónimo is a financial supporter of artists in the theater.
@@ -109,6 +118,7 @@ D. To compare the supportive and harsh aspects of Don Jerónimo’s interactions
 Answer: A
 
 Question 10:
+[COE]
 Which quotation from a translation of Claudine at School most effectively illustrates the claim?
 
 Claudine at School is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town. She presents herself as having a strong emotional attachment to the surrounding forests: ________.
@@ -121,6 +131,7 @@ D. "Under the firs, you light a fire, even in summer, because it’s forbidden; 
 Answer: B
 
 Question 11:
+[COE]
 Which quotation from a translation of Claudine at School most effectively illustrates the claim?
 
 Claudine at School is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town. In the novel, the author wants to highlight the powerful and dominant presence of the nature, writing_______.
@@ -133,6 +144,7 @@ D. "Under the firs, you light a fire, even in summer, because it’s forbidden; 
 Answer: C
 
 Question 13:
+[COE]
 Which finding, if true, would most directly undermine the researchers' hypothesis?
 
 Morphological specialist plants—those with highly modified traits, e.g., long corollas (collections of petals)—may interact exclusively with pollinators with complementary traits and are thus also often ecological specialists, typically associated with greater pollinator partitioning (i.e., sharing relatively few pollinator species with other plants). Hypothesizing that these types of specialization are positively correlated among _Bomarea hirsuta_ and other hummingbird-visited plants of the Talamanca Mountain Range, María A. Maglianesi et al. monitored hummingbird-plant interactions at sites of various elevations, including Los Cusingos Bird Sanctuary (low elevation) and Villa Mills Experimental Biological Station (high elevation), and recorded corolla lengths of visited plants.
@@ -145,6 +157,7 @@ D. Though the level of pollinator partitioning increased with elevation at a con
 Answer: B
 
 Question 14:
+[COE]
 Which statement about hummingbird preferences is most strongly supported by the text?
 
 High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
@@ -157,6 +170,7 @@ D. The floral traits that most strongly influence which plant species hummingbir
 Answer: D
 
 Question 15:
+[COE]
 Which finding from Maglianesi et al.'s study, if true, would most directly undermine Tavares et al.'s conclusion?
 
 Flowers that produce relatively high volumes of nectar are more rewarding for pollinators, including snowy-bellied hummingbirds (Saucerottia edward) and other hummingbird species, but nectar stores are typically obscured by the corolla (collection of petals); the means by which flowers signal high-nectar reward are unclear. A 2016 study by Davi Castro Tavares et al., which found that corolla length positively correlates with nectar volume, concluded that flower morphology reliably indicates nectar reward. As part of a subsequent study, María A. Maglianesi et al. measured variations in floral phenotypic traits (including corolla length and nectar characteristics) of hummingbird-visited plants across a range of elevations in Costa Rica.
@@ -169,6 +183,7 @@ D. Mean corolla length of plant species decreased as elevation increased, but me
 Answer: D
 
 Question 16:
+[Structure]
 Which choice best states the main idea of the text?
 
 Due to highly modified traits (e.g., long flower corollas) that can limit the range of potential pollinators, morphologically specialized plants are predominantly ecological specialists. But in a study of _Gurania tubulosa_ and other hummingbird-pollinated plants, María A. Maglianesi et al. found that ecological specialization wasn’t affected by corolla length, perhaps because relative to other birds, hummingbirds have longer tongues that they can extend to overcome barriers to nectar—allowing, for instance, _Phaethornis striigularis_ to feed from G. _tubulosa_ despite having a bill shorter than the plant’s corolla.
@@ -181,6 +196,7 @@ D. Contrary to expectations, researchers found that even hummingbirds with short
 Answer: A
 
 Question 17:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 The bill of _Phaethornis guy_ (green hermit, a hummingbird species) is similar in length to the corolla (collection of petals) of _Columnea guzmanioides_, allowing the pollinator to access nectar at the base of the flower. This kind of alignment of the shape and size of physical traits in interacting species—called morphological matching—is expected to result in greater interaction frequencies between those species than between species with mismatched traits. Maria A. Maglianesi and team compared physical traits of hummingbirds, including _P. guy_, and plant species in the hummingbirds' habitats. The researchers concluded that, in general, morphological matching had the expected effect on hummingbird–plant interactions.

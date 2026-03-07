@@ -1,4 +1,5 @@
 Question 5:
+[COE]
 Based on the text, what most likely motivates Tía Ana's behavior during Salomé's salon?
 
 The following text is from Julia Alvarez's 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
@@ -12,6 +13,7 @@ D. She is frustrated because she needs assistance elsewhere in the house, but Sa
 Answer: C
 
 Question 55:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Douglas Malloch's poem "Be the Best of Whatever You Are."
@@ -32,6 +34,7 @@ D. To compare the significance of different roles in society to the vastness of 
 Answer: B
 
 Question 76:
+[COE]
 Which quotation from the passage most effectively illustrates the claim?
 
 “Dawn Revisited” is a 1999 poem by Rita Dove. In the poem, the poet suggests that the present moment offers endless possibilities: ______.
@@ -44,6 +47,7 @@ D. "You'll never know / who's down there, frying those eggs, / if you don't get 
 Answer: C
 
 Question 12:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 The following text is from Anthony Trollope’s 1855 novel *The Warden*. The narrator is describing a rectory, the residence of a clergyperson.
@@ -57,6 +61,7 @@ D. It concedes that there is a lack of attention to the impression the rectory m
 Answer: B
 
 Question 70:
+[COE]
 Based on the passage, which of the following bestdescribes the speaker’s message about what constitutestrue maturity?
 
 The following text is from Rudyard Kipling’s 1895 poem
@@ -78,6 +83,7 @@ D. Mastering time management and physical endurance
 Answer: B
 
 Question 99:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Sara Teasdale's 1922 poem "Two Songs for Solitude."
@@ -94,6 +100,7 @@ D. To criticize others for their pride and need for emotional validation.
 Answer: C
 
 Question 87:
+[COE]
 Which quotation from "Poetry" most effectively illustrates the claim?
 
 "Poetry" is a 1919 poem by Marianne Moore. The poem highlights an ambivalence toward poetry as the speaker acknowledges its merits while also expressing a sense of displeasure, writing ______.
@@ -106,6 +113,7 @@ D. "Reading / poetry], however, with a perfect contempt for it, one discovers th
 Answer: D
 
 Question 14:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.
@@ -119,6 +127,7 @@ D. The amount of work that needs to be done on the boat is likely more than the 
 Answer: A
 
 Question 104:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from the 1895 poem "Marshlands" by Emily Pauline Johnson, a Kanien’kehá:ka (Mohawk) writer also known as Tekahionwake.
@@ -141,6 +150,7 @@ D. It makes an extended comparison of nature to human emotions.
 Answer: B
 
 Question 18:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Jerome K. Jerome’s 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator is traveling by boat with Harris and another friend.
@@ -154,6 +164,7 @@ D. It reveals that although Harris claims to prefer solitary activities when tra
 Answer: C
 
 Question 29:
+[WIC]
 As used in the text, what does the word “anticipating” most nearly mean?
 
 The following text is from Kenneth Grahame’s 1908 novel The Wind in the Willows. The Mole is returning home after a visit to Mr. Badger’s house.
@@ -167,6 +178,7 @@ D. Looking forward to
 Answer: D
 
 Question 32:
+[WIC]
 As used in the text, what does the figurative phrase "hew out" most nearly mean?
 
 The following text is from Virginia Woolf's 1919 novel Night and Day. The text describes a gathering of aspiring young artists and intellectuals.
@@ -180,6 +192,7 @@ D. Emulate
 Answer: B
 
 Question 36:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
@@ -193,6 +206,7 @@ D. To engage the reader’s compassion for both the Countess Czerlaski and the p
 Answer: A
 
 Question 95:
+[Details]
 Which choice best describes the function of the reference to the “wooing kestrel” (a type of bird) in the text as a whole?
 
 The following text is from Anne Spencer’s 1922 poem “Translation.”
@@ -213,6 +227,7 @@ D. It presents the natural world as aligning with the experience of the speaker 
 Answer: D
 
 Question 4:
+[COE]
 Based on the text, what is Camila’ s primary reaction to the feedback she receives from Juan Ramón Jiménez?
 
 The following text is adapted from Julia Alvarez’ s 2000 novel In the Name of Salomé, Camila is the daughter of a famous poet, Salomé, and also writes her own poetry. Max is her brother.

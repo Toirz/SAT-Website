@@ -1,4 +1,5 @@
 Question 55:
+[Infer]
 Which choice most logically completes the text?
 
 Ships in the British Royal Navy during the Napoleonic Wars (1803-1815) were ranked based on military strength. The system considered the number of a ship's cannons and decks. "First-rate" was the highest ranking, and "sixth-rate" was the lowest ranking, followed by unrated ships. The size of a ship's crew was based on this ranking: first-rate ships had between 850 and 875 crewmen, while lower-ranked ships had fewer. Two of the ships in the British Royal Navy from this period were the Boyne (98 cannons and three decks) and the Britannia (120 cannons and three decks). Of these two, only the Britannia was ranked a first-rate ship. It can therefore be concluded that ______.
@@ -11,6 +12,7 @@ D. all ships with at least 98 cannons had a crew of at least 850 people.
 Answer: A
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 The Harlem Renaissance, which gave us great literary works like May Miller’s play The Bog Guide and nonliterary works like James Van Der Zee’s photograph Couple, Harlem, is often said to have ended around 1930 shortly after the Great Depression began. But some scholars argue the Harlem Renaissance never really ended because it continues to shape cultural life in the United States today. These scholars therefore suggest that ___.
@@ -23,6 +25,7 @@ D. if the influence of a cultural movement continues, then in some sense the mov
 Answer: D
 
 Question 70:
+[Infer]
 Which choice most logically completes the text?
 
 A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ nutrient acquisition. Corrine Walsh and colleagues hypothesized that microbial communities could also affect plants’ flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants’ chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (Brassica juncea) growing in a controlled environment, then measured the plants’ glucosinolates, like 3-methylthiopropyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to ______.
@@ -35,6 +38,7 @@ D. Distinguish variations in glucosinolates due to differences in microbial comm
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Some studies can be done well with relatively little money. For example, a marketing study typically requires the average amount customers spend per transaction at an online retailer. Yet it is much more expensive to conduct a longitudinal study like the Household, Income and Labour Dynamics in Australia Survey (HILDA), which looks at the economic wellbeing that can take years to develop. This requires lots of funding because ___.
@@ -47,6 +51,7 @@ D. long-term trends in marketing can be found without examining many years’ da
 Answer: C
 
 Question 18:
+[Infer]
 Which choice most logically completes the text?
 
 Neuroscientist Artin Arshamian and his team sought to determine what affects a person's perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer), including the Manig people from a small community in Thailand and urban dwellers from a large city in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than mushroom alcohol, which smells like fungus. The team's study thus undermined the idea that ______.
@@ -59,6 +64,7 @@ D. personal taste has little influence on whether odors are perceived as pleasan
 Answer: B
 
 Question 29:
+[Infer]
 Which choice most logically completes the text?
 
 Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks malapua and puri bhaji, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process _____
@@ -71,6 +77,7 @@ D. will have a higher temperature after frying is completed than sections that l
 Answer: B
 
 Question 32:
+[Infer]
 Which choice most logically completes the text?
 
 New Zealand has designated the rainbow lorikeet as an invasive species that could outcompete some of the country's native species. Many other countries draw similar distinctions between invasive and native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that Earth's climate is changing in ways that challenge such designations. Climate changes may cause animals to leave their current ranges and establish new ones. Climate changes may also create good habitats in areas where a species couldn't live previously. These observations suggest that ________.
@@ -83,6 +90,7 @@ D. New Zealand should coordinate with other countries to protect their native sp
 Answer: B
 
 Question 36:
+[Infer]
 Which choice most logically completes the text?
 
 In June of 1988, Morocco liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Moroccan companies. This was part of a wave of stock market liberalizations around the world—Argentina in 1989, Jamaica in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___.
@@ -95,6 +103,7 @@ D. economists’ expectations about the effect of liberalization on investment w
 Answer: D
 
 Question 4:
+[Infer]
 Which choice most logically completes the text?
 
 While some researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Colin Renfrew’s 1975 study, others have done so to explore cultural identity, as in Marisa Lazzari and colleagues’ 2009 study. Sharing this cultural focus, Tristan Carter and Vassilis Kilikoglou noted a remarkable degree of consistency in the methods used to produce obsidian artifacts at sites on Crete from the Middle to Late Bronze Age, a finding they conclude is indicative of cultural continuity. Carter and Kilikoglou also found significant changes to building design and construction over the same period at those sites; if their conclusion about the artifacts is correct, this suggests that the changes to the buildings ______
@@ -107,6 +116,7 @@ D. are likely due to interactions with cultures outside of Crete.
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different levels of cross-cultural assimilation to a dominant form of culture: from dwellers from a large city in Thailand and Chachi people from a small community in Ecuador. The team determined that the degree of cross-cultural assimilation for the same vanillin, which smells like vanilla, was typically rated more pleasant than isovaleric acid, which smells like human sweat. The team therefore concluded that ______.

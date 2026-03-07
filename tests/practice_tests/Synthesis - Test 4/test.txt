@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to paraphrase a quotation from Kuhn to explain the non-cumulative, revolutionary nature of scientific progress. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching the philosophy of science, a student has taken the following notes:
@@ -15,6 +16,7 @@ D. In Kuhn's view, the failure of a paradigm is demonstrated when new and old th
 Answer: B
 
 Question 2:
+[COE]
 Which choice most effectively uses information from the given sentences to describe a color that was popular at 2019 New York Fashion Week?
 
 While researching a topic, a student has taken the following notes:
@@ -30,6 +32,7 @@ D. At 2019 New York Fashion Week, many designer collections featured a warm, ric
 Answer: D
 
 Question 3:
+[Synthesis]
 The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 • A supercontinent is a single landmass made up of most or all of Earth's continents.
@@ -45,6 +48,7 @@ D. Forming and breaking apart over hundreds of millions of years, supercontinent
 Answer: C
 
 Question 4:
+[Synthesis]
 The student wants to provide a specific example of a fantastical element being presented matter-of-factly in magical realism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a literary genre, a student has taken the following notes:
@@ -61,6 +65,7 @@ D. The presentation of fantastical elements in the works of García Márquez ser
 Answer: B
 
 Question 5:
+[Synthesis]
 The student wants to provide an explanation and example of Kepler's first law of planetary motion. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -77,6 +82,7 @@ D. Kepler's first law of planetary motion states that the orbit of a planet arou
 Answer: B
 
 Question 6:
+[Synthesis]
 The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -93,6 +99,7 @@ D. The SEBS rubber sample used in the 2019 study was thicker than the TPU sample
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -109,6 +116,7 @@ D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing w
 Answer: A
 
 Question 8:
+[Synthesis]
 The student wants to emphasize the size of Atitalaquia. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -125,6 +133,7 @@ D. The municipality of Atitalaquia in Hidalgo, Mexico, covers an area of roughly
 Answer: D
 
 Question 9:
+[Synthesis]
 The student wants to contrast two words that represent the same sound. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -141,6 +150,7 @@ D. The Batak word korrr, which represents the sound of snoring, is an onomatopoe
 Answer: A
 
 Question 10:
+[Synthesis]
 The student seeks to compare Lawson's theory of organizational leadership with Davison's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While investigating a topic, a student compiled the following observations:
@@ -156,6 +166,7 @@ D. Lawson’s theory of organizational leadership stands in contrast to Green's,
 Answer: B
 
 Question 11:
+[Synthesis]
 The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 • Most of the plant and bird species in Oahu, Hawaii, are non-native.
@@ -172,6 +183,7 @@ D. Seeds from Psydrax odorata and Cestrum nocturnum plants were found in the
 Answer: B
 
 Question 12:
+[Synthesis]
 The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -188,6 +200,7 @@ D. It’s untrue that malapportionment in the 169-seat Storting favors small urb
 Answer: A
 
 Question 13:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -205,6 +218,7 @@ D. After tasting two types of brown seaweed, sea palm and bull kelp, participant
 Answer: D
 
 Question 14:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two birds?
 
 While researching a topic, a student has taken the following notes:
@@ -222,6 +236,7 @@ D. The ruby-topaz hummingbird is a small hummingbird identifiable by its crimson
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to contrast how the igneous rock at the two national parks formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

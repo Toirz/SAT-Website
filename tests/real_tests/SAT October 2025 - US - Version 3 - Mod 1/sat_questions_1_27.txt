@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Vázquez-Morillas et al. are exploring a device to help quickly and accurately identify certain characteristics.
@@ -11,6 +12,7 @@ D. incompatibilities
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Hawai‘i has a rich literary history that originated with the traditional stories of the Kānaka Maoli, or the Native Hawaiian people. Anwei Skinsnes Law, Imaikalani Kalahele, and other writers have built on this tradition and brought Hawaiian literature to international prominence, ______ the manifold experiences of the Hawaiian people for readers around the world.
@@ -23,6 +25,7 @@ D. controlling
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Analysis of preserved plants cataloged in the Southeast Regional Network of Expertise and Collections indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plants' overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.
@@ -35,6 +38,7 @@ D. Complementing
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the American National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ______ that the word “man” has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that “man” is the seventh most commonly used noun.
@@ -47,6 +51,7 @@ D. conjecture
 Answer: D
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Single-celled foraminifera inhabiting coastal waters experience significant environmental salinity changes during tidal cycles. How, then, do they ______ internal salt levels? Some organisms maintain high concentrations of phosphates that allow them to affect the concentration of internal electrolytes—including salt—in response to external changes. It may be that coastal foraminifera do the same.
@@ -59,6 +64,7 @@ D. tolerate
 Answer: A
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 A study by Mohamed Alburaki, Maria Bouga, and colleagues suggests that overall, US honey bee populations exhibit low genetic diversity. Working with a large sample of honey bee specimens collected from most US states, the researchers determined that there are just three maternal evolutionary lineages in the populations: the North Mediterranean lineage, the West Mediterranean lineage, and the African lineage. They found that of the specimens from Oregon, 100% descended from the North Mediterranean lineage—__a finding in keeping with that for the lineage in many of the other states studied.__
@@ -71,6 +77,7 @@ D. It expands on the claim made earlier in the sentence by providing specific da
 Answer: A
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined portions in the text as a whole?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Bogotá, Colombia, were surveyed about parks in their cities. *__Of the 618 respondents from Quito__*, 82.9% indicated that they use the city’s parks, and *__of the 1,121 respondents from Bogotá__*, 71.9% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Bogotá respondents, greater proximity alone can’t explain the difference in park use.
@@ -83,6 +90,7 @@ D. They mark a shift from a discussion of the researchers’ conclusion to a dis
 Answer: C
 
 Question 8:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors.
@@ -96,6 +104,7 @@ D. The narrator summarizes an earlier episode involving a specific character and
 Answer: C
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from María Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don. Mercedes and Clarence, who develop a romantic relationship in the novel, have been traveling with a group of friends.
@@ -109,6 +118,7 @@ D. The sounds at the train station irritate Mercedes.
 Answer: B
 
 Question 10:
+[COE]
 Based on the text, what can be concluded about clothing made during the Ice Age?
 
 Ian Gilligan et al. claim that during the Ice Age, humans at Yafteh Cave in Southwest Asia made fitted clothing by boring holes in pieces of hide and fur with a sharpened bone tool called an awl and then threading cord through the holes to bind the pieces together. Eventually, as evidenced by artifacts at Xiaogushan in East Asia, someone perforated the end of a bone awl to make an eye (hole) to hold the cord, thereby creating a sewing needle with which both steps could be performed in a single motion. This sped up the process of making clothing and, by freeing them from the need to push cord through holes manually, allowed artisans to make smaller holes and thus finer seams.
@@ -121,6 +131,7 @@ D. Clothing made at sites like Yafteh Cave was likely made with needles, while c
 Answer: A
 
 Question 11:
+[COE]
 The bear with the greatest approximate weight shown in the table was the bear with identification number ______.
 
 Scientists collected information about brown bears in Katmai National Park in Alaska. This information included each bear’s sex, age, and approximate weight.
@@ -135,6 +146,7 @@ D. 183.
 Answer: C
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 An intern at a publishing house who is writing a report needs to determine whether there are any book genres for which the average price of a paperback book declined from 2016 to 2019. Consulting the table, she finds that this was the case for the genre of ______.
@@ -149,6 +161,7 @@ D. history.
 Answer: B
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support the US transportation experts’ claim?
 
 As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Finland, 1,120 kilometers are in operation with 201 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
@@ -161,6 +174,7 @@ D. In much of the US, the existing rail infrastructure is so old that it would h
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks boondi and paneer pakora, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process ______
@@ -173,6 +187,7 @@ D. will have a lower fat content after frying is completed than sections that lo
 Answer: D
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Lines of code written in Fortran, a programming language used for processing scientific data, ______ translated into executable commands by a tool called a compiler. As a result, Fortran is commonly referred to as a compiled language.
@@ -185,6 +200,7 @@ D. is typically
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Curator Patricia Ononiwu Kaishian assembled the 2025 exhibition *Outcasts: Mary Banning’s World of Mushrooms* at the New York State Museum in Albany with a twofold ______ the contributions of Banning, a pioneering 19th-century mycologist, and drawing attention to the museum’s historically significant mycology collection.
@@ -197,6 +213,7 @@ D. purpose; recognizing
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Established in 1935 for the specific purpose of installing electrical systems in rural areas of the US, ______ helped the nation recover from the Great Depression.
@@ -209,6 +226,7 @@ D. many ways, just one of which was the Rural Electrification Administration (RE
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Notable for their colorful feather accents and elaborate ______ Pomo artist Susan Billy’s baskets are not simply practical objects: they are striking works of art.
@@ -221,6 +239,7 @@ D. construction.
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A bias toward studying animals over plants was one of the many shortcomings researcher Sonia Llorente-Culebras and her team ______ analyzing nearly 400 biodiversity studies from around the globe.
@@ -233,6 +252,7 @@ D. discovered. While
 Answer: A
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Zinc and cadmium are among the elements contained in the salty, concentrated brine that remains after seawater is desalinated. Elements can be extracted from this brine in much the same way that materials are mined from the earth. ______ recovering materials from desalination by-products is known as brine mining.
@@ -245,6 +265,7 @@ D. Granted,
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Many influential studies of British Romanticism by Paul de Man and other scholars have focused on the period’s most prominent poets, such as John Keats, the author of “Ode to Psyche.” A 2022 essay by scholar Stacey McDowell, ______ spotlights a Romantic-era poet whose work, though significant, is less widely known and studied: Ann Yearsley (1753–1806).
@@ -257,6 +278,7 @@ D. by contrast,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Charles Ginnever's steel sculpture *Prospect Mountain Project* is displayed at Storm King Art Center, an outdoor sculpture park in New York. ______ it endures rain, snow, heat, and humidity. Ginnever's sculpture is particularly well suited to withstand these elements, though, because it is made of corrosion-resistant steel.
@@ -269,6 +291,7 @@ D. However,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. _____ it is the 1967 Outer Space Treaty—signed by Austria, Finland, and over 100 other nations—that curtails these ambitions and ensures that space remains a neutral place for the international community.
@@ -281,6 +304,7 @@ D. Ultimately,
 Answer: D
 
 Question 24:
+[Synthesis]
 The student wants to indicate where the Yukon River is located. Which choice most effectively uses relevant information from the notes to accomplish thisgoal?
 
 While researching a topic, a student has taken the following notes:
@@ -299,6 +323,7 @@ D. The Rhine River is ranked No. 129 among the longest rivers in the world.
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to compare the relative abundance of calcium on Earth to that of strontium. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -315,6 +340,7 @@ D. Unlike strontium, calcium has a mass fraction on Earth of 17,100 ppm.
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to indicate the name of the artist who created the prize-winning sculpture Modulation d'espace II. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -331,6 +357,7 @@ D. The Carnegie Museum of Art in Pittsburgh, Pennsylvania, administers a competi
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to compare how Charpentier and Helmholtz describe the mood of E minor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

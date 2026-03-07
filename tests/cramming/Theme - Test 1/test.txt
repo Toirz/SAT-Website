@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Stock Exchange of Thailand in Bangkok, Thailand, is a dedicated exchange for investing in companies operating in Thailand, ensuring those companies receive certain regulatory oversight. Knowing this can ______ potential investors’ worries about bureaucratic minutiae and thereby allow them to instead focus on identifying sound business opportunities.
@@ -11,6 +12,7 @@ D. convey
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Beirut Stock Exchange in Beirut, Lebanon, connects companies operating in Lebanon with potential investors. This is a valuable service since the time and expense necessary to find individual investors might otherwise be ____ for these companies; many of the companies could not operate if they had to do everything necessary to find investors for themselves.
@@ -23,6 +25,7 @@ D. beneficial
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of focusing on local companies and thus reflecting economic circumstances that are ______ Iran. This sensitivity to unique, rapidly evolving local conditions benefits the companies and investors alike.
@@ -35,6 +38,7 @@ D. unchanging in
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although fewer companies trade their stocks on the Cambodia Securities Exchange in Phnom Penh, Cambodia, than on the stock exchanges in London, Mumbai, or Tokyo, the Cambodia Securities Exchange has the advantage of being able to ______ relatively small companies in Cambodia: by connecting those companies to investors with expertise about the country’s economic conditions, the Cambodia Securities Exchange can help those companies thrive.
@@ -47,6 +51,7 @@ D. assess
 Answer: B
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Cambodia Securities Exchange in Phnom Penh, Cambodia, connects companies operating in Cambodia with potential investors, ensuring those companies receive certain regulatory oversight. Knowing this is thus ______ potential investors since it enables them to evaluate companies with more confidence and determine which ones represent the best investment opportunities.
@@ -59,6 +64,7 @@ D. distinctive of
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best states the main idea of the text?
 
 Horses and barn owls can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision, many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of horses and barn owls than that of octopuses or squid.
@@ -71,6 +77,7 @@ Answer: C
 
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Sheep and macaque monkeys can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of sheep and macaque monkeys than that of octopuses or squid.
@@ -83,6 +90,7 @@ Answer: D
 
 
 Question 8:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Cats and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises' faces with two different color filters, one covering each eye, much like the filters in 3D glasses once worn at movies. By observing the mantises' reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it's unlike that of other animals.
@@ -95,6 +103,7 @@ Answer: B
 
 
 Question 9:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Macaque monkeys and cats can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. __Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of macaque monkeys and cats than that of octopuses or squid__.
@@ -107,6 +116,7 @@ Answer: B
 
 
 Question 10:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 Barn owls and sheep see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
@@ -118,6 +128,7 @@ D. It identifies a potential problem that the researchers faced while studying t
 Answer: C
 
 Question 11:
+[COE]
 What does the text most strongly suggest about Tom Towers?
 
 The following text is from Anthony Trollope’s 1855 novel The Warden. Tom Towers is a writer for the newspaper The Jupiter.
@@ -131,6 +142,7 @@ D. He flatters himself that his readers take a greater interest in him than in p
 Answer: B
 
 Question 12:
+[COE]
 What does the text most strongly suggest about the rooms in the rectory?
 
 The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
@@ -144,6 +156,7 @@ D. They have many decorations the narrator finds good looking, but they are not 
 Answer: B
 
 Question 13:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 The following text is from Anthony Trollope’s 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergyperson.
@@ -157,6 +170,7 @@ D. It concedes that there is a lack of attention to the impression the rectory m
 Answer: B
 
 Question 14:
+[COE]
 Which choice best states the function of the phrase "if he had one" in the text as a whole?
 
 The following text is from Anthony Trollope’s 1855 novel The Warden. Charles James is the son of a high-ranking clergy member.
@@ -170,6 +184,7 @@ D. It anticipates readers’ objections to the narrator’s criticism of Charles
 Answer: C
 
 Question 15:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
@@ -183,6 +198,7 @@ D. The narrator argues that the rectory’s oppressive décor entirely destroys 
 Answer: C
 
 Question 16:
+[COE]
 Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
 
 The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
@@ -196,6 +212,7 @@ Answer: C
 
 
 Question 17:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.

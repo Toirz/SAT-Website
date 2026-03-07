@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would provide evidence that the possibility Grasby et al. investigated does occur?
 
 The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -10,6 +11,7 @@ D. Consumers’ ratings and the changes in probability calculated by the researc
 Answer: B
 
 Question 2:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.
@@ -21,6 +23,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: B
 
 Question 3:
+[COE]
 Which finding, if true, would most directly weaken the student’s claim?
 
 Geneticist Elaine Ostrander led an international collaboration in which Jocelyn Plassais and other researchers investigated the evolutionary history of size variation in modern dogs. The researchers identified multiple versions of the gene regulating the production of IGF-1 (insulin-like growth factor 1) in dogs and found that dogs of the same breed consistently share the same version of the gene. In a discussion of the study, a student hypothesizes that small breeds of dogs (for example, toy poodles) must share a version that represses IGF-1 production that would otherwise confer larger body size.
@@ -32,6 +35,7 @@ D. Some breeds with small body sizes and low IGF-1 concentrations have a differe
 Answer: D
 
 Question 4:
+[COE]
 Which finding from the study, if true, would most directly support the researchers’ conclusion?
 
 Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references—that is, clock phrases, such as 7 a.m. or 2:30 p.m.—and implied ones, such as mentions of meals typically associated with a particular time of day.
@@ -43,6 +47,7 @@ D. Novels published after 1880 contain significantly more references to activiti
 Answer: D
 
 Question 5:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusions?
 
 Over time, marine mollusks called nautiloids continually add segments to their shells, and the chemical composition of each segment is influenced by the available materials in the surrounding water when the segment forms. Paleontologist Amane Tajika and colleagues analyzed the septa (the walls between shell chambers) of one male (samples labeled "M") and one female (samples labeled "F") nautiloid, finding that sample F04 had the same concentration of oxygen-18 as did water approximately 90 meters deep and that the oxygen-18 concentration in sample M17 matched that of water at approximately 385 meters deep. Tajika et al. concluded that sample F04 formed at a higher point in the water column than did M17.
@@ -54,6 +59,7 @@ D. Among nautiloids, there is no effect of sex on the uptake of oxygen-18 from w
 Answer: D
 
 Question 6:
+[COE]
 Which finding, if true, would most directly weaken the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than narrow-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than narrow-headed fish to detect obstructions that create large vortices.
@@ -65,6 +71,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: D
 
 Question 7:
+[COE]
 Which finding from the study, if true, would most directly support the team’s conclusion?
 
 Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
@@ -76,6 +83,7 @@ D. The similarity between the pattern of brain activity a dog showed in response
 Answer: C
 
 Question 8:
+[COE]
 Which finding, if true, would most directly weaken the student's claim?
 
 Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as abùnk sonàd, a present-oriented expression that translates to “this week,” and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions using spatial concepts and gestures, particularly along egocentric axes (i.e., relative to the orientation of the speaker): for instance, Spanish speakers often refer to the left/right axis to describe events in time. In an anthropology paper, a student claims that the tendency toward ego-based conceptualizations of time is universal.
@@ -87,6 +95,7 @@ D. Although Yupno speakers and Spanish speakers both use gestures to indicate or
 Answer: C
 
 Question 9:
+[COE]
 Which description of vocal manipulation in hyperpop is best supported by the text?
 
 A number of artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, aggressively manipulate their recorded voice. The singer Dorian Electra, for example, shifts the pitch of their vocals to be much deeper than that of Electra's natural range. And even the hyperpop artists who don't rely on pitch-shifting, such as Rina Sawayama, often distort their vocals using digital tools. By persistently modifying the voice, hyperpop invites the listener to reflect on the extent to which digital technology mediates the human experience today.
@@ -98,6 +107,7 @@ D. It symbolizes the power of contemporary music to influence listeners' sense o
 Answer: C
 
 Question 10:
+[COE]
 Which of the following statements, if true, would most strongly support Nichols and her team’s hypothesis about the source of Zoraxa’s acceleration?
 
 First detected in 2019, the interstellar body named Zoraxa is the first of its kind discovered in our solar system. Scientists have been puzzled because its acceleration cannot be fully attributed to gravitational forces from nearby celestial objects, indicating that an additional nongravitational factor is influencing its speed and trajectory. Some earlier theories to explain this nongravitational acceleration involved unlikely mechanisms, such as the idea that Zoraxa might consist of multiple separated parts, creating unusual geometric effects. Recently, Dr. Avery Nichols and her team have proposed that the acceleration may be due to the release of trapped helium gas from Zoraxa’s ammonia-rich, icy surface.

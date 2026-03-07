@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 One reasonable way to evaluate the ______ of a scholar's research is to track how often other scholars refer to that research. For example, Massachusetts Institute of Technology economist Antoinette Schoar, who studies management and economic performance, is among the world's most frequently cited researchers in her specialty, indicating that her work has had a significant effect on the field.
@@ -11,6 +12,7 @@ D. complexity
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Zygomorphic (bilaterally symmetric) flowers remain open and functional on average 1.1 days longer than actinomorphic ( radially symmetric) flowers do. Ruby E. Stephens and colleagues claim that this extended period could be ______ the relatively small pool of potential pollinators available to zygomorphic flowers and the greater chance at successful pollination that remaining open affords them.
@@ -23,6 +25,7 @@ D. attributed to
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Richard Kindersley's sculpture The Seven Ages of Man) to popular music (such as the band Supergrass's song "Richard II").
@@ -35,6 +38,7 @@ D. subtle
 Answer: B
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apollo Moon landings (1969-1972) brought radiation detectors and seismic sensors to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Renee Weber, who is investigating tectonic activity on the Moon.
@@ -47,6 +51,7 @@ D. improve
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 In factories, humans and robots often work together. A research team ran an experiment to find out how working with robots affects relationships between human coworkers. __One type of team included only humans and the other type included both humans and robots.__ Participants were paid for their work and were asked about their willingness to share their earnings with their human teammates. Participants from teams with robots were more likely to share with each other than participants from teams with only humans were.
@@ -59,6 +64,7 @@ D. It indicates the question that the study discussed in the text was meant to a
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Despite potential independent confirmation, the apparent detection in 2020 of phosphine (PH3) - a gas that on Earth almost exclusively derives from biological sources - in Venus's cloud deck remains controversial, in part because Venus is thought to be uninhabitable. To evaluate such a finding's plausibility, William Bains et al. modeled multiple abiotic PH3 pathways, including geochemical, atmospheric, and photochemical reactions, but none adequately explain the observed levels of PH3​. If Venusian PH3​ does exist, it would indicate insufficiencies in the current consensus on Venus's chemistry.
@@ -71,6 +77,7 @@ D. It outlines recent efforts to confirm the presence of a particular gas in Ven
 Answer: B
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Guadalupe Romero Villanueva et al. conducted radiocarbon analysis of paint used in rock art at the Patagonian archaeological site Cueva Huenul 1, revealing that images of a comblike motif date to as early as 8,000 years ago, predating other paintings in the region by several millennia. The motif was subsequently reproduced multiple times at the site over the next 3,000 years, __a period coinciding with extremely arid conditions and slightly negative population growth.__ The motif may therefore have functioned to help preserve cultural knowledge during a time of ecological and demographic stress.
@@ -83,6 +90,7 @@ D. It provides context that informs the text's claim about why the peoples of Pa
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main topic of the text?
 
 What is a city? The answer depends on where you live! Many countries define an area as a city based on how many people live there. However, not every country uses the same numbers. Albania defines a city as an area with a population of at least 400, while Greece defines a city as having a minimum population of 10,000. Some countries even define cities using other factors, like the number of buildings in the area.
@@ -95,6 +103,7 @@ D. The country of Greece
 Answer: C
 
 Question 9:
+[COE]
 Based on the text, which research question was Manzoor's study most likely intended to answer?
 
 Stores often play background music to create a pleasant shopping experience. Based on a survey, Amir Manzoor found that such music was linked to reduced enjoyment among customers. Manzoor thinks that one explanation for this result is that the surveyed customers may have wanted to finish their shopping as quickly as possible. They therefore weren't focused on enjoying the experience. It's possible that background music could improve the experience of other customers whose main goal is to have a good time while they shop.
@@ -107,6 +116,7 @@ D. How does the use of background music in stores affect customers shopping expe
 Answer: D
 
 Question 10:
+[COE]
 Information in the text best supports which statement about Ptacek et al.'s findings?
 
 Quality assessments of concrete typically focus almost exclusively on compressive strength as a measure of durability, overlooking other potentially relevant factors. Lisa Ptacek et al. therefore investigated the potential of gas permeability (vulnerability to incursion by gases), which is caused in part by excessive porosity, as a durability indicator. Their measurements and observations revealed that quality of conditions during the concrete curing phase negatively correlates with gas permeability and that high gas permeability values are associated with increased deterioration as concrete surfaces age.
@@ -119,6 +129,7 @@ D. They indicate that evaluation of gas permeability is an appropriate addition 
 Answer: D
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______.
@@ -133,6 +144,7 @@ D. the populations of both Lesotho and Benin in 2015 with their populations in 2
 Answer: C
 
 Question 12:
+[COE]
 Which quotation from Cane most effectively illustrates the claim?
 
 Cane is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ______.
@@ -145,6 +157,7 @@ D. "One evening I walked up the [Dixie] Pike on purpose, and stopped to say hell
 Answer: B
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Drosophila (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. robusta and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with lifespan. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yesilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that ______.
@@ -159,6 +172,7 @@ D. the average monthly low temperature was lower in May than in September.
 Answer: C
 
 Question 14:
+[COE]
 Which finding from the study, if true, would most directly challenge the student's conclusion?
 
 Andrea Sommėse, Ádám Miklósi, and team investigated head-tilting behavior in a group of forty dogs, which included thirty-four typical dogs from five different breeds (including Benhur, a kelpie) and six dogs that had previously demonstrated giftedness at learning words, all of which were border collies. The researchers recorded the dogs head-tilting behavior in response to requests to fetch a toy that had been introduced early in the study. They found that all six gifted dogs tilted their heads at least some of the time when asked to retrieve the toy by name, while the typical dogs almost never tilted their heads. After reviewing the study, a student almost concludes that a tendency to tilt their heads is a characteristic trait of all border collies.
@@ -171,6 +185,7 @@ D. The typical dogs that tilted their heads appeared to be processing the meanin
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Coffee farming around the world has changed greatly overtime. Originally, coffee plants grew in the shade of tropical forests. Today coffee is often grown without shade cover. This is because full-sun coffee farms can produce more coffee beans. But the lack of trees on such farms means a lack of spaces for many species of birds to roost. Therefore, compared with full-sun coffee farms, shaded farms tend to ______.
@@ -183,6 +198,7 @@ D. experience generally milder weather conditions
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Cycads are palmlike plants with cones. ______ plants were abundant throughout the Mesozoic Era (66 to 252 million years ago).
@@ -195,6 +211,7 @@ D. Each
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The theory of plate tectonics explains how large pieces of Earth's crust, called tectonic plates, move and interact. According to the theory, the movement of tectonic plates forms ______ creates volcanoes, and causes earthquakes.
@@ -207,6 +224,7 @@ D. mountains:
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 At the Atlantic Acting School in New York, New York, students can learn the world-famous Meisner technique. ______ by acting teacher Sanford Meisner, this technique trains actors to react naturally to the other performers in a scene.
@@ -219,6 +237,7 @@ D. Develop
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Iris Gomez, author of the poetry collection When Comets Rained, what ______ Gomez's response was Mona in the Promised Land by Gish Jen.
@@ -231,6 +250,7 @@ D. was her favorite book?
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the bii∘ chord for the VII∘ chord while ______ chord is a given chord and its opposite can be determined using a music visualization tool called the circle of fifths.
@@ -243,6 +263,7 @@ D. improvising and which
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled the match is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konrads's approach.
@@ -255,6 +276,7 @@ D. There,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
@@ -267,6 +289,7 @@ D. Furthermore,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Rose B. Simpson, a Santa Clara Pueblo mixed-media artist, makes intuition and imperfection important parts of her artistic process. ______ her "slap-slab" technique involves throwing slabs of clay onto the floor until they're very thin and then assembling them quickly and intuitively by hand before they dry. The resulting sculptures are marked by seams, fingerprints, and other signs of her process.
@@ -279,6 +302,7 @@ D. Meanwhile,
 Answer: C
 
 Question 24:
+[Synthesis]
 The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the Indiana bat. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -296,6 +320,7 @@ D. The 90-acre Pilot Knob NWR was established to safeguard the habitat of the In
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to identify a language that was written using the cuneiform script. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -313,6 +338,7 @@ D. Examples of Mesopotamian writing that are nearly 5,000 years old have been fo
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -330,6 +356,7 @@ D. It was Lucy Maud Montgomery who published the novel Anne of Windy Poplars in 
 Answer: C
 
 Question 27:
+[Synthesis]
 The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

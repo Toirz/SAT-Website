@@ -1,4 +1,5 @@
 Question 50:
+[Infer]
 Which choice most logically completes the text?
 
 The jade hawkmoth, a large-bodied moth, defends itself against the eastern red bat and other insect-eating bats, which use echolocation to hunt, by emitting ultrasonic clicks that can, for instance, disrupt the bats' echolocation signals. To investigate moths' defensive ultrasound—which researchers had thought was exclusive to tiger moths, hawkmoths, and one species of geometer moths—Akito Y. Kawahara et al. recorded the responses of moths from 252 genera, representing most families of large-bodied moths, to audio playback of bat echolocation. The researchers found that 52 of the genera, including several genera belonging to the geometer family, produced defensive ultrasonic clicks. This result suggests that ____
@@ -11,6 +12,7 @@ D. some genera of large-bodied moths may use ultrasonic signaling for purposes o
 Answer: C
 
 Question 64:
+[Infer]
 Which choice most logically completes the text?
 
 Many French pastries, such as beignets and croquettes, achieve their signature flavor through deep frying in oil; some are prepared with a special starch-based coating. Food scientists Isabelle Fournier and Jacques Tremblay investigated the heat and mass transfer processes that occur when pastries are fried with coatings containing gel-forming compounds, which thicken or solidify in water. During frying, moisture inside the food evaporates, leaving pockets that oil, a pure fat, can occupy. As frying continues, water from the interior moves outward as long as the crust remains porous. However, gel-forming compounds in the coating can create barriers that slow the movement of moisture out of the food’s core. Therefore, a pastry fried without this type of coating will likely _____.
@@ -23,6 +25,7 @@ D. need a different type of frying oil than it would if fried with a coating con
 Answer: C
 
 Question 24:
+[Infer]
 Which choice most logically completes the text?
 
 Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ______.
@@ -35,6 +38,7 @@ D. The hominins at Mistaken Point are better preserved than the hominins at the 
 Answer: C
 
 Question 51:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Ilocano in Woodside. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City's borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that ________.
@@ -47,6 +51,7 @@ D. taken together, there are more Cantonese and Fuzhounese speakers among Chines
 Answer: A
 
 Question 31:
+[Infer]
 Which choice most logically completes the text?
 
 Ethnographers have spent decades analyzing the traditional songs of Indigenous peoples around the world. Only recently, however, have ethnographers started to recognize that many Indigenous songs encode and transmit valuable ecological knowledge—citing, for instance, songs of the Kwakwaka’ wakw people in British Columbia, Canada, that share vital information about clam gardens, and those of the Sakha people in Siberia, Russia, that address the effects of climate change on local ecosystems. It seems likely, therefore, that ethnographers may want to ________
@@ -59,6 +64,7 @@ D. place greater emphasis on the use of Indigenous songs by individuals than on 
 Answer: B
 
 Question 56:
+[Infer]
 Which choice most logically completes the text?
 
 Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ____.
@@ -71,6 +77,7 @@ D. the number of individuals in the study of wild chimpanzees is probably too sm
 Answer: B
 
 Question 9:
+[Infer]
 Which choice most logically completes the text?
 
 To better understand consumer loyalty to specific online retailers, Marina Žižakov and colleagues created a survey using 58 statements as proxy indicators of customer experience with receiving goods purchased online. The statements are categorized as relevant to one of six topics—e.g., statement 10, “I check the status of the shipment as it travels toward me,” is categorized as relevant to the topic of parcel tracking—and respondents rate the importance of each statement to their experience. The researchers propose that the survey can be adapted for use by companies and other researchers, and they note that same-category responses show very low same-participant heterogeneity, which suggests that ______
@@ -83,6 +90,7 @@ D. the reliability of the survey data for each topic would be largely unaffected
 Answer: A
 
 Question 47:
+[Infer]
 Which choice most logically completes the text?
 
 In the early nineteenth century, several botanical gardens in Northern Europe were found to have cultivated orchid hybrids that closely resembled those produced in lesser-known experiments from Southeast Asian botanical societies decades earlier, but there is little evidence that these Northern European horticulturists worked collaboratively on the Southeast Asian experiments. Excluding the possibility of multiple horticulturists coincidentally cultivating hybrids identical to those already bred by the Southeast Asian botanical societies, these facts most strongly suggest that _____
@@ -95,6 +103,7 @@ D. Northern European botanical gardens acknowledged the influence of Southeast A
 Answer: A
 
 Question 58:
+[Infer]
 Which choice most logically completes the text?
 
 Indigenous songs are an important resource for ecological information. Songs of the Warlpiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Karen (hta) Hin Lad Nai people in Thailand offer detailed information about bees. There have been efforts made to preserve Indigenous languages over the years—e.g., the United Nation’s International Decade of Indigenous Languages (2022–2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must _____.
@@ -107,6 +116,7 @@ D. recognize that Indigenous languages likely have more unique expressions that 
 Answer: C
 
 Question 40:
+[Infer]
 Which choice most logically completes the text?
 
 To measure changes in parasite abundance over time, Chelsea Wood and colleagues counted parasite individuals preserved on specimens of Pacific herring, spotted ratfish, and six other fish species collected from Puget Sound between 1880 and 2019. Using statistical models to estimate historical populations, the researchers determined that for every 1°C increase in annual average sea surface temperature, the abundance of complex life cycle parasites like Lepeophtheirus salmonis that require at least three unique host species throughout their life cycle decreased by 38%. However, the abundance of Gyrodactylus sp. and other directly transmitted parasites, which require only one host species, was essentially unchanged. These findings suggest that ___.

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Lady Grant and colleagues ______ pots of sterilized soil with slurries of live microbes collected from soil in five sites across Colorado, including areas of sagebrush and ponderosa pine forest. Grant and team then grew mustard plants in the pots to see if the different microbial slurries affected levels of spicy glucosinolates like butenyl in the plants’ seeds.
@@ -10,6 +11,7 @@ D. populated
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The collectibles market is one of the most difficult segments of the consumer economy to ______. Few economists would have predicted, for example, that the prices of collectible stuffed toys called Beanie Babies would soar in the late 1990s, but soar they did.
@@ -21,6 +23,7 @@ D. avoid
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Derived from research conducted with factory workers from 1924 to 1933, the Hawthorne effect suggests that participants’ awareness that they are being studied alters their behavior and influences study outcomes. Since then, several researchers have claimed to invalidate this phenomenon, positing that the Hawthorne effect cannot be ______ because attempts to detect it invariably involve faulty research methods.
@@ -32,6 +35,7 @@ D. inculcated
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Paleontologists think that *Buitreraptor*, *Saltasaurus*, and other long-extinct theropods and sauropods may have breathed using air sacs connected to tubelike extensions inside the animals’ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of *Buitreraptor*, *Saltasaurus*, and other theropods and sauropods.
@@ -43,6 +47,7 @@ D. proxies for
 Answer: D
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some social scientists argue that while a belief in the importance of individual autonomy is key to democracy, the public's understanding of economics is also central to its subsequent comprehension of a state's politics, and if an electorate is to function, economic issues cannot remain the domain only of experts. Economics is too ______ to leave to economists alone.
@@ -54,6 +59,7 @@ D. critical
 Answer: D
 
 Question 6:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
@@ -67,6 +73,7 @@ D. To present the narrator's generalization along with supporting examples from 
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Advancements like the emergence of wheel-fashioned ceramics in the eastern Mediterranean circa 4500 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity. Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold granulation (in which tiny gold spheres are applied to a gold surface to create textured designs) and other sophisticated goldsmithing techniques suggests that simpler processes supplanted advanced methods.
@@ -78,6 +85,7 @@ D. It advances a claim made by researchers in one academic field about the natur
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In their study of the steering muscles regulating sclerites (minute hardened structures) in the *Drosophila* (fruit fly) wing hinge, Johan M. Melis et al. used machine learning to devise a convolutional neural network (CNN) model capable of predicting the pattern of wing motion produced by the maximum activity of the muscles. The CNN model’s output aligned with results of prior studies by other researchers measuring muscle activity patterns directly—one of several indications, said Melis et al., that the model accurately represents important biomechanical processes underlying wing motion.
@@ -89,6 +97,7 @@ D. To account for Melis et al.’s reliance in their study on a CNN model in lie
 Answer: A
 
 Question 9:
+[COE]
 Based on the text, why does Miguel accompany his brother to the sisters' house one day?
 
 The following text is from Julia Alvarez's 2000 novel *In the Name of Salomé*. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.
@@ -104,6 +113,7 @@ D. Miguel anticipates having the opportunity to be introduced to both the sister
 Answer: D
 
 Question 10:
+[COE]
 What does the text most strongly suggest about paintings by Demps?
 
 Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved swift applications of paint. That many of Hair's acolytes, including Rodney Demps, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group's shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Roy McLendon was also prolific, his paintings were executed with greater attention to detail.
@@ -115,6 +125,7 @@ D. Because of the manner in which they were created, they likely have visual qua
 Answer: D
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 While US public charities, like Commonfund, must file Form 990 yearly with the IRS, private foundations, such as the David and Lucile Packard Foundation, must file a different form, 990-PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, “self-dealing” (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990-PF in the years 2003–2005, ______
@@ -126,6 +137,7 @@ D. those that also filed Form 4720 collectively paid larger penalties for failin
 Answer: D
 
 Question 12:
+[COE]
 Assuming that the Volga and Don basins supported similarly sized hunter-gatherer populations 6,500-8,000 years ago, which finding, if true, would most directly support Courel and colleagues’ explanation?
 
 Blandine Courel and her colleagues analyzed pottery fragments from thirty-five sites across the Volga and Don river basins to determine whether the ways in which hunter-gatherer societies used pottery in these regions around 6,500-8,000 years ago were influenced primarily by local food availability or primarily by cultural factors. Analysis of organic residues on the pottery fragments showed different prevailing uses for pottery in these locations—cooking and storing terrestrial animal protein at Volga sites and cooking and storing aquatic animal protein at Don sites, which Courel and colleagues attribute to cultural differences.
@@ -137,6 +149,7 @@ D. The people of the Volga basin acquired the techniques used to create pottery 
 Answer: A
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support the scientist's conclusion?
 
 To boost the performance of oil-absorbing resins, which are used to remove oil and other organic compounds from wastewater, one team of materials researchers created a resin with a novel—albeit very expensive—monomer (a molecule that can chemically bond with analogous molecules to form polymers) synthesized from β-cyclodextrin. Other researchers have produced resins consisting of various much cheaper, commercially available methacrylate monomers, including one derived from benzyl methacrylate (BZMA). Testing all these resins' capacity to absorb toluene and trichloromethane, two organic compounds, a scientist concluded that when practical considerations were taken into account, the BZMA-derived resin showed the greatest potential for use in wastewater cleanup.
@@ -148,6 +161,7 @@ D. Whereas the resin synthesized from β-cyclodextrin exhibited the highest abso
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Northeastern North Carolina's Camden County is among the most rural counties in the United States: the US Census Bureau classified it as 99.5% rural in 2010. Researchers often struggle to recruit residents of counties like Camden for inclusion in studies. Melissa Valerio and colleagues tested whether an approach called snowball sampling improves recruitment. Working in two rural counties, they recruited a few people (known as “seeds”) with the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______.
@@ -159,6 +173,7 @@ D. the characteristics that made the seeds desirable for inclusion in the propos
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such efforts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations' beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______
@@ -170,6 +185,7 @@ D. modern writers’ foregrounding of female characters is chiefly motivated by 
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The world's many geothermal power plants leverage an array of ______ the Sarulla plant uses a flash steam system that transforms high-temperature geothermal fluid into steam; in Iceland, the Reykjanes plant's dry steam system pumps superheated steam from a reservoir; and in the US, the McGinness Hills plant's binary cycle system uses lower-temperature geothermal fluid in conjunction with a secondary fluid.
@@ -181,6 +197,7 @@ D. technologies in Indonesia;
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When a given term—“self-fulfilling prophecies” and “role models” are two well-known examples—is generally accepted and frequently used, ______ susceptible to obliteration by incorporation (OBI). In cases of OBI, widely used terms are rarely, if at all, attributed to the individuals who coined them.
@@ -192,6 +209,7 @@ D. these often become
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In pre-Columbian Mesoamerica, obsidian was used as a commodity currency. By using specific goods like obsidian as common units of exchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew ______ that requires what economist W.S. Jevons deems a “double coincidence of wants”—in other words, each trading party must want precisely what the other has.
@@ -203,6 +221,7 @@ D. currency —in favor of a direct trade system
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam's diameter) of 85 micrometers.
@@ -214,6 +233,7 @@ D. focusing
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For her installation *The Last Cruze*, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative, documentary nature of Frazier's work.
@@ -225,6 +245,7 @@ D. punctuates
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A single specimen of *T. iota*, collected at a depth of 1,684 fathoms (3,080 meters) in the South Pacific, and a single specimen of *P. obliquiloculata*, collected at a depth of 260 fathoms (475 meters) in the South Atlantic, have been preserved as exemplars of their respective ______ former in a repository at Washington, DC's Museum of Natural History and the latter in a repository at London's Natural History Museum.
@@ -236,6 +257,7 @@ D. species; the
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a given rock formation, Viséan rock from 346.7 million years ago might directly abut Selandian rock from 61.6 million years ago, with millions of years of material missing in between. ______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.
@@ -247,6 +269,7 @@ D. As a result,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Architect Victor Gruen, the designer of Illinois's Lakehurst shopping mall, conceived of the mall as an indoor version of the European town square, a communal space that encouraged visitors to stroll and linger. ______ he designed Lakehurst Mall with long, pedestrian-friendly promenades and ample seating areas clustered around fountains and greenery.
@@ -258,6 +281,7 @@ D. In addition,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Long thought to be sessile (immobile), adult *Chelonibia testudinaria*, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over time—a phenomenon that has been attributed to the barnacles' passive displacement by water currents. ______ a research team found that adult *C. testudinaria* moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.
@@ -269,6 +293,7 @@ D. Undermining this explanation,
 Answer: D
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In Annie Dillard's *Pilgrim at Tinker Creek*—where, early on, the author marvels at a single goldfish's delicate fins but later winces when imagining a horde of goldfish laying and eating their own eggs—Dillard struggles to reconcile the complicated juxtapositions of the natural world. ______ nature's mesmerizing intricacy and pitiless harshness prove inextricably linked for Dillard, like “two branches of the same creek.”
@@ -280,6 +305,7 @@ D. Hence,
 Answer: A
 
 Question 26:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two movies?
 
 While researching a topic, a student has taken the following notes:
@@ -297,6 +323,7 @@ D. Paul Fejos's 1928 film *The Last Moment* is among the many lost films of the 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to contrast the type of neurotechnology Thync develops with the type of neurotechnology BrainGate develops. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

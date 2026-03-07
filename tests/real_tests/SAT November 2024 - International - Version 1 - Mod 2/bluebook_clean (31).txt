@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The organizers specifically indicated that the conference was intended to focus on children's literature, so despite the education specialist's ______ her expertise on the subject in general, she found that she could speak authoritatively about the works of illustrator Michele Wood, particularly *I See the Rhythm*, which she had used effectively in classroom instruction for many years.
@@ -10,6 +11,7 @@ D. insight into
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Writer Lydia Davis observed that while traditional literary forms, such as the poem, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. Davis’s own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry.
@@ -21,6 +23,7 @@ D. dispersed
 Answer: C
 
 Question 3:
+[WIC]
 As used in the text, what does the word “part” most nearly mean?
 
 The following text is from Jacqueline Woodson’s 2018 novel *Harbor Me*.
@@ -34,6 +37,7 @@ D. Blob
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The sloping tile roofs and picturesque facade of Mission San Luis Rey de Francia in Oceanside, California, exemplify the Spanish contribution to Californian architecture, an influence that is ______ throughout the state—architectural tourists visiting Los Angeles Union Station in Los Angeles, for example, can easily recognize how its style draws inspiration from the Spanish missions.
@@ -45,6 +49,7 @@ D. corroborated
 Answer: A
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Matthew Arnold's 1869 nonfiction book *Culture and Anarchy*.
@@ -58,6 +63,7 @@ D. It details an example that supports the author's primary claim.
 Answer: A
 
 Question 6:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
 
 **Text 1**
@@ -75,6 +81,7 @@ D. Elderberry bushes grow best when planted in shaded areas, while chia flowers 
 Answer: A
 
 Question 7:
+[Cross Text]
 Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?
 
 **Text 1**
@@ -90,6 +97,7 @@ D. Its primary methods for analyzing fiction written in the period are growing o
 Answer: B
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 *Drosophila* (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as *D. persimilis* and *D. mediopunctata*. *Drosophila* body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a *D. melanogaster* population in Yesiloz, Turkey, that were collected monthly between May and October over three years. Their research suggests that *Drosophila* collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that ______
@@ -101,6 +109,7 @@ D. the average male wing centroid size was 1.98 mm in May but was 2.31 mm in Jul
 Answer: A
 
 Question 9:
+[COE]
 Which quotation from an art history textbook would most effectively support the student's claim?
 
 In a paper for an art history class, a student claims that Agnes Martin's 1957 painting *Harbor Number 1* marks a significant change in Martin's artistic development.
@@ -112,6 +121,7 @@ D. "Of all Martin's paintings, none so clearly represents her abilities and idea
 Answer: C
 
 Question 10:
+[COE]
 Which finding from the study, if true, would most directly support the team's conclusion?
 
 Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Barack (a golden retriever), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of *The Little Prince* being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
@@ -123,6 +133,7 @@ D. The difference between the pattern of brain activity a dog showed when hearin
 Answer: D
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher's example?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______
@@ -134,6 +145,7 @@ D. both Lake Kegonsa and Oulujärvi, which had more days of ice in the winter of
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Enelton Fagnani, José Roberto Guimara, and Pedro Sergio Fadini did not find this correlation in a study conducted in Brazil, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Rasmus Sorensen and colleagues in Sweden, showed similar results to the North American studies, while few have produced results similar to those of Fagnani, Guimara, and Fadini's study, suggesting that ______
@@ -145,6 +157,7 @@ D. there were circumstances unique to Sorensen and colleagues' study that impede
 Answer: C
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 In June of 1986, India liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indian companies. This was part of a wave of stock market liberalizations from the mid-1980s through the mid-1990s—Colombia in 1991, Nigeria in 1995, and so on. In an analysis of economic data from 1976 to 1993, Ross Levine and Sara Zervos found that liberalization did not lead to enduring increases in investment in companies based in countries that liberalized. Peter Blair Henry, however, found that, on average, investment in companies in liberalized countries increased significantly in the three years following liberalization. Taken together, these results suggest that ______
@@ -156,6 +169,7 @@ D. investment growth is likely to be more consistent in countries that liberaliz
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Data collected by the Mars rover *Curiosity* at the Gale Crater's Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-Hernández *et al.* analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-Hernández *et al.* concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that ______
@@ -167,6 +181,7 @@ D. although the area of the Murray Formation experienced a prolonged period of d
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE-400 BCE, hasn't been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco León Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family— are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that ______
@@ -178,6 +193,7 @@ D. the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Each year, the Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, "produced the most outstanding work in an idealistic ______ in 1909, for instance, judges recognized Selma Ottilia Lovisa Lagerlöf “[for] the lofty idealism, vivid imagination and spiritual perception that characterize her writings.”
@@ -189,6 +205,7 @@ D. direction" and,
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the Poincaré conjecture. Having built on Hamilton's previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman's proof, persuading some mathematicians that he deserves credit as well.
@@ -200,6 +217,7 @@ D. are being
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The djeser, which is written as a horizontal hieroglyph shaped like a bent arm holding a short stick, and the heqat, which is written as a hieroglyph that looks like four oval items pouring out of a barrel, were ancient Egyptian units of ______ to record length and volume, respectively, the djeser and heqat have since fallen out of use.
@@ -211,6 +229,7 @@ D. measurement and used
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Maria K. Hartley collected arthropods with ______ another research team, led by Kimberly J. La Pierre, gathered them with bug vacuums.
@@ -222,6 +241,7 @@ D. sweep nets, for instance,
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On most of the world's beaches, sand is a predictable cream or beige color. The sand at Vermelha Beach in Brazil is a strikingly different ______ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar, deposits of iron oxide and other organic matter lend the sand at Vermelha Beach a colorful red tint.
@@ -233,6 +253,7 @@ D. shade, though. Most
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The parks of San Jose, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from San Jose. The team found that posts from the city's parks contained more words associated with happiness than other posts did.
@@ -244,6 +265,7 @@ D. had looked
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Marcel Duchamp intended his 1917 so-called ready-made sculpture *Fountain* to challenge then-prevailing conceptions about the nature of art. ______ Duchamp's *Fountain* did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object-even, as Duchamp's sculpture was, a urinal-into a legitimate work of art.
@@ -255,6 +277,7 @@ D. Indeed,
 Answer: D
 
 Question 23:
+[Synthesis]
 The student wants to emphasize how hard fluorite is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -273,6 +296,7 @@ D. Quartz, talc, and fluorite can be ordered by hardness based on their ability 
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to emphasize a similarity between *The Prophet* and *The Professor's House*. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -291,6 +315,7 @@ D. The year was 2021, and the copyright to Willa Cather's *The Professor's House
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -309,6 +334,7 @@ D. The scenes depicted in both works were first carved onto a printing block, th
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -327,6 +353,7 @@ D. A circumnavigation is defined as a sailing trip that goes in a complete circl
 Answer: C
 
 Question 27:
+[Synthesis]
 The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

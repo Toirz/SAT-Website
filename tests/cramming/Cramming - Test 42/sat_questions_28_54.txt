@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase? (with video explanation)
 
 Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ____ to some readers of his time.
@@ -12,6 +13,7 @@ Answer: A
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The reception of Misa Sugiura’s book It’s Not Like It’s a Secret has been very good. Many reviewers have ______ the book, and it won the Asian/Pacific American Award for Literature.
@@ -25,6 +27,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ____. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.
@@ -38,6 +41,7 @@ Answer: D
 
 
 Question 4:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Bram Stoker’s 1911 novel *The Lair of the White Worm*. Adam is meeting his great-uncle Richard at a port.
@@ -52,6 +56,7 @@ Answer: A
 
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán shifted his style to incorporate principles of modernism, as seen in the Plazaro Suárez House. The project’s unadorned geometric forms, typical of the modernist aesthetic, contrasted with the historically inspired architecture seen in his earlier projects in Guadalajara, such as the house in Calle Pedro Loza.
@@ -65,6 +70,7 @@ Answer: D
 
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In their study of the steering muscles regulating sclerites (minute hardened structures) in the Drosophila (fruit fly) wing hinge, Johan M. Melis et al. used machine learning to devise a convolutional neural network (CNN) model capable of predicting the pattern of wing motion produced by the maximum activity of the muscles. The CNN model’s output aligned with results of prior studies by other researchers measuring muscle activity patterns directly—one of several indications, said Melis et al., that the model accurately represents important biomechanical processes underlying wing motion.
@@ -78,6 +84,7 @@ Answer: A
 
 
 Question 7:
+[COE]
 According to the table, which country has the highest approximate annual ridership?
 
 General Information about Metro Systems in Four Countries
@@ -93,6 +100,7 @@ Answer: A
 
 
 Question 8:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 The following text is adapted from Anthony Trollope’s 1855 novel *The Warden*. The narrator is describing a rectory, the residence of a clergyperson.
@@ -107,6 +115,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
 
 *The Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.
@@ -120,6 +129,7 @@ Answer: C
 
 
 Question 10:
+[Structure]
 Which choice best states the main topic of the text?
 
 In her book *Limitarianism*, ethicist Ingrid Robeyns criticizes economic policies that allow businesses to profit from their successes while displacing the burden of failure onto taxpayers. As an example she cites the US financial crisis of 2008 in which dozens of institutions including State Street and SunTrust received a collective $700$ billion of government support. Had the US government previously exercised stricter regulation of risky financial instruments, Robeyns argues, this enormous expenditure of taxpayer dollars would not have been necessary.
@@ -133,6 +143,7 @@ Answer: D
 
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Average Hours Worked per Person per Year in 1950 and 2017
@@ -149,6 +160,7 @@ Answer: A
 
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ____.
@@ -162,6 +174,7 @@ Answer: D
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ____.
@@ -175,6 +188,7 @@ Answer: C
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The great egret and the wood stork are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the extent of tree-canopy coverage in the area and how deep the water is during the birds’ breeding season. They found that great egrets prefer areas with deep water during breeding season, but that was not true for wood storks. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore more likely to ______
@@ -188,6 +202,7 @@ Answer: C
 
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When a given term—“self-fulfilling prophecies” and “role models” are two well-known examples—is generally accepted and frequently used, ______ susceptible to obliteration by incorporation (OBI). In cases of OBI, widely used terms are rarely, if at all, attributed to the individuals who coined them.
@@ -201,6 +216,7 @@ Answer: A
 
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 It's widely known that plants can release airborne chemicals to warn their neighbors of an insect attack. However, scientists have questioned whether plants can also perceive physical cues. To investigate this, a team of botanists studied *Arabidopsis thaliana*, a small flowering plant. They exposed one group of plants to precise vibrations that mimicked the chewing of a caterpillar. Other groups were exposed to silence or to different vibrations, such as those created by a gentle wind. The team then measured the production of glucosinolates, a class of chemical defenses. They found that plants exposed only to the chewing vibrations produced significantly higher levels of glucosinolates, while the other groups showed no change in their chemical defenses, suggesting that ________
@@ -214,6 +230,7 @@ Answer: D
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On most of the world’s beaches, sand is a predictable cream or beige color. The sand at Talofofo Beach in Guam is an ______ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar, deposits of crushed olivine crystal and other organic matter lend the sand at Talofofo Beach a colorful green tint.
@@ -227,6 +244,7 @@ Answer: C
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Miguel Luciano’s 2006 sculpture Pure Plantainum is a striking and thought-provoking work of art. Fittingly, curator E. Carmen Ramos decided ______ it in a 2013 exhibition at the Smithsonian American Art Museum.
@@ -240,6 +258,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Costa Rica and Portugal have two of the longest constitutions in the world. At 16,705 and 35,219 words, respectively, these ______ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.
@@ -253,6 +272,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Although 39P/Oterma and 83982 Crantor are both classified as centaur objects—outer solar system bodies in unstable orbits—they exhibit striking differences in ____ object 39P/Oterma is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 83982 Crantor, showing no such activity, is considered dormant.
@@ -266,6 +286,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Caridad Piñeiro, author of the suspense novel Cold Case Reopened, what ______ Piñeiro’s response was Wolf and the Dove by Kathleen Woodiwiss.
@@ -279,6 +300,7 @@ Answer: C
 
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English? (with video explanation)
 
 In the list “Things That Make One’s Heart Beat Faster” from Sei Shōnagon’s Pillow Book, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ____ readers a thousand years later.
@@ -292,6 +314,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when writing his biography of Alexander Hamilton (1735–1804), historian Ron Chernov had at his disposal Harold Syrett’s 26-volume, 19,000-document Papers of Alexander Hamilton.
@@ -305,6 +328,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Alabama is one of several US states to enact statutes supporting the incorporation of worker cooperatives, businesses with democratic governance. Many scholars testify to the economic sustainability of the co-op model while acknowledging its challenges. ______ those who declare the model inherently unviable can discount documented successes, while those who champion it may understate its challenges.
@@ -318,6 +342,7 @@ Answer: A
 
 
 Question 25:
+[Synthesis]
 The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal? (with video explanation)
 
 While researching a topic, a student has taken the following notes:
@@ -337,6 +362,7 @@ Answer: C
 
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the size of Tepeapulco. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -355,6 +381,7 @@ Answer: D
 
 
 Question 27:
+[Synthesis]
 The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall's *Four Seasons* at sites like Chase Tower to innovative street art like Kashink's mural *Be The Change You Wish To See* located on South Wabash Avenue. The ______ public art on display in the city can thus satisfy any art lover.
@@ -10,6 +11,7 @@ D. apathy toward
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Madeline Anderson's 1970 film *I Am Somebody* as "galvanizing" and Carl Franklin's 1995 film *Devil in a Blue Dress* as "picture perfect." Fans of the two films hope that such ______ will attract new audiences to these works.
@@ -21,6 +23,7 @@ D. impartiality
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ______ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
@@ -32,6 +35,7 @@ D. discern
 Answer: D
 
 Question 4:
+[COE]
 Which finding from the model tests, if true, would support the researchers' hypothesis?
 
 Throughout history, tall structures such as Gonbad-e Qabus in Iran or Hwangnyongsa in South Korea have posed a challenge to their architects, since these structures are more susceptible to physical forces than smaller structures. For example, the lower floors of a building must be able to support the enormous weight of the upper floors. To test a hypothesis that steel is more suitable than concrete for construction of a tall building's lower floors, researchers created a computer model of two buildings that were identical except that one had concrete lower floors while one had steel lower floors, and simulated the effects of the forces of wind and gravity on those structures over the course of a century.
@@ -43,6 +47,7 @@ D. At the end of the simulation, the structure with steel lower floors had sligh
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 *HMS Surprise*, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of *HMS Surprise* and other books in the series, saying that they do not finish conclusively but arbitrarily stop. __But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's *The Forsyte Saga*.__
@@ -54,6 +59,7 @@ D. It argues that the unusual structure that O'Brian uses for *HMS Surprise* mak
 Answer: B
 
 Question 6:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. __While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria *Brevibacillus borstelensis* and *Lactococcus lactis*—it has rarely been observed among eukaryotes (multicellular organisms).__ However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
@@ -65,6 +71,7 @@ D. It argues that two biological phenomena are more similar than they may initia
 Answer: B
 
 Question 7:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
 
 **Text 1**
@@ -82,6 +89,7 @@ D. He and colleagues' study did not find convincing evidence of nutrient transfe
 Answer: A
 
 Question 8:
+[COE]
 Which choice best describes the finding made by Curtis and colleagues, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
@@ -93,6 +101,7 @@ D. As lunar intensity increases, Arizona pocket mice reduce their foraging activ
 Answer: B
 
 Question 9:
+[COE]
 According to the text, which factors seemed to be linked to the behavior of butterflies in Grace Herzel and colleagues' study?
 
 Biologist Grace Herzel and colleagues conducted a study of how butterfly color and weather conditions relate to butterfly behavior, which wouldn't have been possible without data gathered by students and other amateur science enthusiasts in the community. Considering over three years' worth of data, the researchers found that white butterflies were observed on green flowers more often than any other butterflies were, and that butterflies were observed to feed more often on cloudy days than on other days.
@@ -104,6 +113,7 @@ D. Both butterfly color and weather conditions
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support Martinez and colleagues' conclusion?
 
 The bird species *Myiobius barbatus* (the bearded flycatcher) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *M. barbatus*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *M. barbatus* associates *T. caesius* alarm calls with danger.
@@ -115,6 +125,7 @@ D. When Martinez and colleagues played control sounds of random noise in the vic
 Answer: D
 
 Question 11:
+[COE]
 Which choice best describes data from the table that weaken the student's claim?
 
 Researchers have used several different methods to determine the population density of cougars (*Puma concolor*). A student claims that the use of scat-detecting dogs produces the most precise results, with the smallest difference between minimum and maximum densities.
@@ -126,6 +137,7 @@ D. Gregory A. Davidson et al. reported a maximum density of 5.50 individuals per
 Answer: C
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Shcherbakova and colleagues' claim?
 
 The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages' capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.
@@ -137,6 +149,7 @@ D. Shcherbakova and colleagues' analysis showed a slightly negative correlation 
 Answer: C
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Neuroscientist Kiyohito ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P7 gave equal ratings to the impressionist and color-field paintings, the data in the graph suggest that the model predicted that ______
@@ -148,6 +161,7 @@ D. P7 would derive less aesthetic pleasure from impressionist paintings than fro
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as *Vita Sancti Cadoci*, composed in the 11th century, and *Culhwch* and *Olwen* from the second half of the 12th century. Sir Thomas Malory's 15th-century text *Le Morte d'Arthur* was an attempt to compile these stories into a coherent narrative. Many of Malory's sources derive from Geoffrey of Monmouth's *History of the Kings of Britain*, written in the 1130s. While neither *History* nor any works that predate it mention Arthur's famous Round Table at which his knights assembled, *Le Morte d'Arthur* does, suggesting that ______
@@ -159,6 +173,7 @@ D. Malory encountered the Round Table in a source that Geoffrey of Monmouth was 
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Graeme Shannon and colleagues found in a 2016 study of black-tailed prairie dogs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta analysis suggest that ______
@@ -170,6 +185,7 @@ D. the studies in the meta-analysis that examined mammals were more likely than 
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The term "retroflex" derives from Latin and means "bent back," an apt descriptor for the branch of consonants—retroflex consonants—pronounced with the tongue curling up and back in the mouth. In many languages, including English, these consonants are ______ in some dialects of Mandarin, however, four such consonants ("ch," "sh," "zh," and "r") are relatively common.
@@ -181,6 +197,7 @@ D. rare and
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ______ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).
@@ -192,6 +209,7 @@ D. photosynthesis,
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine's root system, ______ extensive networks, which can be used to transport nutrients between trees.
@@ -203,6 +221,7 @@ D. form
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though he would go on to work with many respected bands, including CAB on their album *CAB 2*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.
@@ -214,6 +233,7 @@ D. drummer Dennis Chambers,
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Gretchen Legler's short essay on "sound," a word referring to a large inlet or channel of a sea or ocean, is included in the collection *Home Ground: A Guide to the American Landscape*. The book wasn't written solely by ______ other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.
@@ -225,6 +245,7 @@ D. Legler, however;
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty eight member countries. According to this data, in July 2021, a "basket" of goods and services priced at 100 US dollars (USD) in the United States would have cost 66 USD in fellow OECD member ______
@@ -236,6 +257,7 @@ D. nation—Latvia.
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In his painting *At the Cycle Race Track*, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger's painting doesn't technically represent a fourth dimension; humans can only see in three dimensions. ______ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
@@ -247,6 +269,7 @@ D. That said,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state's USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
@@ -258,6 +281,7 @@ D. However,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 On August 5, 1938, aviator Douglas Corrigan received a ticker-tape parade in New York City in recognition of his transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation. ______ Corrigan's parade was just one of 16 honoring pilots.
@@ -269,6 +293,7 @@ D. Nevertheless,
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -287,6 +312,7 @@ D. Walter Gropius founded the Bauhaus in 1919 and acted as its director until 19
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -304,6 +330,7 @@ D. When the fibers were twisted as part of the 2019 study, the surface temperatu
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to specify the total mass of Earth's magnesium relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

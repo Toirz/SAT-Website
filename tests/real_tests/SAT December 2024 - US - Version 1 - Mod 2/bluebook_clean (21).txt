@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Jessica Watson, who was the youngest person to sail nonstop and unassisted around the world, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Jeanne Bare was the first woman to circumnavigate the world.
@@ -10,6 +11,7 @@ D. constrain within
 Answer: B
 
 Question 2:
+[COE]
 Which choice completes the text with the most logical and precise word?
 
 Ronyoung Kim creatively captures the Korean American immigrant experience in her novel *Clay Walls* by writing about a family from three ______ perspectives. The first section of the novel is from the mother Haesu's perspective, the second is from the father Chun's perspective, and the last is from the daughter Faye's perspective.
@@ -21,6 +23,7 @@ D. required
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the mid-1980s, the price of vintage and even new baseball cards rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn't previously wanted to purchase baseball cards thronged the market, believing prices would continue to rise and the cards could be resold later at a profit.
@@ -32,6 +35,7 @@ D. satisfying
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fact that publications by University of California-Berkeley economist Bronwyn Hughes Hall, who studies innovation and economics, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.
@@ -43,6 +47,7 @@ D. overshadows
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including *Bolets separans* and species from the genus *Thelephora*) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: __temperature reductions were observed in the air immediately surrounding the mushrooms__. Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.
@@ -54,6 +59,7 @@ D. It presents a tangential finding about thermoregulation in certain fungal spe
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the information about Grenada in the text as a whole?
 
 In Grenada, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than a third between 2000 and 2019. Such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Moses Pundo and Gavin Fraser's study of fuel use in Kenya shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the age of the household head.
@@ -65,6 +71,7 @@ D. It describes a trend that the text goes on to suggest has a similar cause as 
 Answer: C
 
 Question 7:
+[COE]
 The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city's parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can't explain the difference in park use.
@@ -76,6 +83,7 @@ D. It is caused by something other than the parks' proximity to city residents.
 Answer: D
 
 Question 8:
+[COE]
 Which finding, if true, would most directly support Martinez and colleagues' conclusion?
 
 The bird species *Schistocichla leucostigma* (the spot-winged antbird) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *S. leucostigma*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *S. leucostigma* associates *T. caesius* alarm calls with danger.
@@ -87,6 +95,7 @@ D. Martinez and colleagues played alarm calls from different *T. caesius* indivi
 Answer: B
 
 Question 9:
+[COE]
 Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?
 
 The Lego Group's introduction of the Legoland theme park in 1968 is a quintessential instance of brand extension—the company leveraged its brand recognition as a toy manufacturer to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers' likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of wristwatch and necktie) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -98,6 +107,7 @@ D. Have a representative sample of the households rate the similarity of one pro
 Answer: A
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P4 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______
@@ -109,6 +119,7 @@ D. P4's rating for abstract and cubist paintings would equal one another.
 Answer: A
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Sara M. Ekstrom and colleagues in Sweden, showed similar results to the North American studies, while few have produced results similar to those of Porvari and Verta's study, suggesting that ______
@@ -120,6 +131,7 @@ D. dissolved organic carbon and mercury levels do typically rise and fall togeth
 Answer: D
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Anisakis* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Gyrodactylus* sp. (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______
@@ -131,6 +143,7 @@ D. directly transmitted parasites identified in the study were more likely to us
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Amy Morris-Drake and colleagues found in a 2017 study of dwarf mongooses. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______
@@ -142,6 +155,7 @@ D. some studies of birds found larger effects of exposure to anthropogenic noise
 Answer: D
 
 Question 14:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Although the epic poem *The Aeneid* dates back to the 1st century BCE, ______ compelling narrative still captivates readers today.
@@ -153,6 +167,7 @@ D. it's
 Answer: C
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Les Sables Roses Beach in French Polynesia is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.
@@ -164,6 +179,7 @@ D. shade; though
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The poem "The Ballad of Rudolph Reed," which was published in 1960, contains three signature elements of Gwendolyn Brooks's poetic ______ compressed lines infused with bursts of vivid imagery; syncopated rhythms, largely inspired by the blues tradition; and a keen attention to everyday life in Brooks's South Side Chicago neighborhood.
@@ -175,6 +191,7 @@ D. style; terse.
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Neoclassical economic models assume that people consistently make rational economic decisions, but Francesca Gino of Harvard Business School makes no such assumption; behavioral economists such as Gino, whose research focuses on worker productivity, ______ that economic decision-making can in fact be highly irrational.
@@ -186,6 +203,7 @@ D. contends
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While the greater adjutant (*Leptoptilos dubius*) can be found in places like Dong Khanthung in Laos and Chitwan National Park in Nepal, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife ______ is on the front lines of conservation efforts to bring adjutants back from near extinction.
@@ -197,6 +215,7 @@ D. biologist, Dr. Purnima Devi Barman
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The story of Chile's electrification is perhaps most readily understood by studying developments in several key years: 1916, when engineer Arturo Salazar attended the Pan-American Scientific Conference; 1936, when the study entitled "politica eléctrica chilena" was ______ 1943, when the national electrical plan was finalized.
@@ -208,6 +227,7 @@ D. released, and
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Greek dramatist Euripides's *Cyclops*, a satyr play, is an extant work: it can still be read. By contrast, lost works like Euripides's play about the hero Alcmaeon, *Alcmaeon in Psophis*—no copy of which exists—______ known to antiquarians only through references in extant works.
@@ -219,6 +239,7 @@ D. is becoming
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Long thought to be sessile (immobile), adult *Chelonibia testudinaria*, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over time—a phenomenon that has been attributed to the barnacles' passive displacement by water currents. ______ a research team found that adult *C. testudinaria* moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.
@@ -230,6 +251,7 @@ D. Contrary to this phenomenon,
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Marcia Rieke is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Rieke's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.
@@ -241,6 +263,7 @@ D. Secondly,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Photogrammetry and polygonal modeling, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ these approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.
@@ -252,6 +275,7 @@ D. Specifically,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The total solar eclipse of June 5, 762 BCE, was the second-longest total eclipse before the Dark Ages—7 minutes, 25 seconds long. Another memorable solar eclipse occurred on March 21, 424 BCE, but unlike the 762 BCE eclipse, the 424 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or "ring of fire."
@@ -263,6 +287,7 @@ D. Nonetheless,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to indicate the size of the Coachella Valley NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -280,6 +305,7 @@ D. Home to the Coachella Valley fringe-toed lizard, California's Coachella Valle
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -298,6 +324,7 @@ D. Since it was built under a rock overhang, Antelope House was naturally protec
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to provide an explanation and example of Kepler's first law of planetary motion. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

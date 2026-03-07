@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers becomes engrossed in the decision of how she should spend a recently obtained sum of money: ______
@@ -11,6 +12,7 @@ D. “It seemed to her a very large amount of money, and the way in which it stu
 Answer: A
 
 Question 2:
+[COE]
 Which quotation from A Pair of Silk Stockingsmost effectively illustrates the claim?
 
 A Pair of Silk Stockings is a novel written by American author Kate Chopin in 1897. Within the novel, a passage delineates an individual who experiences an enhanced sense of self-positivity upon putting on an item of clothing.
@@ -23,6 +25,7 @@ D. “Now she rested her elbow on the cushion of the glove counter, and a pretty
 Answer: B
 
 Question 3:
+[COE]
 Which quotation from 'A Pair of Silk Stockings' most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers is depicted as sometimes making decisions without conscious deliberation:____
@@ -35,6 +38,7 @@ D. "Mrs. Sommers selected a black pair and looked at them very long and closely.
 Answer: C
 
 Question 4:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 “A Pair of Silk Stockings” is an 1897 short story written by Kate Chopin. In describing the character of Mrs. Sommers, Chopin emphasizes the uniqueness of Mrs. Sommers’s perspective: _____
@@ -47,6 +51,7 @@ D. “She wanted an excellent and stylish fit, she told the young fellow who ser
 Answer: C
 
 Question 5:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
@@ -59,6 +64,7 @@ D. “When she entered [the restaurant] her appearance created no surprise, no c
 Answer: A
 
 Question 6:
+[Synthesis]
 The student wants to emphasize a similarity between the two artifacts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -77,6 +83,7 @@ D. There are more recent artifacts in the Hina Hanta archive than the buffalo ho
 Answer: B
 
 Question 7:
+[Synthesis]
 The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -95,6 +102,7 @@ D. The clay mug (isht ishko) was made in 1915.
 Answer: C
 
 Question 8:
+[Synthesis]
 The student wants to support the claim that the online archive features both older and newer artifacts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -113,6 +121,7 @@ D. The Hina Hanta online archive features cultural artifacts both old and new, i
 Answer: D
 
 Question 9:
+[Synthesis]
 The student wants to specify the shawl's name in Choctaw. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -130,6 +139,7 @@ D. The name of the online archive Hina Hanta means “bright path” in Choctaw.
 Answer: A
 
 Question 10:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely give the same answer to which question?
 
 Text 1
@@ -145,6 +155,7 @@ D. Do plants that transfer nutrients through a root-to-root pathway also transmi
 Answer: B
 
 Question 11:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
 
 Text 1
@@ -160,6 +171,7 @@ D. He and colleagues’ study did not find convincing evidence of nutrient trans
 Answer: A
 
 Question 12:
+[Cross Text]
 Based on the texts, which choice best describes a point on which the author of Text 1 and the author of Text 2 would most likely agree?
 
 Text 1: In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
@@ -173,6 +185,7 @@ D. A barrier that is impervious to both roots and fungal strands is necessary to
 Answer: C
 
 Question 13:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meding and Zasoski’s study in Text 1?
 
 Text 1
@@ -188,6 +201,7 @@ D. By arguing that the author of Text 1 has conflated the method used by Meding 
 Answer: A
 
 Question 14:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.
@@ -200,6 +214,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: B
 
 Question 15:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for medium-sized vortices, fish with wide heads would be least able to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, wider-headed fish will be less likely than narrower-headed fish to detect obstructions.
@@ -212,6 +227,7 @@ D. A study using obstructions that created medium-sized vortices in low-visibili
 Answer: B
 
 Question 16:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than narrow-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than narrow-headed fish to detect obstructions that create large vortices.
@@ -224,6 +240,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: C
 
 Question 17:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Why do cougars purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats. __This bone is called the hyoid__. Cougars, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that ocelots lack. These traits allow jaguars and most other species of big cats to roar. The same traits may also prevent most big cats from purring.
@@ -236,6 +253,7 @@ D. The sentence summarizes the debate presented in the text.
 Answer: C
 
 Question 18:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Why do fishing cats purr but leopards roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Fishing cats, which are much smaller than leopards, have a rigid hyoid that rumbles when the cat’s larynx vibrates, resulting in a purr. By contrast, leopards have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that fishing cats lack. These traits allow leopards and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -248,6 +266,7 @@ D. The text poses a question about two species, then presents a possible answer.
 Answer: D
 
 Question 19:
+[COE]
 According to the text, which trait do researchers think may contribute to an ocelot's ability to purr?
 
 Why do ocelots purr but lions roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Ocelots, which are much smaller than lions, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, lions have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that ocelots lack. These traits allow lions and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -260,6 +279,7 @@ D. The ocelot's rigid hyoid bone
 Answer: D
 
 Question 20:
+[Structure]
 Which choice best states the main idea of the text?
 
 Why do ocelots purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Ocelots, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that ocelots lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -272,6 +292,7 @@ D. Differences related to the hyoid bone in ocelots and jaguars may help explain
 Answer: D
 
 Question 21:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Why do Iberian lynxes purr but lions roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Iberian lynxes, which are much smaller than lions, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, lions have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that Iberian lynxes lack. These traits allow lions and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -284,6 +305,7 @@ D. The text argues that some feline traits are more important than others.
 Answer: C
 
 Question 22:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Justin (developed in 2008) and TALOS (developed in 2017) feature humanoid characteristics like the ability to respond to voice commands so that people will find it easier to interact with them. While these features can help to _____ feelings of comfort in people, a robot that looks too human can fall into the "uncanny valley," meaning that its appearance unintentionally unsettles those who encounter it.
@@ -296,6 +318,7 @@ D. engender
 Answer: D
 
 Question 23:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Surena(developed in 2008)and COMAN(developed in 2012) are designed to resemble humans so that people will find it easier to interact with them. To this end, certain features such as the ability to respond to voice commands can help to create the comforting semblance of humanity, but a robot that appears too similar to humans can make people feel more unsettled than _______
@@ -308,6 +331,7 @@ D. vindicated
 Answer: A
 
 Question 24:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as WABOT-2 (developed in 1984) and Sophia (developed in 2015) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to_____ people’s feelings of comfort, but a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
@@ -320,6 +344,7 @@ D. buttress
 Answer: D
 
 Question 25:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Saika (developed in 1996) and Poppy (developed in 2013) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to _____ the effect of the more unnatural aspects of a robot’s appearance, but a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
@@ -332,6 +357,7 @@ D. substantiate
 Answer: A
 
 Question 26:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Surena (developed in 2008) and COMAN (developed in 2012) feature humanoid characteristics like bipedal locomotion so that people will find it easier to interact with them. While these features can help to generate feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally ______ those who encounter it.
@@ -344,6 +370,7 @@ D. reprimands
 Answer: B
 
 Question 27:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Saika (developed in 1996) and Poppy (developed in 2013) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to _____ the effect of the more unnatural aspects of a robot’s appearance, but a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.

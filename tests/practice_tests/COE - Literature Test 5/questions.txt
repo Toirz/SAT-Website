@@ -1,4 +1,5 @@
 Question 63:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 28.”
@@ -13,6 +14,7 @@ D. The speaker criticizes the conspiracy between day and night to torture him.
 Answer: D
 
 Question 73:
+[COE]
 Which quotation from "Sonnet 29" most effectively illustrates the claim?
 
 "Sonnet 29" is a 1609 poem by William Shakespeare. In the poem, the speaker explained the cause behind his profound and transformative shift in the understanding and appreciation of his circumstances, writing, ______.
@@ -25,6 +27,7 @@ D. "For thy sweet love remembered such wealth brings / That then I scorn to chan
 Answer: D
 
 Question 23:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
@@ -38,6 +41,7 @@ D. It conveys the idea that some historical documents are more reliable than oth
 Answer: B
 
 Question 13:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
@@ -51,6 +55,7 @@ D. The narrator argues that the rectory’s oppressive décor entirely destroys 
 Answer: C
 
 Question 49:
+[WIC]
 As used in the text, what does the word "breed" most nearly mean?
 
 The following text is from Audre Lorde's 1978 poem "A Litany for Survival." The speaker reflects on the challenges of living in moments of transition and uncertainty.
@@ -64,6 +69,7 @@ D. fabricate
 Answer: B
 
 Question 89:
+[COE]
 Which quotation from "Poetry" most effectively illustrates the claim?
 
 "Poetry" is a 1919 poem by Marianne Moore. The poem highlights the speaker's displeasure with obscurity, writing ______.
@@ -76,6 +82,7 @@ D. "Reading / poetry], however, with a perfect contempt for it, one discovers th
 Answer: C
 
 Question 98:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from Sara Teasdale’s 1922 poem "Two Songs for Solitude."
@@ -92,6 +99,7 @@ D. The speaker lists various impressions people might have of her and then expla
 Answer: D
 
 Question 83:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is from George Marion McClellan's 1895 poem "Eternity":
@@ -112,6 +120,7 @@ D. The text first lists hardships of sea labor, then demands an immediate return
 Answer: A
 
 Question 88:
+[COE]
 Which quotation from Poems most effectively illustrates the claim?
 
 Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the author expresses an aspiration to uphold the principles of righteousness and autonomy, writing______
@@ -124,6 +133,7 @@ D. “My mother’s kiss, my mother’s kiss, / I feel its impress now; / As in 
 Answer: B
 
 Question 20:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
@@ -137,6 +147,7 @@ D. Most authors have little hope of being remembered well past their lifetimes.
 Answer: A
 
 Question 77:
+[COE]
 Which quotation from “Democracy” most effectively illustrates the claim?
 
 “Democracy” is Langston Hughes’s 1949 poem. In this poem, the speaker denies the choice of passively waiting for social progress by claiming ______.
@@ -149,6 +160,7 @@ D. “I live here, too / I want freedom / Just as you”
 Answer: B
 
 Question 44:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from José Rizal’s 1891 novel *The Reign of Greed* (translated by Charles Derbyshire in 1912).
@@ -162,6 +174,7 @@ D. It illustrates the lady’s contemptuous attitude toward the other people in 
 Answer: D
 
 Question 92:
+[COE]
 Which choice most effectively uses a quotation from Aunt Sue’s Stories to illustrate the claim?
 
 *"Aunt Sue’s Stories"* is a 1926 poem by Langston Hughes. In the poem, the speaker indicates that the stories Aunt Sue tells are based on Aunt Sue’s personal experiences, saying that ____.
@@ -174,6 +187,7 @@ D. The stories are told during “Summer nights on the front porch.”
 Answer: A
 
 Question 21:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book *The Storm*.
@@ -187,6 +201,7 @@ D. It describes differences in the characteristics of two kinds of communication
 Answer: D
 
 Question 1:
+[COE]
 According to the text, what change coincided with Don Jerónimo becoming a patron of the theater?
 
 The following text is adapted from Armando Palacio Valdés’s short story 'The Love of Clotilde,' originally published in Spanish in 1884.

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 If some specific predictions in Alvin Toffler's 1970 book Future Shock seem ludicrous now—people do not wear paper clothing while living in underwater cities—Toffler's fundamental claim that rapid technological and social change will leave people feeling disoriented and atomized seems, in our age of disequilibrium and fragmentation, remarkably______
@@ -11,6 +12,7 @@ D. prescient
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are ______ time. As Rafael Núñez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to "next week."
@@ -23,6 +25,7 @@ D. preoccupied with
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Exposed to harsh environmental conditions for centuries, lighthouses such as La Jument lighthouse off the coast of Brittany, France, exemplify the ______ between marine structures and ocean forces: the continuous impact of breaking waves necessitates periodic reinforcements to or redesigns of the structures that in turn may alter local wave patterns.
@@ -35,6 +38,7 @@ D. continuum
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Establishing protected areas (PAs), such as South Luangwa National Park in Zambia, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it's widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don't capture the indirect effects of tourism linked to PAs. But Hasita Bhammar et al. found that tourism associated with South Luangwa boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from livestock production in nearby areas.
@@ -47,6 +51,7 @@ D. It states a hypothesis that accounts for why PAs generally negatively impact 
 Answer: C
 
 Question 5:
+[Infer]
 Which choice most logically completes the text?
 
 Pablo Picasso famously subverted the norms of traditional painting: in his cubist paintings he refused to let his expression be constrained, fragmenting objects and figures to present multiple perspectives simultaneously. Though less widely known, Picasso—who once lamented that writers of his time had "limited themselves to moving around words somewhat while respecting the syntax"—also wrote poetry that defied conventional grammar, semantic relationships, and text structure. Thus, the paintings and poems are linked in that
@@ -59,6 +64,7 @@ D. both types of work are characterized by the simultaneous representation of mu
 Answer: C
 
 Question 6:
+[COE]
 Which finding, if true, would most directly support the idea that social buffering occurs among C. helleri?
 
 The presence of other individuals of the same species has been observed to mitigate stress in highly social mammals. To investigate whether this phenomenon, known as social buffering, also occurs in reptiles, researchers led by Chelsea E. Martin monitored stress responses in wild southern Pacific rattlesnakes (Crotalus helleri) in three experimental treatments: when alone, with a rope, and with a companion C. helleri. The researchers compared the percent change between baseline and peak heart rate in response to a (harmless) disturbance, with higher values indicating higher stress levels.
@@ -71,6 +77,7 @@ D. The average percent change in heart rate was lower among C. helleri with a co
 Answer: D
 
 Question 7:
+[COE]
 Which finding, if true, would most directly weaken Carter and Kilikoglou's argument?
 
 Variously, researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Raymond V. Sidrys's 1976 study, or to glean aspects of cultural identity, as in M. Steven Shackley's 2002 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.
@@ -83,6 +90,7 @@ D. Changes to buildings like those that occurred at Malia have not been linked t
 Answer: C
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?
 
 Text 1: Good art often challenges and disrupts social and aesthetic norms, but the creation of public art—paintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settings—typically requires broad agreement among artists, civic officials, and community members about the works' message and artistic goals. __Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash__.
@@ -96,6 +104,7 @@ D. By contending that the kinds of reactions controversial public artworks often
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Tomi Adeyemi's first published work, the inventive West African-inspired fantasy novel Children of Blood and Bone, has intriguing things to say about the relationship between identity and power. Adeyemi works in a decades-long tradition going back to writers such as Samuel Delany and Octavia Butler, who wove cultural elements of the Black diaspora into their science fiction and fantasy in a movement known as Afrofuturism. At its core, the movement is characterized by speculation, not just about distant futures or other planets but also about alternate versions of our shared past. Afrofuturism's meditations on authority reinvigorate the creative potential of fiction.
@@ -108,6 +117,7 @@ D. It introduces an intriguing debut work, contextualizes that work as part of a
 Answer: D
 
 Question 10:
+[COE]
 Which choice best describes how Aunt Polly is presented in the text?
 
 The following text is adapted from Mark Twain's 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew.
@@ -121,6 +131,7 @@ D. The narrator humorously exaggerates Aunt Polly's view of herself as an intell
 Answer: C
 
 Question 11:
+[COE]
 Which statement about the use of hydrogen in the steel and heating industries is most strongly supported by the text?
 
 From steel production to fuel for residential heating, hydrogen has many applications. Currently, producing hydrogen is carbon intensive, but Rebecca R. Beswick is one of many scholars investigating the feasibility of large-scale production of hydrogen through electrolysis, a process that emits no carbon when renewable energy is used. Beswick suggests that although some obstacles may prevent electrolytic hydrogen from dominating energy systems, there is utility in its ability to decarbonize the steel and heating industries, where reducing carbon emissions is especially challenging.
@@ -133,6 +144,7 @@ D. At least some of electrolytic hydrogen's potential to lessen these industries
 Answer: D
 
 Question 12:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Zuni, which is spoken in New Mexico, and Haida, which is spoken in Alaska—are isolates, having no demonstrable genealogical relationship to other languages__. Yet Zuni and Haida, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
@@ -145,6 +157,7 @@ D. It proposes that the distinction made between present-day nonisolate language
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Duckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vámos and colleagues collected samples of four duckweed ecotypes (genetically and geographically distinct populations within a species), along with water from each ecotype's habitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants, the researchers grew each ecotype in all four water samples and with three levels of zinc (none, low, high). (The researchers did not replicate local differences in light or temperature.) They found that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration, suggesting that
@@ -157,6 +170,7 @@ D. while the ecotypes are genetically and geographically distinct, those differe
 Answer: A
 
 Question 14:
+[Infer]
 Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
 
 In 2001, the US state of Oklahoma enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers' profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Oklahoma, students first collect data on the number of insurers in the state for a few years leading up to and following 2001 and the premium prices for new policies offered by those insurers.
@@ -169,6 +183,7 @@ D. Compare changes over time in the premium price data the students have collect
 Answer: A
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat's photos, the work features a pair of hands. Clasping a microphone, one hand ______ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.
@@ -181,6 +196,7 @@ D. bare, the other is
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique tradition of embroidery _____back over two thousand years—one that includes iconic double-sided stitching with different images on each side—remains popular with modern audiences, preserving the city's cultural heritage.
@@ -193,6 +209,7 @@ D. dating
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On December 2, 1992, the space shuttle Discovery blasted off into space, commencing Mission ______ seven days and seven hours, the mission ended when the shuttle landed at Edwards Air Force Base in California.
@@ -205,6 +222,7 @@ D. STS-53 lasting
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The exoplanet Kapteyn c was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.
@@ -217,6 +235,7 @@ D. the detection of distant exoplanets, too dim to be observed in the radial vel
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To British musician Jacob Collier, substituting the iii7 chord for the bVI6 chord—its opposite in pitch and tone—adds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ______ in 1985, the idea was first articulated in Swiss musicologist Ernst Levy's posthumously published book A Theory of Harmony.
@@ -229,6 +248,7 @@ D. Collier; though,
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many works of the Greek poet Nicander (2nd century BCE) are ______ his Theriaca, a poem about venomous animals, is an extant work: it can still be read.
@@ -241,6 +261,7 @@ D. lost and conversely,
 Answer: C
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The Republic of Pisa, a sea power based in the Mediterranean port city of Pisa that reached its height around 1100 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s-1900s CE) is known for both land and sea supremacy.
@@ -253,6 +274,7 @@ D. Likewise, thalassocracies are sea-based powers:
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Brain imaging research led by neuroscientist Dwaynica Greaves found that actors showed suppressed responses in the left anterior prefrontal cortex (the portion of the brain associated with self-awareness) when their names were called during performances; ______ the actors' responses were normal in nonacting contexts. These findings suggest that when embodying characters, performers may temporarily set aside their personal identities.
@@ -265,6 +287,7 @@ D. specifically,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Nineteenth-century Modernista architects championed nature in their designs. Granted, the domed rooftop and painted floral designs of Casa Estapé, a Modernista private home designed by Bernardí Martorell i Rius, couldn't exactly grow in a forest. ______ one sees natural influences in Martorell i Rius's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
@@ -277,6 +300,7 @@ D. In other words,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Though its onboard laboratory allowed it to analyze rock samples on-site, the 2011 Mars Curiosity rover was unable to preserve samples for future analysis. ______ when creating the 2020 Mars Perseverance rover, electrical engineer Dania Lazo and other members of NASA's Jet Propulsion Laboratory sought to implement a mechanism that could do exactly that.
@@ -289,6 +313,7 @@ D. Hence,
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to explain the significance of Minnesota's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -306,6 +331,7 @@ D. An agreement among US states to award their electoral votes to the presidenti
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to connect a quotation to a particular nontraditional design element in Cody's work. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -324,6 +350,7 @@ D. According to Cody, some elements of Lightning Storm, such as a blue zigzag st
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

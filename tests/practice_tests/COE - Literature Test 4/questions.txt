@@ -1,4 +1,5 @@
 Question 24:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Matthew Arnold's 1869 nonfiction book *Culture and Anarchy*.
@@ -12,6 +13,7 @@ D. Culture's duty is to use scientific methods to determine what is beautiful.
 Answer: B
 
 Question 40:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story *The Sad Fortunes of the Rev. Amos Barton*. Mr. Ely is a clergyman in the town of Milby.
@@ -25,6 +27,7 @@ D. To reveal the gap between Mr. Ely’s public image and his private self and t
 Answer: B
 
 Question 41:
+[WIC]
 As used in the text, what does the underlined figurative phrase most nearly mean?
 
 The following text is from William Carlos Williams’s 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
@@ -38,6 +41,7 @@ D. Inspiration you received while reading independently
 Answer: C
 
 Question 19:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from Jerome K. Jerome’s 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
@@ -51,6 +55,7 @@ D. It introduces a challenge faced by a group of characters and then details the
 Answer: B
 
 Question 71:
+[COE]
 Which of the following best describes the paradoxical nature of hope as depicted in the text?
 
 The following text is Emily Dickinson's poem "Hope is the thing with feathers."
@@ -75,6 +80,7 @@ D. The text suggests hope is elusive and unattainable, despite being constantly 
 Answer: A
 
 Question 6:
+[Details]
 Which choice best describes the function of the reference to the parlor as Tía Ana’s “special province”?
 
 The following text is from Julia Alvarez’s 2000 novel *In the Name of Salomé*. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
@@ -88,6 +94,7 @@ D. It introduces an idea that helps explain Tía Ana’s apparent eagerness for
 Answer: D
 
 Question 25:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Matthew Arnold's 1869 nonfiction book *Culture and Anarchy*.
@@ -101,6 +108,7 @@ D. It explains differences in matters of taste between the English and others.
 Answer: A
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Guy de Maupassant's 1884 short story "A Recollection," from the collection *Guy de Maupassant Short Stories* (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
@@ -114,6 +122,7 @@ D. The narrator perceives a parallel between the shift from the urban environmen
 Answer: D
 
 Question 35:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Mary Shelley’s 1818 novel *Frankenstein*. Victor Frankenstein, who narrates this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -127,6 +136,7 @@ D. It undermines the idea that a practical approach to understanding natural phe
 Answer: C
 
 Question 97:
+[COE]
 Based on the text, which statement is true of the speaker and her friend?
 
 The following text is from Anne Spencer’s 1922 poem “Translation.”
@@ -147,6 +157,7 @@ D. They prefer the buzz and activity of city life to the quiet and calm of natur
 Answer: C
 
 Question 47:
+[WIC]
 As used in the text, what does the word "Reft" most nearly mean?
 
 The following text is a 1920 poem "Oriflamme" by Jessie Redmon Fauset. The poem is dedicated to Fauset's mentor Sojourner Truth.
@@ -160,6 +171,7 @@ D. Vigilant
 Answer: B
 
 Question 3:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
@@ -173,6 +185,7 @@ D. To warn that allowing young people to encounter the wider world too soon expo
 Answer: C
 
 Question 52:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is a 1905 poem “Autumn Song” from Sarojini Naidu.
@@ -195,6 +208,7 @@ D. It reflects on the sorrow and loneliness through the imagery of a storm.
 Answer: A
 
 Question 17:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
@@ -208,6 +222,7 @@ D. It demonstrates that Harris finds his experiences on the boat to be confusing
 Answer: B
 
 Question 39:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is adapted from George Eliot’s 1857 short story *The Sad Fortunes of the Rev. Amos Barton*. Mr. Ely is a clergyman in the town of Milby.

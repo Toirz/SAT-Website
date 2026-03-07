@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -16,6 +17,7 @@ D. A mineral with a Mohs number of 3, like calcite, is harder than one with a Mo
 Answer: B
 
 Question 2:
+[COE]
 Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept of seedling emergence?
 
 While researching a topic, a student has taken the following notes:
@@ -31,6 +33,7 @@ D. In a 2012 study by Eckstein et al., plant litter was found to have a positive
 Answer: C
 
 Question 3:
+[Synthesis]
 The student wants to emphasize a similarity between mass fraction and mole fraction. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -48,6 +51,7 @@ D. The mass fraction of chromium indicates its relative mass; in addition, the e
 Answer: B
 
 Question 4:
+[Synthesis]
 The student wants to emphasize the size of Tianguistengo. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 • Tianguistengo is a municipality in the state of Hidalgo, Mexico.
@@ -63,6 +67,7 @@ D. The municipality of Tianguistengo in Hidalgo, Mexico, covers an area of rough
 Answer: D
 
 Question 5:
+[Synthesis]
 The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -79,6 +84,7 @@ D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing w
 Answer: A
 
 Question 6:
+[Synthesis]
 The student wants to explain Cummings and Knapp’s contribution to Lullfitz’s study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -95,6 +101,7 @@ D. By indicating that their ancestors transported Platysace deflexa, Cummings a
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to present findings from the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -112,6 +119,7 @@ D. A 2019 study in Oahu, Hawaii, included the plant Pipturus albidus in its expl
 Answer: A
 
 Question 8:
+[Synthesis]
 The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -129,6 +137,7 @@ D. The Embarras River’s ratio of stream length to valley length, also known as
 Answer: D
 
 Question 9:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
 
 The South Sudan Workers Trade Union Federation (SSWTUF) is a national union federation for the African nation of South Sudan.
@@ -143,6 +152,7 @@ D. The SSWTUF is a national union federation in Africa.
 Answer: C
 
 Question 10:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize the number of medals won by Kenny?
 
 While researching a topic, a student has taken the following notes:
@@ -159,6 +169,7 @@ D. Mike Kenny competed at the Paralympic Games, a series of international sporti
 Answer: B
 
 Question 11:
+[Synthesis]
 The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -175,6 +186,7 @@ D. Surrealist collage, such as Felipe Posada’s Synchronicity, manifests the u
 Answer: A
 
 Question 12:
+[Synthesis]
 The student wants to specify how many chromosomes the bat-eared fox has.Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -192,6 +204,7 @@ D. The bat-eared fox (Otocyon megalotis) has seventy-two chromosomes.
 Answer: D
 
 Question 13:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize the size of the crater?
 
 While researching a topic, a student has taken the following notes:
@@ -208,6 +221,7 @@ D. Impact craters, like Zeleny Gai in Ukraine, are formed when a massive object 
 Answer: A
 
 Question 14:
+[Synthesis]
 The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -224,6 +238,7 @@ D. It’s untrue that malapportionment in the 169-seat Storting favors small urb
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to contrast the song 'Poor Miner's Farewell' with the song 'Bring Him Back Home. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

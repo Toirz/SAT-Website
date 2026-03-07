@@ -1,4 +1,5 @@
 Question 1:
+[Cross Text]
 Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
 
 Text 1
@@ -13,6 +14,7 @@ D. Asimov was correct to suggest that individual humans have little influence ov
 Answer: C
 
 Question 2:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?
 
 Text 1
@@ -27,6 +29,7 @@ D. By suggesting that filmmakers should focus on reimagining Titanic for curre
 Answer: D
 
 Question 3:
+[Cross Text]
 Based on the texts, how would Rubayet Bin Mostafiz and colleagues (Text 2) most likely respond to the information presented in Text 1?
 
 Text 1:
@@ -41,6 +44,7 @@ D. They would suggest that engineers in northern and western Nebraska consider t
 Answer: C
 
 Question 4:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meding and Zasoski’s study in Text 1?
 
 Text 1
@@ -55,6 +59,7 @@ D. By arguing that the author of Text 1 has conflated the method used by Meding 
 Answer: A
 
 Question 5:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
 
 Text 1:
@@ -69,6 +74,7 @@ D. Elderberry bushes grow best when planted in shaded areas, while chia flowers 
 Answer: A
 
 Question 6:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?
 
 Text 1
@@ -83,6 +89,7 @@ D. By supplying additional ways in which urbanization research is difficult
 Answer: B
 
 Question 7:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement regarding the findings of Torres and colleagues (Text 1)?
 
 Text 1:
@@ -97,6 +104,7 @@ D. These findings may represent a phenomenon unique to juvenile reef fish rather
 Answer: A
 
 Question 8:
+[Cross Text]
 Based on the texts, which choice best describes a point on which the author of Text 1 and the author of Text 2 would most likely agree?
 
 Text 1: In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
@@ -109,6 +117,7 @@ D. A barrier that is impervious to both roots and fungal strands is necessary to
 Answer: C
 
 Question 9:
+[Cross Text]
 Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
 
 Text 1
@@ -123,6 +132,7 @@ D. It must widen its focus to include aspects of modernist fiction beyond style,
 Answer: A
 
 Question 10:
+[Cross Text]
 Based on the texts, how would Zeif and Yechiam (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?
 
 Text 1:

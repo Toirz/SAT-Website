@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Traditionally, certain features of mosque architecture are nearly _____, such as the mihrab (or niche), which almost all mosques include. But mosques can also be built to reflect a multitude of different architectural styles, as in the case of the Great Mosque of Central Java, which includes elements from the Javanese and Greek revival styles.
@@ -12,6 +13,7 @@ Answer: A
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 While fifteenth-century manuscript collections were typically repositories for genteel romances favored by the elite, the Heegge Manuscript (HM) deviates sharply from this norm. By prioritizing practical religious counsel and parodic tales over courtly literature, Richard Heegge revealed a marked ______ for the "low" aesthetic of popular entertainment.
@@ -38,6 +41,7 @@ Answer: A
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The scientists proposed that individuals in authority concentrate so intensely on their personal priorities that they become unaware of those around them. Their subordinates, reluctant to confront the leader, _______ this behavior.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[COE]
 The author of the passage cites Rosenblum’s book most likely in order to
 
 The condition of scholarship devoted to the history of women in photography is confounding. Recent years have witnessed the posthumous inflation of the role of the hobbyist Alice Austen into that of a pioneering documentarian while dozens of notable senior figures—Marion Palfi, whose photographs of civil-rights activities in the South served as early evidence of the need for protective legislation, to name one—received scant attention from scholars. And, while Naomi Rosenblum’s synoptic *History of Women Photographers* covers the subject through 1920 in a generally useful fashion, once she reaches the 1920s, when the venues, forms, applications, and movements of the medium expanded exponentially, she resorts to an increasingly terse listing of unfamiliar names, with approaches and careers summarized in a sentence or two.
@@ -64,6 +69,7 @@ Answer: C
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 *The Silence of Dean Maitland* is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Mary Tuitiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
@@ -77,6 +83,7 @@ Answer: A
 
 
 Question 7:
+[Cross Text]
 Based on the texts, Slater and Mann (Text 1) and Rose and colleagues (Text 2) would most likely agree with which statement?
 
 Text 1
@@ -94,6 +101,7 @@ Answer: D
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
@@ -107,6 +115,7 @@ Answer: C
 
 
 Question 9:
+[COE]
 What does the text most strongly suggest about specimens from natural history collections?
 
 J. Mason Heberling and David J. Burke relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in natural history collections—to investigate the evolutionary trajectory of arbuscular mycorrhizal fungi. Although this approach offers unique benefits, such as access to genomic data from extirpated populations, it remains relatively underutilized because archival specimens are sometimes stored in ways that compromise DNA quality, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
@@ -120,6 +129,7 @@ Answer: C
 
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
@@ -133,6 +143,7 @@ Answer: A
 
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 **Examples of Hoards found in Ireland and Northern Ireland**
@@ -148,6 +159,7 @@ Answer: C
 
 
 Question 12:
+[COE]
 Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
 
 The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle’s house in Kansas is remote and solitary, writing that ____
@@ -161,6 +173,7 @@ Answer: D
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Although Grant Tavinor concludes that computer games are art by virtue of their forming a subcategory of fiction, and Beryx Gaut similarly places them within the realm of cinema, neither approach adequately captures a central aspect of playing these games when the player no longer tunes into the narrative and is instead simply absorbed in the instrumentalities of gameplay. This is among the reasons philosopher C. Thi Nguyen contends that the work of computer-game designers is in what he calls the medium of player agency, which the designer prescribes through rules and goals, and which elicits positive aesthetic experiences in the player who agrees to adopt it. Therefore, Nguyen’s position is that Tavinor’s and Gaut’s frameworks ______
@@ -174,6 +187,7 @@ Answer: D
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Careful planning was essential for the success of the Deep Impact probe, which conducted a flyby of comet 9P/Tempel and then traveled to comet 103P/Hartley. The CONTOUR probe mission seemed similarly well-planned, but engineers lost communications with the probe before it could achieve the mission goal of visiting comet 73P/Schwassmann-Wachmann. This shows that _____
@@ -187,6 +201,7 @@ Answer: D
 
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In modern genetics, the theory of Lamarckian inheritance (1744–1829), whose core ideas were long dismissed by mainstream science, is being re-evaluated by a new generation of scientists—a renewed debate that is significantly driven by epigenetics researchers like Dr. Eva Jablonka, whose research ______ the mechanisms for inheriting acquired traits prompts a fundamental reconsideration of evolutionary theory itself.
@@ -200,6 +215,7 @@ Answer: B
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Borgia map is a mappa mundi from the fifteenth century. Currently held at the Vatican Library in Vatican City, it is one of over 1,000 such world maps from the European Middle Ages still remaining, with the even older Hereford map from the fourteenth century (now held at Hereford Cathedral in Hereford, England) ____ another one.
@@ -213,6 +229,7 @@ Answer: A
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The neurotechnology company Neuros Medical is working on an exciting new technology: a process that uses bioelectric signals to target sensory nerves to help relieve pain. Neuros Medical’s technology, alongside other such neuromodulation technologies that function by stimulating nervous system structures, ______ the way for future advancements in neurotechnology.
@@ -226,6 +243,7 @@ Answer: B
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Taking a structuralist approach to analyzing Tomas Rivera’s novel *And the Earth Did Not Devour Him* would lead a critic to focus on the linguistic conventions inherent in the novel. On the other hand, a New Historical analysis ______ on historical context and its relationship to power structures might yield a radically different interpretation of Rivera’s novel.
@@ -239,6 +257,7 @@ Answer: D
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 L. Leann Kanda, a researcher and sewing enthusiast, experimented with several techniques in her attempt to replicate the famous pleating of the Fortuny Delphos gown. The specific method, which the fashion ______ developed in the early twentieth century, is considered lost.
@@ -252,6 +271,7 @@ Answer: B
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Scientists have long known that cyclones can contribute to the formation of polynyas, large patches of unfrozen water that sporadically form amid vast sheets of sea ice. A recent study found evidence that these polynyas may be ______ but also by vapor streams, which travel through the atmosphere from the tropics toward the North and South Poles.
@@ -265,6 +285,7 @@ Answer: D
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Some bands choose a name that’s as unique as possible to distinguish themselves from other bands. The electronic rock band Primary ______ took a different approach. They chose to name themselves after a song by a well-known band, the Cure.
@@ -278,6 +299,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Kore, one of the eighty known moons of Jupiter, is designated as Jupiter XLIX ("XLIX" means "49"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ___ that Kore is the forty-ninth moon from Jupiter in terms of proximity.
@@ -291,6 +313,7 @@ Answer: D
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As gene-editing technology has become more accessible, many researchers have considered its potential to cure genetic diseases, or even enhance human traits. ______ it is the broad ethical consensus—supported by international scientific committees—that currently limits these applications and ensures that the technology is used responsibly.
@@ -304,6 +327,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Upper-atmospheric jets—phenomena whereby electrical discharges cause narrow cones of blue light to briefly burst upward from the tops of thunderstorms—have been observed reaching to the ionosphere. The extreme altitudes involved (the ionosphere begins about 80 km above Earth) mark these gigantic jets as outliers; ______ the majority of jets reach heights of only 20 to 50 km.
@@ -317,6 +341,7 @@ Answer: B
 
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As genetic engineering has advanced, many corporations have sought to gain an advantage in, or even patent, the genetic code of essential food crops. ______ it is the 2001 International Treaty on Plant Genetic Resources—signed by the European Union, Brazil, and over 140 other nations—that curtails these commercial ambitions and ensures that access to these genetic resources remains open for the international community.
@@ -330,6 +355,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -347,6 +373,7 @@ Answer: B
 
 
 Question 27:
+[Synthesis]
 The student wants to explain how Helmholtz describes F sharp major. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

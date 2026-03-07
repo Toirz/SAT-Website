@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The way in which individual elements are balanced within a photographic image tends to affect how viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes differences, and radial balance (organizing the elements around a central point) emphasizes the center over the periphery. What a photograph conveys is therefore largely ___ how it is balanced.
@@ -12,6 +13,7 @@ Answer: A
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 As with other river deltas, the Krishna River delta is ____: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Bay of Bengal.
@@ -25,6 +27,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 At a conference for aspiring children’s book illustrators, Will Clay, illustrator of such lauded works as Little Eight John, was the subject of a presentation that was intended specifically to foster ______ the techniques of successful illustrators so
@@ -39,6 +42,7 @@ Answer: C
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The dinosaur displays at museums such as the Naturmuseum Senckenberg in Frankfurt (which has a life-sized Diplodocus longus statue among its holdings) are notable for the ______ of the research behind them—the museum staff consulted numerous sources to ensure the accuracy of the displays.
@@ -52,6 +56,7 @@ Answer: B
 
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Eugene O’Neill’s 1920 play *Beyond the Horizon*. Andrew and Robert Mayo are brothers who grew up on their family’s farm.
@@ -67,6 +72,7 @@ Answer: D
 
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
@@ -81,6 +87,7 @@ Answer: A
 
 
 Question 7:
+[Cross Text]
 Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
 
 Text 1
@@ -97,6 +104,7 @@ Answer: B
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
@@ -111,6 +119,7 @@ Answer: C
 
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 While US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the Gordon and Betty Moore Foundation, must file a different form, 990–PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, “self-dealing” (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990–PF in the years 2003–2005, ______
@@ -124,6 +133,7 @@ Answer: B
 
 
 Question 10:
+[COE]
 Which finding, if true, would most directly illustrate the researchers’ finding?
 
 Adelaide, Australia, has installed engineered structures along 53% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the brown pelican, the red knot, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
@@ -137,6 +147,7 @@ Answer: C
 
 
 Question 11:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors.
@@ -151,6 +162,7 @@ Answer: D
 
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher's example?
 
 It is common for freshwater lakes near or above a latitude of 45∘north of the equator, like Lej da San Murezzan in Switzerland, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example _____
@@ -165,6 +177,7 @@ Answer: B
 
 
 Question 13:
+[COE]
 Which statement, if true, would best illustrate the challenge described in the text?
 
 A creole language is an amalgam of a lexifier, or primary contributor of grammar and vocabulary, with one or more substrates, or secondary contributors. English–lexifying creoles in North America, such as Afro-Seminole Creole, rely on West African substrates, while Hawaiian Pidgin relies on ‘Ölelo Hawaii’, the Polynesian language of the Native Hawaiian people, with further contributions from Korean and other East Asian languages, Portuguese, and Spanish. This is a heterogeneous history, even for a creole language. Moreover, numerous similarities are found among the East Asian substrates, as well as between Portuguese and Spanish. Thus, it can be challenging to credit certain words or features of grammar or pronunciation to any one substrate.
@@ -178,6 +191,7 @@ Answer: C
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like heavy metal and acoustic folk and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Metallica’s “Sad but True” as their favorite recording and the musician preferred to listen to it at a volume of 85.5 decibels, the nonmusician would be expected to ______.
@@ -191,6 +205,7 @@ Answer: D
 
 
 Question 15:
+[COE]
 Which finding about the Cairo site, if true, would most directly support Khudadad’s conclusion?
 
 Based on findings from fossil sites, paleobotanists had developed the so-called partition hypothesis, which holds that there were two distinctly different kinds of biomes during the Devonian period (circa 360 to 420 million years ago). One was a tropical deltaic forest biome home to plants such as the fernlike Eospermatopteris, and the other was an arid floodplain forest biome home to plants such as the coniferlike Archaeopteris. Recently, however, evolutionary ecologist Khudadad Khudadad examined the remnants of a Devonian forest in what is now Cairo, New York, and concluded that evidence from the Cairo site is inconsistent with the partition hypothesis.
@@ -204,6 +219,7 @@ Answer: C
 
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
@@ -217,6 +233,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For her installation The Last Cruze, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative documentary nature of Frazier’s work.
@@ -230,6 +247,7 @@ Answer: D
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Drummer Dennis Chambers’s distinguished career includes many memorable achievements, such as working on the Brecker Brothers’ album Return of the Brecker Brothers. However, as house drummer at Sugar Hill Records, a record label that was a pioneer of early hip hop _____ Chambers joined too late to play drums on the label’s classic song “Rapper’s Delight.”
@@ -243,6 +261,7 @@ Answer: A
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many ranching terms come from Spanish. The word "hackamore" (a halter) comes from the Spanish word jáquima, and "stockade" (a ______ comes from estacada. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican vaqueros, or cowboys.
@@ -256,6 +275,7 @@ Answer: D
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When, in 2018, scientists in Germany discovered a fossilized brittle star with three thick, spine-studded arms positioned opposite three thin, undeveloped ones, they found something never before seen in the fossil ______ clonal fragmentation, a type of asexual reproduction, an animal splits itself in two, each half then regrowing its missing limbs—just what the brittle star was doing.
@@ -269,6 +289,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ____ the organelle’s decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.
@@ -282,6 +303,7 @@ Answer: A
 
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Located on the Elbe River in Germany, the city of Hamburg was a member of a powerful mercantile alliance that dominated northern European trade between the 13th and 17th ______ Hanseatic League, a loose confederation of cities from eleven modern-day countries that has been described as a precursor to today's European Union.
@@ -295,6 +317,7 @@ Answer: D
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Researchers in France claim that leopards and brown bears are among the twenty most “charismatic” animals (defined as “attractive, fascinating, or appealing”). To create their top-twenty list, researchers used survey data from Western Europe. European attitudes toward leopards and brown bears might not be shared around the world, _____
@@ -308,6 +331,7 @@ Answer: A
 
 
 Question 24:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the relationship between ITUC-Africa and the OTM?
 
 While researching a topic, a student has taken the following notes:
@@ -325,6 +349,7 @@ Answer: C
 
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
 
 The South Sudan Workers Trade Union Federation (SSWTUF) is a national union federation for the African nation of South Sudan.
@@ -341,6 +366,7 @@ Answer: C
 
 
 Question 26:
+[Synthesis]
 The student wants to explain the significance of New Jersey's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -359,6 +385,7 @@ Answer: C
 
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two movies?
 
 Silent films can be valuable historical documents of their time.

@@ -1,4 +1,5 @@
 Question 32:
+[COE]
 Which finding, if true, would most directly support the team's claim?
 
 Elaine Ostrander led an international study of domestic dogs with Andrew N. Hogan and other researchers to explore what causes very small breeds, such as toy poodles, to be so small. Scientists once thought that smaller dogs came about only after humans started deliberately breeding dogs within the last 12,000 years. But Ostrander's team claims that a certain genetic mutation strongly affects dog size and that the mutation existed long before humans started breeding dogs.
@@ -11,6 +12,7 @@ D. Dogs vary in size more than any other type of land mammal does.
 Answer: C
 
 Question 22:
+[COE]
 Which finding, if true, would most directly support Bura and colleagues' claim?
 
 Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on isolated caterpillars, 33% of the tested species produced sound, which ranged from clicks in Actias luna to whistles in Phyllosphingia dissimilis. Although some insects use sound to communicate with members of the same species, the researchers claim that the caterpillar sounds recorded in their study are directed primarily at predators.
@@ -23,6 +25,7 @@ D. None of the species that emitted sounds did so before the simulated attacks, 
 Answer: D
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support Bainbridge and colleagues' claim?
 
 Many believe that lullabies, characterized by their less steady beat, contain some features that are universally calming to infants. In a study, Constanze and colleagues played both a lullaby sung in the Western Nahuatl language and a non-lullaby sung in the Serbian language to a group of infants. The researchers also measured the infants' heart rates, as a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.
@@ -35,6 +38,7 @@ D. Both the song in Western Nahuatl and the song in Serbian were sung by a femal
 Answer: C
 
 Question 4:
+[COE]
 Which finding from Maglianesi et al.'s study, if true, would most directly support Tavares et al.'s conclusion?
 
 Flowers that produce relatively high volumes of nectar are more rewarding for pollinators, including snowy-bellied hummingbirds (*Saucerottia edward*) and other hummingbird species, but nectar stores are typically obscured by the corolla (collection of petals); the means by which flowers signal high-nectar reward are unclear. A 2016 study by Davi Castro Tavares et al., which found that corolla length positively correlates with nectar volume, concluded that flower morphology reliably indicates nectar reward. As part of a subsequent study, María A. Maglianesi et al. measured variations in floral phenotypic traits (including corolla length and nectar characteristics) of hummingbird-visited plants across a range of elevations in Costa Rica.
@@ -47,6 +51,7 @@ D. The variability in corolla length among plant species at high-elevation sites
 Answer: C
 
 Question 37:
+[COE]
 Which statement, if true, would most strongly support the claim made by Bergner and colleagues about the cause of ‘Oumuamua’s acceleration?
 
 Initially observed in 2017, the interstellar object ‘Oumuamua is the first object of its kind to be seen in our solar system. Researchers have been puzzled because its acceleration cannot be entirely explained by the gravitational pull of nearby bodies: there must be a nongravitational influence on its velocity and trajectory. Some previously suggested explanations for this nongravitational acceleration involve mechanisms that are unlikely or unrealistic, such as geometric effects from ‘Oumuamua being potentially composed of several spatially separated bodies. Now, Jennifer Bergner and colleagues propose that the nongravitational acceleration is due to the gaseous expulsion of entrapped hydrogen from ‘Oumuamua’s water-rich icy body.
@@ -59,6 +64,7 @@ D. Exposure to interstellar cosmic radiation can result in the formation of embe
 Answer: D
 
 Question 39:
+[COE]
 Which finding, if true, would most directly weaken the critic's claim?
 
 Hypothesizing that lullabies, characterized by their slow tempos, are universally calming to infants, Constance M. Bainbridge and colleagues played a lullaby sung in the Western Nahuatl language and a non-lullaby sung in the Serbian language to a group of infants. The team found that the infants’ heart rates and pupil size both decreased more during the lullaby than during the non-lullaby. Since a decrease in heart rate is associated with relaxation, the team concluded that the lullaby relaxed the infants. However, noting that reduced heart rate can also be associated with increased attention, one critic argues that instead, the lullaby simply attracted the infants’ attention.
@@ -71,6 +77,7 @@ D. Pupil size typically increases when a stimulus captures a person's attention.
 Answer: D
 
 Question 11:
+[COE]
 Which statement, if true, would most directly support the administrators’ claim?
 
 Among the most visited art museums in the world, the Museo Reina Sofia in Madrid had approximately 4.4 million visitors in 2019. The Museo Reina Sofia also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.
@@ -83,6 +90,7 @@ D. Most surveyed visitors to the Museo Reina Sofia indicated that they were unaw
 Answer: B
 
 Question 25:
+[COE]
 Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
 
 In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
@@ -95,6 +103,7 @@ D. At a given percentage of leaf vein loss, vascular function in B. alba and R. 
 Answer: B
 
 Question 49:
+[COE]
 Which finding about the Across County Lines exhibition, if true, would most directly support the underlined claim?
 
 The Reckoning and Resilience (2022) exhibition at Duke University’s Nasher Museum of Art was the first to focus entirely on North Carolina artists since the exhibition Across County Lines four years earlier. The curators of the 2022 exhibition included painters like Beverly McIver, photographers like Kenneth Carter, and printmakers like Ayla Gizlice. __But whereas the work by Carter would have fit the theme for Across County Lines, works by McIver and Gizlice would not have.__
@@ -107,6 +116,7 @@ D. It included a greater number of artists than Reckoning and Resilience.
 Answer: B
 
 Question 1:
+[COE]
 Which statement about hummingbird preferences is most strongly supported by the text?
 
 High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.

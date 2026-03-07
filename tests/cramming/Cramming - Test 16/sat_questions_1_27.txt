@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Wabian (developed in 1995) and ASIMO (developed in 2011) feature humanoid characteristics like the ability to respond to voice commands so that people will find it easier to interact with them. While these features can help to ______ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
@@ -11,6 +12,7 @@ D. buttress
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Exploring labels from obsolete pharmaceuticals, formulas from early 20th-century chemistry sets, and brochures for discontinued chemical products might appear to be a trivial endeavor, yet ephemeral items like these serve as indicators of scientific progress: they can ____ in norms, scientific practices, and issues that more conventional scientific artifacts might overlook.
@@ -23,6 +25,7 @@ D. induce
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying menus from nineteenth-century restaurants, advertisements for defunct amusement parks, and posters promoting long-forgotten plays may seem like a frivolous pursuit, but ephemeral objects like these are useful as markers of cultural change: they can ___ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
@@ -35,6 +38,7 @@ D. preclude
 Answer: C
 
 Question 4:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is adapted from J.M. Barrie's 1911 novel *Peter Pan*.
@@ -49,6 +53,7 @@ D. It makes a claim about children and then illustrates it with a description of
 Answer: D
 
 Question 5:
+[COE]
 According to the text, why are the images beneath the surface of a painting valuable to art historians?
 
 When used to examine paintings, nonvisible light, such as ultraviolet, can penetrate the painting’s visible surface and give art historians important insights into an artist’s process. For example, imaging the underlayers of Artemisia Gentileschi’s _Saint Catherine of Alexandria_ (1618–20) revealed that Gentileschi originally painted her own face on the figure. Imaging can also provide insights into a painter’s choice of materials, showing, for example, whether a painter used titanium oxide pigment in a given work.
@@ -61,6 +66,7 @@ D. They can reveal aspects of an artist’s decision-making.
 Answer: D
 
 Question 6:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would mostly likely agree with which statement?
 
 Text 1
@@ -76,6 +82,7 @@ D. Danza Mexica exhibits critical stylistic differences from the tribally specif
 Answer: D
 
 Question 7:
+[COE]
 Which finding, if true, would most directly support Martínez and colleagues’ conclusion?
 
 The bird species *Myiobius barbatus* (the bearded flycatcher) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martínez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *M. barbatus*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *M. barbatus* associates *T. caesius* alarm calls with danger.
@@ -88,6 +95,7 @@ D. When Martínez and colleagues played control sounds of random noise in the vi
 Answer: D
 
 Question 8:
+[COE]
 According to the text, which trait do researchers think may contribute to a flat-headed cat’s ability to purr?
 
 Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat-headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat’s larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -100,6 +108,7 @@ D. The relative size of the flat-headed cat’s body and throat
 Answer: C
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
@@ -112,6 +121,7 @@ D. According to a team of economists, the higher a voter’s income, the more li
 Answer: A
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the engineer's conclusion?
 
 An engineer is conducting an experiment to measure the effect of an anti-reflective coating on the power output of solar panels. The engineer exposed some panels with the coating and some without the coating to four different levels of light intensity. By comparing the power output data for both coated and uncoated panels, the engineer concluded that _______.
@@ -126,6 +136,7 @@ D.  the anti-reflective coating was associated with a greater absolute increase
 Answer: D
 
 Question 11:
+[COE]
 Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
 
 In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
@@ -138,6 +149,7 @@ D. At a given percentage of leaf vein loss, vascular function in B. alba and R. 
 Answer: B
 
 Question 12:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -153,6 +165,7 @@ D. Conservation initiatives for both the clownfish and tiger shark should be lau
 Answer: B
 
 Question 13:
+[COE]
 Which quotation from a study of California agriculture best supports the student’s claim?
 
 A student is writing a research paper on the history of irrigation in the state of California, situating the development of the Rowena Reservoir (created in Los Angeles County, California, in 1901) in a larger historical context. The student claims that innovation in irrigation techniques was driven in part by the climate in some parts of the state.
@@ -165,6 +178,7 @@ D. “The necessity of irrigation infrastructure in California today cannot be o
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Northern Michigan’s Alcona County is among the most rural counties in the United States; the US Census Bureau classified it as 98.9% rural in 2010. Researchers studying populations of counties like Alcona often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that _______ .
@@ -177,6 +191,7 @@ D. social networks can become large enough that two people can share a network b
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 There are over 150 species of the cactus genus Mammillaria throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like M. knippeliana, restricted to only one state. The fact that this genus has not been observed in eastern and western Coahuila has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that____
@@ -189,6 +204,7 @@ D. the dense vegetation and high annual precipitation levels in eastern and west
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To understand what epidemiologists believe to be the predictive value of a citywide wastewater surveillance program _____ to flag viral outbreaks before symptoms become widespread—a public health official must become familiar with the program’s statistical assumptions.
@@ -201,6 +217,7 @@ D. wastewater genomics, namely,
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth ____ these ingenious devices were eventually replaced by electronic calculators.
@@ -213,6 +230,7 @@ D. century that
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The July Pegasid meteor shower’s brightness typically surpasses that of the Draconid meteor shower due to the interplay of three main factors—namely, the size and composition of the ___ velocity upon entering Earth’s mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in sky conditions.
@@ -225,6 +243,7 @@ D. meteoroids—their
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a 2020 study, Matthew Stewart et al. concluded that fossilized footprints excavated from ancient lake beds in Saudi Arabia date to between 112,000 and 121,000 years ago. The reliability of the dates that Stewart et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the footprints were last exposed to sunlight, _______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.
@@ -237,6 +256,7 @@ D. depends
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine’s root system, ____ extensive networks, which can be used to transport nutrients between trees.
@@ -249,6 +269,7 @@ D. form
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In her work, Mohawk artist Skawennati uses video games and other technologies to explore Native representation and participation in the digital space. Since 1989, Indianapolis’s Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2011, it awarded Skawennati one of its prestigious artist fellowships.
@@ -261,6 +282,7 @@ D. artists,
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Firefly luciferase (Fluc) is a distinctly evolved enzyme that can oxidize a substrate called D-luciferin to induce bioluminescence and can act as a fatty acyl-CoA synthetase (ACS) enzyme, a class of enzyme present in all insects. ___ Fluc is a bifunctional enzyme whose presence indicates an insect is capable of emitting light; in contrast, the presence of ACS alone would be insufficient for determining bioluminescence.
@@ -273,6 +295,7 @@ D. Nevertheless,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The World Cup of men’ s soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, South Africa, in 2010. ________ only 16 teams, most from Europe and the Americas, competed in the 1954 World Cup in Switzerland.
@@ -285,6 +308,7 @@ D. In comparison,
 Answer: D
 
 Question 24:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize the size of the crater?
 
 While researching a topic, a student has taken the following notes:
@@ -302,6 +326,7 @@ D. Impact craters, like Zeleny Gai in Ukraine, are formed when a massive object 
 Answer: A
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil.
@@ -315,6 +340,7 @@ D. For this reason,
 Answer: C
 
 Question 26:
+[COE]
 The student's goal is to synthesize Soto's quotation with information from Vance's study. Which choice most effectively accomplishes this?
 
 While researching a topic, a student has taken the following notes:
@@ -331,6 +357,7 @@ D. The leaf-tailed gecko's tail, which resembles a decaying leaf, is a prime exa
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to emphasize the effect media had on building Wong Fei-hung’s legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

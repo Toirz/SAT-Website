@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 For paleoanthropologists, the 1965 discovery of the fossil remains known as KNM-KP 271 was a revolutionary event. Given the fossil's unique preservation and its power to illuminate the Pliocene epoch, the find was ______ to rewriting a significant portion of the timeline of hominid evolution.
@@ -11,6 +12,7 @@ D. impervious
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Since the Hubble Space Telescope's launch in 1990, the high cost of relying on astronaut-led repair missions has been a significant concern. While researchers hope that robots will soon be able to take over these tasks, the complexity of the required maintenance and the unpredictable nature of space present a currently ______ obstacle to achieving full automation.
@@ -23,6 +25,7 @@ D. tractable
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to ___ their art-viewing experience should turn to Chicago’s streets, where they can find works ranging from Joan Miró’s sculpture Miró’s Chicago at Brunswick Plaza to Kristen Kula’s mural Tornado on East 11th Street.
@@ -35,6 +38,7 @@ D. supplement
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the 2010s, the price of vintage He-Man action figures rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn’t previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.
@@ -47,6 +51,7 @@ D. monetizing
 Answer: C
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 By demonstrating that wild-animal abundance is inversely correlated with the presence of livestock—consistently rising only when grazers are excluded—Filazzola et al.’s analysis of sites in Sweden and nineteen other countries implies that the introduction of livestock is ______ to the maintenance of native biodiversity.  
@@ -59,6 +64,7 @@ D. commensurate
 Answer: A
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes Snake from 1997, which museum visitors can play on-site, and SimCity 2000 from 1994, which visitors can see only in a video presentation. MOMA claims the video presentations are only for games that would be impractical to display in a playable form, but __video games are an inherently interactive medium__, a feature that is grossly absent in a video-only presentation.
@@ -71,6 +77,7 @@ D. It presents a view about treating video games as art that the author criticiz
 Answer: A
 
 Question 7:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -86,6 +93,7 @@ D. In the Great Lakes region, it is more important to focus conservation efforts
 Answer: C
 
 Question 8:
+[Details]
 Which of the following best describes the function of the underlined sentence in the text as a whole?
 
 The prevailing view in public health is that significant scientific concern over the link between high sugar consumption and chronic disease arose only within the last few decades, prompted by the modern obesity epidemic. This narrative suggests that earlier nutritional science was largely unconcerned with sugar's role__. However, a review of historical documents indicates that some researchers identified sugar's potential dangers much earlier__**.** As early as the mid-20th century, a number of studies pointed to sugar as a key contributor to heart disease, even though the dominant scientific focus at the time was on the risks associated with dietary fat. A shift in public health guidance based on these early findings could have altered the trajectory of diet-related illnesses in the Western world.
@@ -98,6 +106,7 @@ D. It challenges the claim that scientific concern about sugar's health effects 
 Answer: D
 
 Question 9:
+[COE]
 Information in the text best supports which statement about the finding made by Altınışık et al.?
 
 Archaeologists have observed similarities in the tools, such as bidirectional blades, uncovered at the Neolithic-period Mesopotamian settlement of Çayönü Tepesi and those uncovered at roughly contemporaneous settlements elsewhere in Southwest Asia, including those in the South Levant, Central Anatolia, and Central Zagros. Although similarities in tools could be attributed to imitative behavior or trade, Nefize Ezgi Altınışık et al. found evidence of genetic affinity among the populations of Çayönü Tepesi, Central Anatolia, the South Levant, and—to a lesser extent—Central Zagros.
@@ -110,6 +119,7 @@ D. It implies that people and tools likely arrived in Çayönü Tepesi from sett
 Answer: C
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than countries with much smaller populations, as can be seen by comparing ____.
@@ -123,6 +133,7 @@ D. The populations of both Lesotho and Benin in 2015 with their populations in 2
 Answer: C
 
 Question 11:
+[COE]
 Which finding, if true, would most directly support Martinez and colleagues' hypothesis?
 
 The bird species Corapipo gutturalis (the white-throated manakin) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Cymbilaimus lineatus (the fasciated antshrike), on the other hand, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martinez and colleagues, who studied the ecological community these species share in French Guiana, hypothesized that avian foraging strategies that reduce individual vigilance are associated with greater reliance on other species to watch for predators.
@@ -135,6 +146,7 @@ D. Of several species practicing foliage gleaning that Martinez and colleagues o
 Answer: B
 
 Question 12:
+[COE]
 Which choice best describes data from the table that weaken the journalist’s claim?
 
 Highest-Grossing Films in a Language Other than English at US Box Office
@@ -155,6 +167,7 @@ D. The Motorcycle Diaries, which was recognized by the Oscars, had lower opening
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that _____.
@@ -167,6 +180,7 @@ D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were m
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
@@ -179,6 +193,7 @@ D. lawmakers gradually realized that sumptuary laws were inherently challenging 
 Answer: B
 
 Question 15:
+[COE]
 Which one of the following is most strongly supported by the information above?
 
 A lichen is made up of a photosynthetic organism and a fungus growing in symbiosis on a solid surface. Lichens absorb minerals from air and rainwater but also from the surfaces on which they grow; they cannot excrete the elements they absorb. Some varieties are very vulnerable to toxic compounds, including compounds found in polluted air. Such compounds can damage both of the symbiotic partners.
@@ -191,6 +206,7 @@ D. Serious air pollution in a region can cause problems for lichens.
 Answer: D
 
 Question 16:
+[COE]
 Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?
 
 Variously, researchers have closely examined obsidian artifacts to document the long-term exploitation of particular obsidian sources, as in Alyson Lighthart Ponomarenko’s 2004 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.
@@ -203,6 +219,7 @@ D. The obsidian-object production method that was most common among other Medite
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Located on the island of Gotland in Sweden, the city of Visby was a member of a powerful mercantile alliance that dominated northern European trade between the 13th and 17th ______ Hanseatic League, a loose confederation of cities from eleven modern-day countries that has been described as a precursor to today’s European Union.
@@ -215,6 +232,7 @@ D. centuries; the
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Taxonomic distinctiveness is a metric of a species’s evolutionary isolation from other organisms. Possessing 50 million years of divergence, _____
@@ -227,6 +245,7 @@ D. the tuatara, a reptile located in New Zealand, is classified by biologists as
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Digital currencies operate on decentralized networks, which should in theory lead to greater transaction security and reduced fees for users. However, market fluctuations are known to affect their stability, deterring widespread public acceptance. This inherent volatility ______ the currency’s appeal, unlike traditional financial systems, poses a significant challenge for mainstream adoption.
@@ -239,6 +258,7 @@ D. undermines
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An original copy of the Declaration of Independence, signed in Philadelphia in the summer of 1776, and an original version of the Magna Carta, sealed at Runnymede in 1215 have been preserved as foundational documents for their respective ______ the former housed at the US National Archives and the latter displayed at the British Library.
@@ -251,6 +271,7 @@ D. nations, and the
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In March 1862, John Ahoy joined the US Navy, where he went on to serve aboard the USS Pinola during the US Civil War. ____ he earned a place in US history as one of the war's few Chinese-born American soldiers.
@@ -263,6 +284,7 @@ D. In doing so,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Immanuel Kant's critical project systematically unfolded in three monumental works: the *Critique of Pure Reason*, which delineated the limits of metaphysical cognition; the *Critique of Practical Reason*, which established the foundation for objective morality; and the *Critique of Judgment*, which explored teleological and aesthetic principles. ______ each critique constitutes not an isolated inquiry but a crucial component in his overarching architectonic, meticulously designed to bridge the chasm between the deterministic realm of phenomena and the noumenal realm of moral freedom.
@@ -275,6 +297,7 @@ D. Admittedly, one must recognize that a comprehensive understanding of his meta
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
@@ -287,6 +310,7 @@ D. For example,
 Answer: A
 
 Question 24:
+[COE]
 Which option most logically completes the text?
 
 In 2018, astronomer Maria Lopez determined that the precise center of the Andromeda galaxy lies approximately 12,500 light-years northeast of its previously identified location. Lopez’s result proved significantly more precise than an earlier measurement conducted in 1950 by the International Astronomy Association. ____ that earlier measurement relied entirely upon basic telescopic observations and hand-drawn star charts.
@@ -299,6 +323,7 @@ D. To that end,
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between Dark Sky Sanctuaries and Dark Sky Parks. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -317,6 +342,7 @@ D. Though Aotea Great Barrier Island is a Dark Sky Sanctuary, IDSP also designat
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to synthesize the notes into a concise historical summary of the shift in cosmological understanding. Which choice most effectively uses relevant information from the notes to achieve this?
 
 While researching the history of astronomy, a student has compiled the following notes:
@@ -335,6 +361,7 @@ D. Before the seventeenth century, the Renaissance astronomer Nicolaus Copernicu
 Answer: A
 
 Question 27:
+[Synthesis]
 The student seeks to compare Lawson's theory of organizational leadership with Davison's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While investigating a topic, a student compiled the following observations:

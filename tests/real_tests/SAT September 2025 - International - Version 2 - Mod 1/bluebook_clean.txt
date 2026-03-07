@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The pineapple was domesticated in South America. Its physical structure is no longer identical to the structure of the wild plant it is descended from. Summer squash also ______ its wild ancestor. That ancestor plant had a hard rind and bitter flesh. Indigenous people in eastern North America carefully bred the crop until it had a soft rind and mild-tasting flesh.
@@ -10,6 +11,7 @@ D. reacts to
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The adult emperor moth appears brown and orange with multiple eyespots as a result of pigmented scales that cover its wings and body. Although scales are widely known as the source of a moth’s color and pattern, the ______ of these scales goes beyond visual display: they also absorb the sun’s heat for moths active during the day.
@@ -21,6 +23,7 @@ D. frailty
 Answer: C
 
 Question 3:
+[WIC]
 As used in the text, what does the word “good” most nearly mean?
 
 The following text is from Charles Chesnutt’s 1905 novel *The Colonel’s Dream*. Mr. French and Mr. Kirby work together.
@@ -34,6 +37,7 @@ D. Considerable
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite a growing view among young people and others in South Africa that celebrated anti-apartheid leader Nelson Mandela should have taken greater strides as president to effect more substantive structural changes in the country’s stratified society, years after his death in 2013, Mandela continues to be ______ by many worldwide.
@@ -45,6 +49,7 @@ D. reinterpreted
 Answer: C
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Eugene O’Neill’s 1920 play *Beyond the Horizon*. Andrew and Robert Mayo are brothers who grew up on their family’s farm.
@@ -58,6 +63,7 @@ D. It emphasizes a difference between two characters.
 Answer: D
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In the past, historians who wanted to examine Frederick Douglass’s diary and other personal papers had to visit the Library of Congress in Washington, DC, to view them on microfilm __(film containing scaled-down reproductions of documents)__. But traveling to the library often added time and costs to research projects. Now, by going to the library’s website, researchers can access digitized versions of Douglass’s papers without physically going anywhere.
@@ -69,6 +75,7 @@ D. It summarizes an unexpected finding.
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Built in the 1970s, Raccoon Mountain is a pumped-storage hydropower facility (a “water-battery”) located in the United States along the Tennessee River. When energy demand is low, excess power from the regional electric utility’s nuclear plants is used to pump water (from a lower reservoir filled from the Tennessee River) up a shaft to the summit lake, where the water is stored as gravitational potential energy. When energy demand peaks, the water drains down from the summit lake, spinning turbines and generating upward of 1,700 megawatts of power—enough to power one million homes for twenty hours.
@@ -80,6 +87,7 @@ D. To encourage regional electric utilities to build energy storage facilities.
 Answer: B
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the overall characterization in Text 1 of the publicity campaign?
 
 **Text 1**
@@ -95,6 +103,7 @@ D. By acknowledging that the circumstances of publication for Barrett Browning a
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main topic of the text?
 
 When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the bat-like *Yi qi*. However, many dinosaurs that didn’t have wings also had feathers on their bodies. For instance, research indicates that the wingless, herbivorous *Kulindadromeus* likely had feathers.
@@ -106,6 +115,7 @@ D. Bird species
 Answer: A
 
 Question 10:
+[COE]
 Based on the text, why does Don Mariano push aside the furniture on the piazza?
 
 The following text is from María Amparo Ruiz de Burton’s 1885 novel *The Squatter and the Don.*
@@ -119,6 +129,7 @@ D. He wants to make space so that he can engage in vigorous exercise.
 Answer: A
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in the United Kingdom compares to that in other countries. The student finds that ______
@@ -130,6 +141,7 @@ D. while the number of hours worked rose in the United Kingdom from 1950 to 2017
 Answer: B
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the comparison?
 
 The nearly forty tribes located in Oklahoma, including the Chickasaw Nation and the Quapaw Tribe, operate numerous businesses, employ tens of thousands of people, and generate billions of dollars in revenue. A student in an economics class is researching the tribes’ collective activity as a single industry. The student wants to compare that industry’s role in Oklahoma in 2017 with the roles of other industries in the state. Looking at a table with information about three industries, the student finds that compared with the other two industries, tribal economic activity ______
@@ -141,6 +153,7 @@ D. made the highest average economic contribution per employee.
 Answer: D
 
 Question 13:
+[COE]
 Which statement, if true, would best illustrate the challenge described in the text?
 
 A creole language is an amalgam of a lexifier, or primary contributor of grammar and vocabulary, with one or more substrates, or secondary contributors. English-lexifying creoles in the Caribbean, such as Jamaican Patois, rely on West African substrates, while Hawaiian Pidgin relies on ‘Ōlelo Hawai‘i, the Polynesian language of the Native Hawaiian people, with further contributions from Cantonese and other East Asian languages, Portuguese, and Spanish. This is a heterogeneous history, even for a creole language. Moreover, numerous similarities are found among the East Asian substrates, as well as between Portuguese and Spanish. Thus, it can be challenging to credit certain words or features of grammar or pronunciation to any one substrate.
@@ -152,6 +165,7 @@ D. The usage of the Hawaiian Pidgin verb “ste” to convey a temporary state, 
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The great blue heron and the small dark heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the geographic location of the area and how deep the water is during the birds’ breeding season. They found that great blue herons prefer areas with deep water during breeding season, but that was not true for small dark herons. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore more likely to ______
@@ -163,6 +177,7 @@ D. attract birds that don’t typically live in wetlands to the area than they a
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Filtration is a widely used method for removing microplastics—plastics with a width less than 5 millimeters (mm)—from waterways. However, filtration systems are typically unable to capture very small microplastics. Menake Piyasena and Nelum Perera designed a device that applies sound waves to water as it flows through a metal tube. The sound waves cause microplastics in the water to gather in the middle and along the sides of the tube. The microplastics can then be separated out by channeling polluted and clean water through different outlets. Testing indicated that the system removes even tiny microplastics, including ones as small as 10 microns, or 0.01 mm, wide. This result suggests that ______
@@ -174,6 +189,7 @@ D. combining filtration with sound waves is likely the most efficient method for
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A professor at the University of Oklahoma, Amy McGovern works on developing artificial intelligence technology, with a specific focus on supervised machine ______ machine learning involves teaching computer algorithms to organize large amounts of data.
@@ -185,6 +201,7 @@ D. learning, which supervised
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Tuskegee University Archives’ collection includes an original 1957 photograph of Martin Luther King Jr. addressing a group of Tuskegee civil rights activists. Taken by P.H. Polk, the photo ______ King in profile, the glow of a stage light casting his silhouette onto the curtains behind him.
@@ -196,6 +213,7 @@ D. showing
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawai‘i Register of Historic Places, which includes the Gulick-Rowell House and the Kukui Heiau. However, Okinaka doesn’t make such decisions ______ all historical designations must be approved by a group of nine other experts from the fields of architecture, archaeology, history, and Hawaiian culture.
@@ -207,6 +225,7 @@ D. single-handedly;
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Most of the ice found on Earth is ice Ih, distinguished by a crystalline structure in which molecules form a hexagonal pattern. Amorphous ice, on the other hand, constitutes most of the ice in the ultrafrigid environment of outer space. Defined by a disorganized molecular structure, ______
@@ -218,6 +237,7 @@ D. amorphous ice lacks the thermal energy to form the crystals found in ice Ih.
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When, in 2018, scientists in Germany discovered a fossilized brittle star with three thick, spine-studded arms positioned opposite three thin, undeveloped ones, they found something never before seen in the fossil ______ clonal fragmentation, a type of asexual reproduction, an animal splits itself in two, each half then regrowing its missing limbs—just what the brittle star was doing.
@@ -229,6 +249,7 @@ D. record: evidence of cloning. In
 Answer: D
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Typically, upon detecting the scent of another animal, a lion will open its mouth. ______ the lion allows the scent to reach sensory receptors on the roof of its mouth. These sensors help the lion interpret the source of the scent.
@@ -240,6 +261,7 @@ D. By doing so,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as 5-O-caffeoylquinic acid and kaempferol. ______ Ferreira detected 5-O-caffeoylquinic acid in *Pleurotus ostreatus* mushrooms and kaempferol in *Sparassis crispa* mushrooms.
@@ -251,6 +273,7 @@ D. Nevertheless,
 Answer: C
 
 Question 23:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -269,6 +292,7 @@ D. Some types of brown seaweed, like winged kelp and arame, trigger umami flavor
 Answer: C
 
 Question 24:
+[Synthesis]
 The student wants to identify the title of J.D. Salinger’s first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -285,6 +309,7 @@ D. J. Salinger’s first published short story was called “The Young Folks.”
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between the two scrolls. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -303,6 +328,7 @@ D. One of the two scrolls that make up *In Landscape and Couplet of Chinese Vers
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to provide evidence that Randmaa’s journey was a true circumnavigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -320,6 +346,7 @@ D. A true circumnavigation, Randmaa’s journey also passed the three great cape
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to emphasize a similarity between Macready and Keene. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

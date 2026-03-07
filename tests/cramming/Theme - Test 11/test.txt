@@ -1,4 +1,5 @@
 Question 1:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerrgren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ____.
@@ -11,6 +12,7 @@ D. levels of dissolved organic carbon and mercury are both much higher in bodies
 Answer: A
 
 Question 2:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of freshwater in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the pattern is particular to North America. However, Yao Luo and colleagues reported dissolved organic carbon and mercury rising or falling together in a study conducted in China, and several other studies from outside North America have yielded similar results, suggesting that _____.
@@ -23,6 +25,7 @@ D. Bodies of freshwater outside North America are more likely to show a negative
 Answer: C
 
 Question 3:
+[Infer]
 Which choice most logically completes the text?
 
 In a 2012 study in the United States, Michael E. Berndt and Travis K. Bavin found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water. Many other studies have yielded similar results, suggesting to some scientists that this association is true for all bodies of fresh water. But much of that research has been conducted at broadly similar sites in North America, and when Seam Noh and colleagues examined bodies of fresh water in South Korea, they found a negative association between dissolved organic carbon levels and mercury levels. If similar findings emerge from other locations outside North America, that could suggest that ______.
@@ -35,6 +38,7 @@ D. most of the studies conducted in North America have measured dissolved organi
 Answer: C
 
 Question 4:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But this correlation has not, José Roberto Guimarães, and Pedro Sérgio Fadini did not find correlation in a study conducted in Brazil, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Heidi Pyykkö and colleagues in Finland, showed similar results to the North American studies, while few have produced results similar to those of Fagnani, Guimarães, and Fadini's study, suggesting that ____
@@ -47,6 +51,7 @@ D. levels of dissolved organic carbon and mercury in bodies of fresh water are b
 Answer: A
 
 Question 5:
+[Infer]
 Which choice most logically completes the text?
 
 In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that _____.
@@ -59,6 +64,7 @@ D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were m
 Answer: B
 
 Question 6:
+[Synthesis]
 The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -77,6 +83,7 @@ D. By comparing the stream lengths of the Embarras and Luni rivers to their vall
 Answer: B
 
 Question 7:
+[Synthesis]
 The student wants to compare the sinuosity of the Fort Nelson and Wadi Al-Hamd rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -95,6 +102,7 @@ D. By comparing the stream lengths of the Fort Nelson and Wadi Al-Hamd rivers to
 Answer: C
 
 Question 8:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Kyūdō, a form of archery that originated in Japan, was not a medal sport at the 1964 Tokyo Summer Olympic Games. _____ kyūdō was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.
@@ -107,6 +115,7 @@ D. For example,
 Answer: B
 
 Question 9:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of handball became a medal event after demonstration, kaatsen, a handball sport popular in the Netherlands, only appeared at the 1928 Amsterdam Olympics.
@@ -119,6 +128,7 @@ D. However,
 Answer: B
 
 Question 10:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of speed skating became a medal event after demonstration, glima, a combat sport popular in Sweden, only appeared at the 1912 Stockholm Olympics.
@@ -131,6 +141,7 @@ D. Moreover,
 Answer: C
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Duckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vámos and colleagues collected samples of four duckweed ecotypes (genetically and geographically distinct populations within a species), along with water from each ecotype’s habitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants, the researchers grew each ecotype in all four water samples and with three levels of zinc (none, low, high). (The researchers did not replicate local differences in light or temperature.) They found that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration, suggesting that ______.
@@ -143,6 +154,7 @@ D. although the researchers’ hypothesis does not appear to be supported, this 
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 Microbes that live in shallow lakes and ponds produce methane, a harmful greenhouse gas. Ecologist Ralf Aben and his team wanted to see how different types of shallow-water plants might affect the amount of methane that escapes into the atmosphere. Aben's team set up some water tanks with soil and microbes from local ponds. Some tanks had a type of underwater plant that grows in the soil called watermilfoil. Other tanks had either duckweed, a type of plant that floats on the water's surface, or algae. Aben and his team found that tanks with duckweed and algae released higher levels of methane than tanks with watermilfoil did. This finding suggests that _______
@@ -155,6 +167,7 @@ D. having a mix of algae, underwater plants, and floating plants is the best way
 Answer: C
 
 Question 13:
+[COE]
 Which finding, if true, would best support the linguist’s hypothesis?
 
 The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
@@ -167,6 +180,7 @@ D. Languages that emerged in Southeast Asia tend to have more sounds than langua
 Answer: C
 
 Question 14:
+[COE]
 Which finding, if true, would most directly weaken the researcher’s claim?
 
 The Umpila language of Australia has 21 vowel and consonant sounds. In contrast, the Taa language of southern Africa has over 100. Why would languages differ in this way? One researcher has claimed that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity’s original language.
@@ -179,6 +193,7 @@ D. A wider range of sounds is found across the languages of Africa as a whole th
 Answer: B
 
 Question 15:
+[COE]
 Which finding, if true, would most directly challenge the second research team's conclusion?
 
 Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of traceability (with a higher rating for clearer descriptions of procedures and for greater consistency with other literature citing sources of materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the methodology was better explained in a study by Greg L. Kozak and Greogary A. Keoleian than it was in a study by Perrine Chancerel and Susanne Rotter.
@@ -191,6 +206,7 @@ D. The study by Kozak and Keoleian had a lower traceability rating than the stud
 Answer: D
 
 Question 16:
+[COE]
 Which finding, if true, would most directly support the second research team’s conclusion?
 
 Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from other similar product studies. The team rated each study on its level of detail (with a higher rating for reported data with more detail) and on its category consistency (with a higher rating for using materials categories more closely aligned with the categories in the team’s database). Based on these ratings, a second research team concluded that the data in a study by Maria Leet Socolof and colleagues would need less adjustment to fit the classifications in the database than the data in a study by Martin Streicher-Porte and colleagues did.
@@ -203,6 +219,7 @@ D. The study by Streicher-Porte and colleagues had a medium consistency rating a
 Answer: A
 
 Question 17:
+[COE]
 Which finding, if true, would most directly challenge the second research team’s conclusion?
 
 Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reporting data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Greg L. Kozak and Gregory A. Keoleian reported more specificity in its data than a study by Oguchi Masahiro and colleagues did.

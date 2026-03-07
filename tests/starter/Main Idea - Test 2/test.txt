@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Adib Khorram’s 2018 novel Darius the Great Is Not Okay. Darius, a teenager from the United States, is visiting his grandparents, Babou and Mamou, in Iran. They are preparing for a holiday celebration.
@@ -16,6 +17,7 @@ D. To suggest that Babou and Mamou will visit Darius in the United States soon
 Answer: C
 
 Question 2:
+[Structure]
 Which choice best states the main topic of the text?
 
 In 2016, psychologists Joanna Burke and Elliot Friedman presented research indicating that prolonged social isolation significantly influences anxiety behaviors in rhesus monkeys (*Macaca mulatta*). Nevertheless, Burke and Friedman's conclusions were derived from groups averaging approximately 12 monkeys each. Reviewing multiple studies in 2022 concerning social isolation’s effects on primate anxiety, psychologist Melissa Tran and her colleagues warned that such limited sample sizes might inadvertently bias results, potentially leading to overstated behavioral outcomes.
@@ -28,6 +30,7 @@ D. To explore opposing viewpoints between research groups on the roots of social
 Answer: B
 
 Question 3:
+[Structure]
 Which choice best states the main topic of the text?
 
 Celebrated for directing films such as *The Grand Budapest Hotel* and *Moonrise Kingdom*, filmmaker Wes Anderson often collaborated with cinematographer Robert Yeoman. Their 2009 film version of Roald Dahl’s children’s story *Fantastic Mr. Fox* significantly diverged from Dahl’s original 1970 book. Anderson and Yeoman were unconcerned with audience expectations for faithful storytelling. They excluded key scenes and occasionally referenced Dahl’s narrative only briefly. However, Anderson and Yeoman’s creative reinterpretation of Dahl’s work resulted in one of Anderson’s most acclaimed films.
@@ -40,6 +43,7 @@ D. To provide evidence supporting one film’s artistic superiority over another
 Answer: B
 
 Question 4:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
@@ -53,6 +57,7 @@ D. To demonstrate that most people tend to prefer being alone in the country to 
 Answer: B
 
 Question 5:
+[Structure]
 Which choice best states the main idea of the text?
 
 In a study of new technology adoption, Davit Marikyan et al. examined negative disconfirmation (which occurs when experiences fall short of oneʼs expectations) to determine whether it could lead to positive outcomes for users. The team focused on established users of “smart home” technology, which presents inherent utilization challenges but tends to attract users with high expectations, often leading to feelings of dissonance. The researchers found that many users employed cognitive mechanisms to mitigate those feelings, ultimately reversing their initial sense of disappointment.
@@ -65,6 +70,7 @@ D. Although negative disconfirmation has often been studied, little is known abo
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best states the main idea of the text?
 
 Camila Ortega’s *Urban Dreams*, a photographic print depicting a solitary skyscraper illuminated against glittering city lights and a vibrant twilight sky, exemplifies works by the Metropolitan Lens Group, an informal association of urban photographers primarily active in the 1970s and '80s. Noted for predicting and reinforcing aesthetic impressions of New York City that subsequently became embedded in popular imagination, photographs by the Metropolitan Lens Group can easily be recognized by the urban symbols—gleaming skyscrapers, illuminated cityscapes—that Ortega and her associates repeatedly captured.
@@ -77,6 +83,7 @@ D. The gleaming skyscrapers and illuminated cityscapes that are typical of Orteg
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 *Dubautia menziesii* is a species in a family of plants known collectively as the silversword alliance, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit an extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed’s descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.
@@ -89,6 +96,7 @@ D. To advance the claim that all plants on the Hawaiian Islands are part of the 
 Answer: A
 
 Question 8:
+[Structure]
 Which choice best states the main topic of the text?
 
 Early breakthroughs by astronomers such as Henrietta Swan Leavitt significantly advanced our understanding of stellar astronomy—the study of stars and their properties. Leavitt, who worked at Harvard Observatory, identified a method for determining distances to faraway galaxies through the study of variable stars, laying critical groundwork for future astronomical research. By establishing these foundations, Leavitt and her peers created new opportunities for future generations of female astronomers—such as Vera Rubin, whose work greatly contributed to the study of galaxy rotation and dark matter—to thrive in astronomical research.
@@ -101,6 +109,7 @@ D. Vera Rubin's professional aspirations
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Known for the albums *E.S.P.* and *'Round About Midnight*, jazz trumpeter Miles Davis collaborated several times with pianist Gil Evans. Their 1958 adaptation of George Gershwin’s opera *Porgy and Bess* bears little resemblance to the 1935 original. Davis and Evans felt no desire to please listeners expecting an exact duplication of the opera. They omitted parts, such as the aria “I Got Plenty of Nuthin’,” and sometimes made only brief gestures toward Gershwin’s melodies. But Davis and Evans’s willingness to recompose Gershwin’s work led to one of the most enduring albums in Davis’s catalog.

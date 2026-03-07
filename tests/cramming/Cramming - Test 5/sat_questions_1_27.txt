@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 While high patent counts are frequently cited as evidence of a thriving creative economy, Yuen Ang et al. argue that the connection between patent volume and genuine technological progress is often ______; their research indicates that the majority of recent filings represent minor, derivative tweaks rather than the novel synthesis of distinct domains.
@@ -11,6 +12,7 @@ D. ineffable
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The recent discovery of invertebrates such as Haywardozoon pacificum and Trophomera marangi in the Clarion-Clipperton Zone (CCZ) offers a tantalizing glimpse into a poorly understood ecosystem. However, given that the abyssal plain’s biota is vastly undersampled, treating these few documented species as reliable ______ the region's complete invertebrate biodiversity would be a profound methodological error.
@@ -23,6 +25,7 @@ D. proxies for
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak—terraces, canals, and water temples—are ______: they are joined together into a single cohesive unit.
@@ -35,6 +38,7 @@ D. interdependent
 Answer: D
 
 Question 4:
+[Details]
 Which choice best describes the function of the two underlined portions in the text as a whole?
 
 The following text is from Sarojini Naidu's 1896 poem "Alabaster."
@@ -51,6 +55,7 @@ D. They provide examples, one literal and one figurative, of a change that the s
 Answer: A
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as Attorney General Richard Kleindienst and Republican Party official Robert Mardian. __But Nixon's legacy is complex: he has been praised for his role in opening relations between the United States and China, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.__
@@ -63,6 +68,7 @@ D. It explains why a historical figure’s accomplishments are often disregarded
 Answer: B
 
 Question 6:
+[COE]
 The author mentions Schumann and Brahms primarily in order to
 
 Was Felix Mendelssohn (1809–1847) a great composer? On its face, the question seems absurd. One of the most gifted prodigies in the history of music, he produced his first masterpiece at sixteen. From then on, he was recognized as an artist of preternatural abilities, not only as a composer but also as a pianist and conductor. But Mendelssohn’s enduring popularity has often been at odds—sometimes quite sharply—with his critical standing. Despite general acknowledgment of his genius, there has been a noticeable reluctance to rank him with, say, Schumann or Brahms. As Haggin put it, Mendelssohn, as a composer, was a “minor master . . . working on a small scale of emotion and texture.”
@@ -75,6 +81,7 @@ D. establish a standard of comparison for Mendelssohn as a composer
 Answer: D
 
 Question 7:
+[COE]
 Which choice most effectively uses data from the table to support the research team's hypothesis?
 
 In the field of renewable energy, materials scientists are constantly innovating to improve solar panel technology. A research group from the National Renewable Energy Laboratory conducted a study on the adoption rates of two types of solar cells for commercial projects. Traditional crystalline silicon panels are the industry standard, known for their reliability and cost-effectiveness. In contrast, emerging perovskite solar cells offer superior energy conversion efficiency but currently face challenges with long-term stability and large-scale manufacturing. The team's hypothesis was that despite the performance benefits of perovskite cells, their practical challenges have led to a slower rate of adoption compared to traditional silicon panels.
@@ -89,6 +96,7 @@ D. The installed capacity of perovskite panels more than doubled from 2021 to 20
 Answer: A
 
 Question 8:
+[COE]
 Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
@@ -101,6 +109,7 @@ D. During periods of high lunar intensity, Azara’s night monkeys increase thei
 Answer: C
 
 Question 9:
+[COE]
 The main purpose of the passage is to
 
 A persistent belief among many art historians is that Giorgio Vasari’s *Lives of the Most Excellent Painters, Sculptors, and Architects* (published 1550) is primarily an exercise in Florentine boosterism, aggrandizing artists from his home region at the expense of objective art-historical analysis. However, a nuanced reading reveals the work's multifaceted value. Modern scholarship has benefited from the vast repository of information Vasari provides, such as his detailed accounts of artistic techniques, and from his candid assessments of celebrated figures like Raphael. The work’s engaging anecdotes—as seen in his description of Brunelleschi’s cunning scheme to win the Florence Cathedral dome commission—are often dismissed by those who charge Vasari with presenting his subjects as flawless geniuses. This charge also obscures Vasari's concern with the practical, not just the aesthetic, dimensions of art, including artists' financial success and social standing. Furthermore, this reductive view undervalues the *Lives* as a foundational art-historical narrative; Vasari synthesized a vast array of sources, and his shaping of this material into a narrative of artistic progress shows a profound understanding of the Renaissance's cultural evolution.
@@ -113,6 +122,7 @@ D. refute a common critique of the work of an art historian
 Answer: D
 
 Question 10:
+[COE]
 Which finding from the study, if true, would most directly support the team’s conclusion?
 
 Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
@@ -125,6 +135,7 @@ D. The similarity between the pattern of brain activity a dog showed in response
 Answer: C
 
 Question 11:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Dolly Parton’s greatest success came in the late 1970s through the mid-1980s, when she incorporated pop instrumentation and song structures into country music and found a wider audience with such singles as “Real Love.” Before that period, she had recorded a purer form of country grounded in the harmonies and subject matter of the traditional folk ballads of the southern United States. __Yet it is misleading to draw a sharp contrast between Dolly’s early albums and those from 1977 to 1985, since even the albums from this pop-oriented period contain songs that signal the continued influence of the folk ballads she had sung as a girl in East Tennessee.__
@@ -137,6 +148,7 @@ D. On the 1983 album Burlap and Satin, Dolly’s original composition “Appalac
 Answer: D
 
 Question 12:
+[COE]
 Which quotation from Bennett's study best supports this assertion?
 
 Cognitive psychologist Laura Bennett's 1998 study, conducted in London during the late 1950s, focused on the mental visualization abilities of individuals anticipating significant life events. In the experiment, participant Henry Carter was asked to imagine his upcoming marriage to Susan Taylor. Henry vividly envisioned future events with Susan: ____.
@@ -149,6 +161,7 @@ D. "Immediately, Henry's thoughts jumped beyond the formal proposal and the cele
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for washing machines, and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or compensators. Thus, stainless steel used to manufacture __________.
@@ -161,6 +174,7 @@ D. compensators will likely have a similar crystalline structure to stainless st
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 As complex life cycle parasites, Anisakis sp. and Cucullanellus kanabus require multiple host species throughout their development. Extrapolating from parasite counts on spotted ratfish and seven other fish species collected from Puget Sound from 1880 to 2019, Chelsea Wood et al. found that the abundance of three-host parasites, such as Anisakis sp., negatively correlated with rising average annual sea temperatures; the abundance of two-host parasites, such as C. kanabus, was largely stable. Noting that fish and other marine vertebrates are especially vulnerable to climate change, Wood et al. observed that all three-host parasites in the study depend on at least two vertebrate species, while all two-host parasites depend on only one, suggesting that _____.
@@ -173,6 +187,7 @@ D. a parasite’s sensitivity to warming temperatures is negatively correlated w
 Answer: B
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a coastal restoration project, Oregon’s 12 monitoring stations are currently assigned to the agency’s regional offices, but a new protocol aims to change that. Marine biologists Akira Sato and Vikram Iyer’s 2013 report ______ that stations could instead coordinate to share real-time data with the hub that has detected the earliest anomaly has given rise to the Pacific Sensor Exchange Network (PSEN).
@@ -185,6 +200,7 @@ D. proposes
 Answer: A
 
 Question 16:
+[Cross Text]
 Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?
 
 Text 1
@@ -200,6 +216,7 @@ D. Text 1 discusses a single plausible cause of Nadir, whereas Text 2 evaluates 
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together, like oil and water. Though modern chemists commonly use emulsifiers like 12-hydroxystearic acid in their formulations, emulsifiers that have been employed for millennia, such as beeswax and egg yolk, _______ used to this day by chemists as well.
@@ -212,6 +229,7 @@ D. were being
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A magnificent wrought-iron lattice structure designed by Gustave Eiffel for the 1889 World's ______ the Eiffel Tower has become a global cultural icon of France.
@@ -224,6 +242,7 @@ D. Fair,
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Three-dimensional geometric figures _____ as polyhedra in Euclidean geometry, such as "pyramids" and "octahedra," consist of flat polygonal faces joined along straight edges.
@@ -236,6 +255,7 @@ D. have been classified
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Amelia Bloomer championed women’s voting rights in the 1800s. She ______ her home state of Iowa in the National Woman Suffrage Association, an influential organization that included delegates from every US state and territory.
@@ -248,6 +268,7 @@ D. represents
 Answer: A
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In September 1928, a Scottish physician accidentally discovered a powerful antibiotic in his London laboratory. Regarded as a turning point in medical history, a result of a contaminated petri dish, ______ Fleming was jointly awarded the 1945 Nobel Prize in Medicine.
@@ -260,6 +281,7 @@ D. the mold's bacteria-killing properties were revealed by the discovery, which 
 Answer: C
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
@@ -272,6 +294,7 @@ D. offering
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 NPTV is a community-led television channel broadcasting from the Navajo Nation in Arizona. In 2007, Jordan Kee aimed to ensure the sustainability of platforms like NPTV. _____ he established Indigenous Broadcast Network, a supportive network for Indigenous television channels, which currently encompasses about fifty channels.
@@ -284,6 +307,7 @@ D. To that end,
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The designations of astronomical constellations consistently reference figures from mythology (e.g., Orion refers to a legendary hunter). Titles assigned to individual stars, _____ originate from a variety of sources. The star Betelgeuse derives its name from Arabic, for instance, while Polaris has a Latin origin.
@@ -296,6 +320,7 @@ D. therefore,
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to contrast the effect of parks on happiness in Fort Worth with that in Phoenix. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -314,6 +339,7 @@ D. To contrast the effect of parks on happiness in Fort Worth and Phoenix, the s
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to explain why potassium is not fully liquid in a chain melt state. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -332,6 +358,7 @@ D. Because potassium atoms remain disordered in chain melt even under extreme he
 Answer: B
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?
 
 While researching a topic, a student has taken the following notes:

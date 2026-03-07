@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apollo Moon landings (1969-1972) brought atmospheric sensors and seismic sensors to the Moon and produced large amounts of data. Researcher Renee Weber, who is investigating tectonic activity on the Moon, continues to use Apollo's data, demonstrating that the missions' value to science is ______.
@@ -10,6 +11,7 @@ D. controversial
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Because cyanobacteria and other microphytobenthos (MPB)—microscopic organisms inhabiting tidal flats—are consumed by mussels as well as by certain shorebirds and fish, MPB are ______ estuary ecosystems. Decreased MPB abundance, which may be caused by environmental stressors, thus has a direct, negative impact on coastal food webs.
@@ -21,6 +23,7 @@ D. interchangeable with
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some pieces of music might have many meanings—the composition of Charlotte Moorman can ______ as many different interpretations as there are people to listen to them—and so as long as a listener's interpretation isn't willfully absurd or the result of inattention, it is difficult to the claim that the listener has misunderstood the piece.
@@ -32,6 +35,7 @@ D. evade
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The inventories of consonant sounds among the Polynesian languages of the Pacific tend toward the ______: Sikaiana in the south Pacific has a total of nine consonants, and ʻŌlelo Hawaiʻi, the language of Native Hawaiian people, has one fewer, while the global median per language is over twenty-two.
@@ -43,6 +47,7 @@ D. melodic
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include Casa de Rosado. Located in Lansing, Michigan, it focuses on the arts and cultures of Latino communities in Michigan.
@@ -54,6 +59,7 @@ D. To draw a contrast between the collection sizes of two institutions.
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from D.A. Lozano's 1844 poem "A Remembrance of Puerto Cabello-The Mangle" (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.
@@ -70,6 +76,7 @@ D. It compares the appearance of two types of boats.
 Answer: B
 
 Question 7:
+[COE]
 According to the text, what is one way that non-Indigenous museums typically differ from the cultural centers operated by the Pueblo of Pojoaque and the Tohono O'odham Nation?
 
 In what is now New Mexico, the Pueblo of Pojoaque operates the Poeh Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Pojoaque history and culture to the tribe's citizens. The Tohono O'odham Nation, a tribe in Arizona, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren't Indigenous-led, when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.
@@ -81,6 +88,7 @@ D. The museums focus on tribal history as well as tribal culture.
 Answer: C
 
 Question 8:
+[COE]
 Based on the text, why is the kiwikiu a highly specialized species?
 
 The Hawaiian archipelago is home to the kiwikiu (*Pseudonestor xanthophrys*), one of several bird species that can only be found on the islands. Due to Hawai'i's uniquely varied geographic and ecological conditions, the kiwikiu became highly specialized as it adapted to survive in a specific island habitat. However, like many highly specialized species, the kiwikiu is particularly vulnerable to environmental stressors, such as disease, invasive species, and habitat destruction, that disrupt the delicately balanced ecosystems in which the birds live.
@@ -92,6 +100,7 @@ D. It lives in a habitat that is exposed to numerous environmental stressors.
 Answer: B
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Guy de Maupassant's 1884 short story "A Recollection," from the collection *Guy de Maupassant Short Stories* (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
@@ -105,6 +114,7 @@ D. The narrator perceives a parallel between the shift from the urban environmen
 Answer: D
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the annual mean size of forest patches across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region's climate, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By 1986, mean forest patch sizes had dropped considerably. In that year, they were between ______
@@ -116,6 +126,7 @@ D. 0 and 50 hectares.
 Answer: D
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 Lin-Tai Ho and colleagues monitored fish populations in a tide pool in Taiwan. They found that some species were entirely absent from the tide pool at particular times of the year; for example, they did not observe even one ______
@@ -127,6 +138,7 @@ D. combtooth blenny in January of 2001.
 Answer: B
 
 Question 12:
+[COE]
 Which finding, if true, would most directly weaken the student's hypothesis?
 
 Paleontologist Amane Tajika and colleagues analyzed the shells of two marine mollusks called nautilids that were collected from waters near New Caledonia. Sample F13 and other shell sections formed during adulthood suggest that mature New Caledonian nautilids live at the same depths as mature Fijian nautilids. However, sample M06, which formed while the nautilid was still in its egg, had a chemical signature suggesting the egg had been laid in water 120 meters deep, while Fijian nautilids typically lay eggs at depths of at least 170 meters. Because water temperature decreases as depth increases, a biology student hypothesized that the New Caledonian nautilids lay their eggs in warmer water than Fijian nautilids do.
@@ -138,6 +150,7 @@ D. The water temperature at a given depth tends to be lower in waters near Fiji 
 Answer: B
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the pattern is particular to North America. However, Yao Luo and colleagues reported dissolved organic carbon and mercury rising or falling together in a study conducted in China, and several other studies from outside North America have yielded similar results, suggesting that ______
@@ -149,6 +162,7 @@ D. bodies of fresh water outside North America are more likely to show a negativ
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Rudolf Cesaretti et al. conducted an analysis of historical urban scaling trends circa 1300 CE in Western Europe, focusing on agglomeration patterns within medieval settlements. They examined settlements in urban systems across Western Europe, with groupings based on regionally distinct political structures, economic focuses, and spatial constraints—including the aristocratically controlled city-state of Parma in northern Italy, merchant controlled city-states like Goerlitz in Germany, the wool-trading centers of Lincoln and Canterbury in England, and prime trade fair towns like Troyes in France. A prevalent trend emerged: as a city's total settled area increased, so did population density in its core urban areas. This finding implies that ______
@@ -160,6 +174,7 @@ D. despite regional differences in their political and economic systems, medieva
 Answer: A
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After much debate, ______ finally made a decision: the judges for the 1947 Nobel Prize in Literature would award André Paul Guillaume Gide of France with that year's prize "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight."
@@ -171,6 +186,7 @@ D. it
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In June of 1966, the song "I Need Love" was a top-ten hit. Having climbed the charts for six weeks, ______ ranked No. 4 on the Billboard Hot 100 list of most popular songs.
@@ -182,6 +198,7 @@ D. it
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 1847, the novel *Agnes Grey* was published under the pen name Acton Bell. Now, we know that ______
@@ -193,6 +210,7 @@ D. the author's real name was Anne Brontë?
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While the greater adjutant (*Leptoptilos dubius*) can be found in places like the Inner Gulf of Thailand and Manchar Lake in ______ than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts to bring adjutants back from near extinction.
@@ -204,6 +222,7 @@ D. Pakistan more
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Canada and Germany have two of the longest constitutions in the world. At 19,565 and 27,379 words, respectively, these ______ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.
@@ -215,6 +234,7 @@ D. constitutions' lengths,
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A pet cat poses next to its owners in *Kiesler and Wife*, an oil painting by American ______ Will Barnet.
@@ -226,6 +246,7 @@ D. artist,
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Every US state has an associated state soil, which is typically selected by a group of experts then passed through the state legislature to receive its official designation. For example, Arkansas's Stuttgart soil was formally designated in 1997, and Maine's Chesuncook soil in 1999. ______ years pass between a soil's selection and official designation, as the legislative process can be notoriously slow.
@@ -237,6 +258,7 @@ D. Indeed,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A 1990 study of schooling fish observed the fish mimicking the behavior of school-mates rapidly swimming away from a predator. This is an example of an information cascade that benefits the collective. ______ the animal world is at times susceptible to the spread of misinformation, often with unfavorable results: a 2010 study of semipalmated sandpipers concluded that fleeing in response to flock-mates' false alarms caused the birds to abandon safe nesting grounds unnecessarily.
@@ -248,6 +270,7 @@ D. Consequently,
 Answer: B
 
 Question 23:
+[Synthesis]
 The student wants to describe the process of relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -265,6 +288,7 @@ D. In relief printing, an image is carved onto a printing block, which is then p
 Answer: D
 
 Question 24:
+[Synthesis]
 The student wants to emphasize a similarity between the two countries. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -282,6 +306,7 @@ D. The capital of the Philippines is Manila; the capital of Liechtenstein is Vad
 Answer: A
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?
 
 While researching a topic, a student has taken the following notes:
@@ -299,6 +324,7 @@ D. The personal journey of George Swanson Starling is featured in the award-winn
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between Judeth Insel and David Davidson. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -316,6 +342,7 @@ D. Judeth Insel and David Davidson both lent their musical talents to albums by 
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to make and support a generalization about Merle Oberon's early career. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

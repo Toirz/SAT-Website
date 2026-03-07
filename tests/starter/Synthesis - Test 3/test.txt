@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to make and support a generalization about the Alta conflict. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 **While researching a topic, a student has taken the following notes:**
@@ -16,6 +17,7 @@ D. The Alta conflict had a lasting impact, resulting in international attention 
 Answer: D
 
 Question 2:
+[Synthesis]
 The student wants to introduce Cathryn Halverson’s book to an audience already familiar with The Atlantic Monthly. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -33,6 +35,7 @@ D. An author discussed by Cathryn Halverson is Juanita Harrison, whose autobiogr
 Answer: A
 
 Question 3:
+[COE]
 The student wants to summarize the kelp highway hypothesis. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -50,6 +53,7 @@ D. As glaciers melted and sea levels rose, many Pacific Ocean islands and coasta
 Answer: C
 
 Question 4:
+[Synthesis]
 The student wants to emphasize a difference between the two books. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -67,6 +71,7 @@ D. The Interesting Narrative of the Life of Olaudah Equiano and The Jungle ar
 Answer: A
 
 Question 5:
+[Synthesis]
 The student wants to explain what a quenched galaxy is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 **While researching a topic, a student has taken the following notes:**
@@ -84,6 +89,7 @@ D. A starburst galaxy will lose star-forming gas and eventually become quenched.
 Answer: C
 
 Question 6:
+[Synthesis]
 The student wants to make a generalization about the kind of study conducted by Glickman, Brown, and Song. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -101,6 +107,7 @@ D. Researchers have used statistical methods to address questions of authorship 
 Answer: D
 
 Question 7:
+[Synthesis]
 The student wants to begin a narrative about Wong’s award-nominated web series. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

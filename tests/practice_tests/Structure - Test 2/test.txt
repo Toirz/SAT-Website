@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from D.A. Lozano’s 1844 poem “A Remembrance of Puerto Cabello— The Mangle” (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.
@@ -14,6 +15,7 @@ D. It describes the speaker's appreciation for the people of Puerto Cabello.
 Answer: B
 
 Question 2:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Though John Crowley, author of Endless Things, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -25,6 +27,7 @@ D. It identifies a writer whose work is regarded as difficult to read, brings up
 Answer: C
 
 Question 3:
+[Structure]
 Which choice best states the main idea of the text?
 
 “Coyote” is an example of a loanword—that is, a word that originated in one language and was later adopted by another. The word came to English indirectly from coyote, the Spanish word for the wild canine species. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word’s original form is coyotl. “Condor” also has an Indigenous origin and entered English through Spanish. But in this case, the original source was Quechua, a language of South America, in which the word for the large vulture species is kuntur.
@@ -36,6 +39,7 @@ D. When non-Indigenous languages borrowed from Indigenous languages, the words o
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 Eighteenth-century economist Adam Smith is famed for his metaphor of the invisible hand, which he putatively used to illustrate a robust model of how individuals produce aggregate benefits by pursuing their own economic interests. Note "putatively": as Gavin Kennedy has shown, Smith deploys this metaphor only once in his economic writings—to make a narrow point about the then-dominant economic theory of mercantilism—and it was largely ignored until some twentieth-century economists eager to secure an intellectual pedigree for their views elevated it to a fully-fledged paradigm.
@@ -47,6 +51,7 @@ C. Some twentieth-century economists gave Smith's metaphor of the invisible hand
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 During Rome's republican period, which ended in the first century BCE, libraries were predominantly owned by wealthy individuals who tightly controlled access to their book collections. The first public library became available in Rome in 28 BCE and was soon followed by one commissioned by Emperor Augustus. As modern scholar Fabio Fernandes notes, however, these two traditions aren't as distinct as they seem, as both the emperor and the private library owners viewed their libraries as extensions of their personal patronage, just on vastly differing scales.
@@ -58,6 +63,7 @@ D. To assert that private and early public libraries in ancient Rome had an esse
 Answer: D
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 With its combination of country and pop influences, “Here You Come Again” is typical of Dolly Parton’s recordings in the late 1970s and first half of the 1980s. Through songs bridging these two genres, she achieved her greatest commercial successes. A decade earlier, however, Dolly had first established herself as a songwriter steeped in the traditional folk music of the Blue Ridge Mountains, where she was born and raised. The influence of the ballads of this region can be heard in the word choice and subject matter of the lyrics to “Jolene,” one of her best songs from this period.
@@ -69,6 +75,7 @@ D. It praises “Here You Come Again,” then notes how remarkably similar tha
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The Hundred Days, first published in 1998, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of The Hundred Days and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust’s In Search of Lost Time.
@@ -80,6 +87,7 @@ D. To explain why many critics find the Aubrey/Maturin novels to be remarkably e
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Sheep and macaque monkeys can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of sheep and macaque monkeys than that of octopuses or squid.
@@ -91,6 +99,7 @@ D. The findings of Wardill’s team’s study suggest that like sheep and macaqu
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from D.A. Lozano’s 1844 poem A Remembrance of Puerto Cabello—The Mangle (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.
@@ -106,6 +115,7 @@ D. It compares the appearance of two types of boats.
 Answer: B
 
 Question 10:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Claire Montague’s essay *The Benefactor's Legacy,* first published in English in 1912.

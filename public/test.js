@@ -156,6 +156,22 @@ function renderPlainHtml(el, rawText) {
   el.classList.remove("cipher-text");
 }
 
+function normalizeQuestionText(rawText = "") {
+  return String(rawText || "")
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .replace(/\\n/g, "\n")
+    .trim();
+}
+
+function removeTopicLine(rawText = "") {
+  return normalizeQuestionText(rawText)
+    .split("\n")
+    .filter((line) => !/^\s*\[[^\]]+\]\s*$/.test(line))
+    .join("\n");
+}
+
+
 
 function typesetMath(elements = []) {
   const targets = elements.filter(Boolean);
@@ -989,11 +1005,12 @@ function render() {
 
   // --- Tách passage và question ---
   const decodedQuestion = decodeCipherText(q.cipherQuestion);
-  const lines = decodedQuestion.split("\n");
+  const displayQuestion = removeTopicLine(decodedQuestion);
+  const lines = displayQuestion.split("\n");
   let questionPrompt = "";
   let passage = "";
   if (isMathCategory) {
-    questionPrompt = decodedQuestion;
+    questionPrompt = displayQuestion;
     passage = "";
   } else {
     questionPrompt = lines[0] || "";

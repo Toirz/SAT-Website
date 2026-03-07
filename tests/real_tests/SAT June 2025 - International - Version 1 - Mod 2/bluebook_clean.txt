@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some pieces of music might have ______ meanings—the compositions of Rosa Guraieb lend themselves to as many different interpretations as there are people to listen to them—and so as long as a listener's interpretation isn't willfully absurd or the result of inattention, it is difficult to justly claim that the listener has misunderstood the piece.
@@ -10,6 +11,7 @@ D. untenable
 Answer: B
 
 Question 2:
+[WIC]
 As used in the text, what does the word "confirmed" most nearly mean?
 
 The following text is adapted from Neera's 1886 novel *Teresa*, translated by Martha King in 1998.Beyond the [porch] extended a piece of land, with some exaggeration called a garden. In truth, it had some flower beds that at first sight __confirmed__ the illusion, particularly at that time of year, since the pansies were in bloom with their infinite shades, with the intense velvet of their dark leaves and the luminous silk of their pale leaves.
@@ -24,6 +26,7 @@ D. Promised
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 If confirmed by other researchers, a newly reported measurement of W boson's mass could ______ the dominant theory of particle physics, the standard model, as the new measurement differs significantly from the standard model's prediction of the elementary particle's mass.
@@ -35,6 +38,7 @@ D. undermine
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Theater and film scholars often draw parallels between the lives of performers and aspects of roles they've played; however, the most insightful of these discussions, such as Linda Costanzo Cahir's consideration of resemblances between actor Vivien Leigh and the character Blanche DuBois, maintain a rigid distinction between the actor and the character, taking care never to ______ them.
@@ -46,6 +50,7 @@ D. overshadow
 Answer: A
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some social scientists argue that while a belief in the importance of reason and progress is key to democracy, the public's understanding of history is also central to its subsequent comprehension of a state's politics, and if an electorate is to function, historical issues cannot remain the dominion only of academics. History is too ______ to leave to historians alone.
@@ -57,6 +62,7 @@ D. respectable
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 In Muscogee, an Indigenous language from the southeastern region of what is now the United States, *hatki* means "white," whereas *hathaki* is used to refer to two or more white things. This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element "ha" in *hatki* gets repeated in *hathaki*. There are many examples of this type of reduplication in Muscogee.
@@ -68,6 +74,7 @@ D. It presents some specific words in Muscogee, describes the general linguistic
 Answer: D
 
 Question 7:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 __Benjamin Prudhomme and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages.__ Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms. However, the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -79,6 +86,7 @@ D. It clarifies a concept that is unclear in some of the studies mentioned in th
 Answer: B
 
 Question 8:
+[COE]
 According to the text, which choice most accurately describes the importance of the percentage of compact myocardial tissue in the basking shark's heart?
 
 The blue shark and the striped marlin are ectothermic (cold-blooded) fish, whereas the salmon shark and the Pacific bluefin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Unlike those of ectotherms, regional endotherms' hearts have a relatively high proportion (greater than 30%) of compact myocardial tissue, which is needed to maintain these animals' blood pressure. In a 2023 study, Haley R. Dolton and colleagues found that basking sharks—planktivorous filter-feeders that were classified as full ectotherms at the time—have hearts consisting of 47% compact myocardial tissue, thereby undermining that classification.
@@ -90,6 +98,7 @@ D. It is, by itself, sufficient to invalidate how the basking shark has been cat
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others' agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone's agency or an otherwise impermissible end.
@@ -101,6 +110,7 @@ D. Many people have an intuitive sense that lying is permissible in some circums
 Answer: C
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support the second research team's hypothesis?
 
 To detect information about water flow, fish have sensors running from the snout tip down the sides of the head. Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao conducted tests to find where the difference in pressure is greatest between two adjacent sensors because, according to the researchers, as these pressure differences increase, so does the amount of information available to the fish. Using the ratio of head width to length, they found that the greatest pressure difference is closer to the snout for narrower heads (lower ratio of width to length) and farther from the snout for wider heads (higher ratio of width to length). Based on this finding, a second team of researchers has hypothesized that the sensors where information is greatest are likely more sensitive than the rest.
@@ -112,6 +122,7 @@ D. The longnose gar (*Lepisosteus osseus*) has a much narrower head than the dev
 Answer: A
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 Electricity Capacity Trends (in megawatts) for Four Renewable Technologies in Indonesia (2017-2020)
@@ -125,6 +136,7 @@ D. renewable hydropower was much higher than that of solar for all four years.
 Answer: A
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers' views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany &amp; Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.
@@ -136,6 +148,7 @@ D. Participants judged jewelry spaced far apart at Tiffany &amp; Co. to be simil
 Answer: C
 
 Question 13:
+[COE]
 Which choice most effectively uses a quotation from a translation of *The Clouds* to illustrate the claim?
 
 *The Clouds* is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists' practices and views as foolish, as seen when the character ______
@@ -147,6 +160,7 @@ D. Socrates, a sophist, explains why he studies astronomy while sitting in a bas
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The single origin hypothesis of iron metallurgy posits that the craft originated in Anatolia (West Asia) circa 2200-2000 BCE before diffusing to other parts of the world, including Africa. Some proponents of the hypothesis argue that iron production technologies first arrived in North Africa through Carthage, where the earliest evidence of ironworking dates to approximately 800-600 BCE, before these technologies spread to sub-Saharan Africa over the following centuries. However, excavation of multiple sites on the Adamawa plateau in Central Africa conducted by Etienne Zangato and Augustin Holl uncovered evidence of iron workshops that may have been in operation as late as 900-750 BCE in Gbabari and as early as 2300-1900 BCE in Oboui and Gbatoro. These findings suggest that ______
@@ -158,6 +172,7 @@ D. iron production may have developed independently and relatively simultaneousl
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Exclusively inhabiting tropical countries such as Ghana, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittie and colleagues studied zoo chimpanzees in Spain and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees' vitamin D levels were significantly lower in autumn than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittie and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore ______
@@ -169,6 +184,7 @@ D. differences in vitamin D supplementation likely explain more of the differenc
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Established in 1936 by African American novelist Richard Wright, ______ it would become a vital part of the creative movement known as the Chicago Black Renaissance.
@@ -180,6 +196,7 @@ D. Chicago writers in the South Side Writers Group had a valuable forum for shar
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The 1948 founding of the American GI Forum and the 1946 *Mendez v. Westminster* court decision are regarded as important events in US civil rights ______ former establishing a Latino rights advocacy group and the latter legally affirming the rights of Latino students.
@@ -191,6 +208,7 @@ D. history. The
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Trisyllabic words ______ as dactyls in English metrical verse, such as "article" and "sleepier," consist of one stressed syllable followed by two unstressed syllables.
@@ -202,6 +220,7 @@ D. classified
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Scheme is referred to as a compiled programming language because it typically incorporates a compiler—a tool that translates lines of code into executable commands. Compiling isn't exclusive to certain programming ______ any language can incorporate this tool.
@@ -213,6 +232,7 @@ D. languages, however;
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Reena Esmail, an Indian American classical composer, incorporates Indian musical elements into her work. Esmail's 2013 violin and piano composition *Jhula-jhule* intertwines the melodies of two Indian folk ______ in TaReKiTa, a 2016 choral composition, Esmail features onomatopoeic notes imitating the sounds of the tabla, a type of Indian drum.
@@ -224,6 +244,7 @@ D. songs, for instance, while
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Museum of Modern Art's vast collection of oil paintings, which includes James Ensor's *Tribulations of Saint Anthony* and Yasuo Kuniyoshi's *Self-Portrait as a Golf Player*, ______ among its most captivating offerings.
@@ -235,6 +256,7 @@ D. have been remaining
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The traditional process of Turkish paper marbling (ebru) generally proceeds like this: First, the artisan fills a shallow tray with a water bath solution. Next, the artisan adds inks or paints to the solution, which can then be manipulated into intricate designs. ______ the artisan slips paper in and out of the liquid, transferring the design onto the paper.
@@ -246,6 +268,7 @@ D. Finally,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In the early 1900s, sculptor and collector Gertrude Whitney was one of the foremost champions of avant-garde art, helping many US avant-garde artists gain publicity and exposure. ______ Whitney offered to donate more than 500 avant-garde works to be displayed at a leading New York museum, but the museum said no—so she opened her own, the Whitney Museum of American Art.
@@ -257,6 +280,7 @@ D. Granted,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The geologic principle of cross-cutting relationships states that an intrusion is younger than the rocks through which it cuts. ______ geophysicists analyzing a given rock formation can ascertain that an igneous intrusion that bisects a layer of 358.9-million-year-old Tournaisian rock but not the 303.7-million-year-old Gzhelian rock above it is younger than the former but older than the latter.
@@ -268,6 +292,7 @@ D. That being said,
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to specify the order in which different government entities were given the authority to regulate airline safety in the US. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -285,6 +310,7 @@ D. The FAA has regulated airline safety since it was established by the US Congr
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -303,6 +329,7 @@ D. Bat ingestion has consistently been found to have a positive effect on seed g
 Answer: A
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to explain plosive phonemes?
 
 While researching a topic, a student has taken the following notes:

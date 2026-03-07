@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main idea of the text?
 
 NASA’s Aspera mission, led by Carlos Vargas, will investigate the circumgalactic medium (CGM), the huge swaths of low-density gas that fill and surround galaxies. Specifically, the team will focus on portions of the gas that exist in a “warm-hot” phase: these portions haven’t previously been observable but are thought to fuel new star formation and hold most of the mass that makes up a galaxy. Using a telescope capable of revealing these parts of the CGM, the Aspera mission should help answer long-standing questions about how galaxies emerge, change, and even interact.
@@ -11,6 +12,7 @@ D. The Aspera mission is expected to produce the first direct observations of CG
 Answer: D
 
 Question 2:
+[Structure]
 Which choice best states the main idea of the text?
 
 The rocky surface of Mars, the fourth planet from the Sun, is marked by distinctive branching channels, a topic of much scientific debate. It is now claimed by researchers that the formation mechanism for these channels is mirrored by an astonishingly similar system in the Atacama Desert in Chile. In that location, ancient groundwater seeped up through faults in the rock and created underground rivers that subsequently eroded the overlying terrain, carving the surface downward into canyons as the subterranean flow continued. While Mars currently lacks significant atmospheric water, a comparable process could have been powered by the planet's vast, ancient aquifers.
@@ -23,6 +25,7 @@ D. The reason Mars is marked by so many branching channels is not understood by 
 Answer: A
 
 Question 3:
+[Structure]
 Which choice best states the main idea of the text?
 
 In many of his sculptures, artist Richard Hunt uses broad forms rather than extreme accuracy to hint at specific people or ideas. In his first major work, *Arachne* (1956), Hunt constructed the mythical character Arachne, a weaver who was changed into a spider, by welding bits of steel together into something that, although vaguely human, is strange and machine-like. And his large bronze sculpture *The Light of Truth* (2021) commemorates activist and journalist Ida B. Wells using mainly flowing, curved pieces of metal that create stylized flame.
@@ -35,6 +38,7 @@ D. He has altered his approach to sculpture over time, and his works have become
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 To dye wool, Navajo (Dinē) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug *In the Path of the Four Seasons* by using Arizona food crops, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.
@@ -47,6 +51,7 @@ D. In the Path of the Four Seasons is widely acclaimed for its many colors and 
 Answer: B
 
 Question 5:
+[COE]
 According to the text, what was an unexpected finding for the biologists analyzing the data from the Triton probe?
 
 New insights into bioluminescence in the Mariana Trench were recently gained from data collected by the Triton deep-sea probe. The data revealed the concentration of bioluminescent organisms into specific "hotspots," a finding that was surprising to marine biologists. A more uniform distribution of these organisms had been expected by the scientists due to the consistent darkness and immense pressure of the environment. It is now hypothesized that the creation of these localized ecosystems is due to nutrient-rich plumes emanating from hydrothermal vents on the seafloor.
@@ -59,6 +64,7 @@ D. The bioluminescent life was concentrated in specific areas instead of being s
 Answer: D
 
 Question 6:
+[Structure]
 Which choice best states the main idea of the text?
 
 Plants use many complex strategies to achieve goals more effectively. Such goals include defending against herbivores, competing for sunlight, and supporting kin. For a long time, people thought complex communication was unique to animals. Research on acacia trees and other flora, though, has busted the myth that communication requires a brain or nervous system. Cleverly, acacia trees emit airborne chemicals to warn their neighbors of threats. Fungal networks in the soil also play a role. They can relay distress signals between trees, even those of different species.
@@ -71,6 +77,7 @@ D. Contrary to long-held beliefs, complex communication isn't unique to animals.
 Answer: D
 
 Question 7:
+[COE]
 According to the text, what was surprising about the researchers' survey of the Cerberus Vent ecosystem?
 
 Using the deep-sea submersible Triton, a team of marine biologists surveyed the microbial ecosystem of ‘Cerberus Vent,’ one of the Mid-Atlantic Ridge’s hydrothermal fields (areas of intense geothermal activity). Surprisingly, the survey showed a microbial distribution with no discernible zonation or structure. The team had anticipated the ecosystem would be similar to the more structured communities found at other hydrothermal fields along the ridge.
@@ -83,6 +90,7 @@ D. It revealed a microbial community that lacked a clear structure.
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Louise Erdrich’s 2020 novel *The Night Watchman.* Louis Pipestone is collecting signatures for a petition from fellow members of the Turtle Mountain Band of Chippewa on the tribe’s reservation in North Dakota.
@@ -100,6 +108,7 @@ D. To portray Louis Pipestone’s strong commitment to collecting signatures for
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 In present‐day Chiapas, Mexico, archaeologist Robert Rosenswig, remote‐sensing specialist Ricardo López‐Torrijos, and colleagues have located 41 smaller settlements surrounding the ancient Mesoamerican city of Izapa. The researchers have concluded that these settlements were culturally linked to Izapa because each of the settlements is the same age and configured in the same manner as Izapa, with a pyramid to the north and a plaza to the south. Their shared structural orientation suggests that residents of the settlements likely performed some of the same cultural ceremonies as residents in Izapa did.
@@ -112,6 +121,7 @@ D. Researchers have inferred that Izapa was related to the smaller settlements t
 Answer: D
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories.
@@ -124,6 +134,7 @@ D. Technology can now do some of the things jalis used to be responsible for.
 Answer: A
 
 Question 11:
+[Structure]
 Which choice best states the main idea of the text?
 
 Spanning nearly two thousand pages, The World at War, produced by Jeremy Isaacs, is presented as the "definitive, firsthand account" of the Second World War as experienced by those who lived it. The work's aim is comprehensiveness, for instance, by including testimony from soldiers, civilians, and political leaders from all major participating nations. Yet, while The World at War is undoubtedly an essential and powerful resource, it exhibits a weakness typical of such multi-voiced historical projects: the absence of a single, unifying authorial perspective that could connect the disparate memories into a cohesive narrative.

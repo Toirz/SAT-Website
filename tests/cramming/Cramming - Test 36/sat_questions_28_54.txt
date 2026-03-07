@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During a 2026 symposium at Kyoto University, researchers noted that the rodent mazes used in present-day behavioral studies are now far less _____ than the winding labyrinths designed a century ago; modern mazes are built merely to capture a few clear-cut, quantifiable responses.
@@ -12,6 +13,7 @@ Answer: B
 
 
 Question 2:
+[WIC]
 As used in the text, what does the word “display” most nearly mean?
 
 The following text is adapted from John Matheus’s 1926 short story, “Mr. Bradford Teaches Sunday School.” Mr. Bradford is driving through the countryside in Florida.
@@ -27,6 +29,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A team of microbiologists measured surface temperatures of various wild mushrooms, including *Amanita muscaria* and a species from the genus *Thelephora*. The temperatures ranged from 1.4 to 5.9°C lower than the temperature of the surrounding air, a difference the team ______ to water evaporating from the mushrooms and thus cooling them.
@@ -40,6 +43,7 @@ Answer: C
 
 
 Question 4:
+[COE]
 Which choice best states the function of the phrase "if he had one" in the text as a whole?
 
 The following text is from Anthony Trollope’s 1855 novel The Warden. Charles James is the son of a high-ranking clergy member.
@@ -54,6 +58,7 @@ Answer: C
 
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Seemingly filmed with ______ purpose, the director's harrowing documentary on the 2008 financial crisis—a stark look at the personal ruin it caused—hopes to curb future reckless speculation by serving as a powerful testament to its devastating, and often-forgotten, consequences.
@@ -67,6 +72,7 @@ Answer: D
 
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Though John Crowley, author of *Flint and Mirror*, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book *Little, Big*, __Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes__—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), *Little, Big* fuses both modes of writing.
@@ -80,6 +86,7 @@ Answer: A
 
 
 Question 7:
+[Cross Text]
 Based on the texts, Slater and Mann (Text 1) and Rose and colleagues (Text 2) would most likely agree with which statement?
 
 Text 1
@@ -97,6 +104,7 @@ Answer: D
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Community science involves professional scientists collaborating with members of the public to study a topic. This approach to research can promote community engagement by offering insight into the daily life of a scientist. It’s also very effective because it greatly increases the amount of data that can be collected, such as when biologist Abbigail Merrill and colleagues studied butterfly size and its relation to behavior and used findings reported by hundreds of students and community members in northwestern Arkansas.
@@ -110,6 +118,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which choice best describes data from the graph that support the underlined claim?
 
 Researcher Helen O'Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (Atelomycterus fasciatus). Additionally, the team __found that male and female A. fasciatus share the same sponge (the same microhabitat)__, a behavior not found among Port Jackson sharks (Heterodontus portusjacksoni), another seabed-dwelling species.
@@ -124,6 +133,7 @@ Answer: A
 
 
 Question 10:
+[COE]
 Which finding, if true, would most directly undermine the researchers' hypothesis?
 
 Morphological specialist plants—those with highly modified traits, e.g., long corollas (collections of petals)—may interact exclusively with pollinators with complementary traits and are thus also often ecological specialists, typically associated with greater pollinator partitioning (i.e., sharing relatively few pollinator species with other plants). Hypothesizing that these types of specialization are positively correlated among _Bomarea hirsuta_ and other hummingbird-visited plants of the Talamanca Mountain Range, María A. Maglianesi et al. monitored hummingbird-plant interactions at sites of various elevations, including Los Cusingos Bird Sanctuary (low elevation) and Villa Mills Experimental Biological Station (high elevation), and recorded corolla lengths of visited plants.
@@ -137,6 +147,7 @@ Answer: B
 
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Quasars—such as 3C 279, located in the Virgo constellation—are extremely luminous galactic nuclei powered by supermassive black holes, some of which are known to have developed within the first billion years of the formation of the universe. Based on simulations they conducted, astrophysicists Daniel Whalen, Muhammad Latif, and colleagues concluded that these early quasars developed partly as a result of rare convergences of gases in space without the need for ultraviolet backgrounds or other extreme and implausible environmental conditions that models of the early universe have included to account for the presence of these quasars. If this conclusion is correct, it suggests that ___.
@@ -150,6 +161,7 @@ Answer: A
 
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Researchers investigated how enjoyment of a story is affected when it has been spoiled (when the reader has foreknowledge of an important plot development). As part of the study, participants rated their enjoyment of one story that was spoiled before they read it and one story that was unspoiled. For each story, participants who had been given a spoiler reported greater enjoyment than those who hadn’t received a spoiler. But the degree of this difference varied across the stories, as is best illustrated by the enjoyment ratings for ____.
@@ -164,6 +176,7 @@ Answer: B
 
 
 Question 13:
+[COE]
 According to the passage, Titan differs atmospherically from Ganymede and Callisto because of a difference in
 
 Saturn’s giant moon Titan is the only planetary satellite with a significant atmosphere and the only body in the solar system other than Earth that has a thick atmosphere dominated by molecular nitrogen. For a long time, the big question about Titan’s atmosphere was how it could be so thick, given that Jupiter’s moons Ganymede and Callisto, which are the same size as Titan, have none. The conditions for acquiring and retaining a thick nitrogen atmosphere are now readily understood. The low temperature of the protosaturnian nebula enabled Titan to acquire the moderately volatile compounds methane and ammonia (later converted to nitrogen) in addition to water. The higher temperatures of Jupiter’s moons, which were closer to the Sun, prevented them from acquiring such an atmosphere.
@@ -177,6 +190,7 @@ Answer: B
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Whistler waves are low-frequency plasma waves that on Earth are typically generated by lightning. Numerous recordings of whistler waves on Venus have led many scientists to suggest that the planet’s atmosphere is host to extensive amounts of lightning, and, in fact, Venusian whistler waves have similar energy signatures to those of whistler waves generated by lightning on Earth. The majority of Venusian whistler-wave data come from two spacecraft missions—the Pioneer Venus Orbiter (PVO) and the Venus Express (VEX)—which have included few observations of other phenomena consistent with lightning occurrences (such as flashes of light), leading other scientists to suggest that _____
@@ -190,6 +204,7 @@ Answer: A
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Dermatological researchers and geneticists make regular use of representative cross-sections of hair fibers, but such a cross-section can be obtained only if the strand can be cut perpendicular to its length without distorting the cross-sectional shape, which necessitates embedding the hair in a stabilizing medium, often before sectioning it. Resin is effective but slow due to its long curing time, which led Tiina Lassila and colleagues to try sheets of low-melt-point plastic as a stabilizer. They found that these sheets match resin’s utility as a stabilizer while allowing for near-instantaneous embedding of hair, thereby demonstrating that using low-melt-point plastic sheeting rather than resin can enhance ______
@@ -203,6 +218,7 @@ Answer: B
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 2022, the Nobel Assembly awarded the Prize in Physiology or Medicine to Swedish ______ who is credited with pioneering the field of paleogenomics.
@@ -216,6 +232,7 @@ Answer: A
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Between November 28 and December 9 each year, particles shed by comet 289P/Blanpain enter Earth’s atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Phoenicid meteor shower.
@@ -229,6 +246,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The length of bird eggs varies widely across species, and an ecological _____ compared the lengths of eggs produced by different bird species found Haliastur indus eggs to be longer, on average, than Calidris alpina eggs.
@@ -242,6 +260,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many Farms Chapter is one of the 110 chapters of the Navajo Nation (Naabeehó Bináhásdzo). The chapter, known as Dá’ák’eh Halání in the Navajo language (Diné bizaad), was the subject of a profile ______ in the Navajo Times on August 22, 2013.
@@ -255,6 +274,7 @@ Answer: A
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As part of his I GOT UP series, Japanese conceptual artist On Kawara spent over a decade—with near daily consistency—mailing postcards to friends declaring what time he got up each day, resulting in pieces such as I Got Up at 7.19 A.M., Jun 6 1977. Such meticulous documentation of mundane ______ artwork that “resonate with existential, psychological and scientific implications about the time-space continuum,” according to the New York Times, became Kawara’s life’s work.
@@ -268,6 +288,7 @@ Answer: C
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Nineteenth-century Modernista architects championed nature in their designs. Granted, the dramatic archways and botanical glasswork of Palau Mornau, a Modernista private home designed by Manuel Raspall, couldn’t exactly grow in a forest. ____ one sees natural influences in Raspall’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
@@ -281,6 +302,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At a time when many women writers used male pseudonyms to gain greater freedom of self-expression by evading gender conventions, Katherine Bradley and Edith Cooper adapted the practice by publishing poetry, prose, and drama for four decades under the shared name Michael Field. ______ the duo was able to express the joint creative vision that sustained their long personal and professional partnership.
@@ -294,6 +316,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Oklahoma’s Port Silt Loam soil was formally designated in 1987, and Maine’s Chesuncook soil in 1999. ______ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.
@@ -307,6 +330,7 @@ Answer: A
 
 
 Question 24:
+[Synthesis]
 The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -325,6 +349,7 @@ Answer: A
 
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between Uros Island and Golden Connection. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -343,6 +368,7 @@ Answer: A
 
 
 Question 26:
+[Synthesis]
 The student wants to contrast dichloromethane and tetradecafluorobexane. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -362,6 +388,7 @@ Answer: A
 
 
 Question 27:
+[Synthesis]
 The student wants to present Marxist analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

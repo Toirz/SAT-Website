@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Contesting claims that the massive increase in patents in recent decades has been ______ a rise in technological innovation, Yuen Ang et al. show that truly novel patents—those, like a 2004 patent for a robot with flexible structures, that combine previously unaffiliated technological domains—have been vastly outnumbered by nonnovel patents (e.g., a 2011 patent for a mobile-phone holder).
@@ -12,6 +13,7 @@ Answer: C
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 ________traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and symmetry; hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral trait combinations have led some ecologists to express reservations about the utility of those descriptions.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fact that publications by University of California-Berkeley economist Bronwyn Hughes Hall, who studies innovation and economics, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.
@@ -38,6 +41,7 @@ Answer: B
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The new hypothesis was first presented in a 2018 journal article, and—though the concept was far from ______, based more on theoretical modeling than on verifiable evidence—the idea has been debated fervently ever since.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Many visitors to Yellowstone National Park need airlines, car rentals, hotels, and restaurants during their visits. These services generate carbon emissions. Emily Wilkins and Jordan Smith found that most of the environmentally harmful emissions come from travel services to and from the park. __Wilkins and Smith found that policymakers could help reduce these emissions by encouraging people to visit state or national parks closer to their homes to cut down on their travel.__
@@ -64,6 +69,7 @@ Answer: C
 
 
 Question 6:
+[Structure]
 Which choice best states the main topic of the text?
 
 In her book *Limitarianism*, ethicist Ingrid Robeyns criticizes economic policies that allow businesses to profit from their successes while displacing the burden of failure onto taxpayers. As an example she cites the US financial crisis of 2008 in which dozens of institutions including State Street and SunTrust received a collective $700$ billion of government support. Had the US government previously exercised stricter regulation of risky financial instruments, Robeyns argues, this enormous expenditure of taxpayer dollars would not have been necessary.
@@ -77,6 +83,7 @@ Answer: D
 
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined sentence?
 
 A microgenre is a specialized genre consisting of a comparatively small number of stylistically similar artists. The microgenre of electronic music known as hyper pop emerged in the 2010s, with American musician Laura Les as an early exponent. Her combination of dense synthesizer arrangements and metallic percussion with vocals electronically shifted in pitch above her natural range exemplifies the hyper pop sound. __More recently, British recording artist Charli XXX has contributed to that sound by incorporating pop melodies into it.__
@@ -90,6 +97,7 @@ Answer: D
 
 
 Question 8:
+[COE]
 Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
 
 The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. The play suggests that a sophist education fosters a sense of arrogant superiority over societal norms, as seen when the character ____.
@@ -103,6 +111,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which choice best describes what happens in the text?
 
 The following text is adapted from William Shakespeare’s 1597 play The Tragedy of King Richard III. Richard is reflecting on the recent arrest of his brother, the Duke of Clarence, on suspicion of treason against King Edward IV. Derby, Hastings, Buckingham, Rivers, Dorset, and Grey are also members of the English nobility.
@@ -126,6 +135,7 @@ Answer: D
 
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
@@ -139,6 +149,7 @@ Answer: A
 
 
 Question 11:
+[COE]
 Which of the following discoveries, if it were true, would provide the most direct support for the claim made by Chen and Rodriguez?
 
 GigWork is a popular online platform that connects freelance software developers with clients needing short-term coding work. Payments for completed projects are processed through the platform weekly, with a flexible deadline system that imposes no direct financial penalty for taking longer on a project, though it may affect a developer's eligibility for premium, high-paying contracts. A study conducted by industry analysts Chen and Rodriguez on GigWork's user data revealed a curious pattern: highly-rated developers often decline small, one-day projects, even during periods when their schedules are open. Chen and Rodriguez posit that this rejection of readily available work is a deliberate strategy employed by developers to maximize their effective hourly earnings.
@@ -152,6 +163,7 @@ Answer: D
 
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ cyclical processes. Corrine Walsh and colleagues hypothesized that microbial communities could also affect plants’ flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants’ chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (*Brassica juncea*) growing in a controlled environment, then measured the plants’ glucosinolates, like butenyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to ______.
@@ -165,6 +177,7 @@ Answer: D
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Humans are overwhelmingly right-hand dominant (85–90%) and can thus be said to exhibit strong population-level right-handedness (PLRH). Among studies of nonhuman primates, Margaret E. Redshaw’s 1993 study of captive gorillas purported to show PLRH, while Jane Goodall’s 1963 study of wild chimpanzees did not. Overall, the studies claiming PLRH in nonhuman primates find much lower incidences of right-handedness than humans exhibit, but it’s worth noting that studies of captive primates tend to show significantly greater incidences of right-handedness than studies of wild primates do, therefore raising the possibility that ____.
@@ -178,6 +191,7 @@ Answer: C
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the northern muriqui (Brachyteles hypoxanthus). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______.
@@ -191,6 +205,7 @@ Answer: B
 
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mountain goats were made to climb. In addition to having hard hooves that can dig into nearly any groove or ______ mountain goats have slender bodies ideal for scaling nearly ninety-degree cliffs.
@@ -204,6 +219,7 @@ Answer: D
 
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
@@ -217,6 +233,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Between November 28 and December 9 each year, particles shed by comet 289P/Blanpain enter Earth’s atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth’s ____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Phoenicid meteor shower.
@@ -230,6 +247,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Multidisciplinary at its core, ________
@@ -243,6 +261,7 @@ Answer: D
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Categorized as a trochee, the word “siphon” consists of one stressed syllable followed by one unstressed syllable. The word “mutiny,” by comparison, consists of one stressed syllable followed by two unstressed syllables, a metrical foot ___ to in English metrical verse as a dactyl.
@@ -256,6 +275,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?’
 
 Russian-born visual artist Helga Stentzel turns household items into strange and surprising works of art. In her prints, tan sweatpants take on the form of a camel as they dangle from a ____ the red handles of a pair of pliers become the thongs of flip flops—flip flops made of nails. This “household surrealism,” Stentzel says, “is about finding magic in the mundane.”
@@ -269,6 +289,7 @@ Answer: B
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 With many elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ______ the isolation process took years. The element radium, for instance, was discovered in 1898 but not isolated until 1910.
@@ -282,6 +303,7 @@ Answer: D
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Although most planetary bodies display maximum visibility at night, certain highly reflective celestial objects—such as Venus and Jupiter—are easily visible to observers during daylight hours. ____ their pronounced brightness in daylight acts as a natural signal to facilitate daytime astronomical observations, differentiating them clearly from less reflective objects.
@@ -295,6 +317,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 During the 1924 New York ticker-tape parade for US Olympic champions, the ribbonlike swirls descending on the scene were paper spools from "tickers," telegraph machines used to transmit stock prices. Of course, the original ticker tape had long since been retired by the 2019 parade for the US women's national soccer team. _____ shredded standard paper enriched the celebration.
@@ -308,6 +331,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As a federalist, New York physician and writer Charles McKnight favored the US Constitution’s provisions for a strong centralized government and supported the document’s ratification; ____ essays he published in the New-York Journal in December 1787 under the pseudonym “Examiner” disparaged the arguments of the anti-federalists, who opposed the Constitution’s adoption.
@@ -321,6 +345,7 @@ Answer: B
 
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to specify the length of the Foucault pendulum’s cable?
 
 The University of Oslo in Oslo, Norway, is home to a Foucault pendulum.
@@ -338,6 +363,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to explain the significance of the Song Dynasty’s metallurgical innovation by placing it in historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching economic history, a student has taken the following notes:
@@ -357,6 +383,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

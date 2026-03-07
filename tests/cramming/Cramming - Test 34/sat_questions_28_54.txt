@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak—terraces, canals, and water temples—are ______: they are joined together into a single cohesive unit.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 As used in the text, what does the word "constantly" most nearly mean?
 
 The following text is adapted from Willa Cather's 1912 novel Alexander's Bridge.
@@ -26,6 +28,7 @@ Answer: C
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 When it comes to crafting policy recommendations to protect species at risk, lessons from previous declines in biodiversity can be especially ______. The factors that contributed to the extinction of the Caribbean ground sloth around 3000 BCE, for example, may be applicable to endangered species today.
@@ -39,6 +42,7 @@ Answer: C
 
 
 Question 4:
+[WIC]
 As used in the text, what does the word "manifest" most nearly mean?
 
 The following text is from a 1955 translation of Samuel Beckett's 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.
@@ -54,6 +58,7 @@ Answer: D
 
 
 Question 5:
+[COE]
 Which finding, if true, would most directly support the US transportation experts’ claim?
 
 As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
@@ -67,6 +72,7 @@ Answer: A
 
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The Hedge Manuscript (HM) is a collection of booklets of once-unbound paper sheets on which Richard Hedge copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. __Most other contemporaneous personal manuscripts like the Findern Anthology (FA) consist primarily of pieces by celebrated medieval authors like Hoccleve and other readings favored by elites,__ whereas the HM has a distinctive emphasis on the popular, including entertainments like crude comedies, and the practical, with advice about manners.
@@ -80,6 +86,7 @@ Answer: C
 
 
 Question 7:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement about Blackwell and colleagues' findings (Text 1)?
 
 Text 1
@@ -96,6 +103,7 @@ Answer: D
 
 
 Question 8:
+[COE]
 The text makes which point about the people at the gathering?
 
 The following text is from Virginia Woolf's 1919 novel Night and Day. The narrator describes a gathering of artists and intellectuals.
@@ -110,6 +118,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which statement, if true, would most strongly support the claim in the underlined sentence?
 
 Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth that a single person can amass. Critics of limitarianism respond that it is unworkable, since it would require a universal and strict individual adherence to a code of ethics as well as worldwide cooperation among governments in areas such as economic policy, both of which are extremely unlikely. __But some proponents of limitarianism hold that even if these claims have merit, they do not vitiate limitarianism’s value as a moral goal toward which we may be able to make some progress.__
@@ -123,6 +132,7 @@ Answer: C
 
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Home Video Game Systems of the 1970s and 1980s
@@ -138,6 +148,7 @@ Answer: D
 
 
 Question 11:
+[COE]
 Which choice best describes data from the table that support the researchers' claim?
 
 A group of researchers conducted a study of four Central American nations to explore the relationship between the percentage of the population working in the agricultural sector and the percentage of the population living in urban areas. Although the percentages of those living in urban areas varied significantly, the percentages of those working in the agricultural sector did not vary as greatly. The group claimed that, for these four nations, there is not a strong correlation between where people work and where they live.
@@ -152,6 +163,7 @@ Answer: C
 
 
 Question 12:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 Cuttlefish and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
@@ -165,6 +177,7 @@ Answer: B
 
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 Fiber Characteristics of Mouflon, Navajo-Churro, and Spanish Merino Sheep
@@ -180,6 +193,7 @@ Answer: D
 
 
 Question 14:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
@@ -193,6 +207,7 @@ Answer: A
 
 
 Question 15:
+[COE]
 The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
 
 In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.
@@ -206,6 +221,7 @@ Answer: D
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Writing in hieroglyphs, ancient Egyptians recorded measurements using units such as the sa, a unit of ____ and the khar, a unit of volume. The sa, for instance, is written as a hieroglyph that looks like a duck or goose.
@@ -219,6 +235,7 @@ Answer: C
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 All member nations of the North Atlantic Treaty Organization, or NATO—including Iceland, which joined in 1949; Hungary, which joined in 1999; and Bulgaria, which joined in _______are committed to NATO’s principle of collective defense, each member pledging to defend all others.
@@ -232,6 +249,7 @@ Answer: D
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Due to advancements in battery technology, EVs can now handle most of the daily driving needs traditionally met by gasoline-powered cars, including commuting to work, running errands, and taking short road trips. However, although highly ______ EVs still present challenges for drivers who regularly need to travel longer distances.
@@ -245,6 +263,7 @@ Answer: B
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Kenji Tanaka, a Japanese American architect, integrates traditional Japanese design into his modern buildings. Tanaka’s 2018 residential project, *Komorebi House*, utilizes shoji screens to filter light in patterns reminiscent of sunlight through forest ______ in *The Riverstone Center*, a 2021 office complex, Tanaka features an indoor water garden whose flowing water mimics the sound of a mountain stream.
@@ -258,6 +277,7 @@ Answer: D
 
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 To determine the approximate age of wooden tools excavated from an archaeological site in Spain, archaeologist Joseba Rios-Garaizar and colleagues collected samples of sediments surrounding the tools; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. ______ OSL dating indicated that the tools were between 50,000 and 137,000 years old.
@@ -271,6 +291,7 @@ Answer: B
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A loose confederation of cities from eleven modern-day countries, the Hanseatic League was a powerful mercantile alliance that dominated northern European trade between the 13th and 17th centuries. Hanseatic League member _________ was serendipitously located on the Warnow River in Germany, giving Rostock’s merchants access to key maritime trade routes.
@@ -284,6 +305,7 @@ Answer: D
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
@@ -297,6 +319,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species Elodea canadensis, or Canadian waterweed, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, Elodea canadensis absorbs a large amount of cadmium and stores it safely in its roots and shoots; ____ cadmium concentrations in the soil decrease.
@@ -310,6 +333,7 @@ Answer: D
 
 
 Question 24:
+[Synthesis]
 The student wants to explain why potassium is not fully liquid in a chain melt state. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -329,6 +353,7 @@ Answer: B
 
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -347,6 +372,7 @@ Answer: A
 
 
 Question 26:
+[Synthesis]
 The student wants to explain the scientific rationale for Pluto's current classification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -366,6 +392,7 @@ Answer: B
 
 
 Question 27:
+[Synthesis]
 The student wants to refute a scientific assumption about the Leidenfrost effect. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

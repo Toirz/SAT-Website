@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word "frugal" most nearly mean?
 
 The following text is Emily Dickinson's circa 1873 poem "There is no Frigate like a Book." A frigate is a light, fast ship; coursers are swift horses.
@@ -19,6 +20,7 @@ D. Thoughtful
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to _____ conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.
@@ -31,6 +33,7 @@ D. disseminate
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Anésia Pinheiro Machado, who was the first female pilot in Brazil to carry passengers and the first to make stunt flights, a deed for which she will always be remembered.
@@ -43,6 +46,7 @@ D. commendable
 Answer: C
 
 Question 4:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of P. seppenradensis from Montana and Parapuzosia leptophylla (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.
@@ -55,6 +59,7 @@ D. It notes the discovery of a new ammonite species and then remarks on the impo
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Companies involved in petroleum distribution hold petroleum stockpiles among their assets, which as social attitudes increasingly favor using less carbon-intensive sources of energy, could become liabilities if their market value falls below what companies have invested to acquire and maintain them. This phenomenon is known as “asset stranding” and poses an existential threat to these companies. The significance to investors of the potential for stranding is evident, and companies ought to disclose such risks to them, __but it is no less important to ensure that when unsustainable companies involved in petroleum distribution cease operations, those companies’ employees are assisted in their transitions to other jobs.__
@@ -67,6 +72,7 @@ D. It provides general background information on a phenomenon that is discussed 
 Answer: A
 
 Question 6:
+[COE]
 The text suggests that the narrator's initial perception of Mr. Holloway, upon starting his employment, was that of a
 
 This excerpt is from Diana Miller's novel, The Apprentice, first released in 2001.
@@ -80,6 +86,7 @@ D. rigorous guide.
 Answer: B
 
 Question 7:
+[COE]
 It can be inferred that the author of the passage mentions predators primarily in order to
 
 When marine organisms called phytoplankton photosynthesize, they absorb carbon dioxide dissolved in seawater, potentially causing a reduction in the concentration of atmospheric carbon dioxide, a gas that contributes to global warming. However, phytoplankton flourish only in surface waters where iron levels are sufficiently high. Martin therefore hypothesized that adding iron to iron-poor regions of the ocean could help alleviate global warming. While experiments subsequently confirmed that such a procedure increases phytoplankton growth, field tests have shown that such growth does not significantly lower atmospheric carbon dioxide. When phytoplankton utilize carbon dioxide for photosynthesis, the carbon becomes a building block for organic matter, but the carbon leaks back into the atmosphere when **__predators__** consume the phytoplankton and respire carbon dioxide.
@@ -92,6 +99,7 @@ D. help account for differences in the density of phytoplankton between differen
 Answer: A
 
 Question 8:
+[COE]
 Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
 
 "*Uncle Vanya: Scenes from Country Life in Four Acts*" is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______.
@@ -104,6 +112,7 @@ D. Vanya says to himself, "I was proud of [Professor Serebryakov] and of his lea
 Answer: B
 
 Question 9:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.
@@ -116,6 +125,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: B
 
 Question 10:
+[COE]
 Which finding, if true, would best support the linguist’s hypothesis?
 
 The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
@@ -128,6 +138,7 @@ D. Languages that emerged in Southeast Asia tend to have more sounds than langua
 Answer: C
 
 Question 11:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship__. While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria *Brevibacillus borstelensis* and *Lactococcus lactis*—it has rarely been observed among eukaryotes (multicellular organisms)__. However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
@@ -140,6 +151,7 @@ D. It argues that two biological phenomena are more similar than they may initia
 Answer: B
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the second research team’s hypothesis?
 
 Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction’s size and position, and fish sense these vortices to navigate around the obstructions. Using models of three fish with head shapes—narrow (less than half of body width to length), intermediate, and wide (high ratio of width to length)—Yuza R. Amagai and Atar Akarye, and James L. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish’s snout are greater.
@@ -152,6 +164,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: B
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region’s climate, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid-1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, triggered a natural regrowth process, as evident by the____
@@ -165,6 +178,7 @@ D. decrease in the forest cover area for all classes from 1960 to 1979.
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The oceanic whitetip shark and the Pacific halibut are ectothermic (cold-blooded) fish, whereas the shortfin mako shark and the yellowfin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Modeling the effect of falling ambient temperatures on ectotherms indicated to researchers Haley R. Dolton and colleagues that ectotherms’ body temperatures inexorably decrease toward the ambient temperature. Data from wild basking sharks show that even though their body temperature consistently remains 1.0 to 1.5°C above ambient, it also declines as the ambient temperature falls. This suggests that the body temperatures of the ______.
@@ -177,6 +191,7 @@ D. Pacific halibut and the basking shark are at least partly determined by the a
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Gonocerca* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Gyrodactylus* sp. (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______.
@@ -189,6 +204,7 @@ D. any advantages that the transmission strategy used by three-host CLPs may hav
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Topographical prominence is a measure of a mountain’s independence from other mountains. Having 13,199 feet of prominence, _____
@@ -201,6 +217,7 @@ D. the ranking given by geographers to Mount Rainier, a peak located in the Unit
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Trade with neighboring civilizations contributed to the success of the Srivijaya Empire, which reigned in Southeast Asia from around 600 CE to 1200 CE. By supplying tin, medicines, and wood to societies that lacked these valuable _______ Srivijaya Empire grew not only in wealth but also in power and influence.
@@ -213,6 +230,7 @@ D. items the
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Quadrantid meteor shower has a zenithal hourly rate (ZHR) of 110, meaning that at the shower's peak, 110 meteors per hour could potentially be seen by a hypothetical observer. A calculation that assumes ideal viewing conditions, _______.
@@ -225,6 +243,7 @@ D. the ZHR may differ considerably from the number of meteors an actual viewer o
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Should Italy cut taxes? As of 2017, Italy’s top tax rate (55%) was lower than the highest point on the country’s Laffer curve. A theoretical relationship between tax rates and revenues, the curve can be used to determine whether tax cuts will ultimately increase a country’s tax revenue, according to some ___ 2017 data suggested that Italy was below the threshold for a tax cut.
@@ -237,6 +256,7 @@ D. economists, the
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The realist framework of international relations emphasizes state sovereignty, prioritizing national security over supranational cooperation. However, the Geneva-based Conflict Research Group has analyzed an anomalous political structure in the nation of ______ in the autonomous region of Rojava, these administrators are both implementing distinct democratic confederalism and challenging the Westphalian state model.
@@ -249,6 +269,7 @@ D. Syria, where,
 Answer: D
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Arkansas’s Stuttgart soil was formally designated in 1997, and Maine’s Chesuncook soil in 1999. _____ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.
@@ -261,6 +282,7 @@ D. Indeed,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Though Middle English was widely spoken in fourteenth-century England, the English language was rarely employed in literature until poet Geoffrey Chaucer pioneered its literary use. ______ his manuscripts contain the first documented uses of over 2,000 English words—like the word “digestion” in his 1395 poem “The Squire’s Tale”—which led a contemporary to dub him “the first finder of our fair language.”
@@ -273,6 +295,7 @@ D. On the contrary,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Researchers in France claim that leopards and brown bears are among the twenty most “charismatic” animals (defined as “attractive, fascinating, or appealing”). To create their top-twenty list, researchers used survey data from Western Europe. European attitudes toward leopards and brown bears might not be shared around the world, _____
@@ -285,6 +308,7 @@ D. in particular.
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as protocatechuic acid and biochanin. _____ Ferreira detected protocatechuic acid in Agaricus bisporus mushrooms and biochanin in Ganoderma lucidum mushrooms.
@@ -297,6 +321,7 @@ D. For example,
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to describe the process of relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -314,6 +339,7 @@ D. In relief printing, an image is carved onto a printing block, which is then p
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to refute a claim that blueberries are a better source of vitamin C than broccoli is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -332,6 +358,7 @@ D. With 90 mg of vitamin C per every 100 g, broccoli is actually a better source
 Answer: D
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?
 
 While researching a topic, a student has taken the following notes:

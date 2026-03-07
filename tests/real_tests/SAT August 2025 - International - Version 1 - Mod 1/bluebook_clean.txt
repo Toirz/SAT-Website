@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Traditionally, certain features of mosque architecture are nearly ______, such as the mihrab (or niche), which almost all mosques include. But mosques can also be built to reflect a multitude of different architectural styles, as in the case of the Great Mosque of Central Java, which includes elements from the Javanese and Greek revival styles.
@@ -10,6 +11,7 @@ D. idealized
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica are necessarily ______. The majority of the sculptures have been moved from their original context, making precise dating impossible.
@@ -21,6 +23,7 @@ D. approximate
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 ______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and symmetry, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.
@@ -32,6 +35,7 @@ D. Affinities between
 Answer: A
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Scientists discovered a 390-million-year-old fossilized forest of *Calamophyton* trees in modern-day England. The scientists believe the emergence of these *Calamophyton* forests changed the land significantly. __For example, the tree roots would have greatly reduced soil erosion, and the accumulated twigs the trees shed likely created new habitats for animal life.__
@@ -43,6 +47,7 @@ D. It indicates how fast the *Calamophyton* forest spread.
 Answer: C
 
 Question 5:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Louise Erdrich's 1986 novel *The Beet Queen*. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator's sister-in-law, is Dot’s mother.
@@ -62,6 +67,7 @@ D. To compare the narrator’s physical appearance to the physical appearance of
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards. To assess how birds respond to shoreline hardening and other landscape alterations, Diann Prosser et al. used a tool known as the Index of Waterbird Community Integrity to survey bird communities consisting of sixty-four species, including the tundra swan and the great blue heron, in the Chesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land development for uses such as housing.
@@ -73,6 +79,7 @@ D. It presents a solution to a commonly occurring problem, summarizes the proced
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Women like Dorothy T. Blum made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Blum provided cryptological services for the US Army in the 1940s and then joined the National Security Agency (NSA). She was a pioneer in transitioning the NSA to using computers for cryptanalysis. In this way, Blum and others like her helped make it possible for more women—such as Maureen Baginski, who currently works in intelligence and supports the FBI—to enter the field of cryptology.
@@ -84,6 +91,7 @@ D. Cryptology should be taught more often in schools to encourage more women to 
 Answer: B
 
 Question 8:
+[COE]
 What does the text most strongly suggest about southern sea otters in environments where snails, mussels, and clams are present?
 
 Researchers who examined data from radio-tagged southern sea otters (*Enhydra lutris nereis*) identified fitness benefits gained by otters that used tools. By using fixed stones as anvils, tool-using otters gained access to high-quality, hard-shelled prey (e.g., mussels and clams) that they could usually not access through biting alone. Non-tool-using otters foraged abundant, energy-poor, easily extractable prey instead (e.g., snails). Even when easily processed prey were depleted, tool-using otters that processed mussels and clams were thus able to obtain their needed energy resources and to do so without incurring tooth damage.
@@ -95,6 +103,7 @@ D. Those otters that consume mussels and clams without the use of tools will lik
 Answer: C
 
 Question 9:
+[COE]
 Which statement, if true, would most directly support the underlined claim?
 
 Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their language, Native Hawaiian teachers founded the ‘Aha Pūnana Leo preschool in 1984. They spoke Hawaiian while teaching, and their Native Hawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations around Hawai‘i and started teaching Hawaiian to elementary and high school students too. __Thanks to ‘Aha Pūnana Leo, the number of young people who speak the language has increased.__
@@ -106,6 +115,7 @@ D. Roughly 680,000 Native Hawaiian people lived in the United States in 2020, an
 Answer: B
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in Taiwan from 1999 to 2018. Although a total of only 31 blackspotted rockskippers were observed at station 3, that was not the lowest count at any station: ______
@@ -117,6 +127,7 @@ D. there were 50 Cocos frillgobies observed at station 1.
 Answer: C
 
 Question 11:
+[COE]
 Which choice best describes data from the table that support Pötzelsberger and colleagues’ conclusion?
 
 Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Bulgaria, and Belgium about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.
@@ -128,6 +139,7 @@ D. Austria reported 51 damaging fungus species, which is more than either Bulgar
 Answer: D
 
 Question 12:
+[COE]
 Which quotation from *The Wonderful Wizard of Oz* most effectively illustrates the claim?
 
 *The Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle’s house in Kansas is remote and solitary, writing that ______
@@ -139,6 +151,7 @@ D. in Kansas, “When Dorothy stood in the doorway and looked around, she could 
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years. Decarcinization has occurred several times as well, even though it involves the loss of traits such as sideways walking that seem to have helped carcinized groups persist in a variety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are extinct and have very few living relatives—signs that decarcinization might be an “evolutionary dead-end.” But the team also discusses frog crabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back as the Early Cretaceous. This example suggests that ______
@@ -150,6 +163,7 @@ D. a crablike body form may not be optimal in all cases, with ecological conditi
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the northern muriqui (*Brachyteles hypoxanthus*). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______
@@ -161,6 +175,7 @@ D. fail to consider less-well-known conservation approaches for the northern mur
 Answer: B
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mountain goats were made to climb. In addition to having hard hooves that can dig into nearly any groove or ______ mountain goats have slender bodies ideal for scaling nearly ninety-degree cliffs.
@@ -172,6 +187,7 @@ D. crack,
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As an object-oriented computer programming language, Perl is used by coders like Black Girls Code founder Kimberly Bryant to create computer programs by manipulating “objects” (that is, specifically defined variables or combinations of variables) into interacting with each other. Conversely, languages like Scheme, used in software development, ______ object oriented.
@@ -183,6 +199,7 @@ D. has not been
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In premodern Europe, one could sail from the east coast of England to the Netherlands or France faster than one could travel by land to England's capital, London. In that era, historian Michael Pye argues in his 2015 book *The Edge of the World: A Cultural History of the North Sea and the Transformation of Europe*, the North Sea did more to link the various peoples, cultures, and economies on ______ shores than to divide them.
@@ -194,6 +211,7 @@ D. they're
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Creating personas—brief profiles of imaginary characters that represent key segments of a customer base—can help user experience (UX) designers think like and empathize with those using their products. Fictional yet realistic, ______
@@ -205,6 +223,7 @@ D. actual users are the source of the specific details (demographics, browsing h
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As the exoplanet 17 Scorpii b orbits a star 408 light-years from Earth, the gas giant’s gravity causes the star to wobble. In 2020, astronomers observing the wobble—indicated by redshifts and blueshifts in the star’s spectral wavelengths—eventually attributed ______ to the gravitational influence of the previously undetected exoplanet.
@@ -216,6 +235,7 @@ D. them
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Although the term “balloonomania”—referring to the hot-air balloon fad in England and France in the late 1700s—might suggest that the public as a whole was captivated by the technology, it was not universally ______ whereas many flocked to balloon launches and purchased balloon-themed items ranging from dinnerware to accessories, others dismissed the hot-air balloon as an impractical and dangerous extravagance.
@@ -227,6 +247,7 @@ D. embraced and
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In February 1864, James Johnson joined the US Army. He went on to serve in the 18th New York Cavalry during the US Civil War and, ______ earned a place in US history as one of the war’s few Chinese-born American soldiers.
@@ -238,6 +259,7 @@ D. in doing so,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when writing his biography of Alexander Hamilton (1755-1804), historian Ron Chernow had at his disposal Harold Syrett’s 26-volume, 19,000-document *Papers of Alexander Hamilton*.
@@ -249,6 +271,7 @@ D. On the other end of the spectrum,
 Answer: D
 
 Question 23:
+[Synthesis]
 The student wants to emphasize a difference between Judeth Insel and Ricky Quiñones. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -266,6 +289,7 @@ D. Judeth Insel and Ricky Quiñones have both lent their musical talents to albu
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -283,6 +307,7 @@ D. Vaalbara formed about 3.6 billion years ago but eventually broke apart.
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between *Uros Island* and *Golden Connection*. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -300,6 +325,7 @@ D. Many of Grimanesa Amoros’s sculptures, like *Uros Island* and *Golden Conne
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to contrast dichloromethane and tetradecafluorohexane. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -318,6 +344,7 @@ D. Tetradecafluorohexane, a refrigerant, can be used in cooling technologies to 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

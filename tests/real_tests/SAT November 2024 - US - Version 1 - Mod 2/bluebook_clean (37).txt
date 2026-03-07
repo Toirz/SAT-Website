@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The organizers specifically indicated that the conference was intended to focus on children's literature, so despite the education specialist's ______ her expertise on the subject in general, she found that she could speak authoritatively about the works of illustrator Michele Wood, particularly *I See the Rhythm*, which she had used effectively in classroom instruction for many years.
@@ -10,6 +11,7 @@ D. insight into
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 When discussing literary movements in Spain, scholars regularly characterize the works of Miguel de Unamuno as especially representative of the Generation of ‘98. The reasons for this characterization may seem ______, but linking Unamuno with the Generation of '98 risks disregarding the subtleties in his style that do not neatly conform to the conventions of this literary movement.
@@ -21,6 +23,7 @@ D. irrefutable
 Answer: D
 
 Question 3:
+[WIC]
 As used in the text, what does the word “part” most nearly mean?
 
 The following text is from Jacqueline Woodson’s 2018 novel *Harbor Me*.
@@ -34,6 +37,7 @@ D. Blob
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The sloping tile roofs and picturesque facade of Mission San José in Fremont, California, exemplify the Spanish contribution to Californian architecture, an influence that is ______ throughout the state: architectural tourists visiting the Santa Fe Depot in San Diego, for example, can easily recognize how its style draws inspiration from the Spanish missions.
@@ -45,6 +49,7 @@ D. understated
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 In 2015 Filipa Faleiro and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of *Hippocampus guttulatus*, a species of fish. However, Faleiro and colleagues’ study relied on a mean sample size of only 6 fish. In a 2022 review of various scientists’ conclusions about the impacts of ocean acidification on fish behavior, Jeff C. Clements and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. __Such analysis, in turn, can contribute to reports of exaggerated effects.__
@@ -56,6 +61,7 @@ D. It counters the objection of Clements and colleagues to studies that rely on 
 Answer: B
 
 Question 6:
+[COE]
 Taken together, the three underlined portions most clearly serve which function in the text as a whole?
 
 The following text is from a 1911 translation of Guy de Maupassant's 1881 short story “A Family Affair.” The narrator is describing Monsieur Alfred Caravan, a bureaucrat in the French government.
@@ -69,6 +75,7 @@ D. They convey Caravan's growing apprehensiveness about having failed to complet
 Answer: A
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 *Argyroxiphium sandwicense* is a species in a family of plants known collectively as the silversword alliance, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit an extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed's descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.
@@ -80,6 +87,7 @@ D. To describe the specific habitat where *Argyroxiphium sandwicense* are found 
 Answer: C
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?
 
 **Text 1**
@@ -97,6 +105,7 @@ D. By supplying additional ways in which urbanization research is difficult
 Answer: B
 
 Question 9:
+[COE]
 What does the text most strongly suggest about the value of Drelichman and Voth's research to their discipline?
 
 Mauricio Drelichman and Hans-Joachim Voth's research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg's work on the relationship between state finance and political development. But Drelichman and Voth's unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip's defaults were caused by short-term liquidity crises, not long-term unsustainable debts.
@@ -108,6 +117,7 @@ D. Drelichman and Voth's research presented a novel body of evidence supporting 
 Answer: A
 
 Question 10:
+[COE]
 Which finding, if true, would most directly challenge the second team's claim?
 
 Veronica L. Bura, Akito Y, Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on caterpillars, 33% of the tested species produced sound, which ranged from clicks in *Antheraea pernyi* to whistles in *Phyllosphingia dissimilis*. A second research team has claimed that caterpillars use these sounds primarily to communicate with other members of their species.
@@ -119,6 +129,7 @@ D. The sounds caterpillars produced in response to the simulated attacks lacked 
 Answer: C
 
 Question 11:
+[COE]
 Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?
 
 Google's introduction of the Chrome web browser in 2008 is a quintessential instance of brand extension-the company leveraged its brand recognition as an internet search provider to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g, the same brand of shoes and gloves) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -130,6 +141,7 @@ D. Poll a representative sample of the households to determine the degree of bra
 Answer: A
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P6 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______
@@ -141,6 +153,7 @@ D. P6 would derive more aesthetic pleasure from abstract paintings than from cub
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 To understand consumer loyalty to specific online retailers, Marina Ẑiẑakov and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g, statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ______
@@ -152,6 +165,7 @@ D. the greater importance assigned to delivery time and tracking than to package
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Opechona sp.* (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Anthocotyle merlucci* (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______
@@ -163,6 +177,7 @@ D. any advantages that the transmission strategy used by three-host CLPs may hav
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Debra M. Shier and colleagues found in a 2012 study of Stephens kangaroo rats. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______
@@ -174,6 +189,7 @@ D. the difference found in the study conducted by Debra M. Shier and colleagues 
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Byzantine Empire, which reigned in the Mediterranean from around 330 CE to 1453 CE, benefited from trade with other societies: its merchants exported salt, textiles, and iron and ______ other valuable commodities, such as silk, grain, and spices, which were then traded locally.
@@ -185,6 +201,7 @@ D. having imported
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his work, Sahtu-Métis artist Rick Rivet uses acrylic, oil, and other mediums to explore Indigenous spirituality and its iconography. The Eiteljorg Museum counts pieces by Rivet in ______ impressive collection of Native artworks.
@@ -196,6 +213,7 @@ D. its
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On March 6, 2002, Canadian astronomers detected a striking and unusual phenomenon occurring in the constellation Lepus, 160 million light-years from ______ explosion of a massive star, also known as a supernova, an extremely bright vet transient event that typically results from the collapse of a star's core.
@@ -207,6 +225,7 @@ D. Earth; the
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Between December 28 and January 12 each year, particles shed by comet *(196256) 2003 EH1* enter Earth's atmosphere at a velocity of 41 kilometers per second. Relatively few of these particles are likely to reach Earth's ______ since the meteoroids' compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the Quadrantid meteor shower.
@@ -218,6 +237,7 @@ D. surface, however;
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a chemical reaction, the value known as molar mass helps convert between the mass of the reactants and the mass of the product. The gaseous ______ have molar masses of 150.21 and 16.04 g/mol, respectively.
@@ -229,6 +249,7 @@ D. compounds thymol and methane,
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The pedagogy of the Suzuki method is rooted in several central ______ by Japanese violinist Shinichi Suzuki, who sought to parallel the linguistic learning environment, the method emphasizes learning from skilled musicians who are also skilled teachers and teaches students as young as three to play simple classical pieces such as *The Two Grenadiers*.
@@ -240,6 +261,7 @@ D. tenets that, developed
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Katharine Kuh and Bernarda Bryson Shahn have both received Lifetime Achievement Awards from the Women's Caucus for Art, though for different reasons. Kuh was honored for her work as an art historian; Bryson, ______ was recognized for her contributions as a painter.
@@ -251,6 +273,7 @@ D. by contrast,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a 2022 analysis of 200 terms, researchers found a broad pattern of valence—dependent mutation for which negative words saw a faster rate of cognate replacement—______ the rate at which a word will be replaced over time with a noncognate form. Adjectives (e.g., “frightened”) saw the largest effect; nouns (e.g., “pain”), meanwhile, saw the smallest.
@@ -262,6 +285,7 @@ D. in addition,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of handball became a medal event after demonstration, kaatsen, a handball sport popular in the Netherlands, only appeared at the 1928 Amsterdam Olympics.
@@ -273,6 +297,7 @@ D. However,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -289,6 +314,7 @@ D. Ballard has different approaches to blending Western classical music with ele
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to define the term “high-sinuosity river.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -306,6 +332,7 @@ D. Over time, the many meanders in the high-sinuosity Willapa River will change 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to contrast the orbits of the two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

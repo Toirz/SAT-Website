@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word "surveyed" most nearly mean?
 
 The following text is from Mark Twain's 1876 novel The Adventures of Tom Sawyer. Tom, a child, has been told by his aunt to paint their house's fence.
@@ -12,6 +13,7 @@ D. Examined
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Zygomorphic (bilaterally symmetric) flowers remain open and functional on average 1.1 days longer than actinomorphic (radially symmetric) flowers do. Ruby E. Stephens and colleagues claim that this extended period could be ______ the relatively small pool of potential pollinators available to zygomorphic flowers and the greater chance at successful pollination that remaining open affords them.
@@ -24,6 +26,7 @@ D. analogous to
 Answer: A
 
 Question 3:
+[WIC]
 As used in the text, what does the word "accepted" most nearly mean?
 
 The following text is from Charles Dickens's 1861 novel Great Expectations. The narrator is taking a walk near his home on a damp morning.
@@ -37,6 +40,7 @@ D. Followed
 Answer: D
 
 Question 4:
+[WIC]
 As used in the text, what does the word "manifest" most nearly mean?
 
 The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the granddaughter of a celebrated poet.
@@ -50,6 +54,7 @@ D. Evident
 Answer: D
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Mastering 'ajami, a Syrian art of creating intricately painted wood panels, demands a skill set that _______ innate talent: crafting the panels requires not just the ability to draw but also an understanding of traditional techniques, materials, and design elements, necessitating expertise gained through dedicated guidance from experienced artisans.
@@ -62,6 +67,7 @@ D. characterizes
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Lennox Brown’s powerful play A Ballet Behind the Bridge was produced in 1972 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Robert Hooks, an actor, producer, and activist, had met actor and playwright Douglas Turner Ward while they were performing in a 1960 touring production of Lorraine Hansberry’s play A Raisin in the Sun. __Since NEC’s founding in 1967, its workshops and performances have given Black playwrights, including Brown, a forum for their compelling stories.__
@@ -74,6 +80,7 @@ D. It provides additional information about a person mentioned in the text.
 Answer: B
 
 Question 7:
+[COE]
 Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?
 
 Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of success -typically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V, Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.
@@ -86,6 +93,7 @@ D. It is more likely to occur on habitable zone planets with atmospheres and pla
 Answer: D
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the student’s conclusion?
 
 Average Hours Worked per Person per Year in 1950 and 2017
@@ -101,6 +109,7 @@ D. while the number of hours worked rose in the United Kingdom between 1950 and 
 Answer: B
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters
@@ -115,6 +124,7 @@ D. Caribbean waters in the mesophotic zone.
 Answer: C
 
 Question 10:
+[COE]
 Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
 
 The Man-Made World: Or, Our Androcentric Culture is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ______
@@ -127,6 +137,7 @@ D. "If [the family is the unit of the state]-why not run the state on that basis
 Answer: C
 
 Question 11:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso, and team reported some obvious indications of M. symmetrica’s nervous system—for example, the animal’s optic nerve. Most intriguingly, they also saw signs of what might be a synganglion, a brain-like nerve mass, in the animal’s head. This is an exciting possibility: without evidence of a synganglion, we can’t tell exactly how M. symmetrica relates to mosquitoes, slipper lobsters, and other arthropods.
@@ -139,6 +150,7 @@ D. To describe M. symmetrica and the way the animal’s optic nerve functioned
 Answer: C
 
 Question 12:
+[COE]
 Which choice best describes an important purpose of the text?
 
 In a study covering ten years' worth of data, Zander S. Venter et al. analyzed air-quality data from monitoring stations in Germany, the US state of Kentucky, and thousands of other locations throughout Europe and the United States. The team coupled that information with high-resolution aerial images of the locations at corresponding times, allowing them to track changes in vegetation coverage generally as well as specifically in urban locations. The team found that the benefit of green spaces (areas of vegetation) for urban air-pollutant reduction was mediated by both the type of vegetation and its proximity to emission sources.
@@ -151,6 +163,7 @@ D. To call for increased scientific attention to the role of green spaces in imp
 Answer: B
 
 Question 13:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the information about Wignall and team's study as presented in Text 1?
 
 Text 1
@@ -166,6 +179,7 @@ D. By criticizing the study for failing to account for the foraging behavior of 
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Research such as the 2012 study of mammals by Debra M. Shier and colleagues has shown that noise from human activity, like traffic on a busy highway, has various significant effects on animals, and many governments require studies of the potential noise effects on wildlife before approving highway construction projects. For one of these projects, a group of researchers suggested that, although there are both mammals and amphibians in the area, taking actions to reduce the effects of noise on the mammals will probably protect both types of animals because noise tends to affect mammals more strongly than amphibians. Another group of researchers indicated that, although the effects are usually greater on mammals, addressing only those effects won’t reduce the potential harm to the amphibians in the area because ______.
@@ -178,6 +192,7 @@ D. the species of amphibians in the area experience different negative effects f
 Answer: D
 
 Question 15:
+[COE]
 Which quotation from an essay by an architecture historian would best illustrate the student’s claim?
 
 As a style of design and construction, the Brutalist architecture that flourished from the 1950s to the 1970s prioritized the use of industrial materials (particularly concrete) to create stark geometric forms. A student writing a paper on the history of architecture claims that Brutalist architects devised buildings that were visually striking but ultimately inefficient in terms of daily practical use.
@@ -190,6 +205,7 @@ D. “Daring uses of sharp angles, as a feature of Brutalism, were not among its
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the nineteenth century, Elizabeth Cady Stanton and Susan B. Anthony ______ for women’s right to vote in the United States.
@@ -202,6 +218,7 @@ D. to campaign
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 At the Actors Gymnasium in Chicago, Illinois, students can learn the world-famous Meisner technique. ______ by acting teacher Sanford Meisner, this technique trains actors to react naturally to the other performers in a scene.
@@ -214,6 +231,7 @@ D. Developing
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Sarah Cortez, author of the memoir Walking Home, what ______ Cortez’s response was Bury Me Deep by Megan Abbott.
@@ -226,6 +244,7 @@ D. what was her favorite book?
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Dating to around 1500, the Unicorn Tapestries are seven large tapestries depicting a unicorn hunt that hang in The Cloisters, a museum of medieval art in New York City. Attempting to explain the tapestries' symbolism, art historian and former Cloisters head curator Margaret B. ______ that while some have interpreted the tapestries as a Christian allegory, unicorns in that era were typically featured in secular rather than religious contexts.
@@ -238,6 +257,7 @@ D. Freeman, who noted
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The editors of *Home Ground: A Guide to the American Landscape* turned to Stephen Graham Jones, a novelist, to craft the entry for “hueco,” a term referring to a water-retaining depression in a rock face. For “sassaf,” however, the editors chose the _____ author of *Becoming Earth*.
@@ -250,6 +270,7 @@ D. poet Eva Saulitis
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
@@ -262,6 +283,7 @@ D. offering
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A research team led by Gal Badihi has discovered that chimpanzees communicate through exchanges of gestures occurring at a pace similar to that of human conversations. ______ chimpanzee gesture exchanges have short pauses of about 120 milliseconds between communications, comparable to the 200-millisecond average pause between turns in human speech.
@@ -274,6 +296,7 @@ D. Specifically,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
@@ -286,6 +309,7 @@ D. For example,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Over the past several decades, countries around the world have lowered the minimum voting age for their citizens. In 1971, for instance, the Netherlands changed its minimum voting age from 21 to 18.____ Australia changed its minimum voting age from 21 to 18 in 1973.
@@ -298,6 +322,7 @@ D. That is,
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to contrast the primary function of the logistic growth equation with the primary function of Shannon’s diversity index. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -316,6 +341,7 @@ D. Formulated in the nineteenth century, the logistic growth equation provides a
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to summarize the history of Timbuktu's famous manuscripts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -333,6 +359,7 @@ D. Timbuktu is home to hundreds of thousands of famous manuscripts, many dating 
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word “truly” most nearly mean?
 
 The following text is from Lilliam Rivera’s 2020 novel Never Look Back. The text describes the narrator’s friend Pheus, a young musician, after finishing a performance during a church service. Pheus pulls a handkerchief from his back pocket and wipes his forehead. I mime a quiet clap for him. He does a slight bow and flashes his dimples. This is where Pheus truly shines. When Pheus is in front of an audience, it’s as if he becomes another person, a more heightened version of himself.
@@ -12,6 +13,7 @@ D. Hardly
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 While some minor planets, such as 8649 Juglans (named for the walnut tree genus), receive memorable names, the International Astronomical Union faces a significant logistical problem. With over 500,000 minor planets discovered and the strict requirement that each name be unique, the task of assigning a distinct appellation to every new body presents a monumental organizational hurdle for the committee to ______.
@@ -24,6 +26,7 @@ D. surmount
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the American punk rock band The Deadweights and the 17th-century legislator Nicholas Burkhart, persisted on the site for many years before they were finally recognized as _____ and deleted.
@@ -36,6 +39,7 @@ D. analyses
 Answer: B
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the United Kingdom, Slovakia, and other countries with strong democratic institutions, the state tends to exert relatively little direct control over economic performance. Though this may seem to ________ the state’ s ability to curb inflation, Raj Desai et al. have shown that strongly democratic states can and do deploy effective counter-inflationary policies.
@@ -48,6 +52,7 @@ D. hamper
 Answer: D
 
 Question 5:
+[COE]
 It can be inferred from the passage that Schatz would most likely agree with which of the following about the intellectuals mentioned in the passage?
 
 Before its reassessment by film historians in the 1980s, the Hollywood studio system of the 1930s and 40s was largely seen by contemporary intellectuals as a factory for formulaic escapism—a creatively bankrupt, commercialized purveyor of standardized entertainment. Later analyses of the studio era, however, highlight its capacity for social commentary, particularly the subtle critiques of capitalism embedded in many genre films. The reconciliation of these films' subversive undercurrents with their adherence to strict genre conventions and production codes has been a challenge for scholars. Seeking to explain this paradox, scholar Jeanine Basinger argues that filmmakers strategically used conventional genres as a "smokescreen" to conceal critical messages from studio heads and censors. An alternative interpretation is offered by Thomas Schatz, who suggests that the genre system itself could foster socially significant, not just conformist, results by tapping into collective cultural anxieties and channeling them into cathartic narratives that implicitly questioned the status quo.
@@ -60,6 +65,7 @@ D. They incorrectly presuppose that a formulaic or commercial framework is inher
 Answer: D
 
 Question 6:
+[COE]
 The text suggests that the narrator's initial perception of Mr. Holloway, upon starting his employment, was that of a
 
 This excerpt is from Diana Miller's novel, The Apprentice, first released in 2001.
@@ -73,6 +79,7 @@ D. rigorous guide.
 Answer: B
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” __Does the concept of culture encompass knowledge, or habits, or both these things and others? __For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
@@ -85,6 +92,7 @@ D. It presents a point regarding the definition of “culture” on which nonspe
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
@@ -98,6 +106,7 @@ D. The residence of Padre Florentino is difficult to find.
 Answer: C
 
 Question 9:
+[Infer]
 Which choice most logically completes the text?
 
 Quasars—such as J0313-1806, located in the Eridanus constellation—are extremely luminous galactic nuclei powered by supermassive black holes. Quasars range in age, with approximately 200 of them known to have developed within the first billion years of the formation of the universe. Scientific researchers have long wondered how any quasars could have formed so early in the universe’s evolution given that conditions are believed to have been ill-suited to their creation, which suggests that ______.
@@ -110,6 +119,7 @@ D. quasars that formed in the early universe are likely not as luminous as those
 Answer: C
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 Cumulative Counts of Fish in Three Taiwanese Tide Pools, 1999–2018
@@ -124,6 +134,7 @@ D. there were 453 rippled rockskippers observed at station 1.
 Answer: C
 
 Question 11:
+[COE]
 Which quotation from Life Among the Paiutes most effectively illustrates the claim?
 
 Life Among the Paiutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca creates suspense by emphasizing her physical response to an event, writing ______.
@@ -136,6 +147,7 @@ D. "That same fall, after my grandfather came home, he told my father to take ch
 Answer: A
 
 Question 12:
+[COE]
 Which finding, if true, would most directly challenge Martínez and colleagues' hypothesis?
 
 The bird species Bucco capensis(the collared puffbird) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Hylophilus ochraceiceps (the tawny-crowned greenlet), on the other hand, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martínez and colleagues, who studied the ecological community these species share in French Guiana, hypothesized that avian foraging strategies that reduce individual vigilance are associated with greater reliance on other species to watch for predators.
@@ -148,6 +160,7 @@ D. B.capensis typically gathers in flocks only with other birds that practice sa
 Answer: B
 
 Question 13:
+[COE]
 Which quotation from an economist’s commentary on The Wealth of Nations would most effectively support the student’s argument?
 
 A student enrolled in an economics class is preparing an essay about Adam Smith's *The Wealth of Nations*, in which Smith analyzes economic instability and suggests methods for sustaining stable markets. Smith identifies distinct vulnerabilities within various economic systems—for example, market economies may temporarily adopt restrictive measures during financial crises but fail to abolish them afterward—yet certain strategies for market stability remain universally relevant. The student specifically argues that Smith emphasizes strict adherence to market regulations, insisting even minor deviations must be consistently addressed to maintain economic health.
@@ -160,6 +173,7 @@ D. “Addressing the prevention of corruption, Smith insists that ‘economic po
 Answer: B
 
 Question 14:
+[COE]
 It can most reasonably be inferred from the text that the finding about the catalyst composition was important for which reason?
 
 To discern how thermal variation impacts catalyst-mediated conversion of chemical reactants in industrial reactors, John Doe et al. extracted catalyst-bed samples from Reactor A operating at approximately 200°C and transferred them to Reactor B, where the ambient temperature was elevated by 2°C. Conversion rates driven by the catalyst were accelerated in the relocated samples; notably, the catalyst composition remained unchanged, permitting Doe et al. to ascribe the enhancement to temperature-induced increases in catalyst activity.
@@ -172,6 +186,7 @@ D. It clarified that catalyst activity levels in the reactor samples differed ba
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—Malaysia in 1987, Morocco in 1988, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ____.
@@ -184,6 +199,7 @@ D. empirical evidence was consistent with the scholarly consensus about the cons
 Answer: D
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With the proliferation of online learning platforms that offer unprecedented access to education, it might seem that student comprehension would universally increase. Researchers have noted, however, that a purely digital format can be less effective for some ______ the absence of in-person classroom dynamics and direct teacher-student interaction can lead to decreased engagement and retention for certain learners.
@@ -196,6 +212,7 @@ D. learners, for example,
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In quantum computing, qubit states are conventionally manipulated using precisely timed microwave pulses, but a new paradigm seeks to alter this. Physicists Mikhail Lukin and Vladan Vuletić’s 2001 paper ______ that neutral atoms trapped in optical lattices could instead be entangled via controlled Rydberg interactions has given rise to the neutral atom quantum computing architecture.
@@ -208,6 +225,7 @@ D. proposes
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Classifying a soil as a ferralsol, a type of soil with iron or aluminum oxides, requires the evaluation of several criteria. This process involves detecting the presence of any soil horizons, or boundary ______ the material composition, such as the percentages of sand, silt, clay, and organic material; and identifying chemical features, like the pH level and concentration of positive or negative ions.
@@ -220,6 +238,7 @@ D. layers, analyzing
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A lady-in-waiting's account of Japanese courtly life in the tenth century, Sei Shōnagon’s Pillow Book is filled with daily observations and musings. Some of these appear as ___ "Splendid Things," Shōnagon catalogs her appreciation for a snow-covered garden, Chinese brocade fabric, and grape-colored fabric.
@@ -232,6 +251,7 @@ D. lists: in
 Answer: D
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In biomimetic engineering, an engineer draws inspiration from a biological system, such as a plant, an animal, or an ecosystem. The Shinkansen bullet train's design, for example, is based on the kingfisher's beak to reduce noise; the invention of Velcro, ______ was inspired by a natural mechanism: the way burdock burrs cling to dog fur.
@@ -244,6 +264,7 @@ D. conversely.
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Celebrated Navajo weaver Melissa Cody (born 1983) creates textiles that blend traditional techniques with contemporary designs. She uses natural dyes extracted from plants like juniper and sage. _______ the textiles display vibrant yellows and deep browns characteristic of these organic materials.
@@ -256,6 +277,7 @@ D. As a result,
 Answer: D
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Among the small magazines animating Dublin’s vibrant literary scene in the early twentieth century was _______ by L.K. Emery and featuring essays on James Joyce, Pablo Picasso, and Máinie Jellett; poems by F.R. Higgins and Percival Arland Ussher; and translations of Irish-language plays, this magazine publicized the work of influential avant-garde writers and artists of the day.
@@ -268,6 +290,7 @@ D. The Klaxon edited
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
@@ -280,6 +303,7 @@ D. Furthermore,
 Answer: A
 
 Question 24:
+[Synthesis]
 The student wants to use a quotation from Fazal to explain an advantage of the geothermal system at the Platanares plant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -296,6 +320,7 @@ D. The Platanares plant uses a binary cycle system to produce electricity; in th
 Answer: C
 
 Question 25:
+[COE]
 The researcher wants to highlight a similarity between acetone and ethanol. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -313,6 +338,7 @@ D. Applying high-frequency sound waves generally raises the temperature of liqui
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the number of migratory bird species that stop at the Great Salt Lake. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -329,6 +355,7 @@ D. Each year, more than 330 species of migratory birds stop at the Great Salt La
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to refute the oversimplified claim that preserving a large total area of a habitat is the only important factor for conservation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While investigating ecological principles, a biology student took the following notes:

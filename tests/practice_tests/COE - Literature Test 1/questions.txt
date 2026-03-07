@@ -1,4 +1,5 @@
 Question 67:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is a 1976 poem "Eagle Feather Fan" by Navarre Scott Momaday, who was a citizen of the Kiowa Indian Tribe of Oklahoma.
@@ -25,6 +26,7 @@ D. The speaker reflects on the apparent strength of the eagle fan, suggesting th
 Answer: A
 
 Question 68:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 28.”
@@ -39,6 +41,7 @@ D. The speaker criticizes the conspiracy between day and night to torture him.
 Answer: D
 
 Question 16:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator is traveling by boat with Harris and another friend.
@@ -52,6 +55,7 @@ D. Harris spent most of his time with a particular passenger during a previous b
 Answer: C
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Guy de Maupassant’s 1884 short story *“A Recollection,”* from the collection *Guy de Maupassant Short Stories* (translated by Albert M.C. McMaster et al. in 1903). The narrator is on a walk in the countryside outside of Paris, France.
@@ -65,6 +69,7 @@ D. The narrator has chosen to visit the countryside to consider how his current 
 Answer: C
 
 Question 107:
+[WIC]
 As used in the text, what does the word "behold" most nearly mean?
 
 The following text is adapted from William Wordsworth’s 1798 poem Lines Written a Few Miles above Tintern Abbey.
@@ -82,6 +87,7 @@ D. Neglect
 Answer: A
 
 Question 56:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 25.” The poem contrasts the speaker himself with those who seem more fortunate.
@@ -104,6 +110,7 @@ D. To emphasize himself content with permanent love though not being fortunate.
 Answer: D
 
 Question 2:
+[COE]
 Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
 
 The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
@@ -117,6 +124,7 @@ D. He has imparted to Evelina his own idealistic view of the world, which result
 Answer: C
 
 Question 75:
+[COE]
 Which quotation from “The Promise We Live By” most effectively illustrates the claim?
 
 “The Promise We Live By” is a 1994 poem by Simon J. Ortiz. In this poem, the speaker suggests that the unpredictable nature of the weather and the resulting lack of clear expectations provide a sense of comfort: ______
@@ -129,6 +137,7 @@ D. “It’s almost unnatural / but I hope not, having already found reliable / 
 Answer: C
 
 Question 59:
+[Details]
 Which choice best describes the function of the underlined part in the text as a whole?
 
 The following text is from Walt Whitman’s 1892 poem “Song of Myself.”
@@ -150,6 +159,7 @@ D. Contrasting the speaker’s background with that of others
 Answer: A
 
 Question 84:
+[COE]
 Which quotation from Poems most effectively illustrates the claim?
 
 *Poems* is an 1895 collection of poetry by Frances E. W. Harper. In one lyric, the speaker theorizes art as an ameliorative force, writing _____
@@ -162,6 +172,7 @@ D. “My mother’s kiss, my mother’s kiss, / I feel its impress now; / As in 
 Answer: A
 
 Question 27:
+[WIC]
 As used in the text, what does the word “suddenly” most nearly mean?
 
 The following text is adapted from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Mole is dazed after briefly meeting a stranger while traveling with a friend.
@@ -175,6 +186,7 @@ D. Tenderly
 Answer: A
 
 Question 34:
+[Structure]
 Which choice best describes the main idea of the text?
 
 The following text is from Mary Shelley’s 1818 novel *Frankenstein*. Victor Frankenstein, who narrates this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -188,6 +200,7 @@ D. Victor thinks that conventional scientific approaches to understanding natura
 Answer: D
 
 Question 102:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from D.A. Lozano’s 1844 poem “A Remembrance of Puerto Cabello— The Mangle” (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.
@@ -204,6 +217,7 @@ D. It describes the speaker's appreciation for the people of Puerto Cabello.
 Answer: B
 
 Question 43:
+[COE]
 What does the text most strongly suggest about Poe's work and American readers?
 
 The following text is from William Carlos Williams's 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
@@ -217,6 +231,7 @@ D. American readers failed to appreciate Poe's work because of its novelty and t
 Answer: D
 
 Question 79:
+[COE]
 Which quotation from “Sonnet 33” most effectively illustrates the claim?
 
 “Sonnet 33” is a 1609 poem by William Shakespeare. In the poem, the speaker, comparing his beloved to the sun, does not fault his beloved for the misdeed:

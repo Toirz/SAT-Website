@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The American continents are home to a huge diversity of languages, from Mayo, found in places like Mexico in North America, to Koreguaje, found in places like Colombia in South America. Much like the continents themselves, the variety of native languages in the Americas is ______.
@@ -10,6 +11,7 @@ D. limited
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The minor planet 1095 Tulipa was named after the plant genus that includes tulips, but given the sheer number of minor planets that have been discovered (more than 500,000 so far), most are given only an identification number. Because any name given to a minor planet needs to be unique to that body, naming each would be ______.
@@ -21,6 +23,7 @@ D. customary
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Drivers who strongly believe that the toll they must pay to use the San Luis Pass-Vacek Toll Bridge, which spans the San Luis Pass in Texas, is currently too high are likely to be ______ arguments for increasing the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments toward a more persuadable segment of the population.
@@ -32,6 +35,7 @@ D. placated by
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though few critics consider Vasily Grossman's novel *Stalingrad*—which focuses on the experience of the Soviet Union in the early years of World War II—to be as well written as his later book *Everything Flows*, some compliment it despite the damage ______ Soviet censors: Gary Saul Morson in *The New York Review of Books* called the novel "remarkably bold."
@@ -43,6 +47,7 @@ D. concealed from
 Answer: B
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Companies are providing consumers with more opportunities to purchase customized products than ever before. Whether buying customized sneakers, jewelry, or clothing, consumers can participate in the design of products to meet their specific needs and tastes. In turn, companies profit too: studies have shown that consumers are willing to pay more and wait longer for a customized product. Still, it can be difficult for companies to offer customization while keeping costs low, as the standard methods of mass production may not be able to accommodate making a unique product each time.
@@ -54,6 +59,7 @@ D. It introduces a trend in consumer products and then explains how the trend bo
 Answer: D
 
 Question 6:
+[COE]
 Which choice best describes the main purpose of the text?
 
 Karl Polanyi and other historians rarely discuss domestic capitalism in Africa before the period of European colonization, implicitly presenting capitalism as external to and imposed on Africa. Mariana Candido and other Africanist scholars have shown, however, that in parts of Africa, centrally administered industrial production, the legal treatment of land as private property, and other features of capitalism predated colonization. One reason for this discrepancy is that historians of capitalism tend to focus on longitudinal economic data drawn from archival records, which do not exist for much of precolonial Africa.
@@ -65,6 +71,7 @@ D. To summarize a debate between historians of capitalism and Africanist scholar
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot's 1857 short story "The Sad Fortunes of the Rev. Amos Barton." The Countess Czerlaski is a newcomer to the town of Milby.
@@ -78,6 +85,7 @@ D. To engage the reader's compassion for both the Countess Czerlaski and the peo
 Answer: A
 
 Question 8:
+[COE]
 Based on the text, what most likely motivates Tia Ana's behavior during Salomé's salon?
 
 The following text is from Julia Alvarez's 2000 novel *In the Name of Salomé*. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
@@ -91,6 +99,7 @@ D. She finds the guests to be dull and is eager to find a way to leave the salon
 Answer: B
 
 Question 9:
+[COE]
 What claim does the text make about the demand for petroleum?
 
 Companies involved in petroleum extraction include drilling equipment among their assets. But petroleum extraction is a very carbon-intensive industry, so as social attitudes increasingly favor using less carbon intensive sources of energy demand for petroleum falls and the drilling equipment will eventually, or even suddenly, become a liability as reduced petroleum prices make it more difficult to recover the expense of maintaining such equipment.
@@ -102,6 +111,7 @@ D. Companies involved in petroleum extraction can benefit from a decline in the 
 Answer: B
 
 Question 10:
+[COE]
 According to the text, which trait do researchers think may contribute to a flat-headed cat's ability to purr?
 
 Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
@@ -113,6 +123,7 @@ D. The relative size of the flat-headed cat's body and throat
 Answer: C
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Hawaiian home lands are areas of public land in the state of Hawaii that have been reserved for use by the Kanaka Maoli, or the Native Hawaiian people. The largest of the home lands, Homuula-Upper Piihonua, covers nearly 100 square miles on the island of Hawai'i. Most of the home lands are much smaller. For example, the total area of Kamoku-Kapulena is 7.47 square miles, and the total area of Nanakuli is ______
@@ -124,6 +135,7 @@ D. 15.99 square miles.
 Answer: B
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 A study of commercial airline routes that carried the greatest number of passengers in 2017 and 2018 shows that, in general, domestic routes (routes within a single country) carried many more passengers than international routes. However a few international routes were so popular that they carried more travelers than some of the most highly traveled domestic routes, as can be seen when comparing the ______
@@ -135,6 +147,7 @@ D. number of passengers who traveled between Jakarta and Singapore in 2018 with 
 Answer: D
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support the second research team's hypothesis?
 
 Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction's size and position, and fish sense these vortices in order to navigate around the obstructions. Using models of three fish head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—Yuzo R. Yanagisuru, Otar Akanyetl, and James C. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed and intermediate-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish's snout are greater.
@@ -146,6 +159,7 @@ D. A study using obstructions that created large vortices in low-visibility cond
 Answer: C
 
 Question 14:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 As the second most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______
@@ -157,6 +171,7 @@ D. the populations of both Lesotho and Benin in 2015 with their populations in 2
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Humans have a very strong bias toward right handedness, with approximately 85-90% having right as their dominant hand. Among studies of nonhuman primates, James Welles's 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues' 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It's important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ______
@@ -168,6 +183,7 @@ D. the number of individuals in the study of wild chimpanzees is probably too sm
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Used in everything from food to cleaning products, emulsifiers are compounds that serve to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together. The emulsifiers used by ______ like palmitic acid, allow these scientists to blend oil and water into homogeneous formulations such as lotions and perfumes.
@@ -179,6 +195,7 @@ D. cosmetic's chemists,
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth ______ these ingenious devices were eventually replaced by electronic calculators.
@@ -190,6 +207,7 @@ D. century that
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ______ is displayed in the National Portrait Gallery in London.
@@ -201,6 +219,7 @@ D. Smith
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though he would go on to work with many respected musicians, including Paul Hanson on his album *Frolic in the Land of Plenty*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip hop music.
@@ -212,6 +231,7 @@ D. drummer, Dennis Chambers,
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Between June 22 and July 2 each year, particles shed by comet 7P/Pons-Winnecke enter Earth's atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth's ______ since the meteoroids' compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the June Boötid meteor shower.
@@ -223,6 +243,7 @@ D. surface. However,
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the red-bellied newt and the fire salamander—safely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians' striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.
@@ -234,6 +255,7 @@ D. However,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ______ city officials strive to maintain the system's 71 stations to ensure each of these journeys is as smooth as possible.
@@ -245,6 +267,7 @@ D. Alternatively,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ______ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
@@ -256,6 +279,7 @@ D. however,
 Answer: A
 
 Question 24:
+[Synthesis]
 The student wants to emphasize a difference between the two lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -274,6 +298,7 @@ D. Betsy Morrow Humphrey and Thelma Austin both played crucial roles in ensuring
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -291,6 +316,7 @@ D. If a moon orbiting a planet (like Saturn) comes close enough to that planet, 
 Answer: C
 
 Question 26:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a similarity between the two birds?
 
 While researching a topic, a student has taken the following notes:
@@ -309,6 +335,7 @@ D. *Birds of Northern South America* is an expertly compiled guidebook by ornith
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to emphasize the effect media had on building Wong Fei-hung's legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

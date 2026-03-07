@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 By combining Indigenous and classical music, Cree composer and cellist Cris Derksen creates works that reflect the diverse cultural landscape of Canada. For her album *Orchestral Powwow,* Derksen composed new songs in the style of traditional powwow music that were accompanied by classical arrangements played by an orchestra. But where an orchestra would normally follow the directions of a conductor, the musicians on *Orchestral Powwow* are led by the beat of a powwow drum.
@@ -11,6 +12,7 @@ D. To establish a contrast between Derksen’s classical training and her Cree h
 Answer: A
 
 Question 2:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is adapted from Charles Dickens’s 1854 novel *Hard Times.* Coketown is a fictional town in England.

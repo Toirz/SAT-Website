@@ -1,4 +1,5 @@
 Question 1:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In addition to directing blockbuster films like *Jaws* and *E.T. the Extra-Terrestrial*, Steven Spielberg has also produced acclaimed historical dramas, tackling three major twentieth-century conflicts—World War I (with the film *War Horse*), the Cold War, and World War II (with the film *Schindler's List* ______ from a deeply human perspective.
@@ -11,6 +12,7 @@ D. and Saving Private Ryan)—
 Answer: D
 
 Question 2:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Within the study of marine ecosystems, there are four primary zones: intertidal, neritic, oceanic, and abyssal. The Mariana Trench, located in the western Pacific Ocean, falls within the abyssal zone, for ______ a depth of about 11,000 meters, it is also the deepest point in Earth's oceans.
@@ -23,6 +25,7 @@ D. instance. With
 Answer: D
 
 Question 3:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The innovative paintings of Claude Monet, which capture the fleeting effects of light and atmosphere with visible brushstrokes, have inspired generations of modern ______ them the Dutch post-impressionist Vincent van Gogh, who praised Monet's ability to depict light.
@@ -35,6 +38,7 @@ D. artists, among
 Answer: D
 
 Question 4:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In September 1928, the bacteriologist Alexander Fleming noticed a peculiar mold contaminating a petri dish in his London ______ returned from a two-week holiday to find his staphylococci cultures ruined, the observant scientist made a discovery that would change medicine forever.
@@ -47,6 +51,7 @@ D. laboratory having
 Answer: B
 
 Question 5:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Contemporary sculptor Louise ______ her works to provoke an acute awareness of how individuals interact with architectural spaces, arranges towering concrete forms into immersive installations that redefine the spatial dynamics of their surroundings.
@@ -59,6 +64,7 @@ D. Bourgeois, intends
 Answer: C
 
 Question 6:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 These efforts can include matching employee donations, providing employees time off to volunteer, and ______directly with local nonprofits. Businesses should participate in charitable activities not only out of generosity but also because doing so can increase their customer base and employee productivity.
@@ -71,6 +77,7 @@ D. working
 Answer: D
 
 Question 7:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To advance the field of physics in the early 20th century, innovative scientist Marie Curie pioneered research on radioactivity, a groundbreaking ______ coined the term “radioactivity,” a now-ubiquitous descriptor; and developed mobile radiography units to help field surgeons.
@@ -83,6 +90,7 @@ D. field at the time,
 Answer: B
 
 Question 8:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When building complex structures, engineers must use materials that can support heavy loads without breaking. Recently, architects at the firm Skidmore, Owings &amp; Merrill used the construction ______ to design a skyscraper with a flexible core that can better withstand seismic activity.
@@ -95,6 +103,7 @@ D. material reinforced concrete
 Answer: D
 
 Question 9:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Traditional political theory often assumes that citizens consistently act in accordance with their best interests, but Dr. Laura Nichols of Princeton University makes no such assumption; political scientists like Nichols, whose research focuses on voter behavior, ___ that decision-making in political contexts can be influenced by a range of cognitive biases and external pressures.

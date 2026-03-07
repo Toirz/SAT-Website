@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Though John Crowley, author of Engine Summer, is perhaps not as well known as the most commercially successful American writers of the past fifty years, influential figures have championed his work, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom praises the novel's adroit blend of what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big demonstrates that a work can be both.
@@ -11,6 +12,7 @@ D. To present a reason why a literary critic is impressed by a certain novel
 Answer: D
 
 Question 2:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Though John Crowley, author of Endless Things, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -23,6 +25,7 @@ D. It identifies a writer whose work is regarded as difficult to read, brings up
 Answer: C
 
 Question 3:
+[Structure]
 What is the main topic of the text?
 
 Though John Crowley, author of Engine Summer, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet John Hollander and the literary critic Harold Bloom. According to journalist Graeme Wood, Bloom claimed to have read Crowley’s novel Little, Big at least forty-six times, and in his posthumously published afterword to a 2022 edition of the book, Bloom rhetorically asked: “How many living authors of prose romance are universally relevant? Only Crowley.”
@@ -35,6 +38,7 @@ D. The reception of the work of John Crowley
 Answer: D
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Though John Crowley, author of Four Freedoms, is perhaps not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -47,6 +51,7 @@ D. It compares the work of a writer with that of a poet who admired him.
 Answer: C
 
 Question 5:
+[COE]
 Taken together, the three underlined portions most clearly serve which function in the text as a whole?
 
 The following text is from a 1911 translation of Guy de Maupassant’s 1881 short story “A Family Affair.” The narrator is describing Monsieur Alfred Caravan, a bureaucrat in the French government.
@@ -60,6 +65,7 @@ D. They convey Caravan’s growing apprehensiveness about having failed to compl
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from a 1911 translation of Guy de Maupassant’s 1881 short story “A Family Affair.” The narrator is describing Monsieur Alfred Caravan, a bureaucrat in the French government.
@@ -73,6 +79,7 @@ D. To discuss how changes in transportation reshaped daily travel in late-ninete
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.
@@ -86,6 +93,7 @@ D. The amount of work that needs to be done on the boat is likely more than the 
 Answer: A
 
 Question 8:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
@@ -99,6 +107,7 @@ D. To caution people not to be so quick to dismiss the natural beauty that can b
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator is traveling by boat with Harris and another friend.
@@ -112,6 +121,7 @@ D. Harris spent most of his time with a particular passenger during a previous b
 Answer: C
 
 Question 10:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
@@ -125,6 +135,7 @@ D. It demonstrates that Harris finds his experiences on the boat to be confusing
 Answer: B
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Nature reserves and other types of protected areas (PAs) are established to promote conservation, but because they restrict certain economic activities, it is widely believed that they hinder local economic development. However, a study by Hasita Bhammar and team investigating five PAs, including Lower Zambezi National Park (a terrestrial PA in Zambia) and Abrolhos Marine Park (a marine PA in Brazil), estimated the impact of tourism on these regions and concluded that tourism likely results in increased household incomes in local communities. But whereas terrestrial PAs were in remote places with few alternative amenities to attract tourists, marine PAs were close to additional amenities not part of the PA. Thus, the researchers conceded that although _____
@@ -137,6 +148,7 @@ D. household income increased in the areas surrounding both PAs, it likely grew 
 Answer: C
 
 Question 12:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.
@@ -149,6 +161,7 @@ D. It explains how PAs typically affect economic development in the regions wher
 Answer: C
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Bwindi Impenetrable National Park in Uganda is part of a global network of protected areas (PAs) established to promote conservation by reducing harmful industry activity. But governments are often reluctant to introduce regulations that adversely affect existing industry activity, resulting in PAs that are either “residual areas” (heavily regulated areas where industry was already minimal) or “paper parks” (weakly regulated areas where industry is prevalent). Justin Alger argues that these outcomes are influenced by industry interest salience, the degree to which the establishment of a PA in a specific area would be costly to an industry. With that view in mind, a PA created in an area where an industry’s interest salience is low would be expected to ______
@@ -161,6 +174,7 @@ D. inhibit significant encroachment of that industry into the area in the long t
 Answer: D
 
 Question 14:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although protected areas (PAs) achieve nature conservation goals by restricting certain kinds of economic activity, ecologically responsible industries can thrive in such areas: many PAs, including Abernethy National Nature Reserve in Scotland, generate revenue from tourism. However, these ventures' success often stems from particular regional circumstances and can be challenging to _______ elsewhere.
@@ -173,6 +187,7 @@ D. replicate
 Answer: D
 
 Question 15:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from George Marion McClellan's 1895 poem "Eternity":
@@ -193,6 +208,7 @@ D. To convey the speaker's longing for the ocean to impart a sense of inner tran
 Answer: D
 
 Question 16:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is from George Marion McClellan's 1895 poem "Eternity":
@@ -213,6 +229,7 @@ D. The text first lists hardships of sea labor, then demands an immediate return
 Answer: A
 
 Question 17:
+[Infer]
 Which choice most logically completes the text?
 
 Biochemists L. Sam Saguy and Eli J. Pinthus studied the mass- and heat-transfer processes that occur when foods, such as the Indian snacks makai poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ______.
@@ -225,6 +242,7 @@ D. the crispier the crust will be when frying is completed.
 Answer: A
 
 Question 18:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Demosthenes, a prominent fourth-century BCE Athenian orator, is said to have been _____ of parrhesia, or speaking freely and openly to ensure productive civic deliberation. He is noted for characterizing parrhesia in several public addresses as the foundation of democracy in classical Athens rather than, more simply, as a facilitator of the political system.
@@ -237,6 +255,7 @@ D. a harbinger
 Answer: A
 
 Question 19:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Demosthenes, a prominent fourth-century BCE Athenian orator, is said to have been _____ of parrhesia, or speaking freely and openly to ensure productive civic deliberation. He is noted for characterizing parrhesia in several public addresses as the foundation of democracy in classical Athens rather than, more simply, as a facilitator of the political system.
@@ -249,6 +268,7 @@ D. an opponent
 Answer: A
 
 Question 20:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although many fourth-century BCE Athenians lauded the general principle of parrhesia—speaking frankly for the good of collective decision-making—few celebrated it as ardently as the orator Demosthenes, who insisted in several public addresses that fearless speech was nothing less than the very bedrock of Athenian democracy. In this sense, Demosthenes was widely regarded as ______ of parrhesia.

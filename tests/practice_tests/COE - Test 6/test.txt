@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would most directly challenge the second team’s claim?
 
 Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on caterpillars, 33% of the tested species produced sound, which ranged from clicks in Antheraea pernyi to whistles in Phyllosphingia dissimilis. A second research team has claimed that caterpillars use these sounds primarily to communicate with other members of their species.
@@ -10,6 +11,7 @@ D. The sounds caterpillars produced in response to the simulated attacks lacked 
 Answer: C
 
 Question 2:
+[COE]
 Information in the text best supports which statement about the design of the house in Calle Liceo?
 
 Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the houses in Avenida Parque Mexico, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Liceo, which evince the aesthetics of traditional Mediterranean and Mexican styles.
@@ -21,6 +23,7 @@ D. It displays the effects of Barragán’s exposure to international architectu
 Answer: C
 
 Question 3:
+[COE]
 Which finding, if true, would provide evidence that the possibility Grasby et al.investigated does occur?
 
 The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
@@ -32,6 +35,7 @@ D. The level of brand recognition had an impact on both consumer ratings and the
 Answer: C
 
 Question 4:
+[COE]
 Which finding, if true, would most directly support the researcher's claim?
 
 In countries with right-hand traffic, drivers who want to make a left turn at a traffic intersection with stoplights have to wait for either a gap in oncoming traffic or a designated left-turn signal to turn green. At busy intersections, this often causes a backup of vehicles waiting to turn left or being prevented from proceeding by left-turning vehicles in front of them. Transportation researcher Vikash V. Gayah claims that urban areas eliminate the option to turn left at busy intersections—both with and without dedicated left-turn signals—would improve traffic flow and, as a result, reduce overall travel times even if such a restriction would require drivers to sometimes travel a slightly longer distance.
@@ -43,6 +47,7 @@ D. In a town that installed left-turn signals at all busy intersections, seven o
 Answer: A
 
 Question 5:
+[COE]
 Which finding from the study, if true, would most directly support the team's conclusion?
 
 Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs. The researchers monitored the brain activity of Kun-kun (a border collie), Beto (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that differences in dogs' anatomical features may affect their ability to distinguish speech from nonspeech.
@@ -54,6 +59,7 @@ D. The pattern of brain activity that long-headed dogs showed when hearing the s
 Answer: B
 
 Question 6:
+[COE]
 The text best supports which conclusion about the cultural center operated by the Mi’kmaq of Nova Scotia?
 
 In what is now British Columbia, the Coast Salish Nation manages the Kw’umut Lelum Cultural Center, an institution focused on preserving and presenting their heritage. Drawing on ancestral wisdom to shape its displays, the center highlights Salish traditions and history for the benefit of its community members. Similarly, the Mi’kmaq of Nova Scotia use a comparable approach in their own cultural center. Both centers contrast with non-Indigenous institutions, which, when showcasing Indigenous artifacts, often cater primarily to non-Indigenous visitors and follow Western methodologies in curating exhibits.
@@ -65,6 +71,7 @@ D. Its exhibits are likely curated with a primary focus on serving the Mi’kmaq
 Answer: D
 
 Question 7:
+[COE]
 Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?
 
 Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar pre-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.
@@ -76,6 +83,7 @@ D. Certain crustacean prey species available along the coasts of Northern Califo
 Answer: C
 
 Question 8:
+[COE]
 Which finding from Davis and Chen's study, if true, would most directly weaken the claim made by psychologists who hold the conventional view of motivation?
 
 Psychologists who hold a conventional view of motivation argue that publicly declaring a personal goal does not alter an individual's likelihood of achieving that goal. To test this claim, researchers Amir Davis and Li Chen conducted a year-long study focused on individuals attempting to learn a new complex skill. The study made a distinction between subjects who were part of a group encouraged to announce their goal on social media (roughly half of whom did so) and a comparable group of subjects who were instructed not to make any public announcement. Davis and Chen then compared the self-reported satisfaction levels of the two groups of subjects one year after the study began.
@@ -87,6 +95,7 @@ D. A similar tendency to report disappointment about their progress was observed
 Answer: C
 
 Question 9:
+[COE]
 Which finding from the experiment, if true, would most directly support Bernal and de Silva's conclusion?
 
 Male túngara frogs make complex calls to attract mates, but their calls also attract frog-biting midges, insects that feed on the frogs' blood. Researchers Ximena Bernal and Priyanka de Silva wondered if the calls alone are sufficient for midges to locate the frogs or if midges use carbon dioxide emitted by frogs as an additional cue to their prey's whereabouts, like mosquitoes do. In an experiment, the researchers placed two midge traps in a túngara frog breeding area. One trap played recordings of túngara frog calls and the other released carbon dioxide along with playing the calls. Bernal and de Silva concluded that carbon dioxide does not serve as an additional cue to frog-biting midges.
@@ -98,6 +107,7 @@ D. More midges were found in the trap that only played calls than in the trap th
 Answer: D
 
 Question 10:
+[COE]
 Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
 
 Scholars cite Men of Maize, the 1949 novel by Guatemalan author Miguel Ángel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Orhan Pamuk, __whose 2001 novel My Name Is Red resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Turkey.__

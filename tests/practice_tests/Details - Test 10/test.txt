@@ -1,4 +1,5 @@
 Question 1:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. __While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Brevundimonas diminuta and Massilia timonae—it has rarely been observed among eukaryotes (multicellular organisms).__ However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
@@ -10,6 +11,7 @@ D. It indicates a distinction between the mechanics of two kinds of biological p
 Answer: A
 
 Question 2:
+[COE]
 Based on the text, what is one reason why simulants are valuable for scientists?
 
 The soil on Mars can make missions to explore the planet challenging, as the sand and dust are known to clog filters and lock moving parts on robotic rovers and other exploration devices. Using simulants, which are materials designed to simulate different planetary surfaces, scientists are able to study the characteristics of Mars’s surface. Simulants like the Mars Mojave simulant—which was developed using lava deposits from California’s Mojave Desert—help scientists evaluate how well their devices will handle the surface when operated on Mars.
@@ -21,6 +23,7 @@ D. Scientists use simulants to compare the physical properties of Mars’s surfa
 Answer: A
 
 Question 3:
+[COE]
 Which quotation from a literary scholar would most directly illustrate the text’s claim about East African poets?
 
 In addition to drawing on regional dialects and other local markers, contemporary East African literature is distinguished by the way it adapts well-known storytelling frameworks to indigenous circumstances. For instance, some authors draw on episodic narrative forms and mischievous protagonists originally seen in medieval sagas, while others reimagine the once-aristocratic or endangered heroines of the old romance tradition as more grounded East African figures shaped by social ties and historical forces. Certain poets of the region—such as Mulewa—have demonstrated even greater agility by transforming these borrowed elements into a distinctly different poetic mode.
@@ -32,6 +35,7 @@ D. “When Mulewa engages one poetic genre only to abandon it a few lines later 
 Answer: B
 
 Question 4:
+[COE]
 The passage implies that compared with traditional newspapers, online news aggregators
 
 The prevalence of online news aggregators has risen in the media landscape, in conjunction with the fragmentation of news consumption and a decline in the readership of traditional newspapers, whose business model is sensitive to market shifts. Online aggregators tend to present information as headlines and short summaries, while traditional newspapers prioritize in-depth, long-form articles. The publication of detailed articles by seasoned journalists is highly beneficial for fostering a well-informed public. It is suggested that a reader would have to consume 1,000 article summaries from an aggregator to achieve the same level of nuanced understanding that results from the reading of 150 in-depth articles from a traditional newspaper. If online aggregators successfully dominate the fragmented media market in response to the decreasing readership of traditional papers, they may not compensate completely for the loss of in-depth journalism in educating the populace.
@@ -43,6 +47,7 @@ D. do not publish as many articles
 Answer: A
 
 Question 5:
+[COE]
 The author of the passage suggests that some professionals are unlikely to adapt naturally to new roles better suited for their long-term success because
 
 The rapid evolution of the job market challenges the conventional wisdom that a one-time university degree is sufficient for lifelong career success. A commitment to foundational education has served professionals well, but its effectiveness is limited to periods when the industry landscape is relatively static. When a professional's career viability in a specific field is threatened by technological disruption rather than a simple lack of experience, the acquisition of new skills through targeted programs might become a method for ensuring their continued relevance. Some career development experts contend that such "upskilling" is merely a way to accelerate the natural process of professional growth: its proponents aim to guide professionals through knowledge gaps that the traditional career ladder has made difficult to bridge. Despite its potential drawbacks, proactive reskilling may be an essential phase in the development of modern career management.
@@ -54,6 +59,7 @@ D. their professional networks are already below the threshold necessary for the
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Armando Palacio Valdés's short story “The Love of Clotilde,” originally published in Spanish in 1884. In the story, Don Jerónimo is a financial supporter of artists in the theater.
@@ -66,6 +72,7 @@ D. It explains Don Jerónimo’s view of the quality of theatrical works of the 
 Answer: C
 
 Question 7:
+[COE]
 It can be inferred that the presence of volcanic dust and ash on snow surfaces in Greenland is likely to
 
 Red algae, a vibrant and abundant microbial species that thrives on snow and ice, has been observed across various mountainous and polar regions. During their life cycle, and as a defense against intense sunlight, these red algae produce pigments known as anthocyanins. This protective pigmentation process leads to algal blooms that color the snow and ice, resulting in a darkened surface that reduces albedo (a measure of how much sunlight is reflected by the Earth’s surface). This reduction in albedo can accelerate melting rates, a phenomenon of particular concern in Greenland, where glaciers are receding rapidly and where volcanic ash and dust also contribute to albedo reduction on icy surfaces.
@@ -77,6 +84,7 @@ D. have an effect on glacial melting similar to that of red algae
 Answer: D
 
 Question 8:
+[COE]
 The text makes which point about Hoocąk?
 
 In Hoocąk, an Indigenous language from the Midwest region of what is now the United States, zi means “yellow,” whereas zizí means “yellow in spots.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the entire word zi gets repeated in zizí. There are many examples of this type of reduplication in Hoocąk.
@@ -88,6 +96,7 @@ D. It has a wide variety of reduplicated words and phrases that mean “yellow.�
 Answer: C
 
 Question 9:
+[COE]
 According to the text, what is one way that non-Indigenous museums typically differ from the cultural centers operated by the Pueblo of Pojoaque and the Tohono O’odham Nation?
 
 In what is now New Mexico, the Pueblo of Pojoaque operates the Poeh Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Pojoaque history and culture to the tribe’s citizens. The Tohono O’odham Nation, a tribe in Arizona, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren’t Indigenous-led; when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.
@@ -99,6 +108,7 @@ D. The museums focus on tribal history as well as tribal culture.
 Answer: C
 
 Question 10:
+[COE]
 Based on the text, the author would most likely agree with which statement about household income?
 
 In Bolivia, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than half between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by __household income__ (specifically, high-technology fuels displace solid fuels as incomes rise). Richard Hosier and Jeffrey Dowd's study of fuel use in Zimbabwe shows how reductive this model is, however: although income can of course entail tradeoffs between fuel sources, several factors, including the difficulty of acquiring fuel sources, influenced decisions.

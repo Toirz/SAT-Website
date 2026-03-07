@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries—____ that allow the earliest uses of phrases such as “warp speed” (1952) to be identified and added to the dictionary.
@@ -11,6 +12,7 @@ D. negotiations
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Mauricio Drelichman and Hans-Joachim Voth’s analysis of the overall debt and revenue of the government of Philip II (who ruled an empire including Spain and Sicily from 1556 to 1598) found an intriguing ______: although the government regularly defaulted on debt, it ran an even larger overall surplus than did the government of eighteenth-century Britain, which historians consider a model of fiscal virtue.
@@ -23,6 +25,7 @@ D. incongruity
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Anésia Pinheiro Machado, who was the first female pilot in Brazil to carry passengers and the first to make stunt flights, a deed for which she will always be remembered.
@@ -35,6 +38,7 @@ D. deserving
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 As a member of Indigenous Photograph, artist Tshepiso Mabula ka Ndongeni (Xhosa) can _____ her work more broadly than she could without the organization's reach. Photography editors around the world can search for Indigenous photographer members on the organization’s website to find images that document and reflect the lives of Indigenous communities.
@@ -47,6 +51,7 @@ D. discover
 Answer: B
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it _______ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or asphalt. Hosseini believes the program will improve on this already-strong performance as it gets used more.
@@ -59,6 +64,7 @@ D. clumsily
 Answer: B
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to ___ their art-viewing experience should turn to Chicago’s streets, where they can find works ranging from Joan Miró’s sculpture Miró’s Chicago at Brunswick Plaza to Kristen Kula’s mural Tornado on East 11th Street.
@@ -71,6 +77,7 @@ D. supplement
 Answer: D
 
 Question 7:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Stars form in cloudlike swirls of gas and dust that cannot be touched, but astrophysicist Nia Imara believes these formations need not remain completely _____ to researchers: she uses simulation data and sophisticated 3D printers to produce interactive models of these stellar nurseries.
@@ -83,6 +90,7 @@ D. repeatable
 Answer: C
 
 Question 8:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Writer Lydia Davis observed that while traditional literary forms, such as the poem, are recognizable as such even as they evolve, there are more _______ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. Davis's own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry."
@@ -95,6 +103,7 @@ D. customary
 Answer: B
 
 Question 9:
+[WIC]
 As used in the text, what does the word “manifest” most nearly mean?
 
 The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.
@@ -108,6 +117,7 @@ D. Dwindling
 Answer: B
 
 Question 10:
+[WIC]
 As used in the text, what does the word “started” most nearly mean?
 
 The following text is from Jacqueline Woodson’ s 2018 novel Harbor Me. In the novel, the narrator and Esteban are classmates.

@@ -1,4 +1,5 @@
 Question 1:
+[Infer]
 Which choice most logically completes the text?
 
 Norway, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 3.55% in 2016, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.86% that year. Such comparisons have engendered speculation that by diluting control over the economy, democratic institutions inhibit states’ ability to counteract inflationary pressures. To test this possibility systematically, Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, finding that democratic strength, if associated with inequality, restrains inflationary pressures, suggesting that ____
@@ -11,6 +12,7 @@ D. the difference between Norway and Cameroon with regard to democratic institut
 Answer: C
 
 Question 2:
+[Infer]
 Which choice most logically completes the text?
 
 Austria, which, according to international indices, has relatively strong democratic institutions and low international income inequality, experienced an inflation rate of 2.08% in 2017, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.64% that year. Such a comparison may seem consistent with the theoretical critique that by diluting control over the economy, democratic institutions inhibit states' ability to counteract inflationary pressures, but when Raj Desai et al. examined democratic strength, international inequality, and inflation in more than 100 countries, they found that democratic strength, if associated with low inequality, restrains inflationary pressures, which would suggest that _____.
@@ -23,6 +25,7 @@ D. inflation in Austria in 2017 would have been higher if Austria's government h
 Answer: A
 
 Question 3:
+[COE]
 Based on the text, what is Camila’s primary reaction to the feedback she receives from Juan Ramón Jiménez?
 
 The following text is adapted from Julia Alvarez’s 2000 novel In the Name of Salomé. Camila is the daughter of a famous poet, Salomé, and also writes her own poetry. Max is her brother.
@@ -36,6 +39,7 @@ D. She is delighted that an accomplished poet like Juan Ramón Jiménez would pr
 Answer: C
 
 Question 4:
+[COE]
 Based on the text, what most likely motivates Tía Ana's behavior during Salomé's salon?
 
 The following text is from Julia Alvarez's 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
@@ -49,6 +53,7 @@ D. She is frustrated because she needs assistance elsewhere in the house, but Sa
 Answer: C
 
 Question 5:
+[Details]
 Which choice best describes the function of the reference to the parlor as Tía Ana’s “special province”?
 
 The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
@@ -62,6 +67,7 @@ D. It introduces an idea that helps explain Tía Ana’s apparent eagerness for 
 Answer: D
 
 Question 6:
+[COE]
 Based on the text, why does Miguel accompany his brother to the sisters’ house one day?
 
 The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.
@@ -75,6 +81,7 @@ D. Miguel anticipates having the opportunity to be introduced to both the sister
 Answer: D
 
 Question 7:
+[COE]
 Which quotation from an interview with a costume designer would most effectively support the student’s claim?
 
 The 1958 production of Maybe Tuesday was the first Broadway show for which Ann Roth was credited as a costume designer. Hoffman was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design for shows with a historical setting. They found that even designers who value historical accuracy will often include contemporary design elements that don’t fit with the historical period. In a research paper about theatrical costume design, a student argues that costume designers for modern productions of Shakespeare’s A Midsummer Night’s Dream (set in ancient Greece) sometimes include such elements unintentionally.
@@ -87,6 +94,7 @@ D. “A truly historically accurate costume will sometimes make the character lo
 Answer: A
 
 Question 8:
+[COE]
 Which quotation from an interview with a costume designer would most effectively support the student’s claim?
 
 The 2000 production of The Green Bird was the first Broadway show for which Constance Hoffman was credited as a costume designer. Hoffman was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design for shows with a historical setting. They found that even designers who value historical accuracy will often include contemporary design elements that don’t fit with the historical period. In a research paper about theatrical costume design, a student argues that costume designers for modern productions of Shakespeare’s A Midsummer Night’s Dream (set in ancient Greece) sometimes include such elements unintentionally.
@@ -99,6 +107,7 @@ D. “In the 1980s I was costuming for a production of A Midsummer Night’s Dre
 Answer: D
 
 Question 9:
+[COE]
 Which quotation from an interview with a costume designer would most effectively support the student’s claim?
 
 Romeo and Juliet was a 1968 film directed by Franco Zeffirelli, for which Danilo Donati created the costume designs. Donati was among the Hollywood costume designers interviewed by Lucy M. FitzGerald and Gwendolyn L. Brown for a study on the influence of the specific era in costume design for period movies. They discovered that designers who appreciate the authenticity of the era often incorporated modern design aspects that aren’t coherent with the historical period. In a thesis paper about film costume design, a student asserts that costume designers for contemporary adaptations of Shakespeare’s Hamlet (set in the kingdom of Denmark during the late medieval period) unintentionally incorporate such elements at times.
@@ -111,6 +120,7 @@ D. “During the 1990s, I was in charge of costuming for a production of Hamlet.
 Answer: D
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Master and Commander, first published in 1969, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of Master and Commander and other books in the series, saying that they do not finish conclusively but arbitrarily stop. Other critics, however, argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
@@ -123,6 +133,7 @@ D. Many critics judge the Aubrey/Maturin novels to be remarkably entertaining de
 Answer: B
 
 Question 11:
+[Structure]
 Which choice best states the main idea of the text?
 
 The Far Side of the World, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Far Side of the World has a rather abrupt ending, but the following book, The Reverse of the Medal, picks up neatly where The Far Side of the World leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts — the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
@@ -135,6 +146,7 @@ D. Many readers find the Aubrey/Maturin novels to be remarkably entertaining des
 Answer: C
 
 Question 12:
+[Structure]
 Which choice best states the main idea of the text?
 
 The Yellow Admiral, first published in 1996, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Yellow Admiral has a rather abrupt ending, but the following book, The Hundred Days, picks up neatly where The Yellow Admiral leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust’s In Search of Lost Time.
@@ -147,6 +159,7 @@ D. The Yellow Admiral and The Hundred Days are two of the most complex of O’Br
 Answer: B
 
 Question 13:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Treason's Harbour, first published in 1983, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of Treason's Harbour and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's In Search of Lost Time.
@@ -159,6 +172,7 @@ D. To argue that the Aubrey/Maturin series should have the literary renown of In
 Answer: C
 
 Question 14:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Master and Commander, first published in 1969, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Some critics have found fault with the abrupt endings of Master and Commander and other books in the series, saying that they do not finish conclusively but arbitrarily stop.__ But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
@@ -171,6 +185,7 @@ D. It argues that the unusual structure that O’Brian uses for Master and Comma
 Answer: C
 
 Question 15:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 HMS Surprise, first published in 1973, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. __But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work,__ similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
@@ -183,6 +198,7 @@ D. It argues that the unusual structure that O’Brian uses for HMS Surprise mak
 Answer: B
 
 Question 16:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The Far Side of the World, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Like the rest of the books in the series, The Far Side of the World has a rather abrupt ending, but the following book, The Reverse of the Medal, picks up neatly where The Far Side of the World leaves off.__ Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
@@ -195,6 +211,7 @@ D. It demonstrates that those readers who most enjoy reading The Reverse of the 
 Answer: A
 
 Question 17:
+[Infer]
 Which choice most logically completes the text?
 
 Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
@@ -207,6 +224,7 @@ D. the language of the Olmec civilization made contributions not only to the voc
 Answer: C
 
 Question 18:
+[COE]
 According to the text, what do some historians suggest about Maya civilization?
 
 The ancient writing system used in the Maya kingdoms of southern Mexico and Central America had a symbol for the number zero. The earliest known example of the symbol dates to more than 2,000 years ago. At that time, almost none of the writing systems elsewhere in the world possessed a zero symbol. And the use of zero in Mexico and Central America may be even more ancient. Some historians suggest that Maya mathematicians inherited it from the Olmec civilization, which flourished in the region 2,400-3,600 years ago.
@@ -219,6 +237,7 @@ D. Maya civilization tried to introduce its writing system to other civilization
 Answer: A
 
 Question 19:
+[Infer]
 Which choice most logically completes the text?
 
 Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco León Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that _____.

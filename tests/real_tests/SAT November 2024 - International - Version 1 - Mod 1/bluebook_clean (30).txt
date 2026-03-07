@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it ______ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or cobblestone. Hosseini believes the program will improve on this already-strong performance as it gets used more.
@@ -10,6 +11,7 @@ D. slowly
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Chao Phraya River delta is a constantly changing landform made up of a network of distributaries, small channels that branch off from the main river. The delta is shaped and reshaped over time as sediments carried by the river ______ where the river meets the Gulf of Thailand, eventually forming new portions of land.
@@ -21,6 +23,7 @@ D. thrive
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 *The Third-Class Carriage*, painted in the realist style by Honoré Daumier, depicts working-class travelers in a third-class railway car. The realists’ emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Eugéne Emmanuel Amaury Pineux Duval, which instead ______ their subjects' beauty or heroism while hiding all imperfection.
@@ -32,6 +35,7 @@ D. mock
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The decline of the giant pika, a species found throughout northern North America before it became extinct around 8000 BCE, surely had a number of ______ the larger ecosystem in which it existed. The giant pika was part of a complex food web with other organisms, and its disappearance likely affected several other species.
@@ -43,6 +47,7 @@ D. consequences for
 Answer: D
 
 Question 5:
+[COE]
 Which choice best describes the overall purpose of the text?
 
 The following text is adapted from Pam Muñoz Ryan's 2020 novel *Mañanaland*. In the village where Max lives, there is an old fortress called La Reina. Children in the village say that the fortress is haunted.
@@ -56,6 +61,7 @@ D. To explain why Max doesn't want to grow up yet
 Answer: A
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered "fast painting," a technique (which in part involved swift applications of paint) that many Highwaymen, including Isaac Knight, adopted. __To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair's methods weren't universally practiced by his affiliates:__ Roy McLendon, for example, painted with greater deliberateness but achieved the same effects.
@@ -67,6 +73,7 @@ D. It establishes a contrast between the aesthetic qualities of works by artists
 Answer: C
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Daniel Defoe's 1704 nonfiction book *The Storm*.
@@ -80,6 +87,7 @@ D. It describes differences in the characteristics of two kinds of communication
 Answer: D
 
 Question 8:
+[COE]
 According to the text, what did Gloria Richardson lead?
 
 In the 1960s, Gloria Richardson led a movement to promote racial equality. Her involvement in this effort was inspired by her daughter, Donna Richardson. In 1961, Donna joined protests organized by the Student Nonviolent Coordinating Committee in Cambridge, Maryland. Following her daughter, Gloria joined these protests too. Gloria soon became the Gloria of the Cambridge Nonviolent Action Committee. She was also the leader of what became known as the Cambridge movement.
@@ -91,6 +99,7 @@ D. Her daughter Donna's high school
 Answer: B
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Spanning the 1920s to the 1980s, Mexican architect Luis Barragan's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, Barragan began incorporating principles derived from functionalism and modernism in his work, as seen in the El Arenal Parish Church, whose unadorned geometric forms contrast with the historically inspired architecture found in the houses for Emiliano Robles León, one of Barragan's early projects in Guadalajara.
@@ -102,6 +111,7 @@ D. A notable shift in Barragan's design aesthetic reflects the influence of his 
 Answer: D
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Like many other bird species that live only on the Hawaiian archipelago, the *Kaua'i 'amakihi* has adapted to life in a well-defined habitat, resulting in highly specialized physical and behavioral characteristics that aid the species in survival. However, because the *Kaua'i 'amakihi* is highly specialized, it is especially vulnerable to environmental changes that can disrupt the delicately balanced ecosystem in which it lives.
@@ -113,6 +123,7 @@ D. Hawaiian birds display a unique range of physical and behavioral characterist
 Answer: C
 
 Question 11:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 Over time, marine mollusks called nautilids continually add segments to their shells, and the chemical composition of each segment is influenced by the available materials in the surrounding water when the segment forms. Paleontologist Amane Tajika and colleagues analyzed the septa (the walls between shell chambers) of one male (samples labeled “M”) and one female (samples labeled "F") nautilid, finding that sample F07 had the same concentration of oxygen-18 as did water approximately 135 meters deep and that the oxygen-18 concentration in sample M24 matched that of water at approximately 370 meters deep. Tajika et al. concluded that sample F07 formed at a higher point in the water column than did M24.
@@ -124,6 +135,7 @@ D. Regardless of sex, nautilids spend most of their lives at depths of 50 meters
 Answer: A
 
 Question 12:
+[COE]
 Which quotation from Cane most effectively illustrates the claim?
 
 *Cane* is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ________
@@ -135,6 +147,7 @@ D. "[The wagon] bumps, and groans, and shakes as it crosses the railroad track."
 Answer: C
 
 Question 13:
+[COE]
 Which choice most effectively uses a quotation from a translation of *The Clouds* to illustrate the claim?
 
 *The Clouds* is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character ______
@@ -146,6 +159,7 @@ D. Strepsiades hires a sophist to teach his son and says to the sophist, "But se
 Answer: D
 
 Question 14:
+[COE]
 Which finding, if true, would most directly support Nunez and colleagues' claim?
 
 The phrase *omo-ropmo bilak* is a past-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "a couple of years ago." Rafael Nunez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the front/back axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Nunez and colleagues claim that this tendency is not in fact ubiquitous.
@@ -157,6 +171,7 @@ D. Some Yupno grammatical structures used when talking about time is also used i
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Sheffield United Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally, Sheffield United, whose home uniform color is mainly red, was more successful in home matches than was Cardiff City Football club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that in matches played at Sheffield United's home stadium, opponents may have ______
@@ -168,6 +183,7 @@ D. been aware that Sheffield United's uniform color affected their own performan
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After he finally watched *The Maltese Falcon* (1941) at last year's annual film festival, the infamously disagreeable film critic wrote a scathing review. Before that, the film he least enjoyed ______ the more recent classic *Slumdog Millionaire* (2008).
@@ -179,6 +195,7 @@ D. was being
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Inspired by her Ottawa/Pottawatomi/Ojibwe heritage, artist Kelly Church typically uses black ash—a durable and flexible ______ craft baskets that are both beautiful and whimsical.
@@ -190,6 +207,7 @@ D. material. To
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 New Mexico governor ______ the first woman to serve in that role in the state's history—took office on January 1, 2011.
@@ -201,6 +219,7 @@ D. Susana Martinez—
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The 1960 founding of the Mexican American Political Association and the 1946 *Mendez v. Westminster* court decision are regarded as important events in US civil rights ______ former establishing a Latino rights advocacy group and the latter legally affirming the rights of Latino students.
@@ -212,6 +231,7 @@ D. history. The
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A government body officially known as the Althing, ______
@@ -223,6 +243,7 @@ D. Iceland's parliament is one of the oldest in the world, first meeting in 930 
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Trisyllabic words ______ as dactyls in English metrical verse, such as "devious" and "particle," consist of one stressed syllable followed by two unstressed syllables.
@@ -234,6 +255,7 @@ D. have been classified
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Soil polluted with manganese (a heavy metal) is harmful to many plants and animals, but the plant species *Typha latifolia*, or broadleaf cattail, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, *Typha latifolia* absorbs a large amount of manganese and stores it safely in its roots and shoots; ______ manganese concentrations in the soil decrease.
@@ -245,6 +267,7 @@ D. specifically,
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When printing paper money for the colony of Pennsylvania in the 1730s, Benjamin Franklin—then a Philadelphia shop owner—took steps to combat the circulation of counterfeit notes, such as weaving blue threads and muscovite (a reflective mineral) into the paper he used. ______ he stamped the notes with detailed imprints of sage leaves that proved difficult for forgers to replicate.
@@ -256,6 +279,7 @@ D. That said,
 Answer: A
 
 Question 24:
+[Synthesis]
 The student wants to indicate the size of the Massasoit NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -273,6 +297,7 @@ D. Home to the Plymouth red-bellied turtle, Massachusetts's Massasoit NWR is man
 Answer: A
 
 Question 25:
+[Synthesis]
 The student wants to explain an advantage of the Oak Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -291,6 +316,7 @@ D. Since it was built under a rock overhang, Oak Tree House was naturally protec
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -309,6 +335,7 @@ D. Sugar kelp is a type of brown seaweed, but so is ma-konbu.
 Answer: C
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize when Shafi Goldwasser won the A.M. Turing Award?
 
 While researching a topic, a student has taken the following notes:

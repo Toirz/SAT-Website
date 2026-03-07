@@ -1,4 +1,5 @@
 Question 66:
+[COE]
 Which of the following best describes the paradoxical nature of hope as depicted in the text?
 
 The following text is Emily Dickinson's poem "Hope is the thing with feathers."
@@ -23,6 +24,7 @@ D. The text suggests hope is elusive and unattainable, despite being constantly 
 Answer: A
 
 Question 11:
+[COE]
 What does the text most strongly suggest about the rooms in the rectory?
 
 The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
@@ -36,6 +38,7 @@ D. They have many decorations the narrator finds good looking, but they are not 
 Answer: B
 
 Question 46:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from José Rizal’s 1891 novel *The Reign of Greed* (translated by Charles Derbyshire in 1912).
@@ -49,6 +52,7 @@ D. To argue that punctual attendance at public events signals cultivated behavio
 Answer: A
 
 Question 62:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is a 1976 poem "Eagle Feather Fan" by Navarre Scott Momaday, who was a citizen of the Kiowa Indian Tribe of Oklahoma.
@@ -75,6 +79,7 @@ D. The speaker reflects on the apparent strength of the eagle fan, suggesting th
 Answer: A
 
 Question 100:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is Emily Dickinson’s circa 1873 poem “There is no Frigate like a Book.” A frigate is a light, fast ship; coursers are swift horses.
@@ -95,6 +100,7 @@ D. Poetry helps people recognize their similarities despite cultural differences
 Answer: C
 
 Question 85:
+[COE]
 Which quotation from Poems most effectively illustrates the claim?
 
 Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker criticizes activists who champion humanitarian causes in other countries while overlooking local concerns, saying, _____.
@@ -107,6 +113,7 @@ D. “When ye plead for the wrecked and fallen, / The exile from far-distant sho
 Answer: D
 
 Question 7:
+[COE]
 Based on the text, why does Miguel accompany his brother to the sisters’ house one day?
 
 The following text is from Julia Alvarez’s 2000 novel *In the Name of Salomé.* The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.
@@ -120,6 +127,7 @@ D. Miguel anticipates having the opportunity to be introduced to both the sister
 Answer: D
 
 Question 48:
+[WIC]
 As used in the text, what does the word "plough" most nearly mean?
 
 The following text is a 1915 poem “Heat” by Hilda Doolittle. The poem captures the essence of a sweltering summer day and the longing for relief from the oppressive warmth.
@@ -133,6 +141,7 @@ D. remove
 Answer: B
 
 Question 51:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is a 1920 poem "Morning Song" by Sara Teasdale.
@@ -153,6 +162,7 @@ D. The poem opens with an image of dawn and concludes with a desire to travel ar
 Answer: A
 
 Question 86:
+[COE]
 Which quotation from Poems most effectively illustrates the claim?
 
 *Poems* is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker suggests that those who mistreat people with less privilege will eventually receive divine judgment for it, saying, _____
@@ -165,6 +175,7 @@ D. “God help our native land, / Bring surcease to her strife, / And shower fro
 Answer: A
 
 Question 106:
+[COE]
 In the text, what does the speaker say that the artist believed about his sculpture?
 
 The following text is from Narciso Tondreau’s 1898 poem Yesterday and To-Day (translated by Agnes Blake Poor in 1918). The poem is about an old statue of the Greek goddess Venus, within how she lies on the ground in a state of disrepair.
@@ -185,6 +196,7 @@ D. Its beauty would be recognized as surpassing that of other images of Venus.
 Answer: C
 
 Question 57:
+[COE]
 Which of the following best describes the main purpose of the poem?
 
 The following text is from Emily Brontë's 1846 poem "The Night is Darkening Round Me." The speaker in the poem experiences a storm.
@@ -209,6 +221,7 @@ D. To illustrate the speaker's growing anger at the force that prevents them fro
 Answer: C
 
 Question 91:
+[COE]
 Which quotation from “‘No, Thank You, John’” most effectively illustrates the claim?
 
 “‘No, Thank You, John’” is an 1862 poem by Christina Rossetti. In the poem, Rossetti depicts a female speaker’s rejection of the romantic advances of a man named John. The speaker encourages John to pursue another relationship rather than wait for her to change her mind, saying ______.
@@ -221,6 +234,7 @@ D. “You know I never loved you, John; / No fault of mine made me your toast.�
 Answer: C
 
 Question 64:
+[Structure]
 What is the main idea of the poem?
 
 The following text is from Emily Brontë's poem "Alone I Sat the Summer Day." In the poem, the author reflects on an emotional moment during a quiet summer day.
@@ -243,6 +257,7 @@ D. The speaker laments her failure to pursue a musical career after being unable
 Answer: C
 
 Question 37:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.

@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is adapted from Gwendolyn Bennett’s 1926 poem *Street Lamps in Early Spring.*
@@ -19,6 +20,7 @@ D. It portrays how night changes from one season of the year to the next.
 Answer: C
 
 Question 2:
+[COE]
 What does the text most strongly suggest about the routines performed by Bruce and Sahl?
 
 In his 2010 book, Improv Masters and the Jazz Age, historian Kenji Tanaka bases his analysis in part on film reels of stand-up comedy routines from the 1930s by performers like Lenny Bruce and Mort Sahl. Tanaka's focus is on how Bruce and Sahl improvised their monologues—substituting established punchlines with spontaneous social commentary and witticisms. A particular laboriousness defined Tanaka's work; for the monologues to be accurately transcribed, a repeated viewing of the film reels, whose audio quality was often poor, was required.
@@ -31,6 +33,7 @@ D. Tanaka's analysis found that the routines performed by Bruce were more themat
 Answer: C
 
 Question 3:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is adapted from Etsu Inagaki Sugimoto's 1925 memoir *A Daughter of the Samurai.* As a young woman, Sugimoto moved from feudal Japan to the United States.
@@ -44,6 +47,7 @@ D. To emphasize the narrator's wonder at discovering that the physical distance 
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Researchers have long hypothesized that woolly mammoths were hunted to extinction in North America by humans using spears with grooved tips known as Clovis points. One anthropologist set out to test this hypothesis. Using a mechanical spear-thrower, he launched spears with Clovis points into mounds of clay—substitutes for the animals’ large bodies. The projectiles generally penetrated only a few inches into the clay, an amount insufficient to have harmed most woolly mammoths. This led the anthropologist to conclude that hunters using spears with Clovis points likely weren’t the principal drivers of the extinction.
@@ -56,6 +60,7 @@ D. To describe an experiment whose results cast doubt on an established hypothes
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Using NASA’s powerful James Webb Space Telescope (JWST), Mercedes López-Morales and colleagues measured the wavelengths of light traveling through the atmosphere of WASP-39b, an exoplanet, or planet outside our solar system. Different molecules absorb different wavelengths of light, and the wavelength measurements showed the presence of carbon dioxide (CO₂) in WASP-39b's atmosphere. This finding not only offers the first decisive evidence of CO₂ in the atmosphere of an exoplanet but also illustrates the potential for future scientific breakthroughs held by the JWST.
@@ -68,6 +73,7 @@ D. It examines how a group of scientists reached a conclusion, then shows how ot
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best states the main idea of the text?
 
 Biologists have predicted that birds’ feather structures vary with habitat temperature, but this hadn’t been tested in mountain environments. Ornithologist Sahas Barve studied feathers from 249 songbird species inhabiting different elevations—and thus experiencing different temperatures—in the Himalayan Mountains. He found that feathers of high-elevation species not only have a greater proportion of warming downy sections to flat and smooth sections than do feathers of low-elevation species, but high-elevation species’ feathers also tend to be longer, providing a thicker layer of insulation.
@@ -80,6 +86,7 @@ D. The results of Barve’s study suggest that the ability of birds to withstand
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Many films from the early 1900s have been lost. These losses include several films by the first wave of Black women filmmakers. We know about these lost movies only from small pieces of evidence. For example, an advertisement for Jennie Louise Toussaint Welcome’s documentary *Doing Their Bit* still exists. There's a reference in a magazine to Tressie Souders’s film *A Woman’s Error.* And Maria P. Williams’s *The Flames of Wrath* is mentioned in a letter and a newspaper article, and one image from the movie was discovered in the 1990s.
@@ -92,6 +99,7 @@ D. The text discusses several notable individuals, then explains commonly overlo
 Answer: C
 
 Question 8:
+[COE]
 Which choice best describes the main purpose of the text?
 
 Early in the Great Migration of 1910–1970, which involved the mass migration of Black people from the southern to the northern United States, political activist and *Chicago Defender* writer Fannie Barrier Williams was instrumental in helping other Black women establish themselves in the North. Many women hoped for better employment opportunities in the North because, in the South, they faced much competition for domestic employment and men tended to get agricultural work. To aid with this transition, Barrier Williams helped secure job placement in the North for many women before they even began their journey.
@@ -104,6 +112,7 @@ D. To provide an overview of the employment challenges faced by Black women in t
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best states the main topic of the text?
 
 A remarkable fossil skeleton has been unearthed in Argentina by paleontologists, potentially representing the oldest known ancestor of large carnivorous dinosaurs. Analysis of the surrounding rock strata indicates an age of approximately 150 million years, placing it in the late Jurassic period. Dr. Elena Ramirez, the lead paleontologist, expressed her belief that the find will be instrumental for a better understanding of theropod evolution during that era.
@@ -116,6 +125,7 @@ D. The scientific career of Dr. Elena Ramirez
 Answer: B
 
 Question 10:
+[COE]
 According to the text, what did Li and colleagues discover about volatile organic compounds (VOCs)?
 
 Particulate matter consists of fine airborne particles. Urban areas with higher concentrations of particulate matter also experience more significant local warming, known as the heat island effect. A study by Jian Li and colleagues found that the concentration of the particles themselves cannot be the sole explanation for this intensified warming, as the observed temperature increase is much greater than that found in areas with similar particle concentrations. However, they discovered that certain volatile organic compounds (VOCs), chemicals often released from industrial sources that adhere to the particles, are released into the lower atmosphere and have a much more potent heat-trapping effect.
@@ -128,6 +138,7 @@ D. They can be used to track the movement of particulate matter over long distan
 Answer: A
 
 Question 11:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is adapted from Susan Glaspell’s 1912 short story *Out There.* An elderly shop owner is looking at a picture that he recently acquired and hopes to sell.

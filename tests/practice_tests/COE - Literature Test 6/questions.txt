@@ -1,4 +1,5 @@
 Question 103:
+[WIC]
 As used in the text, what does the word "breathes" most nearly mean?
 
 The following text is adapted from the 1895 poem Ojistoh by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.
@@ -16,6 +17,7 @@ D. Absorbs
 Answer: A
 
 Question 93:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Sarojini Naidu's 1896 poem "Alabaster."
@@ -32,6 +34,7 @@ D. To argue that technical artistry is more valuable than emotion.
 Answer: B
 
 Question 58:
+[Details]
 Which choice best describes the function of the underlined part in the text as a whole?
 
 The following text is an 1856 poem "The Snow Storm" by Ralph Waldo Emerson.
@@ -45,6 +48,7 @@ D. Highlighting the serene and tranquil refuge provided by the interior amidst t
 Answer: D
 
 Question 101:
+[WIC]
 As used in the text, what does the word “bounded” most nearly mean?
 
 The following text is from Rainer Maria Rilke’s poem “Evening.”
@@ -65,6 +69,7 @@ D. involved
 Answer: B
 
 Question 54:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is adapted from Louise Gluck's 2012 poem "Afterword."
@@ -79,6 +84,7 @@ D. The text begins with an expression of doubt about past actions, moves to a ju
 Answer: A
 
 Question 96:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Anne Spencer's 1922 poem “Translation.”
@@ -99,6 +105,7 @@ D. It conveys the speaker's sense that nature is both grand and frightening.
 Answer: A
 
 Question 26:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Matthew Arnold's 1869 nonfiction book *Culture and Anarchy*.
@@ -112,6 +119,7 @@ D. It presents an opinion with which the author disagrees.
 Answer: D
 
 Question 72:
+[COE]
 What is the author's purpose in describing the horse's groan in the poem?
 
 The following text is from William Shakespeare's 1609 poem "Sonnet 50." The speaker reflects on the experience of being separated from a friend.
@@ -138,6 +146,7 @@ D. It marks the moment when the journey comes to an end.
 Answer: B
 
 Question 90:
+[COE]
 Which quotation from “‘No, Thank You, John’” most effectively illustrates the claim?
 
 “‘No, Thank You, John’” is an 1862 poem by Christina Rossetti. In the poem, the female speaker proposes that John accept a plain friendship with no hidden romantic expectations: _____
@@ -150,6 +159,7 @@ D. “You know I never loved you, John; / No fault of mine made me your toast.�
 Answer: A
 
 Question 78:
+[COE]
 Which quotation from “The Road Not Taken” most effectively illustrates the claim?
 
 “The road not taken” is a 1915 poem by Robert Frost. In the poem, the speaker struggles to make a decision on which road he should take but immediately contradicts himself.
@@ -162,6 +172,7 @@ D. “Two roads diverged in a wood, and I—/ I took the one less traveled by / 
 Answer: C
 
 Question 65:
+[COE]
 Based on the passage, which of the following bestdescribes the speaker’s message about what constitutestrue maturity?
 
 The following text is from Rudyard Kipling’s 1895 poem
@@ -183,6 +194,7 @@ D. Mastering time management and physical endurance
 Answer: B
 
 Question 30:
+[COE]
 Taken together, the three underlined portions most clearly serve which function in the text as a whole?
 
 The following text is from a 1911 translation of Guy de Maupassant’s 1881 short story *“A Family Affair.”* The narrator is describing Monsieur Alfred Caravan, a bureaucrat in the French government.
@@ -196,6 +208,7 @@ D. They convey Caravan’s growing apprehensiveness about having failed to compl
 Answer: A
 
 Question 28:
+[WIC]
 As used in the text, what does the word “guiding” most nearly mean?
 
 The following text is from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Rat is looking for the Mole, his friend, in the woods.
@@ -209,6 +222,7 @@ D. Steering
 Answer: D
 
 Question 94:
+[Details]
 Which choice best describes the function of the reference to "anvil and strife" in the text as a whole?
 
 The following text is from Anne Spencer's 1922 poem "Translation.”
@@ -228,6 +242,7 @@ D. It symbolizes the speaker's friend's view that meaningful work and social eng
 Answer: C
 
 Question 105:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from Sara Teasdale’s 1922 poem Two Songs for Solitude.

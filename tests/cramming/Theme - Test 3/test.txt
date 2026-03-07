@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants toemphasize topaz’ s Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -17,6 +18,7 @@ D. Topaz, orthoclase, and diamond can be ordered by their ability to leave visib
 Answer: A
 
 Question 2:
+[Synthesis]
 The student wants to compare the hardness of fluorite and corundum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -35,6 +37,7 @@ D. The Mohs scale of mineral hardness can be used to order quartz, fluorite, and
 Answer: A
 
 Question 3:
+[Synthesis]
 The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -53,6 +56,7 @@ D. The Mohs scale can be used to order calcite, corundum, and apatite by their a
 Answer: C
 
 Question 4:
+[Synthesis]
 The student wants to compare the hardness of the three minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 •The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
@@ -70,6 +74,7 @@ D. The Mohs scale of mineral hardness can be used to order orthoclase, calcite, 
 Answer: A
 
 Question 5:
+[Synthesis]
 The student wants to emphasize how hard fluorite is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -88,6 +93,7 @@ D. Quartz, talc, and fluorite can be ordered by hardness based on their ability 
 Answer: B
 
 Question 6:
+[COE]
 The text makes which point about the O’odham word gogogs?
 
 In O'odham, an Indigenous language from the Southwest region of what is now the United States, gogs means “a dog,” whereas gogogs is used to refer to several dogs. This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element "go" in gogs gets repeated in gogogs. There are many examples of this type of reduplication in O’odham.
@@ -100,6 +106,7 @@ D. It is identical in meaning to several other words in O’odham.
 Answer: A
 
 Question 7:
+[COE]
 The text makes which point about Hoocąk?
 
 In Hoocąk, an Indigenous language from the Midwest region of what is now the United States, zi means “yellow,” whereas zizí means “yellow in spots.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the entire word zi gets repeated in zizí. There are many examples of this type of reduplication in Hoocąk.
@@ -112,6 +119,7 @@ D. It has a wide variety of reduplicated words and phrases that mean “yellow.�
 Answer: C
 
 Question 8:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 In Ojibwe, an indigenous language from the Great Lakes region of what are now the United States and Canada, pangi means “a little bit,” whereas pa-pangi means “rarely.” __This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication__. In this case, the element “pa” in pangi gets repeated in pa-pangi. There are many examples of this type of reduplication in Ojibwe.
@@ -124,6 +132,7 @@ D. It provides English translations of the Ojibwe words discussed in the text.
 Answer: A
 
 Question 9:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 In Ojibwe, an Indigenous language from the Great Lakes region of what are now the United States and Canada, wisa means “far” whereas wa-iwisa means “far apart.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element “wa” in wisa gets repeated in wa-iwisa. There are many examples of this type of reduplication in Ojibwe.
@@ -136,6 +145,7 @@ D. It explains the phenomenon of reduplication, discusses why reduplication has 
 Answer: C
 
 Question 10:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso and team reported some obvious indications of M. symmetrica's nervous system—for example, the animal's primary nerve cord. They also saw signs of what might be a synganglion, a brain-like mass of nerve tissue, in the animal's head. __This evidence is exciting because it could help us better understand how M. symmetrica is related to other arthropods, such as cave crickets and krill__.
@@ -148,6 +158,7 @@ D. It states that krill are arthropods but cave crickets are not.
 Answer: C
 
 Question 11:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso, and team reported some obvious indications of M. symmetrica’s nervous system—for example, the animal’s optic nerve. Most intriguingly, they also saw signs of what might be a synganglion, a brain-like nerve mass, in the animal’s head. This is an exciting possibility: without evidence of a synganglion, we can’t tell exactly how M. symmetrica relates to mosquitoes, slipper lobsters, and other arthropods.
@@ -160,6 +171,7 @@ D. To describe M. symmetrica and the way the animal’s optic nerve functioned
 Answer: C
 
 Question 12:
+[COE]
 According to the text, what did the researchers spot clear signs of in the M. symmetrica fossils?
 
 Arthropods, a group including insects such as termites and crustaceans such as Norway lobsters, do not have a spine. Their nervous systems are made up of a brain and nerves but no spinal cord. Javier Ortega-Hernández, James Weaver, and a team studied two fossils of the extinct arthropod species Mollisonia symmetrica. The researchers spotted clear signs of nerves extending into the animal's body parts. They believe the fossils might also contain rare evidence of a synganglion, a brain-like mass of nerve tissues.
@@ -172,6 +184,7 @@ D. A new species
 Answer: A
 
 Question 13:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Built at a scale of 1:110, the Eiffel Tower in Baku, Azerbaijan, is one of many replicas of the famous Eiffel Tower in Paris, France. ______ towers like the Metallic Tower of Fourviere in Lyon, France, though not exact replicas, pay homage to the Eiffel's iconic spire-like design.
@@ -184,6 +197,7 @@ D. Moreover,
 Answer: D
 
 Question 14:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized—even protested—for the novelty of its unique spire-like silhouette._____________ the design is commonplace, found in everything from Eiffel Tower replicas like the one in Paris, Tennessee, to structures like the Tokyo Tower in Tokyo, Japan.
@@ -196,6 +210,7 @@ D. Nowadays,
 Answer: D
 
 Question 15:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
@@ -208,6 +223,7 @@ D. Furthermore,
 Answer: A
 
 Question 16:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
@@ -220,6 +236,7 @@ D. For example,
 Answer: A
 
 Question 17:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Elephants and other animals, though, have busted the myth that tool use requires hands. Inventively, elephants use branches to scratch themselves. Woodpecker finches also get creative. They use cactus spines to pry insects from hiding places.
@@ -232,6 +249,7 @@ D. To argue that a variety of animals use tools
 Answer: D
 
 Question 18:
+[Structure]
 Which choice best states the main idea of the text?
 
 Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Greater vasa parrots also get creative. They use date pits to grind seashells into calcium powder.
@@ -244,6 +262,7 @@ D. Contrary to long-held beliefs, primates aren't the only animals to use tools.
 Answer: D
 
 Question 19:
+[Details]
 Which choice best describes the function of the underlined sentence?
 
 Humans aren't the only ones who use tools. Other animals also find tools helpful. Octopuses use two halves of a seashell to provide protection or a place to hide. __And despite sometimes being thought of as simple, many birds make clever use of tools as well.__ Striated herons have been observed using breadcrumbs and other lures to attract fish to the water's surface, making it easier for the herons to catch them.

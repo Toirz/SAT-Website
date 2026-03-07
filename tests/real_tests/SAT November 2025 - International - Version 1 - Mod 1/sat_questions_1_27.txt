@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Scientists have used machine learning tools to study elephant sounds, uncovering a sophisticated communication system. The tools ______ unique patterns in the rumbling sounds elephants make. The scientists claim that these patterns are specific calls the elephants use for individuals, similar to names.
@@ -11,6 +12,7 @@ D. scattered
 Answer: C
 
 Question 2:
+[WIC]
 As used in the text, what does the word “considered” most nearly mean?
 
 The following text is from Chinua Achebe's 1964 novel *Arrow of God*. The novel is set in Nigeria in the 1920s. Ezeulu, who is the religious leader for several villages, announces when the annual yam harvest can begin.
@@ -25,6 +27,7 @@ D. Respected
 Answer: A
 
 Question 3:
+[WIC]
 As used in the text, what does the word "traces" most nearly mean?
 
 The following text is adapted from John Matheus’s 1925 short story “Fog.” The fog extended its tentacles over city and river, gradually obliterating __traces__ of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.
@@ -37,6 +40,7 @@ D. Remembrances
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Ojeda-Benítez et al. are exploring a device to help quickly and accurately identify certain characteristics.
@@ -49,6 +53,7 @@ D. disruptions
 Answer: B
 
 Question 5:
+[WIC]
 As used in the text, what does the word “consideration” most nearly mean?
 
 The following text is adapted from Henry James’s 1881 novel The Portrait of a Lady. Everything Osmond did was pose—pose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of __consideration__. His tastes, his studies, his accomplishments, his collections, were all for a purpose.
@@ -61,6 +66,7 @@ D. Courtesy
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Adult glass eels can be found off the coast of Maine, but the eels begin their lives in the Sargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later return to breed. Though biologists believe they have identified the general area in the Sargasso Sea that is crucial to the endangered eels’ survival, little is yet known about how the animals spawn there. Scientists believe that solving the mystery will lead to better conservation of glass eels and their habitat, __helping in turn to sustain several other species that rely on them as a food source.__
@@ -73,6 +79,7 @@ D. It discusses a role that glass eels and other species serve in supporting the
 Answer: C
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Tomi Adeyemi’s first published work, the inventive West African–inspired fantasy novel Children of Blood and Bone, has intriguing things to say about the relationship between identity and power. Adeyemi works in a decades-long tradition going back to writers such as Samuel Delany and Octavia Butler, who move cultural elements of the Black diaspora into their science fiction and fantasy in a movement known as Afrofuturism. At its core, the movement is characterized by speculation, not just about distant futures or other planets but also about alternate versions of our shared past. Afrofuturism’s meditations on authority reinvigorate the creative potential of fiction.
@@ -85,6 +92,7 @@ D. It summarizes a book, describes characteristics of the artistic movement of w
 Answer: C
 
 Question 8:
+[COE]
 Which statement about the Hispanic Society of America is best supported by the text?
 
 Founded in 1904, the Hispanic Society of America showcases the arts and cultures of Spanish-speaking and Portuguese-speaking regions around the world, including Latin America. It is located in New York City and has more than 18,000 objects in its museum collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is LA Plaza de Cultura y Artes in Los Angeles. It focuses on Mexican American art and culture.
@@ -97,6 +105,7 @@ D. It is visited by more people than any other Latino cultural institution in th
 Answer: A
 
 Question 9:
+[COE]
 Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the method used in the spinach study?
 
 In a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil microbial communities could affect plants’ flavor chemistry. Whereas Baslam et al. (2011) showed that adding specific bacterial or fungal strains to soil can yield increased flavonoid content in spinach crops, Walsh and team applied intact microbial communities gathered from ecologically distinct settings across Colorado, including areas of ponderosa pine forest and irrigated pasture, to mustard plants and evaluated the flavor compounds in the plants’ seeds. This ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.
@@ -109,6 +118,7 @@ D. The diversity of species of microorganisms in the soil from the spinach study
 Answer: A
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Home Console and Computer Games of the 1980s
@@ -123,6 +133,7 @@ D. platformer and sports outsold the games in the other genres.
 Answer: C
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength—as measured in kilopascals (kPa) of stress needed to pull the materials apart—was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that ______.
@@ -136,6 +147,7 @@ D. at 1 V, mean adhesion strength was approximately equal to adhesion strength a
 Answer: D
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 Working in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter). Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using ______.
@@ -150,6 +162,7 @@ D. biochar and NPK fertilizer.
 Answer: C
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including urban dwellers from a large city in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: vanillin, which smells like vanilla, was typically rated more pleasant than galbazine, which smells like peanuts. The team therefore concluded that______
@@ -162,6 +175,7 @@ D. a person who perceives certain odors as pleasant will likely perceive the odo
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______.
@@ -174,6 +188,7 @@ D. the narwhals weren’t as sensitive to human-caused sounds as the researchers
 Answer: B
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Jesse Treviño’s 1976 painting Mis Hermanos was featured in the Smithsonian’s 2013 exhibition Our America: The Latino Presence in American Art. The piece ______ chosen for the exhibition by curator E. Carmen Ramos.
@@ -186,6 +201,7 @@ D. is being
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mia Heavener’s 2019 novel Under Nushagak Bluff, which takes place in a mid-twentieth-century rural Alaskan fishing ______ the story of three Yup’ik women who grapple with the rise of commercial fisheries and other changes affecting their community.
@@ -198,6 +214,7 @@ D. village tells
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many works of the Greek historian Strabo (1st century BCE) are ______ his Geographica, a descriptive history of the ancient world, is an extant work: it can still be read.
@@ -210,6 +227,7 @@ D. lost, and conversely
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Enacted in 1944, Iceland’s 4,089-word constitution, in contrast to Spain’s, which was enacted in 1978 and contains a far greater number (17,608) of words, ______ as the 2nd shortest in the world. Such data are studied by constitutional scholars like George Tsebelis, who can use them to draw broader conclusions.
@@ -222,6 +240,7 @@ D. ranks
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Operating with a theoretically vast scope of cosmic distances, astrophysicists have found ways to leverage distant ______ to map the distribution of intergalactic matter.
@@ -234,6 +253,7 @@ D. quasar's emissions
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.
@@ -246,6 +266,7 @@ D. responses to hypothetical match scenarios show that the most highly skilled s
 Answer: A
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. ______ Ferreira detected cinnamic acid in Agaricus blazei mushrooms and catechin in Lentinus edodes mushrooms.
@@ -258,6 +279,7 @@ D. For example,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.
@@ -270,6 +292,7 @@ D. For example,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 While some researchers have identified the planet Kepler-296e as potentially habitable, it’s unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it’s 737 light years away. ______ humanity must first focus on making planets within our solar system more habitable.
@@ -282,6 +305,7 @@ D. Next,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The Tres Zapotes archaeological site is located in our home state of Veracruz, Mexico. ______ an 8.5-ton stone statue of a human head was left behind by the ancient Olmec civilization. In the nearby state of Tabasco was another stone statue that weighs 19.8 tons.
@@ -294,6 +318,7 @@ D. Therefore,
 Answer: B
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a 1948 article titled “The Language of Lines,” Brazilian photographer José Yalenti argued that black-and-white photography’s distinctive—and in his view, superior—use of lines is what elevates the medium to the status of fine art. ______ Yalenti insisted that conveying perspective through linear forms is photography’s “indisputable and exclusive domain,” creating a visual language surpassing even celebrated painters’ works.
@@ -306,6 +331,7 @@ D. Even so,
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the combined deadweight tonnage of the Bahamas’ merchant ships in 2021. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -322,6 +348,7 @@ D. There were a total of 1,323 merchant ships—ships hired to carry cargo or pa
 Answer: C
 
 Question 27:
+[Synthesis]
 The student wants to support Browner’s claim about Louis Ballard’s compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

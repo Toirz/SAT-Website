@@ -99,8 +99,23 @@ function getTestName(testFile = "") {
   return parts[parts.length - 1] || testFile;
 }
 
+function normalizeQuestionText(rawText = "") {
+  return String(rawText || "")
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .replace(/\\n/g, "\n")
+    .trim();
+}
+
+function removeTopicLine(rawText = "") {
+  return normalizeQuestionText(rawText)
+    .split("\n")
+    .filter((line) => !/^\s*\[[^\]]+\]\s*$/.test(line))
+    .join("\n");
+}
+
 function splitQuestionAndPassage(fullText = "") {
-  const lines = String(fullText || "")
+  const lines = removeTopicLine(fullText)
     .split("\n")
     .map((line) => line.trim())
     .filter(Boolean);
@@ -486,8 +501,9 @@ function renderOverlay() {
   const decodedQuestion = decodeCipherText(
     question.cipherQuestion || question.question || ""
   );
+  const displayQuestion = removeTopicLine(decodedQuestion);
   const { question: questionPrompt, passage } = splitQuestionAndPassage(decodedQuestion);
-  if (questionEl) renderPlainHtml(questionEl, decodedQuestion);
+  if (questionEl) renderPlainHtml(questionEl, displayQuestion);
 
   const plainChoices = ["A", "B", "C", "D"].reduce((acc, opt) => {
     acc[opt] = decodeCipherText(

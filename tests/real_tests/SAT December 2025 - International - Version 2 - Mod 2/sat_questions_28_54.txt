@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Analysis of preserved plants cataloged in the Southeast Regional Network of Expertise and Collections indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plants’ overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.
@@ -11,6 +12,7 @@ D. Anticipating
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the Metropolitan Museum of Art’s Costume Institute’s innovative multisensory exhibit of garments and accessories spanning four centuries, an emphasis on the ______ of fashion was conveyed both by the exhibit’s theme of perpetual renewal in nature and, more subtly, by its scientific re-creations of ephemeral elements (like a fragrance worn with a dress more than a century ago).
@@ -23,6 +25,7 @@ D. transience
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Highly skilled specialists can often distinguish modern forgeries from authentic historical paintings on the basis of subtle deviations from the historical artist’s style and techniques, but since no painter is truly ______ scientific tests of paints, canvases, and frames are sometimes used to establish whether a painting could have been made during a given historical artist’s lifetime.
@@ -35,6 +38,7 @@ D. prolific
 Answer: B
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The synthesis of novel superheavy elements, such as copernicium (Cn), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the "chemical space." __Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery__, Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.
@@ -47,6 +51,7 @@ D. It provides details about the qualification later in the sentence regarding t
 Answer: D
 
 Question 5:
+[COE]
 Taken together, the three underlined portions most clearly serve which function in the text as a whole?
 
 The following text is from Rachel Heng's 2023 novel *The Great Reclamation*. Ah Boon is fishing off the coast of Singapore.
@@ -61,6 +66,7 @@ D. They provide examples of what Ah Boon most frequently catches in the area.
 Answer: A
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.
@@ -74,6 +80,7 @@ D. It illustrates the role that education played in Yung's childhood.
 Answer: A
 
 Question 7:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the description of Asimov's characters in the underlined portion of Text 1?
 
 Text 1
@@ -89,6 +96,7 @@ D. The flatness of Asimov's characters should not necessarily be considered a fl
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.
@@ -101,6 +109,7 @@ D. Consumers are more likely to find companies blameworthy for negative consumer
 Answer: A
 
 Question 9:
+[COE]
 Which statement about the mycelium of the twenty mushroom species is best supported by the text?
 
 Radamés Cordero et al. have confirmed that twenty mushroom species (including Coprinellus micaceus and species from the genus Hortiboletus) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium --- a difference that persisted even after fruited bodies were detached --- the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
@@ -113,6 +122,7 @@ D. Variation in thermoregulation across the mycelium may occur independent of th
 Answer: D
 
 Question 10:
+[COE]
 What does the text most strongly suggest about Poe's work and American readers?
 
 The following text is from William Carlos Williams's 1925 creative nonfiction book in the American Grain. Williams is discussing how works by nineteenth-century Us poet and fiction writer Edgar Allan Poe were received by American readers.
@@ -126,6 +136,7 @@ D. American readers largely overlooked Poe's work because its tone and subject m
 Answer: A
 
 Question 11:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Esselen people in a mountainous area of Central California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions than elsewhere, likely because challenging terrain inhibits the geographical expansion of language families. __Yet it is clear that geographical barriers on their own cannot fully explain this aspect of the distribution of indigenous languages in California and elsewhere in the present-day United States.__
@@ -138,6 +149,7 @@ D. Although Native languages in non-mountainous areas of California tend to belo
 Answer: C
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Núñez and colleagues’ claim?
 
 Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as kalip bishop, a past-oriented expression that translates to “past times,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Spanish speakers often refer to the left/right axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.
@@ -150,6 +162,7 @@ D. Yupno speakers typically use their left hand to make temporal gestures regard
 Answer: A
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 The percent of cities and towns in a given period that persist from a prior period (backward continuity) and the percent that persist into a later period (forward continuity) are known to correlate positively with economic and political stability in a region. Researchers studying demographic trends in the Indigenous societies of ancient Mexico determined both continuity measures for the Yautepec Valley, which lay within the macroregional hegemony of the city-state of Teotihuacan from roughly 100 BCE until roughly 450 CE, after which point Teotihuacan declined. The team concluded that ______.
@@ -166,6 +179,7 @@ D. the marginal decrease in the compound average annual growth rate of the Yaute
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 In 2003, the US state of Florida enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Florida's RSRs may ______.
@@ -178,6 +192,7 @@ D. be more advantageous for insurers than they are for either current or prospec
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In an analysis of medieval urbanization in Ipswich, Bamberg, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration-drivers of urban agglomeration-the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______
@@ -190,6 +205,7 @@ D. the constraining influence of hierarchical medieval institutions likely had a
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the bvii6 chord for the I7 chord while ______ chord is a given chord’s opposite can be determined using a music visualization tool called the circle of fifths.
@@ -202,6 +218,7 @@ D. improvising which
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 “Streetwide and bitter as hope / strewn between El Salvador and San Francisco.” These lines are from a poem by Chicano ______ whose early career as a campesino informs the dialogue on Mexican American politics and identity that unfolds in his work.
@@ -214,6 +231,7 @@ D. writer Juan Felipe Herrera,
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (See Alice Jump, 2011) and artist David Hammons (Hammons meets a hyena on holiday, ______ celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.
@@ -226,6 +244,7 @@ D. 2016) were long
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Among the small magazines animating London's vibrant literary scene in the early twentieth century was ______ by Dora Marsden and featuring poetry by Amy Lowell, Allen Upward, and William Carlos Williams; essays by Muriel Ciolkowska and Huntly Carter; and fiction by Rebecca West, this magazine publicized the work of influential avant-garde writers and artists of the day.
@@ -238,6 +257,7 @@ D. The New Freewoman edited
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The extensive impact that selenium nanoparticles (SeNPs) have had on medicine belies their minuscule size, the nanoparticles typically from only 10 to 45 billionths of a meter.
@@ -250,6 +270,7 @@ D. range
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Signal Check is a 2014 film still by Canadian director Mei Huang. Like many of Huang’s stills, the work features a pair of gloves. Clasping a clipboard, one glove _____ covered in tracking codes, the gloves imply an out-of-frame technician on the edge of reporting.
@@ -262,6 +283,7 @@ D. pristine and the other
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The moon Leda orbits Jupiter in the same direction that the planet rotates. _______Leda’s orbit is described as prograde. Eupheme, another of Jupiter’s moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.
@@ -274,6 +296,7 @@ D. Nevertheless,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 On a chilly spring morning in a Virginia park, as sunlight crested the treetops, Kathrin Swoboda raised her Nikon D500 camera and captured an image that would win the Grand Prize in the 2019 Audubon Photography Awards: a red-winged blackbird, exhaling what appeared to be rings of smoke._____ the "smoke" was actually the blackbird's breath hitting the cold morning air as the bird sang.
@@ -286,6 +309,7 @@ D. Of course
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Born in Liberty, Mississippi, in 1922, musician Andy Rodgers is best known as a key figure in the development of the Delta blues, a variant of blues that originated in the Mississippi Delta region. ______ steeped in the fertile music scene that sprung up in the alluvial delta between the Mississippi and Yazoo Rivers, Rodgers and his peers developed their distinctive stripped-down, guitar-driven style.
@@ -298,6 +322,7 @@ D. Moreover,
 Answer: A
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Followers of the philosopher Hegel argue that sound reasoning must be forged by the tension of the dialectic, which is to say, each stage of a thought’s progression should contain within it the very seeds of its negation. ______ Hegelians resist the notion that logic is weakened by contradiction, believing the latter to be a necessary precursor to the former.
@@ -310,6 +335,7 @@ D. Accordingly,
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between the astronauts Morgan and Wheelock. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -328,6 +354,7 @@ D. Wheelock has spent less time performing spacewalks than Morgan has.
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

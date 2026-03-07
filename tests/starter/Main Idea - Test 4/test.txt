@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main idea of the text?
 
 In the 1940s, Evelyn Cunningham worked for the Pittsburgh Courier, focusing on coverage of the early civil rights movement. Cunningham's accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, D.C. in 1975 to support Black media professionals and honor people like Cunningham.
@@ -11,6 +12,7 @@ D. Black journalism has an interesting history both inside and outside the Unite
 Answer: C
 
 Question 2:
+[Structure]
 Which choice best states the main purpose of the text?
 
 In 2016, neurologists Tania Ferrante and Adil Mehta published research suggesting that sleep deprivation strongly influences cognitive performance in Rattus neurologicus, a species of laboratory rat. However, Ferrante and Mehta's research was based on an average test group of only around 12 rats. In a 2022 analysis evaluating various researchers' claims about sleep deprivation's effects on cognition in laboratory animals, Carlos Silva and collaborators warn that depending on such a comparatively limited test group may heighten the risk of biased conclusions. Such conclusions, consequently, may lead to reports overstating the effects.
@@ -23,6 +25,7 @@ D. To present a debate between two research teams about a cause of sleep depriva
 Answer: B
 
 Question 3:
+[Structure]
 Which choice best states the main topic of the text?
 
 When champion gymnast Simone Biles executes her routines, each movement seems effortless and spontaneous. Her remarkable technical mastery is evident, but her performances appear relaxed, fluid, and daring. Yet beneath this impression of ease lies intense and methodical training. Regardless of her extensive experience and high-level proficiency, Biles never assumes she has perfected a routine. Instead, she always approaches each performance with fresh curiosity, as if learning the moves anew.
@@ -35,6 +38,7 @@ D. To describe Biles’s unique training methods for new gymnastics moves.
 Answer: B
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 Extending from the 1850s to the 1910s, French composer Claude Debussy’s expansive musical output developed through several distinctive periods. After spending time in Russia and Germany in the late 1870s and engaging with a diverse international musical community, Debussy started adopting ideas influenced by symbolism and impressionism into his compositions, as demonstrated by *Prelude to the Evening Moon*, whose free-flowing harmonic structures stand apart from the conventionally romantic style exhibited in *Serenade for Louise Martin*, one of Debussy’s earliest pieces composed in Paris.
@@ -47,6 +51,7 @@ D. A clear transition in Debussy’s compositional style indicates the impact of
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best states the main topic of the text?
 
 In 1955, Marian Anderson became the first African American soloist to perform at the Metropolitan Opera in New York City. Anderson's breakthrough represents just one moment within the extensive legacy of African American contributions to classical music. This legacy is commemorated by the National Association of Negro Musicians, established in Chicago in 1919, which advocates for African American musicians and promotes core values such as artistic excellence.
@@ -59,6 +64,7 @@ D. The history of African American contributions to music is compelling both wit
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best states the main topic of the text?
 
 Marina Salazar’s poem *Evening in Cartagena*, depicting quiet streets illuminated by lanterns beneath a richly starry sky, exemplifies the literary style of the Colombian Poets Circle, a loosely connected group primarily producing poetry in the 1920s and ’30s. Their poems notably anticipated and reinforced imagery associated with Colombia that later became widespread in popular literary culture. Members frequently utilized evocative natural motifs—peaceful urban avenues, softly glowing lanterns—which Salazar and her contemporaries revisited continually.

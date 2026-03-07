@@ -1,4 +1,5 @@
 Question 1:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?
 
 Text 1
@@ -13,6 +14,7 @@ D. The programs tend to produce inconsistent results because they vary substanti
 Answer: B
 
 Question 2:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -27,6 +29,7 @@ D. Gold frames were considered especially desirable by those who purchased works
 Answer: A
 
 Question 3:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement about the "principle" mentioned in Text 1?
 
 Text 1:
@@ -41,6 +44,7 @@ D. It has some evidential support, but it should not be regarded as universally 
 Answer: D
 
 Question 4:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1:
@@ -55,6 +59,7 @@ D. In the Great Lakes region, conservation efforts focused on the firefly are li
 Answer: A
 
 Question 5:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -69,6 +74,7 @@ D. A significant number of visitors to Rasht may not know that it was named a Ci
 Answer: C
 
 Question 6:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -83,6 +89,7 @@ D. Conservation efforts focused on the northern wild rice are more likely to be 
 Answer: B
 
 Question 7:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the evaluation of Asimov's writing style in the underlined claim in Text 1?
 
 Text 1
@@ -97,6 +104,7 @@ D. By asserting that Asimov's minimal characterization is likely a conscious cho
 Answer: D
 
 Question 8:
+[Cross Text]
 The author of Text 1 and the author of Text 2 both discuss which topic?
 
 Text 1
@@ -111,6 +119,7 @@ D. Changes in sloths’ habitats
 Answer: B
 
 Question 9:
+[Cross Text]
 Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?
 
 Text 1:
@@ -125,6 +134,7 @@ D. Its primary methods for analyzing fiction written in the period are growing o
 Answer: B
 
 Question 10:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement about the description of the first showing of The Digital Sphere in Text 1?
 
 Text 1:

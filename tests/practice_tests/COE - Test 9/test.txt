@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would most directly support Martínez and colleagues’ hypothesis?
 
 The bird species Malacoptila fusca (the white-chested puffbird) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Conversely, Myrmotherula guttata (the rufous-bellied antwren), with which M. fusca shares territory in French Guiana, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martínez and colleagues hypothesized that the greater vulnerability inherent in the latter strategy is reflected in greater sensitivity to predator warning signals from neighboring species.
@@ -10,6 +11,7 @@ D. When Martínez and colleagues played M. fusca alarm calls, only M. fusca 
 Answer: C
 
 Question 2:
+[COE]
 Which statement about the difrasismo in cuāuhtli in ocēlōtl is most strongly supported by the text?
 
 Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on difrasismo, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo in cuāuhtli in ocēlōtl (literally, "the eagle, the jaguar") signifies "warrior." The device's function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.

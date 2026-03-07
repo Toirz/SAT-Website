@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Given that the Apollo Moon landings occurred between 1969 and 1972, some critics have argued that the data produced by its radiation detectors and other equipment is now obsolete. However, the fact that researcher Philip Metzger continues to use Apollo’s data for his investigation into the long-term effects of being on the Moon makes the position that the missions' value is exhausted entirely ______.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[COE]
 Which choice completes the text with the most logical and precise word orphrase?
 
 While Giulia Faggio et al. have noted that the specific drivers of industrial density can be inconsistent, the concept of agglomeration economies is fundamentally characterized by the propensity of firms in related sectors—such as the iron producers and cutlery manufacturers of Wolverhampton—to ______ in a specific geographic region rather than operating in isolation.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some robots such as Salvus (developed in 2008) and REEM-C (developed in 2013) feature humanoid characteristics like bipedal locomotion so that people will find it easier to interact with them. While these features can help to _____ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
@@ -38,6 +41,7 @@ Answer: A
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Parapuzosia serpentadensis, known to have lived in what is now Mexico, and Parapuzosia leptophylla, known to have lived in what is now England, were both ammonites, but P. serpentadensis was much larger than P. leptophylla. Recent research by Christina Ifrim, Nils Schorndorf, and colleagues has suggested that this ______ resulted from the unique predator threat faced by each species.
@@ -51,6 +55,7 @@ Answer: A
 
 
 Question 5:
+[COE]
 Which choice best describes the main purpose of the text?
 
 Historians point to the rule of the Piast dynasty as crucial to the formation of the Polish state. But some differentiate between members of the dynasty like Otto Bolesławowic, who ruled as duke in 1032 CE, and less well-documented figures like Siemowit, who is said to have ruled in the 9th century but whose historical actuality is disputed. Siemowit appears in the *Gesta principum Polonorum*, an authentic chronicle of medieval Polish history written in the 12th century. But the chronicle's documentation of Siemowit relies on oral tradition, unlike its records of later rulers.
@@ -64,6 +69,7 @@ Answer: D
 
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Jerome K. Jerome’s 1889 novel Three Man in a Boat (To say Nothing of the Dog. The narrator and two friends are taking a boat down the River Thames in England.
@@ -78,6 +84,7 @@ Answer: B
 
 
 Question 7:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 The following text is adapted from Anthony Trollope’s 1855 novel *The Warden*. The narrator is describing a rectory, the residence of a clergyperson.
@@ -92,6 +99,7 @@ Answer: A
 
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Examples of Hoards found in Ireland and Northern Ireland
@@ -107,6 +115,7 @@ Answer: A
 
 
 Question 9:
+[COE]
 Which statement, if true, would most strongly support the claim in the underlined sentence?
 
 Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth that a single person can amass. Critics of limitarianism respond that it is unworkable, since it would require a universal and strict individual adherence to a code of ethics as well as worldwide cooperation among governments in areas such as economic policy, both of which are extremely unlikely. __But some proponents of limitarianism hold that even if these claims have merit, they do not vitiate limitarianism’s value as a moral goal toward which we may be able to make some progress.__
@@ -120,6 +129,7 @@ Answer: C
 
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Northeastern Missouri’s Ralls County is among the most rural counties in the United States: the US Census Bureau classified it as 96.1% rural in 2010. Researchers often struggle to recruit residents of counties like Ralls for inclusion in studies. Melissa Valerio and colleagues tested whether an approach called snowball sampling improves recruitment. Working in two rural counties, they recruited a few people (known as "seeds") with the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______.
@@ -133,6 +143,7 @@ Answer: D
 
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Many Indian snack foods, such as bhatoora and panzeri pakora, acquire their flaky crusts because the dough they are made of is batter reinforced. Chemists Marc A. Meyers and Andrew Grazela studied the mass and heat transfer processes that occur when foods are fried in batters containing hydrocolloids, materials that form gels when they encounter water. During frying, water in the food evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. However, hydrocolloids can create structures in the crust that reduce the transfer of moisture out of the food's core during frying. Therefore, a food fried without a hydrocolloid batter coating will likely ______.
@@ -146,6 +157,7 @@ Answer: B
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 Anna Linderholm and other researchers probed the evolutionary history of size variation in canids (wolves, foxes, dogs, and their close relatives). The researchers found that small domestic dogs (e.g., Pomeranians) as well as small wild canids (e.g., foxes) tend to have a particular variant, known as the C allele, of the gene IGF1, a growth-related gene found in all mammals. Large canids (e.g., gray wolves, German shepherds), however, tend to have a different variant, known as the T allele, of IGF1. The researchers concluded that the T allele is the more recent of the two alleles to emerge.
@@ -159,6 +171,7 @@ Answer: C
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Southern Colorado’s Conejos County is among the most rural counties in the United States: the US Census Bureau classified it as 100% rural in 2010. Researchers studying populations of counties like Conejos often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ____.
@@ -172,6 +185,7 @@ Answer: D
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The many editions of James Joyce's 1922 novel Ulysses are not textually identical, and scholars debate which versions reflect Joyce's authorial intent. One no longer widely read edition is the 1984 "critical and synoptic edition" edited by Hans Walter Gabler, which followed French and German editorial theories rather than editorial traditions of the United States and United Kingdom and which was later found to have introduced errors due to Gabler's choice to consult facsimile manuscripts rather than using only originals. However, few Joyce scholars worldwide had expertise in such textual issues, and most of those who did worked on the edition with Gabler. So, it is unsurprising that initial scholarly reviews of the 1984 edition were mostly ______.
@@ -185,6 +199,7 @@ Answer: C
 
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Koulsy Lamko, born in 1959, is a playwright from Dadouar, Chad. In recent years more writers from Chad, including Lamko, ______ to reach audiences beyond the African nation’s borders.
@@ -198,6 +213,7 @@ Answer: A
 
 
 Question 16:
+[COE]
 Which quotation from a study of irrigation best supports the student's claim?
 
 A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Lake Sabrina (a man-made body of water created in Inyo County, California, in 1908) in a larger historical context. In order to emphasize irrigation's importance, the student claims that irrigation is humanity's principal use of water.
@@ -211,6 +227,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Jane Austen's Northanger Abbey (1818) is considered a satire of another novel popular at the time: Ann Radcliffe's The Mysteries of Udolpho (1794), which Austen's heroine, Catherine Morland, is depicted reading. However, the similarity of the ______ experiences—the predicaments of both Catherine and Radcliffe's Emily St. Aubert result from men's greed—suggests that underlying the satire is a social critique.
@@ -224,6 +241,7 @@ Answer: B
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The transit method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the super Earth TRAPPIST-1 h; at 352 light-years away, the super Earth Kepler-102 f; and, as of 2023, over 4,000 other exoplanets that are too far away and dim to be observed directly.
@@ -237,6 +255,7 @@ Answer: A
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Following the formation of the European Union (EU) that same year, the organizers of the 1992 Tour de France wanted the bike race to reflect the cross-national flow of people and trade that the EU had made possible. The resulting course was 2,500 miles long ______ seven separate borders of neighboring countries, modeled a vision of the EU's unifying aims.
@@ -250,6 +269,7 @@ Answer: D
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Northern Taurid meteor shower's brightness typically surpasses that of the Draconid meteor shower due to the interplay of three main factors—namely, the size and composition of the ________ velocity upon entering Earth's mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in humidity.
@@ -263,6 +283,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For her film I Am Somebody (1970), a documentary about a successful months-long strike held by Black female hospital workers in Charleston, South Carolina, director Madeline Anderson chose a narrator who had participated in the ______ by allowing the narrative to be shaped by one of their own, amplified the agency and power the workers possessed.
@@ -276,6 +297,7 @@ Answer: D
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a survey, respondents were requested to identify foods they considered "gourmet," described as "exquisite, luxurious, or delectable." The survey results were aggregated into one comprehensive list, revealing that truffles and caviar both appeared in the top twenty. _____ none surpassed chocolate in popularity.
@@ -289,6 +311,7 @@ Answer: D
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 NPTV is a community-led television channel broadcasting from the Navajo Nation in Arizona. In 2007, Jordan Kee aimed to ensure the sustainability of platforms like NPTV. _____ he established Indigenous Broadcast Network, a supportive network for Indigenous television channels, which currently encompasses about fifty channels.
@@ -302,6 +325,7 @@ Answer: D
 
 
 Question 24:
+[Synthesis]
 The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -321,6 +345,7 @@ Answer: B
 
 
 Question 25:
+[Synthesis]
 The student wants to contrast ukiyo-e and sosaku-hanga production methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -339,6 +364,7 @@ Answer: A
 
 
 Question 26:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two flags?
 
 While researching a topic, a student has taken the following notes:
@@ -357,6 +383,7 @@ Answer: D
 
 
 Question 27:
+[Synthesis]
 The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

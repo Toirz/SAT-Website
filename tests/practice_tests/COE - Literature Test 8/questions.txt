@@ -1,4 +1,5 @@
 Question 15:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
@@ -12,6 +13,7 @@ D. To caution people not to be so quick to dismiss the natural beauty that can b
 Answer: A
 
 Question 82:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from George Marion McClellan's 1895 poem "Eternity":

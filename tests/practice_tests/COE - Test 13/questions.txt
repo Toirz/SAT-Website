@@ -1,4 +1,5 @@
 Question 46:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shells' chambers are called septa, and the concentration of the isotope oxygen-18 they contain exactly reflects the isotope's concentration in the water at the depth at which the septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells; finding that sample F13 had a higher concentration of the isotope than sample M03 did, the researchers concluded that F13 must have formed at a significantly lower temperature than M03 did.
@@ -11,6 +12,7 @@ D. As water temperature increases, nautilids are able to concentrate more oxygen
 Answer: C
 
 Question 36:
+[COE]
 Which quotation from a psychologist not involved in the team’s study would most directly weaken the team’s conclusion?
 
 Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Japan and South Africa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter’s instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
@@ -23,6 +25,7 @@ D. “Judgments of spontaneous laughter are often associated with acoustic featu
 Answer: A
 
 Question 44:
+[COE]
 Which statement, if true, would most strongly support the underlined claim?
 
 Researchers have identified over eighty gestures made by nonhuman great apes, such as clapping and tapping an object, that appear to convey information and that seem to be biologically inherited. Kirsty E. Graham and Catherine Hobaiter hypothesized that humans may be able to interpret great ape gestures, either through an evolutionary inheritance or as part of more general human cognitive abilities. The researchers tested this hypothesis by enlisting participants in an online game in which they had to correctly identify the meanings of ape gestures seen in videos. __Though participants achieved some success, it is unclear whether they sometimes did so by making use of additional context provided by the images or sounds in the video recordings__.
@@ -35,6 +38,7 @@ D. Participants were more readily able to identify an ape gesture when it meant 
 Answer: B
 
 Question 14:
+[COE]
 Which finding, if true, would most directly support Bura and colleagues’ claim?
 
 Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on isolated caterpillars, 33% of the tested species produced sound, which ranged from clicks in Actias luna to whistles in Rhodinia fugax. Although some insects use sound to communicate with members of the same species, the researchers claim that the caterpillar sounds recorded in their study are directed primarily at predators.
@@ -47,6 +51,7 @@ D. Caterpillar clicks were emitted in a frequency detectable by birds that prey 
 Answer: C
 
 Question 40:
+[COE]
 Which finding, if true, would most directly undermine the claim?
 
 When expressing temporal concepts, individuals often utilize an egocentric frame of reference, employing spatial directions to denote time. For instance, when discussing past events, it is customary to point towards the left using the left hand, while discussions of future occurrences typically involve pointing towards the right with the right hand, thus establishing a self-centered framework of reference. Situated on the island of Papua New Guinea, there exists a primordial tribal community known as the Yupno tribe. Some scholars claim that the egocentric referencing is common across all human races, thus the Yupno people also adopt an egocentric frame of reference, using spatial indicators to represent time.
@@ -59,6 +64,7 @@ D. When referring to the future, the Yupno shake their heads to the left; when r
 Answer: C
 
 Question 47:
+[COE]
 Assuming participants had similar baseline fitness levels, which finding from the study, if true, would most strongly suggest that positive feedback had the predicted psychological effect but not the predicted physical effect?
 
 Studies have demonstrated that positive feedback enhances real-world exercise performance and exercises' psychological experience of physical activity. Nicole Trewick and team tested their prediction that positive feedback would produce analogous results among participants cycling on a stationary bike in a virtual reality environment. After monitoring participants' pedaling rate and heart rate to determine the effects on their physical endurance (e.g., their ability to sustain a certain target pedaling and heart rate) of feedback (positive, negative, or neutral) delivered at regular intervals, the researchers used participants' questionnaire responses to assess their psychological experience of the task.
@@ -71,6 +77,7 @@ D. Compared with participants who received positive feedback, participants who r
 Answer: A
 
 Question 3:
+[COE]
 Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
 
 Scholars cite One Hundred Years of Solitude, the 1967 novel by Colombian author Gabriel García Márquez, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the spiritual and narrative traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Keri Hulme, __whose 1984 novel The Bone People resembles classic magical realist novels in its juxtaposition of literary realism with cultural traditions—namely, those of the Māori, the Indigenous people of New Zealand.__
@@ -83,6 +90,7 @@ D. "Like many works in the Latin American magical realist tradition, The Bone Pe
 Answer: C
 
 Question 28:
+[COE]
 Which finding about Charadriformes and the 12 other orders identified in the recent study, if true, would best support the researchers' prediction?
 
 When a predator nears the nesting site of a pied oystercatcher (Haematopus longirostris), the bird will lead the predator away from the nest by pretending to be injured and unable to fly. This behavior is called "broken-wing display" and was long thought to be used only in the order Charadriformes (shorebirds). However, recent research has shown that species from Anseriformes (waterfowl), Cuculiformes (cuckoos), and 10 additional avian orders use the display—particularly those species that experience high levels of predation. Given that species with higher predation rates tend to have shorter incubation durations, some researchers have predicted that the defensive behavior is also associated with relatively short incubation periods.
@@ -95,6 +103,7 @@ D. The use of broken-wing display has been confirmed in 285 individual species f
 Answer: C
 
 Question 38:
+[COE]
 Which statement, if true, would most directly support the claim in the underlined sentence?
 
 Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Chimariko people in a mountainous area of Northern California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions, likely because challenging terrain inhibits the geographical expansion of language families. __Yet factors other than geographical barriers also influenced the distribution of Indigenous languages in California and elsewhere in the present-day United States.__
@@ -107,6 +116,7 @@ D. The isolates spoken in California and the surrounding region, such as Chimari
 Answer: C
 
 Question 6:
+[COE]
 Which finding, if true, would strongly support the second research team’s conclusion?
 
 Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from other similar product studies. The team rated each study on its level of detail (with a higher rating for reported data with more detail) and on its category consistency (with a higher rating for using materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the data in a study by Maria Leet Socolof and colleagues would need less adjustment to fit the classifications in the database than the data in a study by Martin Streicher-Porte and colleagues did.

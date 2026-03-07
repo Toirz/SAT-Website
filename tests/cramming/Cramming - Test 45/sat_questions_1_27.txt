@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ____ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[COE]
 Based on the text, when the narrator describes herself as “cheating,” what does she most likely mean?
 
 The following text is from Amy Tan’s 1989 novel *The Joy Luck Club*. The narrator describes practicing the piano when she was a child.
@@ -26,6 +28,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 It would not be productive for supporters of a proposal to increase the toll that drivers must pay to use the Veterans Bridge, which spans the Southern Branch of the Elizabeth River in Virginia, to direct their arguments at those drivers who strongly believe that the current toll is too high. There’s little point in trying to ______ someone whose mind is already made up.
@@ -39,6 +42,7 @@ Answer: C
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase? (with video explanation)
 
 During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries’ central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries’ policy environments seem to have been ____ swap line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.
@@ -52,6 +56,7 @@ Answer: C
 
 
 Question 5:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
@@ -66,6 +71,7 @@ Answer: B
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of hotels, bicycle stores, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s North End. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
@@ -79,6 +85,7 @@ Answer: D
 
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Globally, the pastures and rangeland on which cattle, donkeys, and other livestock graze account for about 25% of all land, spanning all but one continent. Analyzing data on wild-animal abundance in areas with and without livestock grazing in China and nineteen other countries, Alessandro Filazzola et al. calculated the effect size of excluding livestock, where positive values indicated greater abundance in livestock-excluded areas relative to livestock-included ones. They found that values were positive for all vertebrates and invertebrates except detritivores (e.g., worms).
@@ -92,6 +99,7 @@ Answer: D
 
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the overall characterization in Text 1 of the publicity campaign?
 
 Text 1
@@ -108,6 +116,7 @@ Answer: A
 
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement? (with video explanation)
 
 Table: Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters
@@ -123,6 +132,7 @@ Answer: A
 
 
 Question 10:
+[COE]
 Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?
 
 Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.
@@ -137,6 +147,7 @@ Answer: D
 
 
 Question 11:
+[COE]
 Which finding, if true, would most directly undermine the researchers' hypothesis?
 
 Morphological specialist plants—those with highly modified traits, e.g., long corollas (collections of petals)—may interact exclusively with pollinators with complementary traits and are thus also often ecological specialists, typically associated with greater pollinator partitioning (i.e., sharing relatively few pollinator species with other plants). Hypothesizing that these types of specialization are positively correlated among _Bomarea hirsuta_ and other hummingbird-visited plants of the Talamanca Mountain Range, María A. Maglianesi et al. monitored hummingbird-plant interactions at sites of various elevations, including Los Cusingos Bird Sanctuary (low elevation) and Villa Mills Experimental Biological Station (high elevation), and recorded corolla lengths of visited plants.
@@ -150,6 +161,7 @@ Answer: B
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Mulder and Spellman’s conclusion?
 
 Creeping dogwood (*Cornus canadensis*) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knolgrass (*Polygonum aviculare*) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked *C. canadensis* and *P. aviculare*, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.
@@ -163,6 +175,7 @@ Answer: C
 
 
 Question 13:
+[COE]
 Which finding, if true, would most directly weaken the student’s conclusion?
 
 Microsoft’s introduction of the Xbox console in 2001 is an instance of brand extension—the company leveraged its brand recognition as a software producer to enter a new product category. To understand consumer responses to extended brands, Alicia Grashy et al. identified 30 extended-brand pairs (e.g., the same brand of mobile phone and headphones) in household purchasing data and, for each pair, had consumers rate the similarity of the pair’s product categories. Noting that cross-category purchasing of the same brand was higher in pairs of product categories rated as similar, such as liquid bleach and toilet cleaner, than in those rated as dissimilar, such as juice and dried fruit, a student claims that similarity drives cross-category purchasing.
@@ -176,6 +189,7 @@ Answer: C
 
 
 Question 14:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The world’s many geothermal power plants leverage an array of ______ the Hellsheidi plant uses a flash steam system that transforms high-temperature geothermal fluid into steam; in Indonesia, the Darajat plant’s dry steam system pumps superheated steam from a reservoir; and in Turkey, the Pamukoren plant’s binary cycle system uses lower-temperature geothermal fluid in conjunction with a secondary fluid.
@@ -189,6 +203,7 @@ Answer: A
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Amharic spoken in the neighborhood of Norwood, or Ghale in Jackson Heights. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City’s borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that ______
@@ -202,6 +217,7 @@ Answer: C
 
 
 Question 16:
+[COE]
 Which statement about hummingbird preferences is most strongly supported by the text?
 
 High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
@@ -217,6 +233,7 @@ Answer: D
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When heated to a particular temperature—around 225 degrees ______ flaxseed oil will begin to emit smoke. That's because every fat or oil has a smoke point. At this temperature, the substance cannot absorb any more heat energy and will begin to combust, emitting smoke.
@@ -230,6 +247,7 @@ Answer: B
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Tuskegee University Archives’ collection includes an original 1957 photograph of Martin Luther King Jr. addressing a group of Tuskegee civil rights activists. Taken by P.H. Polk, the photo ______ King in profile, the glow of a stage light casting his silhouette onto the curtains behind him.
@@ -243,6 +261,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Recent analysis of 1999 OX3—an outer solar system object orbiting the Sun between Jupiter and Neptune—has determined its color to be red, suggesting a rocky composition. Such interpretations are ultimately ____ the object’s red coloration may be an incidental effect of radiation, solar wind, or collisions with other objects rather than evidence of its physical makeup.
@@ -256,6 +275,7 @@ Answer: D
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ____ the organelle’s decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.
@@ -269,6 +289,7 @@ Answer: A
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Typically, upon detecting the scent of another animal, a leopard will open its mouth. ______ the leopard allows the scent to reach sensory receptors on the roof of its mouth. These sensors help the leopard interpret the source of the scent.
@@ -282,6 +303,7 @@ Answer: D
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 John Rankin was an outspoken abolitionist whose Ohio home was a stop on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). ______ supporters of the railroad were secretive about their antislavery views. Usually, they were vocal abolitionists like Rankin.
@@ -295,6 +317,7 @@ Answer: B
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Scientists studying asteroid deflection have focused on secondary objects such as S/2003 (5381), a moonlet orbiting the near-Earth asteroid Sekhmet. In 2022 NASA intentionally crashed a probe into just such an object, the moonlet Dimorphos. ______ Dimorphos's orbital period around the near-Earth asteroid Didymos was permanently altered.
@@ -308,6 +331,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Contemplating the beauty of a natural landscape, the serene speaker of William Wordsworth’s poem Lines Composed a Few Miles above Tintern Abbey (1798) seems wholly insulated from society. As scholars have argued, however, Wordsworth’s retreat to nature was an aesthetic response to—and implicit critique of—England’s rapid industrialization and urbanization at that time. ____ despite its idyllic quality, the poem bears the imprint of the dramatic changes affecting English life.
@@ -321,6 +345,7 @@ Answer: D
 
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the number of SNOTEL sites in Wyoming. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -338,6 +363,7 @@ Answer: A
 
 
 Question 26:
+[Synthesis]
 The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal? (with video explanation)
 
 While researching a topic, a student has taken the following notes:
@@ -356,6 +382,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

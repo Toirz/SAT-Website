@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying menus from nineteenth-century restaurants, old coupons clipped out of newspapers, and posters promoting concerts by long-forgotten musicians may seem like a frivolous pursuit, but ephemeral objects like these are useful as evidence of cultural change: they can ______ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
@@ -10,6 +11,7 @@ D. attest to
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the architectural process called modular construction, a building is manufactured in modules under controlled conditions and then assembled at its intended location. ______ of this approach cite the production of less material waste and a faster return on investment.
@@ -21,6 +23,7 @@ D. Epitomes
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Run by researchers in Europe, the Survey of Health, Ageing, and Retirement in Europe (SHARE) is an examination of aging that has attempted to track approximately 120,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of ______ : over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.
@@ -32,6 +35,7 @@ D. replicability
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some ethicists challenge the concept of personal character, claiming that if it were meaningful, situational factors could not, as they clearly can, induce behavior contrary to that character. As Rachana Kamtekar observes, this argument is difficult to reconcile with our lay conception of character: we expect a person of helpful character to be frequently helpful, not ______ helpful.
@@ -43,6 +47,7 @@ D. unfailingly
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The *Reckoning and Resilience* (2022) exhibition at Duke University’s Nasher Museum of Art in Durham, North Carolina, was curated to feature the work of thirty North Carolina artists. The included artists represent a wide variety of artistic disciplines, from painters such as Juan Logan to the sculptor Stephen Hayes. In its inclusion of many borrowed works, the exhibition is atypical for the Nasher Museum, which tends to curate its exhibitions around the permanent collection of contemporary art that it owns.
@@ -54,6 +59,7 @@ D. It discusses the wide range of disciplines represented in an art exhibition, 
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The Heege Manuscript (HM) is a collection of booklets of once-unbound paper sheets on which Richard Heege copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. __Most other contemporaneous personal manuscripts like the Findern Anthology (FA) consist primarily of pieces by celebrated medieval authors like Hoccleve and other readings favored by elites__, whereas the HM has a distinctive emphasis on the popular, including entertainments like crude comedies, and the practical, with advice about manners.
@@ -65,6 +71,7 @@ D. To illustrate how the discussion of the HM earlier in the text can improve hi
 Answer: C
 
 Question 7:
+[Cross Text]
 Which choice best describes a notable difference in how the speaker of Text 1 and the speaker of Text 2 portray the moon?
 
 Text 1 is T.L. Hulme’s 1912 poem “Above the Dock.” Text 2 is from Amy Lowell’s 1912 poem “The Crescent Moon.”
@@ -88,6 +95,7 @@ D. While the speaker of Text 1 presents the moon as seeming to be very close, th
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Mauricio Drelichman and Hans-Joachim Voth’s research into the debt defaults of Philip II (who ruled an empire including Spain and much of Belgium from 1556 to 1598) relates to other work on European early modern state finance, including Hoffman and Norberg’s research on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution to the field is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, demonstrating in turn that Philip’s defaults were caused by short-term cash shortages, not long-term unsustainable debts.
@@ -99,6 +107,7 @@ D. Drelichman and Voth’s research on Philip II’s debt defaults builds on ear
 Answer: B
 
 Question 9:
+[COE]
 Which choice best describes what happens in the text?
 
 The following text is adapted from William Shakespeare’s 1597 play *The Tragedy of King Richard III*. Richard is reflecting on the recent arrest of his brother, the Duke of Clarence, on suspicion of treason against King Edward IV. Derby, Hastings, Buckingham, Rivers, Dorset, and Grey are also members of the English nobility.
@@ -121,6 +130,7 @@ D. Richard indicates that he has pretended to be aggrieved about Clarence’s si
 Answer: D
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______
@@ -132,6 +142,7 @@ D. Game &amp; Watch sold approximately 18,600,000 units, whereas the ColecoVisio
 Answer: D
 
 Question 11:
+[COE]
 Which finding, if true, would most directly weaken Schober’s hypothesis?
 
 In what is now southern Florida, the Calusa people (circa 1000–1600 CE) supported their relatively large population’s dietary needs with hydrological engineering rather than terrestrial farming methods. They constructed watercourts (gated coastal enclosures) out of shells and sediments to trap a variety of fish as waters rose and fell with tides and seasonal sea-level shifts; watercourt pools then held the fish for later consumption. Archaeologist Theresa Schober has posited an additional purpose of these enclosures, suggesting that they were intended to foster conch. She ties this hypothesis to the high value the sea snails would have had for the Calusa, both nutritionally and as a building material (conch shells are highly durable).
@@ -143,6 +154,7 @@ D. Sediment layers excavated from Calusa watercourt sites contain heterogeneous 
 Answer: C
 
 Question 12:
+[COE]
 Which choice best describes data from the table that support the researchers’ conclusion?
 
 The mating environment hypothesis predicts that populations of flowering plants compensate for reduced mating opportunities due to dichogamy (a plant’s expression of male and female functions at separate times to prevent self-pollination) by adjusting the bias of floral sex allocation during the flowering period, increasing the probability of successful cross-plant pollination. Researchers tested the hypothesis by examining a population of broadleaf arrowhead, a plant for which bloom onset generally takes longer for male flowers than for female flowers, during the flowering season. They concluded that the mating environment hypothesis is not well supported by their observational data.
@@ -154,6 +166,7 @@ D. Although sex allocations became overwhelmingly female biased by day 20, male 
 Answer: D
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Although Grant Tavinor concludes that computer games are art by virtue of their forming a subcategory of fiction, and Berys Gaut similarly places them within the realm of cinema, neither approach adequately captures a central aspect of playing these games: when the player no longer attends to the narrative and is instead simply absorbed in the instrumentalities of gameplay. This is among the reasons philosopher C. Thi Nguyen contends that the work of computer-game designers is in what he calls the medium of player agency, which the designer prescribes through rules and goals, and which elicits positive aesthetic experiences in the player who agrees to adopt it. Therefore, Nguyen's position is that Tavinor's and Gaut's frameworks ______
@@ -165,6 +178,7 @@ D. subsume computer games under other categories of media that do not address a 
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 As observed in a 2011 study by Emilio García-Robledo and Alfonso Corzo, macroalgal proliferation may have a suppressive effect on the abundance of cyanobacteria and other microphytobenthos (MPB)—chlorophyll-producing microbes inhabiting marine sediment—in part by reducing the amount of sunlight available to MPB. Examining benthic chlorophyll concentrations (a widely used proxy for MPB biomass) in mudflats in Curlew Bay and other coastal sites in Virginia, Alice F. Besterman and Michael L. Pace found that those concentrations did not negatively correlate with macroalgal proliferation. However, they noted that MPB may respond to low-light conditions by producing higher-than-normal concentrations of chlorophyll, and they thus concluded that ______
@@ -176,6 +190,7 @@ D. the effect of macroalgal concentrations on MPB abundance that García-Robledo
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Maniq people from a small community in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than diethyl disulfide, which smells like garlic. The team’s study thus undermined the idea that ______
@@ -187,6 +202,7 @@ D. people agree in their perception of odors as pleasant or unpleasant regardles
 Answer: B
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerngren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ______
@@ -198,6 +214,7 @@ D. disturbances linked to wastewater affect significantly more bodies of fresh w
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 *Branching in Jurisprudential Schools* is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ______ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-Wangari Manuscript Library.
@@ -209,6 +226,7 @@ D. day by,
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The terms included in Barry Lopez and Debra Gwartney’s *Home Ground: A Guide to the American* ______ such as “karst,” which refers to limestone terrain riddled with caves or sinkholes—illustrate the rich vocabulary used to describe the landforms of North America.
@@ -220,6 +238,7 @@ D. *Landscape*
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Following the formation of the European Union (EU) that same year, the organizers of the 1992 Tour de France wanted the bike race to reflect the cross-national flow of people and trade that the EU had made possible. The resulting course was 2,500 miles long ______ seven separate borders of neighboring countries, modeled a vision of the EU's unifying aims.
@@ -231,6 +250,7 @@ D. and, crossing
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As part of his *I GOT UP* series, Japanese conceptual artist On Kawara spent over a decade—with near daily consistency—mailing postcards to friends declaring what time he got up each day, resulting in pieces such as *I Got Up at 7.19 A.M., Jun 6 1977*. Such meticulous documentation of mundane ______ artworks that “resonate with existential, psychological and scientific implications about the time-space continuum,” according to the *New York Times*, became Kawara’s life’s work.
@@ -242,6 +262,7 @@ D. information generated
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For her film *I Am Somebody* (1970), a documentary about a successful months-long strike held by Black female hospital workers in Charleston, South Carolina, director Madeline Anderson chose a narrator who had participated in the ______ by allowing the narrative to be shaped by one of their own, amplified the agency and power the workers possessed.
@@ -253,6 +274,7 @@ D. protest, a decision that,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At a time when many women writers used male pseudonyms to gain greater freedom of self-expression by evading gender conventions, Katherine Bradley and Edith Cooper adapted the practice by publishing poetry, prose, and drama for four decades under the shared name Michael Field. ______ the duo was able to express the joint creative vision that sustained their long personal and professional partnership.
@@ -264,6 +286,7 @@ D. On the other hand,
 Answer: A
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a 2005 study by Mellado et al., the researchers’ aim was to analyze the diet composition of cattle in Coahuila, Mexico. ______ they aimed to analyze the ratio of three different plant subtypes within these animals’ diet: graminoids, forbs, and browse.
@@ -275,6 +298,7 @@ D. Specifically,
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 John Quincy Adams employed the pseudonym “Marcellus”—a reference to a leader of an ancient Roman army—in political essays he wrote in 1793, a choice that accomplished far more than simply concealing his authorship. ______ it wasn’t an arbitrary pen name but rather a complex rhetorical strategy through which Adams aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.
@@ -286,6 +310,7 @@ D. Indeed,
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to refute a claim that apricots are a better source of vitamin C than kale is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -304,6 +329,7 @@ D. With 120 mg of vitamin C per every 100 g, kale is actually a better source of
 Answer: D
 
 Question 26:
+[COE]
 Which choice most effectively uses information from the given sentences to provide an example of a SNOTEL site?
 
 While researching a topic, a student has taken the following notes:
@@ -321,6 +347,7 @@ D. Located throughout Wyoming, SNOTEL sites monitor snow conditions.
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to explain why nautical miles are used to measure distances in seafaring navigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

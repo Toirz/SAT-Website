@@ -52,7 +52,7 @@ A. 10
 B. 100
 C. 1,000
 D. 10,000
-Answer: A
+Answer: D
 
 Question 7:
 In the given equation, k is an integer constant.
@@ -84,7 +84,7 @@ A. 12
 B. 15
 C. 36
 D. 39
-Answer: B
+Answer: D
 
 Question 11:
 Data set A and data set B each have 11 values. Which of the following statements best compares the median of data set A and the median of data set B?
@@ -181,7 +181,7 @@ B. {{MATH_49}}
 C. {{MATH_50}}
 D. {{MATH_51}}
 
-Answer: 15
+Answer: A
 
 Question 22:
 The function {{MATH_35}}4 gives a toy car-s height above the ground {{MATH_36}}, in inches, x seconds after it started moving on an elevated track, where {{MATH_37}}. Which of the following is the best interpretation of the vertex of the graph of {{MATH_38}} in the xy-plane?

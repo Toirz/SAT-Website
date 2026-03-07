@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice best describes data from the table that support the journalist's claim?
 
 Highest-Grossing Films in a Language Other than English at US Box Office
@@ -13,6 +14,7 @@ D. Although the opening weekend earnings were $7,846,426 for Instructions Not In
 Answer: B
 
 Question 2:
+[COE]
 Which choice best describes data from the table that weaken the student's claim?
 
 Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. Such success is driven by many factors like advertising, genre popularity, and the fame of the actors and directors. A student claims that opening weekend earnings can reliably predict whether a film will be nominated for an Oscar: films that draw large audiences at the beginning of their release are the most likely contenders to earn these coveted award nominations.
@@ -25,6 +27,7 @@ D. Although both Iron Monkey and The Girl Who Played with Fire were directed by 
 Answer: A
 
 Question 3:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 To understand the extent of deforestation in the Chorotega Region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land.) Due to the Chorotega region’s accessibility, various types of forest areas were converted to cattle practices as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid 1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, engendered a natural forest regrowth, as evident by the ______
@@ -38,6 +41,7 @@ D. similarity in forest cover area in Class I-V and Class VII in 1986.
 Answer: B
 
 Question 4:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the annual mean size of forest patches across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region's ________.
@@ -51,6 +55,7 @@ D. similarity in mean forest patch size in Class VIII and Class VII in 1986.
 Answer: C
 
 Question 5:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo Mora and colleagues used historical aerial photography and remote sensing data to track changes in the total number of forest patches in areas of different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region’s accessibility, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s; this conversion is evident in the _____
@@ -63,6 +68,7 @@ D. decrease in the number of patches for all classes from 1960 to 1979.
 Answer: D
 
 Question 6:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
@@ -76,6 +82,7 @@ D. dogs that participants rated as friendlier were also dogs that participants i
 Answer: B
 
 Question 7:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Interested in how differences in the color of dogs' irises affect human responses to dogs, Akitsugu Konno et al. showed a series of close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Konno et al. hypothesized that a primary factor influencing a participant's desire to interact with a dog would be its perceived friendliness. This hypothesis was supported by the finding that ______.
@@ -89,6 +96,7 @@ D. dogs that participants rated as friendlier were also dogs that participants i
 Answer: D
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them

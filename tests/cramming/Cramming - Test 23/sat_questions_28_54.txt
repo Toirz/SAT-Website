@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 While the study of cicada wings for new water-repellant materials held promise, the project was ultimately hampered. The intense ______ between the engineering and entomology experts, with each group vying for primary credit, led to duplicated efforts and a less comprehensive outcome than what a unified approach might have achieved.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[COE]
 Which choice best completes the text with the most logical and precise word or phrase?
 
 A speaker at a recent children’s book publishing conference noted that, while many illustrators do excellent work, in her mind, no one has ever _____ Amos Ferguson’s work as the illustrator of Under the Sunday Tree: there is no better example of the form, according to the speaker.
@@ -25,6 +27,7 @@ Answer: C
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica are necessarily ______. The majority of the sculptures have been moved from their original context, making precise dating impossible.
@@ -38,6 +41,7 @@ Answer: D
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The new hypothesis was first presented in a 2018 journal article, and—though the concept was far from ______, based more on theoretical modeling than on verifiable evidence—the idea has been debated fervently ever since.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The Reckoning and Resilience (2022) exhibition at Duke University’s Nasher Museum of Art in Durham, North Carolina, was curated to feature the work of thirty North Carolina artists. The included artists represent a wide variety of artistic disciplines, from painters such as Juan Logan to the sculptor Stephen Hayes. In its inclusion of many borrowed works, the exhibition is atypical for the Nasher Museum, which tends to curate its exhibitions around the permanent collection of contemporary art that it owns.
@@ -64,6 +69,7 @@ Answer: C
 
 
 Question 6:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Reyna Grande's 2012 memoir The Distance Between Us. In the text, Grande is reflecting on experiences she had as a child. Abuela Evila is her grandmother, Elida is her cousin, and Mago and Carlos are her siblings.
@@ -78,6 +84,7 @@ Answer: B
 
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 Women like Dorothy T. Blum made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Blum provided cryptological services for the US Army in the 1940s and then joined the National Security Agency (NSA). She was a pioneer in transitioning the NSA to using computers for cryptoanalysis. In this way, Blum and others like her helped make it possible for more women—such as Maureen Baginski, who currently works in intelligence and supports the FBI—to enter the field of cryptology.
@@ -91,6 +98,7 @@ Answer: B
 
 
 Question 8:
+[COE]
 Based on the text, what is one reason why simulants are valuable for scientists?
 
 The soil on Mars can make missions to explore the planet challenging, as the sand and dust are known to clog filters and lock moving parts on robotic rovers and other exploration devices. Using simulants, which are materials designed to simulate different planetary surfaces, scientists are able to study the characteristics of Mars’s surface. Simulants like the Mars Mojave simulant—which was developed using lava deposits from California’s Mojave Desert—help scientists evaluate how well their devices will handle the surface when operated on Mars.
@@ -104,6 +112,7 @@ Answer: A
 
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Anderson’s “Sonnet for Her Labor” and Tyehimba Jess’s “Millie and Christine McCoy”—poems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnet—ostensibly rigid and timeworn—could accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genre’s conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.
@@ -117,6 +126,7 @@ Answer: B
 
 
 Question 10:
+[COE]
 Which finding, if true, would most strongly support the underlined claim?
 
 Olms are salamanders that live in underwater caves. Scientists once thought that olms stay in their caves all their lives. However, Raoul Manenti and team claim that __olms regularly come to the surface to perform important activities such as finding food.__
@@ -130,6 +140,7 @@ Answer: A
 
 
 Question 11:
+[COE]
 Which of the following statements, if true, would most strongly support Nichols and her team’s hypothesis about the source of Zoraxa’s acceleration?
 
 First detected in 2019, the interstellar body named Zoraxa is the first of its kind discovered in our solar system. Scientists have been puzzled because its acceleration cannot be fully attributed to gravitational forces from nearby celestial objects, indicating that an additional nongravitational factor is influencing its speed and trajectory. Some earlier theories to explain this nongravitational acceleration involved unlikely mechanisms, such as the idea that Zoraxa might consist of multiple separated parts, creating unusual geometric effects. Recently, Dr. Avery Nichols and her team have proposed that the acceleration may be due to the release of trapped helium gas from Zoraxa’s ammonia-rich, icy surface.
@@ -143,6 +154,7 @@ Answer: D
 
 
 Question 12:
+[COE]
 Which quotation from a psychologist not involved in the team’s study would most directly weaken the team’s conclusion?
 
 Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Japan and South Africa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter’s instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
@@ -156,6 +168,7 @@ Answer: B
 
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Certain songs of the Tlingit people in the extreme northwestern United States tell stories of encounters with wolves and other wildlife, and those of the Kaluli people in Papua New Guinea sometimes replicate rainforest sounds to evoke specific locations. Ethnomusicologists have long studied the cultural meaning of music within societies but have only recently begun to recognize the critical role —particularly for languages known by fewer and fewer contemporary speakers— of indigenous songs such as these as a unique repository of historical ecological knowledge. This shift in perspective is important because it enables ethnographers to ______.
@@ -169,6 +182,7 @@ Answer: D
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 As exemplified by Temiar songs about landforms and landmarks and Lakota songs about gathering mouse beans, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla WathI'thla, a song keeper for the Kwakwaka’wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that ____.
@@ -182,6 +196,7 @@ Answer: D
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In the world’s democracies, proportionally few elected representatives are young adults. While some philosophers argue that certain types of underrepresentation (of women, for example) are unfair in principle and should be remediated via quotas, there is broad agreement that youth underrepresentation is not inherently unfair since it is universal (all people are underrepresented when young), temporary (underrepresented young people become overrepresented older people), and reflective of a legitimate concern (lack of relevant experience). Accordingly, when philosopher Juliana Uhuru Bidadanure advocates for youth quotas for elected representatives, she does so on the basis of their instrumental value for promoting youth interests, arguing that ______
@@ -195,6 +210,7 @@ Answer: C
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Frank Lloyd Wright's 1935 design is the plan for Fallingwater, an architectural integration of the features of the natural _______ stands as a prime example for architects hoping to study how the concept of organic building design has been applied in twentieth-century construction.
@@ -208,6 +224,7 @@ Answer: A
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Integrating insights from economics and psychology, researchers in the field of behavioral economics explore a variety of topics. Olga Shurchkov of Wellesley College studies worker _____other researchers investigate areas such as market behavior and consumer behavior.
@@ -221,6 +238,7 @@ Answer: B
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Water boils at around 212°F at sea level, but in Superior, Colorado (elevation: 5,495 feet above sea level), it boils at around 202°F. Food writer J. Kenji López-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations "can wreak all sorts of havoc on recipes."
@@ -234,6 +252,7 @@ Answer: B
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When the electrons of a chemical element change energy states, they release certain wavelengths of light that are unique to that element. This means that the emission of light with a wavelength of 516.7 nanometers (nm), which falls in the 500-570 nm range defining the green portion of the visible spectrum, ______ the element iron as the source of the light.
@@ -247,6 +266,7 @@ Answer: B
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 On most of the world’s beaches, sand is a predictable cream or beige color. The sand at Vermelha Beach in Brazil is a strikingly different _____ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar; deposits of iron oxide and other organic matter lend the sand at Vermelha Beach a colorful red tint.
@@ -260,6 +280,7 @@ Answer: D
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A team led by Portuguese researcher Isabel C. F. R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. _________  Ferreira detected cinnamic acid in *Agaricus blazei* mushrooms and catechin in *Lentinus edodes* mushrooms.
@@ -273,6 +294,7 @@ Answer: D
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At the Marie Hitchcock Puppet Theater in San Diego, California, audiences sit down to enjoy a live puppet show. ______ they will experience puppetry in its highest form. The theater’s professional puppeteers are experts in any number of dozens of puppetry styles, from bunraku puppetry to marionette puppetry.
@@ -286,6 +308,7 @@ Answer: D
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In her 2015 poem Migration, Lyrae Van Clief-Stefanon contemplates Jacob Lawrence's painting The Migration Series, presenting a nuanced imaginative response to Lawrence's piece that goes beyond mere description. ________ rather than simply presenting the painting's elements in a straightforward way, Van Clief-Stefanon uses the painting's bold colors and exaggerated shapes as a vehicle for exploring themes of community and cultural identity.
@@ -299,6 +322,7 @@ Answer: C
 
 
 Question 24:
+[Synthesis]
 The student wants to specify when Ur formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -318,6 +342,7 @@ Answer: B
 
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As genetic engineering has advanced, many corporations have sought to gain an advantage in, or even patent, the genetic code of essential food crops. ______ it is the 2001 International Treaty on Plant Genetic Resources—signed by the European Union, Brazil, and over 140 other nations—that curtails these commercial ambitions and ensures that access to these genetic resources remains open for the international community.
@@ -331,6 +356,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to explain the scientific rationale for Pluto's current classification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -350,6 +376,7 @@ Answer: B
 
 
 Question 27:
+[Synthesis]
 The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

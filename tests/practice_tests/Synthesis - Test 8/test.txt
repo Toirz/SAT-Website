@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to specify when Ur formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -16,6 +17,7 @@ D. Over hundreds of millions of years, the supercontinent cycle results in super
 Answer: B
 
 Question 2:
+[Synthesis]
 The student wants to explain an advantage of the Oak Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -33,6 +35,7 @@ D. Since it was built under a rock overhang, Oak Tree House was naturally protec
 Answer: D
 
 Question 3:
+[Synthesis]
 The student who wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -49,6 +52,7 @@ D. In Frombork, Poland, a Foucault pendulum at the Nicolaus Copernicus Museum pr
 Answer: B
 
 Question 4:
+[Synthesis]
 The student wants to emphasize an objective of the GREEN SURGE study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -65,6 +69,7 @@ D. Large urban parks, which were included in the GREEN SURGE study, can benefit 
 Answer: C
 
 Question 5:
+[Synthesis]
 The student wants to provide a quotation from chapter 17. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -81,6 +86,7 @@ D. After describing nostalgia in the city of St. Petersburg in Russia, Svetlana 
 Answer: A
 
 Question 6:
+[Synthesis]
 The student wants to provide an overview of the matsutake commodity chain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -97,6 +103,7 @@ D. Wealthy consumers who buy the costly mushrooms in Japan are at one end of the
 Answer: C
 
 Question 7:
+[Synthesis]
 The student wants to emphasize a similarity between Watch Your Step and Golden Connection. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -113,6 +120,7 @@ D. The smooth LED domes of Grimanesa Amoros's Watch Your Step stand in contrast 
 Answer: C
 
 Question 8:
+[Synthesis]
 The student wants to explain why an induced pluripotent stem cell (iPSC) is not considered a perfect equivalent of an embryonic stem cell. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching cellular biology, a student has taken the following notes:
@@ -131,6 +139,7 @@ D. Because iPSCs are a unique and distinct cellular identity, they have lost the
 Answer: B
 
 Question 9:
+[Synthesis]
 The student wants to contrast the number of haiku in each poem. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -147,6 +156,7 @@ D. The poems in Morning Haiku celebrate the lives or mourn the deaths of “re
 Answer: A
 
 Question 10:
+[Synthesis]
 The student wants to generalize about satellite orbits. Which option most effectively uses relevant information from the notes to achieve this goal?
 
 While gathering information on a topic, a student made the following notes:
@@ -162,6 +172,7 @@ D. Most satellites rely on ground control for adjustments, but some are designed
 Answer: D
 
 Question 11:
+[Synthesis]
 The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -179,6 +190,7 @@ D. The scenes depicted in both works were first carved onto a printing block, th
 Answer: B
 
 Question 12:
+[Synthesis]
 The student wants to emphasize how hard orthoclase is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -196,6 +208,7 @@ D. Topaz is hard enough to scratch both calcite and orthoclase.
 Answer: B
 
 Question 13:
+[Synthesis]
 The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -213,6 +226,7 @@ D. By comparing the stream lengths of the Embarras and Luni rivers to their vall
 Answer: B
 
 Question 14:
+[COE]
 The researcher wants to highlight a similarity between acetone and ethanol. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -229,6 +243,7 @@ D. Applying high-frequency sound waves generally raises the temperature of liqui
 Answer: A
 
 Question 15:
+[Synthesis]
 The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

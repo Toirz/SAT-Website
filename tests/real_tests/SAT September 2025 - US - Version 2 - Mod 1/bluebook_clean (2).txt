@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 *Farmhouse Interior*, painted in the realist style by Jan Hendrik Weissenbruch, depicts a peasant woman knitting at a table while a cat sits underneath. The realists' emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Pierre-Auguste Cot, which instead ______ their subjects’ positive traits, altering subjects to appear more beautiful or heroic than they actually were.
@@ -10,6 +11,7 @@ D. apprehend
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Cacao was domesticated in South America. Its physical structure is no longer identical to the structure of the wild plant it is descended from. Maize (corn) also ______ its wild ancestor. That ancestor plant had a few small kernels. Indigenous people in Mexico carefully bred the crop until it had numerous fleshy kernels.
@@ -21,6 +23,7 @@ D. argues with
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The collectibles market is one of the most difficult segments of the consumer economy to ______. Few economists would have predicted, for example, that the prices of vintage Teenage Mutant Ninja Turtles action figures would soar in the 2010s, but soar they did.
@@ -32,6 +35,7 @@ D. exchange
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Chengdu, China, was named a City of Gastronomy by UNESCO in 2010, a title that ______ that Chengdu has a unique and vibrant food culture worthy of celebration.
@@ -43,6 +47,7 @@ D. denotes
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Louise Erdrich’s 1986 novel *The Beet Queen*. Celestine takes her infant daughter with her to the butcher shop where she makes sausages.
@@ -58,6 +63,7 @@ D. To imply that Celestine is dissatisfied with her job.
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 In 1940, John H. Sengstacke founded the National Newspaper Publishers Association to support Black-owned papers. Sengstacke’s accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, DC, in 1975 to support Black media professionals and honor people like Sengstacke.
@@ -69,6 +75,7 @@ D. It mentions a specific achievement in Black journalistic history, then descri
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Though Vasily Grossman’s novel *Stalingrad* is considered inferior to his later work *Everything Flows*, some critics praise it despite an arduous writing process required to satisfy Soviet censors (Jordan Penney in *PopMatters* called *Stalingrad* “powerful”). Of the novel’s eleven drafts, the second is inexplicably missing, the sixth closely hews to Soviet orthodoxy, and published versions most resemble the fifth. The English edition’s translators culled material from unpublished drafts and published Russian versions to create a comprehensive edition.
@@ -80,6 +87,7 @@ D. It refers to a novel that has several different published and unpublished ver
 Answer: A
 
 Question 8:
+[COE]
 What does the text most strongly suggest about the coating created by Qu and colleagues?
 
 Vehicle transmissions and many other widely used mechanical systems have moving parts that rub or slide against one another, creating friction. This friction increases energy consumption and causes wear, which decreases the stability and life span of the system. Using carbon nanotubes and oil, Jun Qu and colleagues at a US Department of Energy lab have created a coating for moving parts that reduces friction to the point where it is almost nonexistent. The new coating is suitable for common applications, unlike other approaches that require special conditions.
@@ -91,6 +99,7 @@ D. It can likely improve the energy consumption of certain mechanical systems bu
 Answer: C
 
 Question 9:
+[COE]
 What does the text most strongly imply about the relationship between probabilistic models and causal determinism?
 
 Probabilistic models generate predictions based on outcomes of analogous past events, but even as these models project likely outcomes, they implicitly acknowledge that lower-frequency events may occur instead. Because they accommodate multiple potential outcomes, such models may seem incompatible with causal determinism—the view that particular outcomes are inevitable given certain preconditions. But complete foreknowledge of relevant conditions is generally unavailable, suggesting that a state of uncertainty ultimately prevails in which outcomes can be predicted but not definitively foretold.
@@ -102,6 +111,7 @@ D. Probabilistic models can be understood as compatible with causal determinism 
 Answer: A
 
 Question 10:
+[COE]
 Information in the text best supports which statement about OFT?
 
 Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Burt Kotler and colleagues found to be negatively associated with foraging by greater Egyptian gerbils but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the gerbils.
@@ -113,6 +123,7 @@ D. It tends to allow for a better understanding of the benefits of ecological ci
 Answer: C
 
 Question 11:
+[COE]
 Which quotation from a survey respondent would best illustrate the underlined claim?
 
 High-speed rail (HSR) systems have trains that move at much higher speeds than traditional trains. HSR is expanding in Norway, Japan, and many other countries around the world. The United States, however, has been slow to build HSR systems. Researchers surveyed United States residents about their attitudes toward HSR. __The researchers claim that this survey reveals that there is strong support for building more HSR lines in the United States.__
@@ -124,6 +135,7 @@ D. “I believe that the United States has enough high-speed rail lines. It shou
 Answer: C
 
 Question 12:
+[COE]
 Which choice best describes data from the table that support Pötzelsberger and colleagues’ conclusion?
 
 Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Poland, and Hungary about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.
@@ -135,6 +147,7 @@ D. Hungary reported 18 damaging fungus species but only 13 damaging insect speci
 Answer: A
 
 Question 13:
+[COE]
 Which quotation from *Life Among the Paiutes* most effectively illustrates the claim?
 
 *Life Among the Paiutes* is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca explicitly indicates when and how she is shifting the focus of the narrative, as when she writes, ______
@@ -146,6 +159,7 @@ D. “I will now stop writing about myself and family and tribe customs, and tel
 Answer: D
 
 Question 14:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Studies have found that when looking at other people’s eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark iris—the colored portion surrounding the pupil—is hard to distinguish from the black of the pupil (and thereby affects the pupil’s apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Their findings suggest that ______
@@ -157,6 +171,7 @@ D. humans may not be as sensitive to pupil size in dogs as they are to pupil siz
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 The hwamei and other fruit-eating bird species introduced to the Hawaiian island of Oahu in the last 150 years have recently been found to spread seeds from the fruits of forest plants native to Oahu that are at risk of extinction, such as the kolea lau nui tree. Many of these vulnerable plant species rely on the activity of fruit-eating birds to help spread the plants' seeds in the wild. All fruit-eating bird species native to Oahu have gone extinct, suggesting that ______
@@ -168,6 +183,7 @@ D. non-native birds, such as the hwamei, now spread more seeds from the kolea la
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Maria Ines Cordeiro is the director of the National Library of Portugal in Lisbon. In this role, Cordeiro ______ the library’s collections, which feature a large number of works by celebrated Portuguese writers.
@@ -179,6 +195,7 @@ D. overseeing
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The epic poem *The Tale of Genji* dates back to the 11th century. Originally ______ in classical Japanese, it has since been translated into other languages.
@@ -190,6 +207,7 @@ D. had been written
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though it was designated as mission ______ mission was actually the ninety-sixth flight under NASA's Space Shuttle Program.
@@ -201,6 +219,7 @@ D. STS-103, the
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The grammar of the Gujarati language includes several noun cases common to most Indo-Aryan ______ the locative case, for instance, indicates that an action is occurring at, on, or near a particular noun.
@@ -212,6 +231,7 @@ D. languages; such as
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The transit method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the super Earth TRAPPIST-1 b; at 352 light-years away, the super Earth Kepler-102 f; and, as of 2023, over 4,000 other exoplanets that are too far away and dim to be observed directly.
@@ -223,6 +243,7 @@ D. Earth at 41 light-years away,
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Tacettin Diker is well known for his work as a puppeteer. ______ he specializes in shadow puppetry. This style of puppetry involves holding a figure in front of a light source to project a shadow onto a translucent screen.
@@ -234,6 +255,7 @@ D. Second,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Portuguese researcher Isabel C.F.R. Ferreira reports that the caffeic acid in cauliflower mushrooms benefits the mushroom by combating harmful molecules called free radicals. ______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.
@@ -245,6 +267,7 @@ D. Rather,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In economics, sugar is considered a soft commodity, while copper and crude oil are considered hard commodities. The categorical distinction between soft and hard commodities lies not in the products’ strength or durability but in their origin: the former type is grown or farmed, while the latter is mined or drilled. ______ pine lumber is as much a soft commodity as sugar, despite its decidedly sturdier composition.
@@ -256,6 +279,7 @@ D. Summarizing this principle,
 Answer: C
 
 Question 24:
+[Synthesis]
 The student wants to emphasize the order in which Billy Budd, Sailor and The Common Reader entered the public domain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -274,6 +298,7 @@ D. Though they once were copyrighted works, *Billy Budd, Sailor* and *The Common
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to connect the quotation from Sherman to the increase in the UK’s urban population during the Industrial Revolution. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes.
@@ -291,6 +316,7 @@ D. The sizeable growth in the UK’s urban population during the Industrial Revo
 Answer: D
 
 Question 26:
+[Synthesis]
 The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -307,6 +333,7 @@ D. In 2006, Frances E. Allen won the A.M. Turing Award for seminal contributions
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to identify the title of Isaac Bashevis Singer’s first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would most strongly support the researchers' conclusion?
 
 The utilization of deceptive antipredator displays is well documented in the spotted sandpiper (Actitis macularius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna de Fraimond et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 Aves orders, including Galliformes and Apodiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.
@@ -10,6 +11,7 @@ D. Across the orders in the study, approximately 54% of the bird species brood i
 Answer: B
 
 Question 2:
+[COE]
 Which finding, if true, would most directly support Núñez and colleagues' claim?
 
 The phrase **usa-don sonda** is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "next week." Rafael Núñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Núñez and colleagues claim that this tendency is not in fact ubiquitous.
@@ -21,6 +23,7 @@ D. When outdoors and referring to the future, Yupno speakers facing uphill gestu
 Answer: D
 
 Question 3:
+[COE]
 Which statement, if true, would most strongly support Wade’s argument?
 
 In medieval England, singers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as chastising the audience, extensive use of simple structures (allowing for easy memorization), and requests for tips (payment) from listeners.
@@ -32,6 +35,7 @@ D. Traveling minstrels are thought to have performed mainly for elite audiences,
 Answer: B
 
 Question 4:
+[COE]
 Which finding, if true, would most directly support Shcherbakova and colleagues’ claim?
 
 The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages’ capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.
@@ -43,6 +47,7 @@ D. Shcherbakova and colleagues’ analysis showed a slightly negative correlatio
 Answer: C
 
 Question 5:
+[COE]
 Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
 
 Scholars cite Pedro Páramo, the 1955 novel by Mexican author Juan Rulfo, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including José Saramago, __whose 1982 novel Baltasar and Blimunda resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Portugal__.
@@ -54,6 +59,7 @@ D. “Like many works in the Latin American magical realist tradition, Baltasar 
 Answer: C
 
 Question 6:
+[COE]
 Which finding, if true, would most directly support the researchers' hypothesis presented in the text?
 
 Some herbicides contain copper oxide nanoparticles (CuO-NPs), which can leach into waterways and soils via wastewater. In a 2012 study, Chengfang Pang and colleagues found that CuO-NPs can accumulate in the bodies of New Zealand mud snails (Potamopyrgus antipodarum). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CuO-NP bioaccumulation in invertebrates like P. antipodarum could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as African clawed frogs (Xenopus laevis), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
@@ -65,6 +71,7 @@ D. In comparable environments, P. antipodarum and X. laevis display comparable r
 Answer: D
 
 Question 7:
+[COE]
 Which statement about the difrasismo in cuāuhtli in ocēlōtl is most strongly supported by the text?
 
 Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on difrasismo, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo in cuāuhtli in ocēlōtl (literally, "the eagle, the jaguar") signifies "warrior." The device's function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.
@@ -76,6 +83,7 @@ D. Its metaphorical significance derives from the semantic equivalence of the tw
 Answer: C
 
 Question 8:
+[COE]
 Which statement, if true, would most strongly support the claim in the underlined sentence?
 
 Ningyo joruri is a form of theater that was popular in eighteenth-century Japan and that unites puppetry with playing of the shamisen, a stringed musical instrument. The popularity of ningyo joruri was due to a puppetry method called sannin zukai, in which three puppeteers operated a single puppet that was large, detailed, and capable of extensive movement and nuanced emotional expression. __Over the ensuing centuries, audience interest in ningyo joruri began to decline and sannin zukai became prohibitively expensive to mount, so that sannin zukai puppeteers could no longer make the profession a full-time career.__ Eventually, ningyo joruri productions resorted to cheaper forms of puppetry, such as karuwa ningyo, which involves only one puppeteer.
@@ -87,6 +95,7 @@ D. The few remaining theatrical companies with sannin zukai performers in the 
 Answer: D
 
 Question 9:
+[COE]
 Which quotation from a researcher would best support the student's assertion?
 
 Fish whose DNA has been modified to include genetic material from other species are known as transgenic. Some transgenic fish have genes from jellyfish that result in fluorescence (that is, they glow in the dark). Although these fish were initially engineered for research purposes in the 1990s, they were sold as pets in the 2000s and can now be found in the wild in creeks in Brazil. A student in a biology seminar who is writing a paper on these fish asserts that their escape from Brazilian fish farms into the wild may have significant negative long-term ecological effects.
@@ -98,6 +107,7 @@ D. "Through interbreeding, transgenic fish might introduce the trait of fluoresc
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support the underlined claim?
 
 When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. __But the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.__

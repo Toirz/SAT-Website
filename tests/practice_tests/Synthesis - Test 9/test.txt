@@ -1,4 +1,5 @@
 Question 1:
+[Synthesis]
 The student wants to contrast the orbits of the two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -16,6 +17,7 @@ D. Uranus’s moons, specifically Oberon and Miranda, orbit their planet in the 
 Answer: A
 
 Question 2:
+[COE]
 Which choice most effectively uses information from the given sentences to begin a narrative about Merle Oberon’s life?
 
 While researching a topic, a student has taken the following notes:
@@ -32,6 +34,7 @@ D. Merle Oberon’s story begins in Mumbai (then known as Bombay), India, in 191
 Answer: D
 
 Question 3:
+[Synthesis]
 The student wants to provide a concise explanation of how the CRISPR-Cas9 system enables targeted gene modification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -49,6 +52,7 @@ D. CRISPR-Cas9 functions by creating a gRNA-Cas9 complex that cuts a target gene
 Answer: C
 
 Question 4:
+[Synthesis]
 The student wants to make and support a generalization about linocuts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -64,6 +68,7 @@ D. Rather than reflecting an explicitly political point of view, the linocut Roo
 Answer: A
 
 Question 5:
+[COE]
 Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?
 
 While researching a topic, a student has taken the following notes:
@@ -80,6 +85,7 @@ D. The flags of some countries include symbols of animals; Kazakhstan’s, for e
 Answer: D
 
 Question 6:
+[Synthesis]
 The student wants to paraphrase a quotation from Champ and Freeman to explain the inefficiency of barter economies. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes.
@@ -96,6 +102,7 @@ D. Champ and Freeman argue that inefficient barter economies can become monetary
 Answer: B
 
 Question 7:
+[Synthesis]
 The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -112,6 +119,7 @@ D. Research by K. Heer et al. revealed that 111 of 120—that is, 93%—of the F
 Answer: B
 
 Question 8:
+[Synthesis]
 The student wants to present cultural analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -128,6 +136,7 @@ D. Emphasis analysis differs from cultural analysis in that emphasis analysis ex
 Answer: A
 
 Question 9:
+[Synthesis]
 The student wants to explain how soap removes a surface contaminant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 Notes taken by a student:
@@ -144,6 +153,7 @@ D. Dirt, an example of a hydrophobic surface contaminant, can be removed from a 
 Answer: C
 
 Question 10:
+[Synthesis]
 The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -161,6 +171,7 @@ D. One Foucault pendulum is in Spain, and the other is in Romania.
 Answer: C
 
 Question 11:
+[Synthesis]
 The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -178,6 +189,7 @@ D. A mineral with a Mohs number of 3, like calcite, is harder than one with a Mo
 Answer: B
 
 Question 12:
+[Synthesis]
 The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
 
 While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
@@ -194,6 +206,7 @@ D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 p
 Answer: A
 
 Question 13:
+[Synthesis]
 The student wants to indicate how long John Cage’s musical piece will last. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -210,6 +223,7 @@ D. John Cage is the composer of the musical piece “Organ²/ASLSP (As Slow as P
 Answer: A
 
 Question 14:
+[COE]
 Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on currency?
 
 While researching a topic, a student has taken the following notes:
@@ -226,6 +240,7 @@ D. The inclusion of notable figures is a symbolic feature on some countries' cur
 Answer: D
 
 Question 15:
+[COE]
 The student wants to explain the principle summarized by the phrase “survival of the fittest.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

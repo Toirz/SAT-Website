@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Information in the text best supports which statement about OFT?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Rodrigo A. Vásquez found to be negatively associated with foraging by olive grass mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
@@ -11,6 +12,7 @@ D. It may be weakened by the finding that the costs and benefits associated with
 Answer: B
 
 Question 2:
+[COE]
 Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
@@ -23,6 +25,7 @@ D. During periods of high lunar intensity, Azara’s night monkeys increase thei
 Answer: C
 
 Question 3:
+[COE]
 According to the text, the difference between Lang and colleagues’ findings and Wright’s findings can be attributed to which difference between white-throated round-eared bats and three-striped night monkeys?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Alexander Lang and colleagues found to be negatively associated with foraging by white-throated round-eared bats but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the bats.
@@ -35,6 +38,7 @@ D. The bats encounter different levels of lunar intensity than the monkeys do.
 Answer: A
 
 Question 4:
+[COE]
 Information in the text best supports which statement about mongoose lemurs?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
@@ -47,6 +51,7 @@ D. If the lemurs’ foraging behavior under increased lunar intensity actually r
 Answer: B
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
@@ -60,6 +65,7 @@ Answer: D
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
@@ -73,6 +79,7 @@ Answer: D
 
 
 Question 7:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
@@ -85,6 +92,7 @@ D. To argue that punctual attendance at public events signals cultivated behavio
 Answer: A
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence of Text 1?
 
 Text 1
@@ -100,6 +108,7 @@ D. By asserting that it may be possible to improve automated classification syst
 Answer: D
 
 Question 9:
+[Cross Text]
 Based on the texts, how would the author of Text 1 most likely respond to the claim about the potential benefits of Costa and colleagues' research in Text 2?
 
 Text 1
@@ -115,6 +124,7 @@ D. By emphasizing that humans do not necessarily enjoy every recording in a genr
 Answer: B
 
 Question 10:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -130,6 +140,7 @@ D. State, federal, and tribal groups involved in natural-resource management in 
 Answer: B
 
 Question 11:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -145,6 +156,7 @@ D. In the Great Lakes region, it is more important to focus conservation efforts
 Answer: C
 
 Question 12:
+[Cross Text]
 Based on the texts, the author of Text 2 would most likely agree with which statement about the study presented in Text 1?
 
 Text 1
@@ -160,6 +172,7 @@ D. The study predicted different outcomes for the northern pike than for the bla
 Answer: A
 
 Question 13:
+[COE]
 Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?
 
 Variously, researchers have closely examined obsidian artifacts to document the long-term exploitation of particular obsidian sources, as in Alyson Lighthart Ponomarenko’s 2004 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.
@@ -172,6 +185,7 @@ Answer: A
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Tristan Carter and Vassilis Kilikoglou's 2022 study used the persistence of obsidian blade production methods on the island of Crete from the Middle to Late Bronze Age as a proxy for cultural continuity on the island. Also using information gleaned from obsidian artifacts, Theodora Moutsiou's 2012 study aimed to infer details about social development in prehuman hominins, and Dennis Ogburn and colleagues' 2009 study attempted, as Carter and Kilikoglou's study did, to reconstruct aspects of social and cultural identity. However, none of the obsidian-artifact studies before 2022 sought to ascertain the longevity and stability of a culture. Therefore, while all these studies are based on a detailed examination of obsidian artifacts, only ______
@@ -184,6 +198,7 @@ Answer: D
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 While some researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Colin Renfrew’s 1975 study, others have done so to explore cultural identity, as in Marisa Lazzari and colleagues’ 2009 study. Sharing this cultural focus, Tristan Carter and Vassilis Kilikoglou noted a remarkable degree of consistency in the methods used to produce obsidian artifacts at sites on Crete from the Middle to Late Bronze Age, a finding they conclude is indicative of cultural continuity. Carter and Kilikoglou also found significant changes to building design and construction over the same period at those sites; if their conclusion about the artifacts is correct, this suggests that the changes to the buildings ______
@@ -195,6 +210,7 @@ D. are likely due to interactions with cultures outside of Crete.
 Answer: B
 
 Question 16:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Elvis Presley’s iconic jumpsuit Red Pinwheel featured rhinestones arranged in pinwheel patterns. Historians note that adornments such as these added between twenty-five and fifty pounds to each of Elvis’s stage outfits. ______ the fabric used to make the outfits was light and flexible, enabling freedom of motion.
@@ -207,6 +223,7 @@ D. There,
 Answer: A
 
 Question 17:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A blend of gabardine and wool, the material for Elvis Presley's Peacock jumpsuit was flexible enough to allow the singer to perform his signature dance moves. ____ the added weight of the suit's embroidered feathers in shades of blue and green likely limited Elvis's mobility to some degree.
@@ -219,6 +236,7 @@ D. For this reason,
 Answer: A
 
 Question 18:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Bill Belew’s talent for intricately and expertly detailed costume design was on full display with the Blue Rain jumpsuit, created for musical icon Elvis Presley to wear onstage. _______ the suit’s blue rhinestones showcased Belew’s careful attention to detail.

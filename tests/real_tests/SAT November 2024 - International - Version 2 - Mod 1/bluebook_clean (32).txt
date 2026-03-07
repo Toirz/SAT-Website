@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In the 1990s, conservationists began planting more than 500,000 native trees in the habitat of the Azores bullfinch to boost the bird's numbers. This approach was apparently ______: the Azores bullfinch's population size increased from as few as 100 birds at the end of the 1980s to around 1,300 in 2023.
@@ -10,6 +11,7 @@ D. costly
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The discoverers of the minor planet *713 Luscinia* named it after the animal genus that includes nightingales. Most of the recently discovered minor planets, however, are given only an identification number, largely due to there being over 500,000 such bodies known at present, which makes the already challenging task of finding a unique name for each nearly ______.
@@ -21,6 +23,7 @@ D. permissible
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Posed in 1970, McMullen's g conjecture ______ many mathematicians before yielding to the efforts of Karim Adiprasito, who presented a proof of it in 2018.
@@ -32,6 +35,7 @@ D. indoctrinated
 Answer: C
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although Hawaiian literature is highly heterogeneous in many ways, it is also characterized by considerable thematic ______: scholars have drawn connections linking works by writers such as David Malo and Lisa Linn Kanae to the traditional stories of the *Kanaka Maoli*, the Native Hawaiian people.
@@ -43,6 +47,7 @@ D. sophistication
 Answer: B
 
 Question 5:
+[COE]
 Which choice best describes the text's overall structure?
 
 Jessica Murray is a researcher who studies canopy soil. Canopy soil is formed in a tree's branches (its canopy) when dead leaves and other falling things collect. This material breaks down, becoming canopy soil. Canopy soil helps preserve healthy nutrient cycling (how nutrients move through the environment) in rainforests. This benefit is one reason Murray is interested in the canopy soils in large bully trees in rainforests in Costa Rica.
@@ -54,6 +59,7 @@ D. It compares the sizes of two types of trees over several years.
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Louise Erdrich's 1986 novel *The Beet Queen*. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator's sister-in-law, is Dot's mother.
@@ -67,6 +73,7 @@ D. It indicates how sad Celestine is by describing a behavior she engages in.
 Answer: C
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Wakako Yamauchi is best known for *And the Soul Shall Dance*, her 1977 play about a Japanese American family in Southern California. The play is based on a short story Yamauchi had published three years earlier. Adapting the story wasn't easy. Theater relies on dialogue between characters, but the original story features little dialogue and instead describes its characters' silent thoughts. __To transform the story into a play, Yamauchi created situations where characters reveal their thoughts by speaking them aloud during conversations with each other.__
@@ -78,6 +85,7 @@ D. It explains why Yamauchi's short story is better known than the play adaptati
 Answer: B
 
 Question 8:
+[COE]
 According to the text, what kind of material does Villasana use in her artworks?
 
 Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of artist Yavoi Kusama. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman making tortillas. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.
@@ -89,6 +97,7 @@ D. Yarn
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from José Rizal's 1891 novel *The Reign of Greed* (translated by Charles Derbyshire in 1912).
@@ -102,6 +111,7 @@ D. The sadness of Padre Florentino's music reflects his own feelings.
 Answer: D
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Like many other bird species that live only on the Hawaiian archipelago, the Kaua'i 'amakihi has adapted to life in a well-defined habitat, resulting in highly specialized physical and behavioral characteristics that aid the species in survival. However, because the Kaua'i 'amakihi is highly specialized, it is especially vulnerable to environmental changes that can disrupt the delicately balanced ecosystem in which it lives.
@@ -113,6 +123,7 @@ D. Hawaiian birds display a unique range of physical and behavioral characterist
 Answer: C
 
 Question 11:
+[COE]
 Which quotation from a translation of *The Underdogs* most effectively illustrates the claim?
 
 *The Underdogs* is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey:
@@ -124,6 +135,7 @@ D. "Before Juchipila was lost from sight, Valderrama got off his horse. Bent dow
 Answer: C
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher's example?
 
 It is common for freshwater lakes, near or above a latitude of 45° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______
@@ -135,6 +147,7 @@ D. both Lake Baikal and Kalmarinjärvi, which had more than 95 days of ice in th
 Answer: B
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the graph to complete the assertion?
 
 Urban agriculture is the practice of growing plant- or animal-based products in urban settings such as community gardens and rooftop farms. Esther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy-leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public-to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The survey results show that, on average, project leaders rated urban agriculture as contributing less to ______
@@ -146,6 +159,7 @@ D. increasing global biodiversity than to improving the local microclimate.
 Answer: A
 
 Question 14:
+[COE]
 Which choice most effectively uses a quotation from a translation of *The Clouds* to illustrate the claim?
 
 *The Clouds* is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character______
@@ -157,6 +171,7 @@ D. Strepsiades hires a sophist to teach his son and says to the sophist, “But 
 Answer: D
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Sheffield United Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally Sheffield United, whose home uniform color is mainly red, was more successful in home matches than was Huddersfield Town Association Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that in matches played at Sheffield United's home stadium, opponents may have ______
@@ -168,6 +183,7 @@ D. been aware that Sheffield United's uniform color affected their own performan
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Featured among the more than 120 photographs in the 2021 exhibition *The New Woman Behind the Camera*, Lola Álvarez Bravo's ______ "The Freeloaders" offers a glimpse back in time to 1955.
@@ -179,6 +195,7 @@ D. photograph:
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After he finally watched *North by Northwest* (1959) at last year's annual film festival, the infamously disagreeable film critic wrote a scathing review. Before that, the film he least enjoyed ______ the more recent classic *A Beautiful Mind* (2001).
@@ -190,6 +207,7 @@ D. has been
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Having devised an optical spectroscopy technique that allowed researchers to study ultrafast chemical reactions occurring within molecules, ______ known as femtochemistry. For this groundbreaking work, he won the Othmer Gold Medal and the Davy Medal from the Royal Society.
@@ -201,6 +219,7 @@ D. chemist Ahmed Zewail's introduction of a new scientific discipline would be
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his *Naturalis historia*, Pliny the Elder praised Hipparchus's star catalog, a second-century BCE list of roughly 850 different stars' celestial positions. For centuries, scholars dreamed about locating a copy of this legendary lost ______ fantasy (partially) became reality in 2022, when researchers uncovered traces of the star catalog on a palimpsest, a reused parchment.
@@ -212,6 +231,7 @@ D. work. That
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the 1960s, Greece, Malta, and dozens of other countries were allocated unique country dialing codes to route international calls. Most of the original two-or three-digit codes ______ by the International Telegraph and Telephone Consultative Committee later changed in response to geopolitical circumstances or telecommunications needs.
@@ -223,6 +243,7 @@ D. would be assigned
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many works of the Greek dramatist Euripides (5th century BCE), including his play about the hero Alcmaeon, *Alcmaeon in Psophis*, have been lost to time. Antiquarians ______ to read one of Euripides's extant works—not one known only through references to it by other authors, that is—might instead procure a copy of his *Cyclops*, a satyr play.
@@ -234,6 +255,7 @@ D. have hoped
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Cessna 310 jet, ______ helps it glide through wind with relative ease, while a boxy semitruck encounters more wind resistance, making it less aerodynamic.
@@ -245,6 +267,7 @@ D. meanwhile,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 With their distinctive cone shapes and steeply sloping sides, the volcanoes Almolonga (Guatemala) and Maungawhau (New Zealand) may look similar from afar. Tehnuka llanko and other volcanologists, ______ can tell by how each was formed that Almolonga is a composite volcano, while Maungawhau is a cinder cone volcano.
@@ -256,6 +279,7 @@ D. in addition,
 Answer: C
 
 Question 24:
+[Synthesis]
 The student wants to indicate the title of a novel that won a Nebula Award. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -275,6 +299,7 @@ D. Samuel Delaney published a science fiction novel in 1966.
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to provide an example of a sky island. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -297,6 +322,7 @@ D. In the southwestern US and northwestern Mexico, there are dozens of sky islan
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to indicate how Fulton, Missouri, got its name. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -314,6 +340,7 @@ D. Fulton, Missouri, shares its name with Fulton Street in New York City.
 Answer: B
 
 Question 27:
+[Synthesis]
 The student wants to present the study's research question. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

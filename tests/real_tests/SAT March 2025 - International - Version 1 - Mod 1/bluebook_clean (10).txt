@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ______ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.
@@ -10,6 +11,7 @@ D. varied
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 As with other river deltas, the Indus River delta is ______: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Arabian Sea.
@@ -21,6 +23,7 @@ D. unrivaled
 Answer: A
 
 Question 3:
+[COE]
 Based on the text, when the narrator describes herself as "cheating," what does she most likely mean?
 
 The following text is from Amy Tan's 1989 novel *The Joy Luck Club*. The narrator describes practicing the piano when she was a child.
@@ -34,6 +37,7 @@ D. She was lying to herself about her musical ability.
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Bram Stoker's 1911 novel *The Lair of the White Worm*. Adam is meeting his great-uncle Richard at a port.
@@ -47,6 +51,7 @@ D. It contrasts great-uncle Richard's wary first impressions of Adam with his ul
 Answer: A
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined sentence in the text as a whole?
 
 Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria *Carnobacterium viridans* and *Moraxella caviae*—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.__
@@ -58,6 +63,7 @@ D. It compares the frequencies with which horizontal gene transfer has been dete
 Answer: C
 
 Question 6:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Though John Crowley, author of *Endless Things*, is perhaps not as well known as the most widely read American writers of the past fifty years, influential figures have championed his work, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley's book *Little, Big*, Bloom praises the novel's adroit blend of what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), *Little, Big* demonstrates that a work can be both.
@@ -69,6 +75,7 @@ D. To argue that all writing must be classified as belonging to one of two categ
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from a translation of Maria Dueñas's 2009 novel *The Time in Between*. The narrator has just rented an apartment and is entering it for the first time.
@@ -82,6 +89,7 @@ D. The narrator wants to express her gratitude for the people who have helped he
 Answer: C
 
 Question 8:
+[COE]
 Based on the text, what is one reason why simulants are valuable for scientists?
 
 The soil on Mars can make missions to explore the planet challenging, as the sand and dust are known to clog filters and lock moving parts on robotic rovers and other exploration devices. Using simulants, which are materials designed to simulate different planetary surfaces, scientists are able to study the characteristics of Mars's surface. Simulants like the Mars Mojave simulant—which was developed using lava deposits from California's Mojave Desert—help scientists evaluate how well their devices will handle the surface when operated on Mars.
@@ -93,6 +101,7 @@ D. Simulants allow scientists to test the ability of research equipment to withs
 Answer: D
 
 Question 9:
+[COE]
 Which quotation from *The Wonderful Wizard of Oz* most effectively illustrates the claim?
 
 *The Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character's house as having become very faded in appearance over time: ______
@@ -104,6 +113,7 @@ D. "When Dorothy stood in the doorway and looked around, she could see nothing b
 Answer: C
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______
@@ -115,6 +125,7 @@ D. the populations of both Sao Tomé and Principe and Ethiopia in 2015 with thei
 Answer: B
 
 Question 11:
+[COE]
 Which choice best describes data from the graph that weaken the student's claim?
 
 To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country's total agricultural exports.
@@ -126,6 +137,7 @@ D. Over the five years after El Salvador joined CAFTA-DR, agricultural exports f
 Answer: B
 
 Question 12:
+[COE]
 Which choice best describes how data in the table for HD 80653 b would likely differ if it had an atmosphere?
 
 If a planet orbits in close proximity to a star and lacks an atmosphere, the planet can become so hot that magma oceans form on its surface. For three planets that could plausibly harbor magma oceans, the table shows mass, density (expressed as the ratio of the material's volume at its current density to its maximum possible density, with higher numbers indicating lower densities), and surface temperature according to a model that assumes the absence of atmosphere.
@@ -137,6 +149,7 @@ D. Its surface temperature would be below 2,300 kelvins.
 Answer: D
 
 Question 13:
+[COE]
 Which choice best describes data from the table that most effectively strengthen Pereira and colleagues' conclusion?
 
 Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira's team enrolled groups of Australian workers in two programs; one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
@@ -148,6 +161,7 @@ D. Productivity loss was fairly similar for the EET and EHP groups 12 weeks afte
 Answer: D
 
 Question 14:
+[COE]
 Which statement, if true, would most strongly support the claim in the underlined sentence?
 
 *Ningyo joruri* is a form of theater that was popular in eighteenth-century Japan and that unites puppetry with playing of the *shamisen*, a stringed musical instrument. The popularity of *ningyo joruri* was due to a puppetry method called *sannin zukai*, in which three puppeteers operated a single puppet that was large, detailed, and capable of extensive movement and nuanced emotional expression. __Over the ensuing centuries, audience interest in *ningyo joruri* began to decline and *sannin zukai* became prohibitively expensive to mount, so that *sannin zukai* puppeteers could no longer make the profession a full-time career.__ Eventually, *ningyo joruri* productions resorted to cheaper forms of puppetry, such as *kuruma ningyo*, which involves only one puppeteer.
@@ -159,6 +173,7 @@ D. The few remaining theatrical companies with *sannin zukai* performers in the 
 Answer: D
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Both Pontianak, Indonesia, and Manta, Ecuador, are located at less than one degree latitude. In other words, ______ cities basically sit right on the equator!
@@ -170,6 +185,7 @@ D. this
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 An upcoming exhibition will showcase Vincent van Gogh's drawing *Sale of Building Scrap*, which Van Gogh ______ in the city of Nuenen nearly 150 years ago.
@@ -181,6 +197,7 @@ D. completed
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The rough frog is a species of amphibian native to Australia. Currently, the frog's range ______ parts of northern New South Wales and southeastern Queensland.
@@ -192,6 +209,7 @@ D. included
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 When attempting to determine a fault's seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault's physical dimensions and geological features. For the Ione Valley fault in Lander County, Nevada, the US Geological Survey compiles such data in several ______ exchanging information with state geological surveys, by linking maps of the fault with sources that offer detailed descriptions of it, and by maintaining a database of quantitative data such as the fault's length (76 km).
@@ -203,6 +221,7 @@ D. ways by:
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A pet rabbit is held by its owner on a beach in *Boo and His Rabbit*, a photograph by British ______ Chris Killip.
@@ -214,6 +233,7 @@ D. artist,
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian's macroanalysis ______ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.
@@ -225,6 +245,7 @@ D. examines
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 1920, the US Geological Survey determined the geographic center of Tennessee using only a cardboard cutout of the state and a piece of string. ______ this apparently crude technique yielded a relatively close approximation: when the 1920 center was compared to a center determined by a computer program nearly a hundred years later, the two diverged by just a few miles.
@@ -236,6 +257,7 @@ D. Fittingly,
 Answer: A
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In astrophysics, a ring of debris orbiting a larger object within the object's Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
@@ -247,6 +269,7 @@ D. though,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the Panamanian golden frog and the cane toad—safely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians' striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.
@@ -258,6 +281,7 @@ D. For example,
 Answer: B
 
 Question 24:
+[Synthesis]
 The student wants to emphasize the different locations of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -276,6 +300,7 @@ D. At 4,200 kilometers long, the Niger River is the third longest in Africa.
 Answer: B
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
 
 While researching a topic, a student has taken the following notes:
@@ -292,6 +317,7 @@ D. Regional union federations like ITUC-Africa represent the national union fede
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the size of Tepeapulco. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -309,6 +335,7 @@ D. The municipality of Tepeapulco in Hidalgo, Mexico, covers an area of roughly 
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 2019, the Event Horizon Telescope project captured the first-ever image of a black hole. With this groundbreaking data, astronomers were able to confirm how Einstein's theory of relativity functions in extreme ______ and what the event horizon of a black hole actually looks like.
@@ -11,6 +12,7 @@ D. environments
 Answer: D
 
 Question 2:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In analyzing the film *Citizen Kane*, film critic Pauline Kael draws attention to the character of Susan Alexander. As Kael argues, Susan is not the cause of Kane’s downfall ______ through her failed opera career, she is a symptom of his hubris.
@@ -23,6 +25,7 @@ D. downfall, rather,
 Answer: C
 
 Question 3:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The mina, represented as a stylized, elongated cuneiform symbol resembling a bent rod, and the kor, depicted as a circular symbol with radiating lines, were ancient Mesopotamian units of _______ to track weight and capacity, respectively, the mina and kor have largely disappeared from contemporary usage.
@@ -35,6 +38,7 @@ D. measurement utilized
 Answer: B
 
 Question 4:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Displayed prominently in the halls of London's Tate Modern is the 52-by-40-inch acrylic ___ which was completed in 1952 by British abstract painter Barbara Hepworth.
@@ -47,6 +51,7 @@ D. artwork, Harmony.
 Answer: A
 
 Question 5:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Basaltic lava flows are volcanic rocks that form from the rapid cooling of basaltic lava, often creating extensive, smooth surfaces; they are hardly ______ many basaltic flows undergo weathering processes due to prolonged exposure to atmospheric conditions, leading to fracturing, mineral alteration, and the development of vesicles from trapped gas.
@@ -59,6 +64,7 @@ D. untouched, though
 Answer: B
 
 Question 6:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Quantum field theory—a theoretical framework in physics that combines classical field theory, quantum mechanics, and special relativity—is considered the foundation for understanding the behavior of subatomic particles. This is a theoretical _____ quantum field theory remains incomplete, its principles being derived from observations but lacking full experimental verification.
@@ -71,6 +77,7 @@ D. model, however;
 Answer: D
 
 Question 7:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Ecologist Dr. Olivia Sarantos serves on the advisory committee responsible for nominating new ecosystems to the Mediterranean Conservation Registry, which includes sites such as Aegean Reef, protected since 1876, and the Peloponnesian Wetlands, a critical habitat on the southern coastline. Sarantos does not make such determinations in isolation, _____ Conservation classifications must be ratified by a panel of twelve additional specialists.
@@ -83,6 +90,7 @@ D. nevertheless, all
 Answer: B
 
 Question 8:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Evolution of Quantum Computing, an academic platform that explores the progression of computational paradigms such as quantum annealing and topological qubits, is the culmination of decades of research by physicist Dr. Eliza Stone. She was not solitary in her ___ Dr. Robert Meyers and Dr. Patricia Liang, along with other prominent researchers, also contributed to the initiative.
@@ -95,6 +103,7 @@ D. contributions; nonetheless:
 Answer: B
 
 Question 9:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In 2022, Dr. Maria Santos became the eighth director-general of the International Maritime Organization (IMO), marking ______ the first time a Latin American representative would hold the leadership position in the organization's history.

@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which quotation from Poetry most effectively illustrates the claim?
 
 *"Poetry"* is a 1919 poem by Marianne Moore. The poem highlights an ambivalence toward poetry as the speaker acknowledges its merits while also expressing a sense of displeasure, writing,
@@ -11,6 +12,7 @@ D. “Reading [poetry], however, with a perfect contempt for it, one discovers t
 Answer: D
 
 Question 2:
+[COE]
 Which quotation from an article about One Night in Miami... would be the most effective evidence for the student to include in support of this claim?
 
 A student is writing a paper about *One Night in Miami...*, a 2020 film directed by Regina King and written by Kemp Powers. Powers adapted the film’s screenplay from his 2013 play, which he wrote after learning about a 1964 meeting that took place in Miami, Florida, between four prominent figures of the Civil Rights movement: Malcolm X, Muhammad Ali, Jim Brown, and Sam Cooke. The student claims that although Powers was inspired by this meeting, the film is best understood not as a precise retelling of historical events but rather as a largely imagined but informed representation of them.
@@ -23,6 +25,7 @@ D. “Powers could find only the most superficial historical details about the m
 Answer: D
 
 Question 3:
+[COE]
 Which quotation from a scholarly review of Braschi’s work best supports the student’s claim?
 
 Boldly mixing elements of poetry, fiction, drama, philosophy, and manifesto, Puerto Rican writer Giannina Braschi creates cross-genre literature that explores themes such as immigration and independence. Her works have inspired responses from individuals across different fields and in a wide range of formats, from musical compositions and a comic book to architecture and furniture design. In an essay, a student asserts that the production of these diverse creations by others is reflective of Braschi’s own approach to crafting literature.
@@ -35,6 +38,7 @@ D. “In addition to her creative literary works, Braschi has produced academic 
 Answer: B
 
 Question 4:
+[COE]
 Which quotation from The Souls of Black Folk most effectively illustrates the claim?
 
 *The Souls of Black Folk* is a 1903 book by W.E.B. Du Bois. In the book, Du Bois suggests that upon hearing Black folk songs, he felt an intuitive and sometimes unexpected sense of cultural recognition:
@@ -47,6 +51,7 @@ D. “The songs are indeed the siftings of centuries; the music is far more anci
 Answer: B
 
 Question 5:
+[COE]
 Which quotation from Electra most effectively illustrates the claim?
 
 *Electra* is a circa 420–410 BCE play by Sophocles, translated in 1870 by R.C. Jebb. Electra, who is in mourning for her dead father and her long-absent brother, is aware of the intensity of her grief but believes it to be justified:
@@ -59,6 +64,7 @@ D. “But never will cease from dirge and sore lament, while I look on the tremb
 Answer: C
 
 Question 6:
+[COE]
 Which finding, if true, would most directly undermine Foster’s hypothesis?
 
 When digging for clams, their primary food, sea otters damage the roots of eelgrass plants growing on the seafloor. Near Vancouver Island in Canada, the otter population is large and well-established, yet the eelgrass meadows are healthier than those found elsewhere off Canada’s coast. To explain this, conservation scientist Erin Foster and colleagues compared the Vancouver Island meadows to meadows where otters are absent or were reintroduced only recently. Finding that the Vancouver Island meadows have a more diverse gene pool than the others do, Foster hypothesized that damage to eelgrass roots increases the plant’s rate of sexual reproduction, this, in turn, boosts genetic diversity, which benefits the meadow’s health overall.
@@ -71,6 +77,7 @@ D. At several sites not included in the study, there are large, well-established
 Answer: B
 
 Question 7:
+[COE]
 Which finding from the students’ study, if true, would most strongly support Tannen’s hypothesis?
 
 Linguist Deborah Tannen has cautioned against framing contentious issues in terms of two highly competitive perspectives, such as pro versus con. According to Tannen, this debate-driven approach can strip issues of their complexity and, when used in front of an audience, can be less informative than the presentation of multiple perspectives in a noncompetitive format. To test Tannen’s hypothesis, students conducted a study in which they showed participants one of three different versions of local news commentary about the same issue. Each version featured a debate between two commentators with opposing views, a panel of three commentators with various views, or a single commentator.
@@ -83,6 +90,7 @@ D. On average, participants who watched the single commentator correctly answere
 Answer: C
 
 Question 8:
+[COE]
 Which finding, if true, would most directly support the claim in the underlined sentence?
 
 Neural networks are computer models intended to reflect the organization of human brains and are often used in studies of brain function. According to an analysis of 11,000 such networks, Rylan Schaeffer and colleagues advise caution when drawing conclusions about brains from observations of neural networks. They found that when attempting to mimic grid cells (brain cells used in navigation), while 90% of the networks could accomplish navigation-related tasks, only about 10% of those exhibited any behaviors similar to those of grid cells. __But even this approximation of grid-cell activity has less to do with similarity between the neural networks and biological brains than it does with the rules programmed into the networks.__
@@ -95,6 +103,7 @@ D. Once a neural network is programmed, it is trained on certain tasks to see if
 Answer: A
 
 Question 9:
+[COE]
 Which finding, if true, would most strongly support the researchers' prediction?
 
 In the "language nest" model of education, Indigenous children learn the language of their people by using it as a medium of instruction and socialization at pre-K or elementary levels. In their 2015 study of a school in an Anishinaabe community in Ontario, Canada, scholars Lindsay Morcom and Stephanie Roy (who are Anishinaabe themselves) found that the model not only impaired fluency in the Anishinaabe language but also enhanced students' pride in Anishinaabe culture overall. Given these positive effects, Morcom and Roy predict that the model increases the probability that as adults, former students of the school will transmit the language to younger generations in their community.
@@ -107,6 +116,7 @@ D. As they complete secondary and higher education, former students of the schoo
 Answer: D
 
 Question 10:
+[COE]
 Which quotation from O Pioneers! most effectively illustrates the claim?
 
 *O Pioneers!* is a 1913 novel by Willa Cather. In the novel, Cather depicts Alexandra Bergson as a person who takes comfort in understanding the world around her.

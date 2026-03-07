@@ -1,4 +1,5 @@
 Question 1:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.
@@ -11,6 +12,7 @@ D. It states the reasons why Adam and his great-uncle Richard decide to sleep on
 Answer: C
 
 Question 2:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include Casa de Rosado. Located in Lansing, Michigan, it focuses on the arts and cultures of Latino communities in Michigan.
@@ -22,6 +24,7 @@ D. To draw a contrast between the collection sizes of two institutions
 Answer: C
 
 Question 3:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
@@ -34,6 +37,7 @@ D. To caution people not to be so quick to dismiss the natural beauty that can b
 Answer: A
 
 Question 4:
+[Structure]
 Which choice best states the main idea of the text?
 
 At over a thousand pages across two volumes, The Fifty-Year Mission, compiled by Edward Gross and Mark A. Altman, is presented as the “complete, uncensored, unauthorized oral history” as told by the people behind the media franchise Star Trek. The work aspires to be comprehensive by, for example, including accounts from cast and crew members of every Star Trek television series and film to date. But while The Fifty-Year Mission is clearly a unique and valuable resource, it has a shortcoming common among oral histories: it lacks a clear authorial point of view that could otherwise unite the various accounts into a cohesive whole.
@@ -45,6 +49,7 @@ D. The Fifty-Year Mission represents a worthwhile attempt to thoroughly recount 
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of hotels, bicycle stores, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s North End. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
@@ -56,6 +61,7 @@ D. It introduces a research team’s study of urban neighborhoods, describes an 
 Answer: D
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán shifted his style to incorporate principles of modernism, as seen in the Plazaro Suárez House. The project’s unadorned geometric forms, typical of the modernist aesthetic, contrasted with the historically inspired architecture seen in his earlier projects in Guadalajara, such as the house in Calle Pedro Loza.
@@ -67,6 +73,7 @@ D. It provides a general statement about the career of a particular architect, h
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Though John Crowley, author of The Translator, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -78,6 +85,7 @@ D. It describes a writer’s successful career, presents two literary figures wh
 Answer: C
 
 Question 8:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Joel Brown and colleagues showed that high moonlight intensity inhibits the activity of the Arizona pocket mouse (Perognathus amplus), a result explicable in terms of benefits and costs: greater lunar intensity may not enable the mice to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Most other nocturnal mammals respond to lunar intensity variations similarly to Arizona pocket mice, but Azara's night monkeys (Aotus azarae) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.
@@ -89,6 +97,7 @@ D. It presents and explains a study result, indicates that the result is similar
 Answer: B
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from a translation of María Dueñas’s 2009 novel The Time in Between. The narrator has just rented an apartment and is entering it for the first time.
@@ -101,6 +110,7 @@ D. The narrator wants to express her gratitude for the people who have helped he
 Answer: C
 
 Question 10:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.

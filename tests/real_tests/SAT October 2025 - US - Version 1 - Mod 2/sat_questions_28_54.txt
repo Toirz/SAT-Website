@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The romantic style evident in many paintings by Jérôme-Martin Langlois tended to enhance subjects, exaggerating their beauty or heroism while hiding all imperfection, a practice that was seen as fundamentally dishonest by many painters. This led to the development of the realist style as a way to counteract this artificiality, resulting in works such as The Gleaners by Jean-François Millet, which gives us an accurate, rather than _____, portrayal of peasants picking stray wheat from a field after the harvest.
@@ -11,6 +12,7 @@ D. a subtle
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to banking records located in nations in Asia, such as China, and Eastern Europe, such as Hungary.
@@ -23,6 +25,7 @@ D. novelty
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Given that healthy genetic diversity supports honey bee population robustness—a matter of public interest given the bees’ crucial role as pollinators of many crops, such as watermelon—a study revealing a ______ of diversity among US honey bees raised concern, though it also noted the potential to enhance the number of bees carrying several newly discovered genetic variants (e.g., C3-567-USA).
@@ -35,6 +38,7 @@ D. redundancy
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Fruit growers must contend with sparrows and other birds ______ crops in orchards by pecking at fruits, leaving the fruits vulnerable to rot and diseases that can then spread among fruit trees. However, measures such as scarecrows can deter pest birds when properly deployed.
@@ -47,6 +51,7 @@ D. capturing
 Answer: B
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), Nicole M. Dallar et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on _Nola triguetrana_, a specialist feeding on a limited number of plant species, than on a species like _Himella intractata_ that feeds on several.
@@ -59,6 +64,7 @@ D. attenuates
 Answer: B
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Though John Crowley, author of The Solitudes, is perhaps not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, __Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes__—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -71,6 +77,7 @@ D. It gives a reason why a critic appreciates a certain book.
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Lee Hsiang Liow and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in collections such as those at the Smithsonian National Museum of Natural History—to investigate the evolutionary relationships between thirty-seven species of metazoans. Although this approach can yield many insights about the biological past, it remains a relatively underutilized resource in part because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
@@ -83,6 +90,7 @@ D. It exemplifies a common method of genomic data analysis, then details the dif
 Answer: A
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 mostly likely respond to the argument presented in Text 1?
 
 Text 1
@@ -98,6 +106,7 @@ D. By claiming that a proper analysis of Luttrell’s dispute with Sempringham P
 Answer: A
 
 Question 9:
+[COE]
 Information in the text best supports which statement about mongoose lemurs?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
@@ -110,6 +119,7 @@ D. If the lemurs’ foraging behavior under increased lunar intensity actually r
 Answer: B
 
 Question 10:
+[COE]
 Which quotation from a translation of Claudine at School most effectively illustrates the claim?
 
 Claudine at School is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town surrounded by forests. She suggests that spending time in the forests can alter one’s perception: ______
@@ -122,6 +132,7 @@ D. “The charm, the delight of this countryside composed of hills and of valley
 Answer: B
 
 Question 11:
+[COE]
 Which choice best describes data from the graph that support the student’s claim?
 
 In a college course on urban affairs, a student asserts that increased traffic congestion in the United States in the 1990s was present both in very large cities such as Philadelphia, Pennsylvania, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Anchorage, Alaska; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.
@@ -135,6 +146,7 @@ D. In 1992, the amount of traffic delay in the Philadelphia, Pennsylvania, area 
 Answer: A
 
 Question 12:
+[Infer]
 Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
 
 In 2002, the US state of Minnesota enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Minnesota, students first collect data on the number of insurers in the state for a few years leading up to and following 2002 and the premium prices for new policies offered by those insurers.
@@ -147,6 +159,7 @@ D. Compare changes over time in the premium price data the students have collect
 Answer: B
 
 Question 13:
+[COE]
 Which quotation from a study of California agriculture best supports the student’s claim?
 
 A student is writing a research paper on the history of irrigation in the state of California, situating the development of the Rowena Reservoir (created in Los Angeles County, California, in 1901) in a larger historical context. The student claims that innovation in irrigation techniques was driven in part by the climate in some parts of the state.
@@ -159,6 +172,7 @@ D. “The necessity of irrigation infrastructure in California today cannot be o
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
@@ -171,6 +185,7 @@ D. lawmakers gradually realized that sumptuary laws were inherently challenging 
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Gullah in Bedford-Stuyvesant. A linguist hypothesizes that some of these languages may be developing local dialects—variations that differ from the parent language in some of their vocabulary, pronunciation, and grammar—specific to New York City and partly influenced by linguistic interaction with the majority language of English. She finds during her field research in New York that some local dialects do exist and that younger speakers of nonmajority languages use those dialects more often than older speakers do. These findings suggest that ______.
@@ -183,6 +198,7 @@ D. dialects used by younger speakers in New York City tend to have more words bo
 Answer: A
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Apple's introduction of the Apple Watch in 2015 is an instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a new product category. To investigate how market share affects consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of cooking oil and butter) in household purchasing data; for each pair, Grasby et al. calculated the branded products’ market share and calculated the increase in probability of a brand in one category being purchased if the same brand was purchased in the other category. A broad inverse relationship between the two values emerged, which can most reasonably be attributed to the fact that ______.
@@ -195,6 +211,7 @@ D. the purchase probability of a brand is affected by the purchase probability o
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the iv chord for the V chord while ______ chord is a given chord’s opposite can be determined using a music visualization tool called the circle of fifths.
@@ -207,6 +224,7 @@ D. improvising which
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In their 2017 study of vegetation cover in central Nigeria, researchers Aladesanmi Agbelade et al. used the Normalized Difference Vegetation Index (NDVI), which remains a popular metric for assessing vegetation density across large areas. The index’s accuracy may be compromised in certain environmental ______ NDVI values may appear artificially low in areas with dense canopy cover, potentially resulting in an underestimation of vegetation density.
@@ -219,6 +237,7 @@ D. conditions, though,
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As the textbook Chemistry by Raymond Chang explains, every one of the periodic table’s 118 elements (including fluorine, or F) ______ shown with both its symbol and its atomic number.
@@ -231,6 +250,7 @@ D. is
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A 2016 study by researchers Andreas Keller and Leslie Vosshall evaluating how participants described the odors of various chemical compounds revealed some similarities between the odor of sample 17 (o-anisaldehyde) and that of sample 8 (DL-phenylalanine). The ______ primary descriptors both included “burnt”; however, the next most common word used for sample 17 was “sour,” while that for sample 8 was “edible.”
@@ -243,6 +263,7 @@ D. samples’ odor’s
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In her work, Mohawk artist Skawennati uses video games and other technologies to explore Native representation and participation in the digital space. Since 1989, Indianapolis’s Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2011, it awarded Skawennati one of its prestigious artist fellowships.
@@ -255,6 +276,7 @@ D. artists,
 Answer: B
 
 Question 22:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
@@ -267,6 +289,7 @@ D. offering
 Answer: C
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
@@ -279,6 +302,7 @@ D. For example,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Though the musical groups Los Tigres del Norte and Sólido are often categorized under the catchall “regional Mexican music” label, they each adhere to distinct musical traditions. The former works within the norteño tradition, which originated in late nineteenth-century northern Mexico. The latter, _____ follows the tejano tradition, with roots in mid-twentieth-century Texas and northern Mexico.
@@ -291,6 +315,7 @@ D. on the other hand,
 Answer: D
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a similarity between the two national union federations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -306,6 +331,7 @@ D. The Trade Union Congress of Namibia and the Trade Union Confederation of Buru
 Answer: B
 
 Question 26:
+[Synthesis]
 The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -322,6 +348,7 @@ D. Containing the 426.7 nm and 587.5 nm wavelengths, respectively, both carbon�
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to explain the significance of New Jersey's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

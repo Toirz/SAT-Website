@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Pacific halibut is an ectothermic (cold-blooded) fish, whereas the yellowfin tuna is a regional endotherm; unlike that of ectotherms, its body temperature remains above the ambient water temperature. The basking shark had been classified as a full ectotherm, but researchers Haley R. Dolton et al. found that its body temperature remains 1.0 to 1.5°C above ambient, which is ____ that classification.
@@ -25,6 +27,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Historical Dictionary of Science Fiction, a crowdsourced project started by lexicographer Jesse Sheidlower, is a dynamic resource. Because volunteers are constantly sharing digitized excerpts from personal sci-fi magazines, a new discovery can sometimes ______ the dictionary’s previously recorded "earliest use" of a term, such as when a 1950 citation for "warp speed" was found, replacing the older 1952 entry.
@@ -38,6 +41,7 @@ Answer: D
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 While today's theater stages are often filled with props and scenery designed to immerse audiences, this emphasis on visual spectacle is a relatively recent development. Before the 1600s, the dramatic experience was centered on language and performance. The simple, unadorned stages of the era were thus a ______ spirit to the poetic, text-driven plays, as both elements prioritized the spoken word over elaborate visual aids.
@@ -51,6 +55,7 @@ Answer: D
 
 
 Question 5:
+[COE]
 Which choice best states the purpose of the text?
 
 The *Lartington* is just one of approximately three million known historical shipwrecks spread throughout the world’s oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Mugge and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
@@ -64,6 +69,7 @@ Answer: C
 
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 One of the peculiar traits of humans is that we irrationally gravitate towards the predictable and shun risk, and whatever the reasons for this _____, it is hardly a sound basis for addressing complex, long-term challenges. This inherent tendency often impedes our ability to effectively navigate uncertainty and make innovative decisions.
@@ -77,6 +83,7 @@ Answer: B
 
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -91,6 +98,7 @@ Answer: D
 
 
 Question 8:
+[COE]
 Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
 
 The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. The play suggests that a sophist education fosters a sense of arrogant superiority over societal norms, as seen when the character ____.
@@ -104,6 +112,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Studies of the population density of cougars (Puma concolor) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. If, for example, the use of clustered camera trapping and GPS tracking of collars tends to lead to underestimates of cougar population density, that may explain why the study by ___.
@@ -118,6 +127,7 @@ Answer: B
 
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Postcranial skeletal pneumaticity (PSP), a system of skeletal air sacs, occurred in three Cretaceous clades, including pterosaurs (e.g., *Pteranodon*); past studies have hypothesized that the trait was homologous (originating from a shared ancestor). With this in mind, Tito Aureliano et al. examined fossils of common ancestors of the clades using microtomography, finding openings in bones—a possible indicator of PSP—but of sizes inconsistent with PSP. The team reported other findings contradicting the homology hypothesis as well, concluding that PSP likely evolved independently in each clade.
@@ -131,6 +141,7 @@ Answer: D
 
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 Quasars—such as 3C 279, located in the Virgo constellation—are extremely luminous galactic nuclei powered by supermassive black holes, some of which are known to have developed within the first billion years of the formation of the universe. Based on simulations they conducted, astrophysicists Daniel Whalen, Muhammad Latif, and colleagues concluded that these early quasars developed partly as a result of rare convergences of gases in space without the need for ultraviolet backgrounds or other extreme and implausible environmental conditions that models of the early universe have included to account for the presence of these quasars. If this conclusion is correct, it suggests that ___.
@@ -144,6 +155,7 @@ Answer: A
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Mulder and Spellman’s conclusion?
 
 Creeping dogwood (Cornus canadensis) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (Polygonum aviculare) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked C. canadensis and P. aviculare, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.
@@ -157,6 +169,7 @@ Answer: A
 
 
 Question 13:
+[Cross Text]
 Based on the texts, both authors would most likely agree with which statement?
 
 Text 1
@@ -173,6 +186,7 @@ Answer: B
 
 
 Question 14:
+[COE]
 Which finding, if true, would most directly support the conclusion put forward by Grasby et al.?
 
 Ultra-pasteurized milk and raw mild are substitutable products, meaning that one product can be used for the same purpose as the other, whereas tortilla chips and salsa are complementary products, meaning that they serve different purposes but are typically used together. Alicia Grasby et al. investigated whether substitutability and complementarity influence consumers’ purchasing of extended brands—products of different types sold under the same brand name—by comparing purchases of extended-brand products that are substitutable with those that are complementary. They concluded that although complementarity appears to benefit extended brands more than substitutability does on average, this may be due to an outlier in the complementary product data.
@@ -186,6 +200,7 @@ Answer: B
 
 
 Question 15:
+[COE]
 Which quotation from a music streaming platform user would best illustrate Walsh’s finding?
 
 Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
@@ -199,6 +214,7 @@ Answer: B
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 “Paper Dragons” by James P. Blaylock, *The Ape’s Wife and Other Stories* by Caitlin R. Kiernan, and “Confess the Seasons” by Charles L. Grant are all pieces of literature that have won the prestigious World Fantasy ______ the works received the honor in the categories of short story, collection, and novella, respectively.
@@ -212,6 +228,7 @@ Answer: B
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Before the Spanish arrived in the 1400s, the people of La Gomera, one of the Canary Islands, used a whistled version of their native language to “speak” to each other from far away. Amazingly, under Spanish rule, the _______ adapted their whistling skills to whistle to each other in Spanish.
@@ -225,6 +242,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of standard English?
 
 The foxtail pine (Pinus ballouriana) known as RCR 1, located in the United States, is one of the oldest known trees in the world, at 1,666 years old. With almost two millennia of climate data in its tree ____ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.
@@ -238,6 +256,7 @@ Answer: B
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For the past 20 million years, Earth’s magnetic poles in the far north and far south have remained roughly where they are today. This has not always been the ____ throughout geologic history, Earth’s magnetic poles have swapped places several times through a process called polar wandering.
@@ -251,6 +270,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The story of Chile’s electrification is perhaps most readily understood by studying developments in several key years: 1916, when engineer Arturo Salazar attended the Pan-American Scientific Conference; 1936, when the study entitled “Política eléctrica chilena” was ______ 1943, when the national electrical plan was finalized.
@@ -264,6 +284,7 @@ Answer: A
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 It was in 1995 when Swiss astronomers Michel Mayor and Didier Queloz confirmed the existence of ______ of many to be found in the following decades, orbits the star 51 Pegasi.
@@ -277,6 +298,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
@@ -290,6 +312,7 @@ Answer: A
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In a 2003 study by Mellado et al., the researchers’ aim was to analyze the diet composition of cattle in Coahuila, Mexico. ______ they aimed to analyze the ratio of three different plant subtypes within these animals’ diet: graminoids, forbs, and browses.
@@ -303,6 +326,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The title of "Of the Inequality amongst Us," an essay by French philosopher Michel de Montaigne, suggests a straightforward topic. However, Montaigne's expansive, curious mind meant that he never limited himself to one subject. ______ the essay is not just a discussion of inequality but a broad exploration of Montaigne's entire worldview.
@@ -316,6 +340,7 @@ Answer: C
 
 
 Question 25:
+[Synthesis]
 The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -335,6 +360,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to present a key distinction in the international regulatory landscape for gene editing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -353,6 +379,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to provide an example of a position in ballroom dance. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

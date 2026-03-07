@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Emerging bioacoustics technologies have ______ long-standing challenges to wildlife research by enabling scientific observation without a human presence in the field. For example, these tools have been used for continuous, unattended monitoring of insect species and for tracking nocturnal birds when they move into inaccessible areas of wetlands where traditional observation methods fail.
@@ -11,6 +12,7 @@ D. surmounted
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The traditional Puerto Rican dish mofongo, characterized broadly by its base of mashed plantains, is often ______ in its preparation and serving style. Coastal families typically serve it with fresh-caught octopus and shrimp, mountain families tend to prepare it with chicharrones, and restaurant chefs in San Juan explore innovations like topping the dish with guarapo (juice from sugarcane).
@@ -23,6 +25,7 @@ D. seasonal
 Answer: C
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although more documentaries are being made than ever before, too many seem ______ offering stories without any depth. In a refreshing contrast, Ahmir "Questlove" Thompson's 2021 documentary Summer of Soul (…or, When the Revolution Could Not Be Televised) draws from present-day interviews to supply compelling historical and social context for footage of the 1969 Harlem Cultural Festival.
@@ -35,6 +38,7 @@ D. haughty
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying sales and price data for 325 brands of laundry detergents, shaving razors, cereal bars, and other consumer packaged goods, Koushyar Rajavi and colleagues found that pricing, though hardly ______ brand success, made a much less pronounced contribution to brand success than retail distribution breadth did.
@@ -47,6 +51,7 @@ D. immaterial to
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Globally, the pastures and rangeland on which cattle, donkeys, and other livestock graze account for about 25% of all land, spanning all but one continent. Analyzing data on wild-animal abundance in areas with and without livestock grazing in China and nineteen other countries, Alessandro Filazzola et al. calculated the effect size of excluding livestock, where positive values indicated greater abundance in livestock-excluded areas relative to livestock-included ones. They found that values were positive for all vertebrates and invertebrates except detritivores (e.g., worms).
@@ -59,6 +64,7 @@ D. It notes the extent of an agricultural practice, outlines the approach utiliz
 Answer: D
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Typically, synthetic leather is petroleum based, but materials scientists searching for an ecologically sustainable alternative have used various bacteria that secrete linear chains of glucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in color. The standard process for dyeing leather generates substantial wastewater and other undesirable byproducts, so __adopting such a regimen would run counter to the ecological promise of the pellicle approach.__ To address this, Kenneth T. Walker and colleagues worked to modify _Komagataelbacter rhaeticus_ bacteria to produce a pellicle with embedded pigmentation cells, thereby allowing the pellicle to "dye" itself from the inside.
@@ -71,6 +77,7 @@ D. To illustrate how the researchers adapted the pellicle approach to overcome a
 Answer: B
 
 Question 7:
+[COE]
 Which statement, if true, would best explain why Wade makes the concession described in the text?
 
 The Heege Manuscript (HM) comprises booklets of once-unbound paper sheets on which Richard Heege copied various texts at his home in fifteenth-century England. James Wade argues that a portion of the HM was copied from the repertoire books of a working medieval minstrel, as that portion includes a narrator politely addressing an audience, references to Jon Belly-Burst and other folk characters, jokes that could be modified to make fun of one town (e.g., Holbrooke) to residents of a nearby town (e.g., Radford), and other features that are presumed to be typical of minstrels' public performances. Wade concedes, however, that his argument is ultimately circumstantial.
@@ -83,6 +90,7 @@ D. Although it is likely that medieval minstrels made use of repertoire books, n
 Answer: D
 
 Question 8:
+[Cross Text]
 Based on the texts, how would the author of Text 2 most likely respond to the statement in the underlined portion of Text 1?
 
 Text 1
@@ -98,6 +106,7 @@ D. By asserting that it is more important for a book like Capital and Ideology t
 Answer: C
 
 Question 9:
+[COE]
 Which statement about hummingbird preferences is most strongly supported by the text?
 
 High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
@@ -110,6 +119,7 @@ D. The floral traits that most strongly influence which plant species hummingbir
 Answer: D
 
 Question 10:
+[COE]
 Based on the text and the table, is the student’s conclusion reasonable?
 
 In a 2013 study, Akihito Mochizuki et al. determined that aqueous concentration of the element uranium (U) in Lake Biwa, Japan, varies nearly threefold from season to season. Such fluctuations in lakes are driven primarily by variations in lakes’ pH levels. On the basis of the findings of Mochizuki et al., a student analyzing data on concentrations of U-238, an isotope that accounts for more than 99% of all naturally occurring U, in water samples from two Chinese lakes—Gabai Lake and Tuosu Lake—hypothesizes that relative to these two lakes, Lake Biwa experiences greater seasonal variation in pH levels.
@@ -122,6 +132,7 @@ D. Yes, because the data indicate that the difference between the U-238 concentr
 Answer: B
 
 Question 11:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Visiting flowers that produce high volumes of nectar allows hummingbirds, including scaly-breasted hummingbirds, to maximize their foraging efficiency. But nectar can't be seen from outside the flower, and while __some studies have suggested that petal length may indicate nectar volume__, Marla A. Maglianesi and team found no such association among hummingbird-visited plants at Los Cusingos Bird Sanctuary and other sites in Costa Rica. The researchers hypothesize that by driving hummingbirds to visit more plants in search of high-reward flowers, plants' lack of reliable signaling may increase chances of pollination.
@@ -134,6 +145,7 @@ D. It acknowledges research findings, which weren't replicated by the study disc
 Answer: D
 
 Question 12:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Although beneficial for forestalling loss of vascular function when leaf veins are blocked, reticulate (net-like) leaf-vein topologies in plants are thought to reduce efficiency in water and sugar transport and to increase vein construction costs relative to branched topologies. __Charles A. Price and Joshua S. Weitz assessed these trade-offs by comparing vascular function in the reticulate patterns of Oncoba spinosa (fried egg tree) and other angiosperm leaf veins with that of analogous open branching patterns.__ Though reticulation did indeed have added costs, they were offset by its benefits.
@@ -146,6 +158,7 @@ D. It indicates a research team’s skepticism about the claim stated in the pre
 Answer: C
 
 Question 13:
+[COE]
 Which finding about Charadriformes and the 12 other orders identified in the recent study, if true, would best support the researchers' prediction?
 
 When a predator nears the nesting site of a pied oystercatcher (Haematopus longirostris), the bird will lead the predator away from the nest by pretending to be injured and unable to fly. This behavior is called "broken-wing display" and was long thought to be used only in the order Charadriformes (shorebirds). However, recent research has shown that species from Anseriformes (waterfowl), Cuculiformes (cuckoos), and 10 additional avian orders use the display—particularly those species that experience high levels of predation. Given that species with higher predation rates tend to have shorter incubation durations, some researchers have predicted that the defensive behavior is also associated with relatively short incubation periods.
@@ -158,6 +171,7 @@ D. The use of broken-wing display has been confirmed in 285 individual species f
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 *Puck* and other mass-media periodicals that flourished in the US in the late nineteenth and early twentieth centuries have been criticized for homogenizing the varied styles and perspectives of the many writers who contributed to them into a monotone voice marketable to a general audience. Recent scholarship on mass media, though, has focused on periodicals that catered to specific rather than general audiences (such as Half Century Magazine, which was designed for Black women) and afforded professional opportunity to writers whose work was underrepresented in more established outlets. A shift in the characterization of the era’s mass media has therefore ensued, with previous critiques giving way to the recognition that_________
@@ -170,6 +184,7 @@ D. mass-media publications merit the attention of literary scholars, as such art
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Formed over millions of years, nodules of valuable minerals cover large areas of the Clarion-Clipperton Zone (CCZ), an expanse of abyssal seabed between Hawai‘i and Mexico. Advocates of nodule mining note that extracting these minerals from land-based sources would use about ten times the projected energy of comparable seabed operations. Opponents of nodule mining concede that point but counter that most invertebrate species found in the CCZ were previously unknown and that seabed nodule removal could affect areas’ habitability for sediment-dwelling _Trophomera mangani_ for many years after operations cease, and perhaps irrecoverably for nodule-obligate inhabitants like _Haywardozoon pacificum_. Opponents therefore suggest that ______
@@ -182,6 +197,7 @@ D. while Haywardozoon pacificum communities are likely to be resilient to seabed
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a 2018 study, Ceri Shipton et al. concluded that stone tools excavated from an archaeological site in Saudi Arabia date to between 197,000 and 276,000 years ago. The reliability of the dates that Shipton et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the tools were last exposed to sunlight, ______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.
@@ -194,6 +210,7 @@ D. depends
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 To British musician Jacob Collier, substituting the II chord for the bVII chord—its opposite in pitch and tone—adds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ______ in 1985, the idea was first articulated in Swiss musicologist Ernst Levy’s posthumously published book A Theory of Harmony.
@@ -206,6 +223,7 @@ D. Collier, though;
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 "The Bones Wizard" by Alan Ryan, She Walks in Shadows by Silvia Moreno-Garcia, and "The Unconquered Country" by Geoff Ryman are all pieces of literature that have won the prestigious World Fantasy ______ the works differ in length and type of content, they received the honor in the categories of short story, anthology, and novella, respectively.
@@ -218,6 +236,7 @@ D. Award, because
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Replete with pedestrian-friendly promenades and ample seating_______Illinois indoor shopping mall designed by twentieth-century architect Victor Gruen—took European town centers as its inspiration, a fact that may surprise people today, given the quintessentially American legacy of indoor shopping malls.
@@ -230,6 +249,7 @@ D. areas, Lakehurst Mall—an
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The radial velocity method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the Neptune-like planet DMPP-1 b; at 296 light-years away, the gas giant 42 Draconis b; and, as of 2023, over 1,000 other exoplanets that are too far away and dim to be observed directly.
@@ -242,6 +262,7 @@ D. Earth: at 204 light-years away,
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Karl Popper’s argument that scientific hypotheses must be theoretically refutable, termed the criterion of falsifiability, rejects the confirmationist ______ verifiability as the essential criterion for scientific hypotheses. To Popper, a statement like “all spiders have eight legs” is scientific not because it can be verified, or proved true, but because it can theoretically be proved false.
@@ -254,6 +275,7 @@ D. argument, positing
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the broad gauge Victorian Goldfields Railway line in Victoria couldn’t travel on the Hotham Valley Railway in Western Australia, which used narrow gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the “mixed gauge muddle.”
@@ -266,6 +288,7 @@ D. Hence,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Pecorino Siciliano from Sicily and Montasio from Veneto, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.
@@ -278,6 +301,7 @@ D. rather,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 John Rankin’s home in Ohio was one of dozens of stops on the Underground Railroad (the network of people and places that some enslaved people used to escape to freedom). The word “underground” may lead one to assume that Rankin kept his antislavery views a secret. ______ his views were quite well known.
@@ -290,6 +314,7 @@ D. Additionally,
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to explain how the radial velocity method is used to detect exoplanets. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -307,6 +332,7 @@ D. The gravitational forces of 16 Cygni B b, an exoplanet detected in 1996 by as
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to place the independence of Togo in historical context, providing a quotation as support. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -324,6 +350,7 @@ D. The year 1960 was transformative for Africa—“the dawn of a new era,” ac
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to use a quotation from an expert to recommend a specific painting at the NPG. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

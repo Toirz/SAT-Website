@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 A student is writing a paper on the global rise of the home video game industry during the 1980s. The student is researching the relative popularity of various genres of console and computer games. Looking at the information in the table, the student finds that the games in the genres of ______.
@@ -13,6 +14,7 @@ D. puzzle and platformer outsold the games in the other genres.
 Answer: D
 
 Question 2:
+[COE]
 Which choice most effectively uses data from the table that weaken the student’s prediction?
 
 One antipredator defense that the pied oystercatcher uses to protect its nest and young chicks is called “broken-wing display”; this form of deceptive defense involves an adult bird pretending to be injured and unable to fly in order to distract an approaching predator. Broken-wing display has been documented in 285 bird species from 13 different avian orders. A student predicts that bird species with mean body masses greater than 150 grams do not use deceptive defenses because larger birds tend to be more effective than smaller birds at using aggressive defenses to protect nests from predators, making deceptive defenses unnecessary.
@@ -25,6 +27,7 @@ D. The common ringed plover uses broken-wing display, but the horned grebe does 
 Answer: A
 
 Question 3:
+[COE]
 Which choice most effectively uses data from the table to complete the conclusion?
 
 In an extensive review of existing literature, Léna de Framond and team cataloged the prevalence of broken-wing display—a defensive behavior observed in Haematopus longirostris (pied oystercatcher) and many other species—throughout the Aves class. Documentation of the display in 285 species across 52 families suggests the behavior likely evolved independently multiple times, prompting the team to consider ecological and life-history characteristics with hypothesized associations to the behavior’s emergence, including traits related to reproduction investment and future reproduction potential.
@@ -37,6 +40,7 @@ D. Among species with more than one parental incubator, the use of broken-wing d
 Answer: B
 
 Question 4:
+[COE]
 Which choice best describes data from the table that weaken the students’ claim?
 
 **Broken-Wing Display in Various Bird Species**
@@ -51,6 +55,7 @@ D. The common sandpiper, in the order Charadriiformes, is known to perform broke
 Answer: B
 
 Question 5:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Growth Rates of Fungal and Bacterial Microbes in One ISS Dust Sample, by Relative Humidity and Exposure Duration
@@ -65,6 +70,7 @@ D. are less concentrated in a few taxa.
 Answer: B
 
 Question 6:
+[COE]
 Which statement about fungal spores in ISS dust is best supported by the information in the text and the table?
 
 Fungal Spore Concentrations in One ISS Dust Sample, by Experimental Treatment
@@ -79,6 +85,7 @@ D. A spore count of 7,722,000/mg of dust aboard the ISS is cause for concern onl
 Answer: B
 
 Question 7:
+[COE]
 Which statement about microbes aboard the ISS is best supported by the information in the text and the table?
 
 Fungal Concentrations in One Dust Sample, by Experimental Treatment
@@ -93,6 +100,7 @@ D. Fungal growth in dust could be almost entirely prevented aboard the ISS if re
 Answer: B
 
 Question 8:
+[COE]
 "Which choice most effectively uses data from the table to complete the assertion?"
 
 Laila Nazir and colleagues found that tilling—the practice of turning soil with hoes, plows, or other machines before planting crops—was associated with an increased yield of rice. But some studies of other crops have found the opposite effect, raising the question of whether the increase in yield found by Nazir and colleagues is specific to their study crop. However, this doesn't seem to be the case: ______
@@ -106,6 +114,7 @@ D. G.F. Botta and colleagues found a similar association in a study using soybea
 Answer: D
 
 Question 9:
+[COE]
 Which choice best describes data from the table that weaken the student’s claim?
 
 **Studies of the Effects of Tilling vs. No Tilling on Crop Yields**
@@ -120,6 +129,7 @@ D. The finding that tilling is associated with an increase in crop yield has not
 Answer: A
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the assertion?
 
 **Studies of the Effects of Tilling vs. No Tilling on Crop Yields**

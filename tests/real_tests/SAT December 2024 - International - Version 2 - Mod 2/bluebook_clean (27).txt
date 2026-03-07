@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Possessing an outstanding collection of public art, Chicago has everything from monumental sculptures like Pablo Picasso's Chicago Picasso at sites like Daley Plaza to innovative street art like Justus Roe's mural Standing Wave located on South State Street. The ______ public art on display in the city can thus satisfy any art lover.
@@ -10,6 +11,7 @@ D. confusion about
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Carl Franklin's 1995 film *Devil in a Blue Dress* as "picture-perfect" and Cheryl Dunye's 1996 film *The Watermelon Woman* as "heartbreaking and inspiring." Fans of the two films hope that such ______ will attract new audiences to these works.
@@ -21,6 +23,7 @@ D. impartiality
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ______ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
@@ -32,6 +35,7 @@ D. exploit
 Answer: B
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Though few critics consider Vasily Grossman's novel *Stalingrad*—which focuses on the experience of the Soviet Union in the early years of World War II—to be as well written as his later book *Everything Flows*, some compliment it despite the damage ______ Soviet censors: Gary Saul Morson in *The New York Review of Books* called the novel "remarkably bold."
@@ -43,6 +47,7 @@ D. concealed from
 Answer: B
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a *thermopolium*. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.
@@ -54,6 +59,7 @@ D. To compare ancient artworks with modern ones
 Answer: B
 
 Question 6:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
 
 **Text 1**
@@ -69,6 +75,7 @@ D. The barriers used in Weremijewicz and colleagues' study effectively excluded 
 Answer: D
 
 Question 7:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
 
 **Text 1**
@@ -86,6 +93,7 @@ D. Organ pipe cacti grow best when planted in shaded areas, while tepary beans d
 Answer: C
 
 Question 8:
+[COE]
 Which choice best describes the finding made by Colquhoun, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecologic circumstances. One such circumstance is lunar intensity, which Nathan Upham and John Hafner found to be negatively associated with foraging by desert kangaroo rats but Ian C. Colquhoun found to be positively associated with foraging by black lemurs. This discrepancy is explicable in terms of OFT: the lemurs' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the kangaroo rats.
@@ -97,6 +105,7 @@ D. During periods of high lunar intensity, black lemurs increase their reliance 
 Answer: A
 
 Question 9:
+[COE]
 Which finding, if true, would most directly support Martinez and colleagues' conclusion?
 
 The bird species *Cercomacra cinerascens* (the gray antbird) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *C. cinerascens*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *C. cinerascens* associates *T. caesius* alarm calls with danger.
@@ -108,6 +117,7 @@ D. Other bird species than *C. cinerascens* also showed a tendency to freeze in 
 Answer: B
 
 Question 10:
+[COE]
 Which quotation from a translation of *The Underdogs* most effectively illustrates the claim?
 
 *The Underdogs* is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela makes a comparison using natural imagery to convey the mental state of the protagonist, Demetrio: ______
@@ -119,6 +129,7 @@ D. "Demetrio laid a hand on his hair which covered his ears, and stretching hims
 Answer: B
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the researcher's example?
 
 It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______
@@ -130,6 +141,7 @@ D. both Lake Kegonsa and Oulujarvi, which had more days of ice in the winter of 
 Answer: C
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support Shcherbakova and colleagues' claim?
 
 The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages' capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.
@@ -141,6 +153,7 @@ D. Shcherbakova and colleagues' analysis showed a slightly negative correlation 
 Answer: C
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the graph to complete the example?
 
 Neuroscientist Kiyohito Ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P6 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______
@@ -152,6 +165,7 @@ D. P6 would derive more aesthetic pleasure from abstract paintings than from cub
 Answer: A
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as *Y Goroddin*, composed between the 7th and 11th centuries and the *Mabinogion* from the 12th and 13th centuries. Sir Thomas Malory's 15th-century text *Le Morte d'Arthur* was an attempt to compile these stories into a coherent narrative. Many of Malory's sources derive from Geoffrey of Monmouth's *History of the Kings of Britain*, written in the 1130s. While neither *History* nor any works that predate it mention Arthur's famous Round Table at which his knights assembled, *Le Morte d'Arthur* does, suggesting that ______
@@ -163,6 +177,7 @@ D. Geoffrey of Monmouth's accounts of Arthurian legends in *History* are more si
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Erin P. Walsh and colleagues found in a 2017 study of hermit crabs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of arthropods showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for arthropods. Therefore, the results of the meta-analysis suggest that ______
@@ -174,6 +189,7 @@ D. the differences that studies attribute to exposure to anthropogenic noise are
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The term "retroflex" derives from Latin and means "bent back," an apt description for the branch of consonants—retroflex consonants—pronounced with the tongue curling up and back in the mouth. In many languages, including English, these consonants are ______ in some dialects of Mandarin, however, four such consonants ("ch," "sh," "zh," and "r") are relatively common.
@@ -185,6 +201,7 @@ D. rare,
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ______ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).
@@ -196,6 +213,7 @@ D. photosynthesis and
 Answer: A
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine's root system, ______ extensive networks, which can be used to transport nutrients between trees.
@@ -207,6 +225,7 @@ D. forming
 Answer: B
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Though he would go on to work with many respected bands, including John McLaughlin and the Free Spirits on their album *Tokyo Lie*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.
@@ -218,6 +237,7 @@ D. drummer, Dennis Chambers
 Answer: B
 
 Question 20:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In his painting *At the Cycle Race Track*, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger's painting doesn't technically represent a fourth dimension, humans can only see in three dimensions. ______ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
@@ -229,6 +249,7 @@ D. That said,
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a "basket" of goods and services priced at 100 US dollars (USD) in the United States would have cost 59 USD in fellow OECD member ______
@@ -240,6 +261,7 @@ D. nation Lithuania.
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 If you could travel in a spaceship to Elara, one of Jupiter's many moons, you'd find a moon with a prograde orbit. This means that Elara orbits Jupiter in the same direction that Jupiter rotates on its axis. ______ at Harpalyke, another Jovian moon, you'd find an example of a retrograde orbit, with the moon revolving around Jupiter in the opposite direction.
@@ -251,6 +273,7 @@ D. Elsewhere,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 2015, geologist Peter Rogerson recalculated the geographic center of Illinois, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state's USGS-determined center--a point 1.5 miles southeast of the municipality of Rochester--was inaccurate.
@@ -262,6 +285,7 @@ D. Next,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 On June 20, 1932, aviator Amelia Earhart received a ticker-tape parade in New York City in recognition of her transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation. ______ Earhart's parade was just one of 16 honoring pilots.
@@ -273,6 +297,7 @@ D. Therefore,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -291,6 +316,7 @@ D. The Bauhaus was founded in 1919, and Grete Stern began attending in 1930.
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -308,6 +334,7 @@ D. Twisting an object will generally cause its temperature to increase, a proces
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to specify the total mass of Earth's oxygen relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

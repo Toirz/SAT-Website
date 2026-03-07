@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which finding, if true, would best support the linguist’s hypothesis?
 
 The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
@@ -10,6 +11,7 @@ D. Languages that emerged in Southeast Asia tend to have more sounds than langua
 Answer: C
 
 Question 2:
+[COE]
 Which quotation from a study of irrigation best supports the student’s claim?
 
 A student is writing a research paper on the history of irrigation in the United States, situating the development of the Bear River Reservoir (created in Amador County, California, in 1900) in a larger historical context. The student claims that innovation in irrigation practices throughout the United States has led to designs with increased efficiency.
@@ -21,6 +23,7 @@ D. “Competition for water as a scarce economic resource inspired the developme
 Answer: D
 
 Question 3:
+[COE]
 Which detail, if true, would most directly support the team’s conclusion?
 
 Assessing the role of forests as sinks for airborne microplastics that would otherwise continue to disperse in the atmosphere, Akane Miyazaki and her team measured concentrations of plastic particulates on leaves from konara oak trees in Japan. The team used three separate extraction methods: an ultrapure water rinse, a rinse combined with ultrasonic waves, and an alkaline solution treatment that removes epicuticular wax (a surface coating on most land plants to which particles can adhere). The concentrations of particulates recovered were 7.6 percent for water extraction, 38.4 percent for ultrasonic extraction, and 53.8 percent for alkaline extraction, leading the team to conclude that previous assessments have likely underestimated forest canopies’ capacity as sinks.
@@ -32,6 +35,7 @@ D. Most studies of microplastic accumulation on leaves have involved the applica
 Answer: A
 
 Question 4:
+[COE]
 Which finding, if true, would most directly support Núñez and colleagues’ claim?
 
 Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as jare, a past-oriented expression that translates to “day before yesterday,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Hebrew speakers often refer to the right/left axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.
@@ -43,6 +47,7 @@ D. Yupno speakers were observed making temporal gestures both indoors and outdoo
 Answer: B
 
 Question 5:
+[COE]
 Which finding, if true, would most directly challenge the second team's claim?
 
 Michelle R. Sato, Henry P. Torres, and David L. Reagan explored the development and purpose of rapid color-shifting in freshwater cichlids. Their investigation revealed that during non-harmful mock threats, about a third of the cichlid species tested displayed color transformations, varying from slight hue shifts in Neolamprologus brichardi to intense bursts of color in Tropheus moorii. A separate group of researchers then proposed that these vivid displays are mainly intended to signal and interact with other members of the species.
@@ -54,6 +59,7 @@ D. The cichlids known to shift color in response to simulated threats generally 
 Answer: D
 
 Question 6:
+[COE]
 Which finding, if true, would most directly illustrate the researchers’ finding?
 
 Adelaide, Australia, has installed engineered structures along 53% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the brown pelican, the red knot, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
@@ -65,6 +71,7 @@ D. Waterbird communities at Curtis, a site with a high percentage of shoreline c
 Answer: C
 
 Question 7:
+[COE]
 Which finding, if true, would most directly illustrate the researchers' finding?
 
 Vancouver, Canada, has installed engineered structures along 75% of its shoreline to protect infrastructure from storm surges and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the mallard, the common loon, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
@@ -76,6 +83,7 @@ D. Waterbird communities at Curtis, a site with equal percentages of shoreline c
 Answer: C
 
 Question 8:
+[COE]
 Which finding, if true, would most directly support the researchers’ assertion?
 
 In an international collaboration, Elaine Ostrander, Alan K. Outram, and other researchers probed the evolutionary history of size variation in modern dogs. Scientific consensus held that early dogs had large body mass and that a genetic driver of smaller size in some breeds (e.g., bulldogs) developed only within the last 20,000 years as a result of selective breeding for characteristics favored by humans. Ostrander et al. assert that this explanation is flawed, having discovered that a mutation responsible for variants of IGF1, a gene found in many mammals that regulates production of insulin-like growth factor 1, is ubiquitous in domestic dog breeds.
@@ -87,6 +95,7 @@ D. One variant of IGF1 is found only in smaller dog breeds like bulldogs and app
 Answer: C
 
 Question 9:
+[COE]
 Which finding from the study, if true, would most directly support the team’s conclusion?
 
 Neurobiologists Laura Cuaya, Raul Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Barak (a golden retriever), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
@@ -98,6 +107,7 @@ D. The difference between the pattern of brain activity a dog showed when hearin
 Answer: D
 
 Question 10:
+[COE]
 Which finding, if true, would most strongly support the researchers' conclusion?
 
 The utilization of deceptive antipredator displays is well documented in the little ringed plover (Charadrius dubius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna le Fraonard et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 avian orders, including Caprimulgiformes and Gruiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.

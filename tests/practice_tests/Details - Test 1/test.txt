@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which quotation from Memoirs of Elleanor Eldridge most effectively illustrates the claim?
 
 Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors assert that people don’t need to be famous to be worthy of memoirs, writing, _____
@@ -10,6 +11,7 @@ D. “How careful ought we to be to speak nothing but the truth, even in regard 
 Answer: C
 
 Question 2:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The following text is from William Shakespeare’s circa 1611 play The Winter’s Tale. Camillo has been away from his home in Sicily and serves in the court of Polixenes, the king of Bohemia. He has asked Polixenes for permission to return to Sicily.
@@ -23,6 +25,7 @@ D. It conveys Camillo’s recognition that one benefit his presence may afford t
 Answer: D
 
 Question 3:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 *The Far Side of the World*, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Like the rest of the books in the series, The Far Side of the World has a rather abrupt ending, but the following book, *The Reverse of the Medal*, picks up neatly where The Far Side of the World leaves off__. Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as *John Galsworthy’s The Forsyte Saga*.
@@ -34,6 +37,7 @@ D. It demonstrates that those readers who most enjoy reading The Reverse of the 
 Answer: A
 
 Question 4:
+[COE]
 Which quotation from the article would best illustrate the theater historian’s claim?
 
 Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.
@@ -45,6 +49,7 @@ D. “The company presented actos, short comedy sketches, that often relied on e
 Answer: D
 
 Question 5:
+[Details]
 Which choice best states the function of the underlined portion in the text as a whole?
 
 Cuttlefish and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
@@ -56,6 +61,7 @@ D. It describes an earlier use of a tool the researchers used in the praying man
 Answer: B
 
 Question 6:
+[COE]
 In pointing to the apparent job decline in the manufacturing sector, the analysts mentioned in the passage intend to raise a question whether
 
 Although some analysts point to specific sectors like manufacturing, where job numbers appear to have fallen, a recent economic report's conclusion is that in recent years the national economy has experienced faster overall job growth than in previous decades. It has long been suspected by economists that several factors are responsible for more significant shifts in employment in modern economies than in the past. First, much of the economy is now based on technology, which is highly dynamic; as some jobs become obsolete, new ones are created, which serves to accelerate labor market churn. Second, the globalized nature of the market means less capital is needed to shift production. Third, less economic value is lost to regulatory friction in a deregulated environment than in a highly regulated one.
@@ -67,6 +73,7 @@ D. The factors that cause employment change in the manufacturing sector are diff
 Answer: B
 
 Question 7:
+[COE]
 Which quotation from Poems most effectively illustrate the claim?
 
 *Poems* is an 1895 collection of poetry by Frances E.W.Harper. In one of Harper’s poems, the speaker criticizes activists who champion humanitarian causes in other countries while overlooking local concerns, saying ____
@@ -78,6 +85,7 @@ D. “When ye plead for the wrecked and fallen. /The exile from for distant shor
 Answer: D
 
 Question 8:
+[COE]
 Based on the text, what is one disadvantage of some conventional thermal preservation methods?
 
 The food industry has long used thermal technologies to preserve food in large batches. Recent advancements in radiofrequency heating were made through research in Mexico on the preservation of wheat flour. Radiofrequency heating is generally considered to be an improvement over more conventional thermal preservation methods: whereas conventional methods transfer energy from the surface of a food to its interior, radiofrequency heating uses precisely controlled radio waves to generate heat within the food itself, thus reducing industrial cooking times.
@@ -89,6 +97,7 @@ D. They are especially vulnerable to technological breakdowns.
 Answer: B
 
 Question 9:
+[COE]
 Based on the text, when the narrator describes herself as "cheating," what does she most likely mean?
 
 The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.
@@ -101,6 +110,7 @@ D. She was lying to herself about her musical ability.
 Answer: A
 
 Question 10:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Celebrated for their cinematic works *Crimson Sky* and *Echo Chamber*, director Sofia Anwar frequently collaborated with screenwriter Kenji Tanaka. Their 2022 film adaptation of the classic novel *The Gilded Cage* bears little resemblance to the original text. Anwar and Tanaka showed no interest in satisfying purists who expected a literal translation of the book to the screen. __They changed the novel’s 19th-century setting to the present day, combined multiple side characters into a single composite figure, and fundamentally altered the protagonist’s motivations__. But Anwar and Tanaka's boldness in reimagining the novel's core elements resulted in one of the most thought-provoking films of the decade.

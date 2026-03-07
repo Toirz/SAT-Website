@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word "obtrusive" most nearly mean?
 
 The following text is from Thomas Hardy's 1874 novel Far from the Madding Crowd. In the text, the narrator describes an open tract of land.
@@ -13,6 +14,7 @@ Answer: D
 
 
 Question 2:
+[COE]
 Based on the text, when the narrator describes herself as "cheating," what does she most likely mean?
 
 The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.
@@ -27,6 +29,7 @@ Answer: A
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Siemowit is said to have ruled what eventually became Poland in the 9th century. Unlike that of Bezprym or other well-attested figures from early Polish history, Siemowit's existence has been the subject of debate, as our knowledge of him is ____ somewhat dubious oral traditions first written down hundreds of years after the events they describe.
@@ -40,6 +43,7 @@ Answer: C
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Some ethicists challenge the concept of personal character, claiming that if it were meaningful, situational factors could not, as they clearly can, induce behavior contrary to that character. As Buchana Kamtekar observes, this argument is difficult to reconcile with our lay conception of character: we expect a person of helpful character to be frequently helpful, not ____ helpful.
@@ -53,6 +57,7 @@ Answer: D
 
 
 Question 5:
+[COE]
 Which finding, if true, would most directly support the US transportation experts’ claim?
 
 As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
@@ -66,6 +71,7 @@ Answer: A
 
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” __Does the concept of culture encompass knowledge, or habits, or both these things and others? __For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
@@ -79,6 +85,7 @@ Answer: C
 
 
 Question 7:
+[Cross Text]
 Based on the texts, the research team in Text 1 and the author of Text 2 would most likely agree with which statement about mossaurs?
 
 Text 1
@@ -95,6 +102,7 @@ Answer: B
 
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 Community science involves professional scientists collaborating with members of the public to study a topic. This approach to research can promote community engagement by offering insight into the daily life of a scientist. It’s also very effective because it greatly increases the amount of data that can be collected, such as when biologist Abbigail Merrill and colleagues studied butterfly size and its relation to behavior and used findings reported by hundreds of students and community members in northwestern Arkansas.
@@ -108,6 +116,7 @@ Answer: B
 
 
 Question 9:
+[COE]
 Which choice best describes the finding made by Wright, as presented in the text?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Patricia C. Wright found to be positivelyassociated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
@@ -121,6 +130,7 @@ Answer: C
 
 
 Question 10:
+[COE]
 Which quotation from a philosopher’s analysis of The Politics would best support the student’s claim?
 
 A stdent in a political science course is writing a paper on Aristotle’s *The Politics*, in which Aristotle offers his opinion on political instability and gives advice on how constitutions can be preserved. Aristotle observes that different forms of government can fail in different ways—for example, oligarchies might grant power to military leaders during wartime who refuse to relinquish that power during peacetime—but some methods of preserving order apply across all forms of government. A student claims that Aristotle argues the very existence of a consitution hinges upon leaders and citizens keeping it in mind.
@@ -134,6 +144,7 @@ Answer: C
 
 
 Question 11:
+[COE]
 Which choice best describes data from the graph that support the team's conclusion?
 
 Studies have shown that plants usually have a negative electrical charge, while bees and other pollinators tend to have a positive charge. Because negatively and positively charged objects attract, a team of researchers examined whether this mechanism plays a role in the transmission of pollen between plants and pollinators. The researchers' experiments showed that positive charges above 200 picocoulombs (pC) could draw pollen grains to a pollinator, so they concluded that both bumblebees and European peacock butterflies can attract pollen.
@@ -148,6 +159,7 @@ Answer: A
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the US transportation experts’ claim?
 
 As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
@@ -161,6 +173,7 @@ Answer: A
 
 
 Question 13:
+[COE]
 According to the text, the difference between Lang and colleagues’ findings and Wright’s findings can be attributed to which difference between white-throated round-eared bats and three-striped night monkeys?
 
 Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Alexander Lang and colleagues found to be negatively associated with foraging by white-throated round-eared bats but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the bats.
@@ -174,6 +187,7 @@ Answer: A
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 As observed in a 2011 study by Emilio García-Robledo and Alfonso Corzo, macroalgal proliferation may have a suppressive effect on the abundance of cyanobacteria and other microphytobenthos (MPB)—chlorophyll producing microbes inhabiting marine sediment—in part by reducing the amount of sunlight available to MPB. Examining benthic chlorophyll concentrations (a widely used proxy for MPB biomass) in mudflats in Curlow Bay and other coastal sites in Virginia, Alice F. Beiserman and Michael L. Pace found that those concentrations did not negatively correlate with macroalgal proliferation. However, they noted that MPB may respond to low-light conditions by producing higher-than-normal concentrations of chlorophyll, and they thus concluded that ______.
@@ -187,6 +201,7 @@ Answer: A
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the white-headed langur (Trachypithecus poliocephalus). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ____.
@@ -200,6 +215,7 @@ Answer: A
 
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stephane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerngren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ______.
@@ -213,6 +229,7 @@ Answer: C
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The implementation of multifunctional green infrastructure is increasingly favored over single-use recreational areas. This modern approach ______ the negative effects of urban sprawl, unlike conventional landscaping which often requires intensive irrigation, offers a more sustainable and resilient model for city planning.
@@ -226,6 +243,7 @@ Answer: A
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a report dated March 22nd, 2021, ecologist Anya Sharma tries to convince the National Parks Board that the forest's decline in biodiversity, often attributed to climate change among environmental activists, ______ due to issues local landowners have about implementing conservation measures with costly ecosystem-based approaches.
@@ -239,6 +257,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While the ancient Celts—Iron Age peoples who inhabited parts of western and central Europe—weren’t a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.
@@ -252,6 +271,7 @@ Answer: C
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With the short documentary Rick Bartow: The Man Who Made Marks, Osage and Cherokee director Nanette Kelley joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about the art of painter and musician Rick Bartow.
@@ -265,6 +285,7 @@ Answer: B
 
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Pluto, a celestial body discovered in 1930, was not officially classified as the solar system's ninth major planet by the International Astronomical Union (IAU) in 2006. ______ Pluto was reclassified by the IAU as a dwarf planet. The dwarf planet category was created to accommodate celestial bodies that are massive enough to be rounded by their own gravity but have not cleared their neighboring region of other objects.
@@ -278,6 +299,7 @@ Answer: B
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Portuguese researcher Isabel C.F.R. Ferreira reports that the caffeic acid in termite mushrooms benefits the mushroom by combating harmful molecules called free radicals.______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.
@@ -291,6 +313,7 @@ Answer: B
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Visually distinguishing the common raven (Corvus corax) from the Chihuahuan raven (Corvus cryptoleucus) can confound even seasoned bird watchers. ______ the two species share similarities that—at times—make the birds appear virtually identical. Size, though, remains a differentiating feature: the common raven tends to be larger.
@@ -304,6 +327,7 @@ Answer: C
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 1845, the United States District Court for the state of Iowa was established. Initially, the court’s jurisdiction was a single district that encompassed the entire state, but as Iowa’s population grew, this single district began to struggle to serve the needs of everyone in the state. ______ the court’s jurisdiction was subdivided into two districts, each with its own district court.
@@ -317,6 +341,7 @@ Answer: A
 
 
 Question 25:
+[Synthesis]
 The student wants to emphasize a similarity between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -335,6 +360,7 @@ Answer: B
 
 
 Question 26:
+[Synthesis]
 The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -354,6 +380,7 @@ Answer: C
 
 
 Question 27:
+[Synthesis]
 The student wants to explain why nautical miles are used to measure distances in seafaring navigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

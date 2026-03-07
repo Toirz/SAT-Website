@@ -1,4 +1,5 @@
 Question 1:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In 2023 literary scholar Jeremy Douglass cautioned technology investors and enthusiasts who predict conventional books’ ultimate displacement by newer forms of media. Douglass observed that __the concept of an “interactive” text is much older than technologists assume, extending back to the first time readers scratched notes into a text’s margins__. In addition, newer media, such as video games, haven’t replaced older forms of entertainment, such as comic books, but rather exist alongside them. Douglass believes that rather than supplanting books, technology is simply making new forms of expression possible.
@@ -10,6 +11,7 @@ D. It provides a historical anecdote about the technological challenges involved
 Answer: C
 
 Question 2:
+[COE]
 Which quotation most effectively illustrates the claim?
 
 The Choice is a poem written by Emily Frost in 1910. In this poem, the author conveys the idea that the outcome individuals receive is positively correlated to the decisions they make: _____
@@ -21,6 +23,7 @@ D. “For those who choose to walk with grace, / Shall lose their dreams in tend
 Answer: C
 
 Question 3:
+[COE]
 Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
 
 The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character_____
@@ -32,6 +35,7 @@ D. Socrates, a sophist, explains why he studies astronomy while sitting in a bas
 Answer: D
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
@@ -44,6 +48,7 @@ D. It suggests that Victor did not discover what he wanted to know from the scie
 Answer: D
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Companies involved in petroleum distribution hold petroleum stockpiles among their assets, which a social attitudes increasingly favor using less carbon-intensive sources of energy, could become liabilities if their market value falls below what companies have invested to acquire and maintain them. This phenomenon is known as “asset stranding” and poses an existential threat to these companies. The significance to investors of the potential for stranding is evident, and companies ought to disclose such risks to them, __but it is no less important to ensure that when unsustainable companies involved in petroleum distribution cease operations, those companies’ employees are assisted in their transitions to other jobs.__
@@ -55,6 +60,7 @@ D. It provides general background information on a phenomenon that is discussed 
 Answer: C
 
 Question 6:
+[COE]
 The reference to Simmons and Fischer is included by the author primarily to achieve which of the following?
 
 Biologists investigating aposematism (warning coloration) in poison dart frogs from the Amazon basin have observed that many populations exhibit significant pattern variation. These variations can manifest as entirely new arrangements of spots or stripes. In some instances, the underlying hue is altered. However, the idea that these alterations are primarily for improving camouflage is doubted by researchers Simmons and Fischer. A large number of populations with varied patterns are found in homogenous environments, a fact they highlight. Moreover, when adaptations to background do occur, they are typically the result of gradual genetic selection, which is a far more protracted evolutionary process than individual color changes, suggesting other selective pressures are at play.
@@ -66,6 +72,7 @@ D. Present a hypothesis about why poison dart frogs have pattern variations.
 Answer: C
 
 Question 7:
+[COE]
 Based on the text, which choice best expresses the narrator's characterization of the Seine?
 
 The following text is adapted from Guy de Maupassant's 1884 short story "A Recollection," from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
@@ -78,6 +85,7 @@ D. The Seine's loveliness is surpassed only by that of Paris.
 Answer: C
 
 Question 8:
+[COE]
 Based on the text, what can be concluded about the declining use of phage therapy in the mid-twentieth century?
 
 A widely held belief among medical historians is that the introduction of antibiotics in the mid-twentieth century displaced bacteriophage therapy in mainstream medicine. The declining use of phage treatments, which coincided with the rise of antibiotics, seems to lend credence to this view. However, the impact of antibiotics on phage therapy might be overstated. Even though hospital records from 1920 to 1940 indicate a decrease in the administration of both topical and systemic phage treatments, this pattern was already in place before antibiotics gained widespread popularity.
@@ -89,6 +97,7 @@ D. With the diminishing demand for phage therapy, researchers likely redirected 
 Answer: A
 
 Question 9:
+[COE]
 Which option most logically completes the text?
 
 On April 12, 1981, NASA celebrated the first successful mission of the Space Shuttle program with a public ceremony in Washington, D.C. This event was only one among many celebrations recognizing achievements in space exploration. ____ from 1961 to 2020, Washington, D.C. hosted eighteen major public ceremonies honoring American astronauts.
@@ -100,6 +109,7 @@ D. In sum,
 Answer: D
 
 Question 10:
+[COE]
 Which quotation from most effectively illustrates the claim?
 
 The Grand Canyon, which geological processes have shaped over millions of years, was described by geologists as having significantly eroded due to natural weathering forces over extensive periods: ____.

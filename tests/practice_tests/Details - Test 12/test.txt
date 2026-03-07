@@ -1,4 +1,5 @@
 Question 1:
+[Details]
 Which choice best describes the function of the reference to the "wooing kestrel" (a type of bird) in the text as a whole?
 
 The following text is from Anne Spencer's 1922 poem "Translation."
@@ -18,6 +19,7 @@ D. It illustrates the assertion that the definition of peace changes from person
 Answer: C
 
 Question 2:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including Amanita muscaria and species from the genus Thelephora) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi’s fruiting bodies and root-like hyphae: __temperature reductions were observed in the air immediately surrounding the mushrooms.__ Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team’s prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.
@@ -29,6 +31,7 @@ D. It presents a tangential finding about thermoregulation in certain fungal spe
 Answer: C
 
 Question 3:
+[COE]
 Which quotation from A Pair of Silk Stockingsmost effectively illustrates the claim?
 
 A Pair of Silk Stockings is a novel written by American author Kate Chopin in 1897. Within the novel, a passage delineates an individual who experiences an enhanced sense of self-positivity upon putting on an item of clothing.
@@ -40,6 +43,7 @@ D. “Now she rested her elbow on the cushion of the glove counter, and a pretty
 Answer: B
 
 Question 4:
+[COE]
 Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
 
 The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character _____.
@@ -51,6 +55,7 @@ D. Strepsiades hires a sophist to teach his son and says to the sophist, “But 
 Answer: D
 
 Question 5:
+[COE]
 Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
 
 "A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
@@ -62,6 +67,7 @@ D. “When she entered [the restaurant] her appearance created no surprise, no c
 Answer: A
 
 Question 6:
+[COE]
 According to the text, which choice best describes a conclusion He and colleagues drew from their study?
 
 Guojun He and colleagues studied a food-delivery phone app that is popular in China. The researchers found that having “no cutlery” automatically selected influences whether customers request disposable plastic utensils with their food orders. Based on their results, the researchers concluded that this and other small changes to the app could reduce plastic waste in China by as much as 2.36 million metric tons per year.
@@ -73,6 +79,7 @@ D. Small changes to a food-delivery app work greatly lower plastic waste.
 Answer: D
 
 Question 7:
+[COE]
 Based on the text, which choice best expresses the narrator’s characterization of the Seine?
 
 The following text is adapted from Guy de Maupassant’s 1884 short story “A Recollection,” from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
@@ -85,6 +92,7 @@ D. The waters of the Seine are more confined and rough in Paris than they are in
 Answer: D
 
 Question 8:
+[COE]
 Which option most logically completes the text?
 
 The sea-grass Posidonia oceanica is among various marine plant species native to the Mediterranean Sea that face the threat of extinction. The long-term survival of many such species primarily relies on fish consuming their seeds and dispersing them across different marine regions. Although many native seed-eating fish populations in the Mediterranean have drastically declined, introduced fish species such as the rabbitfish have become widespread in these waters. Recent research confirms that these non-native fish are actively dispersing seeds in the Mediterranean, implying that the fish ______.
@@ -96,6 +104,7 @@ D. could also partake in additional behaviors influencing the dispersal potentia
 Answer: C
 
 Question 9:
+[COE]
 Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
 
 The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
@@ -108,6 +117,7 @@ D. He has imparted to Evelina his own idealistic view of the world, which result
 Answer: C
 
 Question 10:
+[COE]
 The primary purpose of the passage is to
 
 If a chronic microbial infection (the presence of a latent virus, for example) triggered a defensive cascade in the brain's immune system, and if the primary protein in that cascade evolved to trap the pathogen and subsequently aggregated, and so on, then a chain of inflammatory and neurotoxic events would result. If many such chains were initiated throughout a lifetime, the distribution of neural damage would resemble the observed pathology in a brain with Alzheimer's disease. This line of reasoning underpins a provocative new theory of Alzheimer's development. Clinical research based on this theory has accounted for the progression of the disease in many patients without assuming that spontaneous protein aggregation is the root cause, the hallmark of the most widely accepted theory of Alzheimer's pathology. That theory maintains that a specific protein spontaneously misfolds and clumps together, which in turn causes the inflammation and cell death that lead to the disease's characteristic cognitive decline.

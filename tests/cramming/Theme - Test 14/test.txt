@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Which quotation from “The Yellow Wallpaper” most effectively illustrates the claim?
 
 “The Yellow Wallpaper” is a 1892 short story by Charlotte Perkins Gilman. In the story, the narrator expresses mixed feelings about her surroundings: ____
@@ -11,6 +12,7 @@ D. “The color is repellant, almost revolting: a smouldering, unclean yellow, s
 Answer: C
 
 Question 2:
+[COE]
 Which quotation from “The Yellow Wallpaper” most effectively illustrates the claim?
 
 “The Yellow Wallpaper” is a 1892 short story by Charlotte Perkins Gilman. In the story, the narrator describes the unstable nature of the wallpaper: ____
@@ -23,6 +25,7 @@ D. “This wallpaper has a kind of sub-pattern in a different shade, a particula
 Answer: D
 
 Question 3:
+[COE]
 Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
 
 *The Man-Made World: Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ____
@@ -35,6 +38,7 @@ D. "That every child on earth shall have right conditions to make the best growt
 Answer: A
 
 Question 4:
+[COE]
 Which quotation from The Man-Made World; Or, Our Androcentric Culture most effectively illustrates the claim?
 
 *The Man-Made World; Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author describes an important way people can honor their ancestors: ______
@@ -47,6 +51,7 @@ D. "[Painting] is also a wide field; and cannot be done full justice to within t
 Answer: C
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 The synthesis of novel superheavy elements, such as copernicium (Cn), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the "chemical space." __Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery__, Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.
@@ -59,6 +64,7 @@ D. It provides details about the qualification later in the sentence regarding t
 Answer: D
 
 Question 6:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The seventh row of the periodic table contains the superheavy elements, which have yet to be detected in nature. Instead, these highly unstable elements have only ever been seen in a laboratory, ______ as a result of two nuclei being collided into each other in a particle accelerator to achieve nuclear fusion.
@@ -71,6 +77,7 @@ D. understood
 Answer: B
 
 Question 7:
+[COE]
 Which question would be most useful to answer in determining the validity of the researchers’ claim as it is presented in the text?
 
 Hypothesizing that reliance on smartphones for information retrieval will lead a person to incorrectly remember instances of phone-assisted retrieval as instances of retrieval from memory, researchers asked participants general-knowledge trivia questions, instructing them to answer certain questions using only their smartphone and other questions using only their memory. When surveyed a week later, participants exhibited higher levels of misattribution for answers retrieved in the smartphone condition than for those retrieved in the memory condition, a finding that the researchers claimed supported their hypothesis.
@@ -83,6 +90,7 @@ D. How likely were participants to answer all the trivia questions correctly in 
 Answer: C
 
 Question 8:
+[Infer]
 Which choice most logically completes the text?
 
 Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Spotify. They hypothesized that performance expectancy (how much the use of a service is perceived to benefit the consumer) would be positively correlated with users’ intentions to adopt premium versions. The researchers asked participants to rate statements such as “Overall, a paid music streaming service is advantageous.” They found that, indeed, performance expectancy positively influences the intention to adopt premium streaming service versions, which suggests that ______.
@@ -95,6 +103,7 @@ D. it may be advantageous for music streaming companies to try to influence the 
 Answer: D
 
 Question 9:
+[COE]
 Which quotation from a music streaming platform user would best illustrate Walsh’s finding?
 
 Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
@@ -107,6 +116,7 @@ D. “The social aspects of music streaming make it really easy to create a sens
 Answer: B
 
 Question 10:
+[Infer]
 Which choice most logically completes the text?
 
 Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Spotify. They hypothesized that performance expectancy (how much the use of a service is perceived to benefit the consumer) would be positively correlated with users' intentions to adopt premium versions. The researchers asked participants to rate statements such as "I find paid music streaming services useful in my daily life." They found that, indeed, performance expectancy positively influences the intention to adopt premium streaming service versions, which suggests that _____
@@ -119,6 +129,7 @@ D. the statement "I find paid music streaming services useful in my daily life" 
 Answer: A
 
 Question 11:
+[Infer]
 Which choice most logically completes the text?
 
 The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services Apple Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that _____.
@@ -131,6 +142,7 @@ D. the implementation of the restriction reduced the overall number of users of 
 Answer: B
 
 Question 12:
+[Infer]
 Which choice most logically completes the text?
 
 The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services Apple Music and AccuRadio, among others. Datta et al. studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______

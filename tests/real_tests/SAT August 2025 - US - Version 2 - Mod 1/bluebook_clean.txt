@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.
@@ -10,6 +11,7 @@ D. an unprecedented
 Answer: C
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apollo Moon landings (1969–1972) brought charged particle detectors and temperature probes to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Seiichi Nagihara, who is investigating temperature changes on the Moon.
@@ -21,6 +23,7 @@ D. salvage
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are ______ , the effect on blood chemistry of living in locations below sea level, such as the California towns of Brawley and Holtville, has received comparatively little notice.
@@ -32,6 +35,7 @@ D. equivocal
 Answer: B
 
 Question 4:
+[Details]
 Which choice best states the function of the underlined portion (while abrupt in geological terms) in the text as a whole?
 
 Fossil evidence indicates that the End-Triassic mass extinction—the relatively sudden die-off of about 80 percent of species (including many species of bivalves)—occurred approximately 201 million years ago. Researchers have identified the effects of a sudden release of carbon dioxide as a possible initial cause of this mass extinction. But mass extinctions, __while abrupt in geological terms__, unfold over thousands or millions of years: it’s likely that multiple factors drove extensive species loss.
@@ -43,6 +47,7 @@ D. It emphasizes that a question about the beginning of a mass extinction raised
 Answer: C
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Land art, or earth art, is characterized by its large scale and the fact that it’s often placed in remote or surprising locations. Land art is also notable for the wildly diverse ways in which it is created: Robert Smithson’s *Spiral Jetty*, for instance, was created by arranging rocks in a large spiral in Utah’s Great Salt Lake, whereas for *Wheatfield—A Confrontation*, Agnes Denes planted and harvested a field of wheat in Lower Manhattan in New York City.
@@ -54,6 +59,7 @@ D. The text describes a particular genre of art, then cites examples illustratin
 Answer: D
 
 Question 6:
+[COE]
 What does the text most strongly suggest about the study conducted by Rosas-Guerrero et al.?
 
 Pollination syndromes are suites of floral traits that have independently evolved as a result of selection pressure exerted by pollinators; ornithophilous (bird-pollinated) flowers, for example, frequently exhibit red, orange, or yellow coloring. In a review of previous studies covering 417 plant species, Victor Rosas-Guerrero et al. concluded that the syndromes reliably predict angiosperms’ most effective pollinators. However, in a response paper, Jeff Ollerton et al. note that Rosas-Guerrero et al. may have inadvertently excluded studies published before the term “pollinator effectiveness” came into common use.
@@ -65,6 +71,7 @@ D. A limitation in the methodology used by the researchers may entail that the s
 Answer: D
 
 Question 7:
+[COE]
 What does the text most strongly suggest about how analyzing a painting with nonvisible light can inform a judgment about who that painting is attributed to?
 
 Because they penetrate the visible surface of a painting, ultraviolet and other nonvisible spectra of light enable the detection of otherwise imperceptible features of the work. Beneath the surface of Claude Monet’s *Wisteria* (1917–20), art historians found that Monet had initially included water lilies but ultimately painted over them. Furthermore, nonvisible spectra can be used for chemical analysis to identify specific pigments and thus, in some cases, reveal forgeries: if, for example, titanium oxide—which wasn’t developed until the 20th century—is evident throughout the layers of a painting attributed to an 18th-century artist, that work can only be a forgery.
@@ -76,6 +83,7 @@ D. It can show how the work is similar to others attributed to the same artist.
 Answer: A
 
 Question 8:
+[COE]
 Which statement about hummingbird preferences is most strongly supported by the text?
 
 High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including *Palicourea tomentosa*, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren’t influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
@@ -87,6 +95,7 @@ D. Physical compatibility between flower corollas and hummingbird bills becomes 
 Answer: B
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Yung Wing’s 1909 memoir *My Life in China and America*.
@@ -100,6 +109,7 @@ D. New York City is more populated than London is.
 Answer: B
 
 Question 10:
+[COE]
 Which quotation from *Peter Pan* best illustrates the claim?
 
 *Peter Pan* is a 1911 novel by J.M. Barrie. In the fantasy novel, a dog named Nana is a nurse (nanny) for the children in the Darling family—Wendy, John, and Michael. The narrator describes Nana as planning for events like a human would: ______
@@ -111,6 +121,7 @@ D. “Nana, who had been barking distressfully all the evening, was quiet now.�
 Answer: C
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 The US Department of Agriculture’s *Fruit and Tree Nuts Outlook* is a document that covers a variety of subjects, from the causes of reductions in grapefruit supply to the number of avocados that are imported from abroad. A student studying agricultural economics is consulting a graph in the document that shows the prices for which several types of nuts have been sold by growers in the United States over four growing seasons from 2016 to 2020. The student wishes to determine in which season walnuts reached their lowest price. Consulting the graph, the student finds that this season was the ______
@@ -122,6 +133,7 @@ D. 2016/17 season.
 Answer: B
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to complete the example?
 
 Most bird species that are capable of flight weigh less than a kilogram (kg), which is not surprising considering the burden that extra body weight puts on a flying animal. But not all flying birds are so light, as we can see most clearly in the example of the ______
@@ -133,6 +145,7 @@ D. Somali ostrich, which has an average mass of 90.0 kg.
 Answer: A
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 The state of Washington has classified the American bullfrog as an invasive species that could harm some of the state’s native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that “invasive” and “native” are labels that describe temporary circumstances. Changes in Earth’s climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldn’t live previously. These observations suggest that ______
@@ -144,6 +157,7 @@ D. changes in Earth’s climate are likely to result in the American bullfrog es
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The glossy ibis and the little blue heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D'Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds' habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only glossy ibises prefer areas with deep water during breeding season, both glossy ibises and little blue herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______
@@ -155,6 +169,7 @@ D. there is standing water for far fewer than 60 days per year.
 Answer: D
 
 Question 15:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Topographical prominence is a measure of a mountain’s independence from other mountains. Having 9,721 feet of prominence, ______
@@ -166,6 +181,7 @@ D. the ranking given by geographers to Pico do Ramelau, a peak located in Timor-
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A significant work in the school of thought known as empiricism, John Locke’s “*An Essay Concerning Human Understanding*”—first published in ______ is essential reading for scholars of philosophy’s modern period, which spanned from the 1600s to around 1900.
@@ -177,6 +193,7 @@ D. 1689:
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Many ranching terms come from Spanish. For example, the word “lasso” (a rope) ______ from the Spanish word lazo, and “cinch” (a belt) derives from cincho. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican vaqueros, or cowboys.
@@ -188,6 +205,7 @@ D. derives
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A preserved specimen of the marine protist *G. conglobatus* collected from the South Atlantic has been identified as the species lectotype, a term ______ that this specimen serves as the basis for all formal scientific descriptions of the species.
@@ -199,6 +217,7 @@ D. indicating
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Debuting in 1982, *San Francisco to Hawai’i Overnight!* is just one of the ______ that have been curated by the staff of the San Francisco International Airport.
@@ -210,6 +229,7 @@ D. hundreds of exhibits’
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 After touching down on Mars on May 25, 2008, the *Phoenix* lander spent 161 days exploring the geology of the red planet, including its many ______ To aid in communication, scientists gave informal names like Neverland and Dodo to some of the smaller yet notable rocks discovered.
@@ -221,6 +241,7 @@ D. crater’s and rock’s.
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 *Leptoptilos dubius*, also known as the greater ______ can be found in places like Hakaluki Haor in Bangladesh and Northern Santuk in Cambodia, but more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of a conservation effort that aims to bring adjutants back from near extinction.
@@ -232,6 +253,7 @@ D. adjutant—
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Around 6,000 years ago, humans in eastern Europe began the process of domesticating the wild horse (*Equus ferus*). ______ wild horses were domesticated through selective breeding to be used for transportation and for plowing fields, among other things. The present-day result of this millennia-long process is *Equus caballus*, a distinct species commonly known as the domestic horse.
@@ -243,6 +265,7 @@ D. As a result of being domesticated,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Broadcasting from the Leech Lake Band of Ojibwe’s lands in northern Minnesota, the Native-run radio station KOJB 90.1 FM does much to serve the local Ojibwe-speaking community. ______ it broadcasts local news and music as well as programming in the Ojibwe language.
@@ -254,6 +277,7 @@ D. As a result,
 Answer: C
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Biologists have yet to agree on a single concept of what defines a species. Thus, numerous competing species concepts are used within the field, a dilemma known as the species problem. The cohesion species concept, described in 1985 by Templeton, defines species in accordance with phenotypic cohesion. The genetic species concept, ______ delineated by Baker and Bradley in 2006, organizes species according to genetic similarity.
@@ -265,6 +289,7 @@ D. on the other hand,
 Answer: D
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 From mountains to monuments, deserts to rainforests, and isolated islands to teeming cities, the sites on UNESCO’s World Heritage List are chosen because they hold cultural or natural value that the organization wishes to preserve for future generations. ______ in 2010, UNESCO recognized the importance of Kiribati’s Phoenix Islands Protected Area, home to one of the world’s largest oceanic coral ecosystems, by adding it to the list as a natural heritage site.
@@ -276,6 +301,7 @@ D. Accordingly,
 Answer: D
 
 Question 26:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism *B. pumilio* is preserved as the reference organism for the species. This specimen is a holotype, meaning it was the basis of the first formal scientific description of *B. pumilio*. ______ the reference organism for the planktonic *G. inflata*, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.
@@ -287,6 +313,7 @@ D. For instance,
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to make a generalization about the kind of study conducted by Eberhard, Wilcove, and Dobson. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The Apollo Moon landings (1969-1972) brought radiation detectors and equipment too heavy for liftoff to the Moon and produced large amounts of data. Researcher Philip Metzger, who is investigating the long-term effects of being on the Moon, continues to use Apollo's data, demonstrating that the missions' value to science is ______.
@@ -10,6 +11,7 @@ D. controversial
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ______ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.
@@ -21,6 +23,7 @@ D. lonely
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Agglomeration economies arise when multiple firms in related industries ______ an area, as with iron and steel production firms and cutlery and hardware manufacturers in Wolverhampton, UK. Economists have assumed that companies cluster for the same reasons, but Giulia Faggio et al. found that factors driving agglomeration in some cases are only weakly correlated with agglomeration in others.
@@ -32,6 +35,7 @@ D. amass in
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Today's theater stages are frequently filled with props and scenery to immerse the audience in a play's world. Because theatergoers have grown used to carefully designed sets, plays with few visual elements can surprise audiences. But simple, unadorned stages were likely ______ audiences in the very distant past; highly decorated and detailed sets were not common until the 1600s.
@@ -43,6 +47,7 @@ D. disliked by
 Answer: A
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Having trouble getting rid of weeds? One surprising solution may be to start eating them. Curly dock and broadleaf plantain are two edible plants that are usually considered weeds in North America. These and other plants like them are sometimes more flavorful than are some plants that people grow as food.
@@ -54,6 +59,7 @@ D. To identify a new cooking trend.
 Answer: A
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 *Ceremony*, the 1977 novel by Laguna Pueblo author Leslie Marmon Silko, is typical of Native fiction written during the 1960s and 1970s. During that period, Silko and her peers wrote realistic and deeply serious portrayals of life in tribal communities. Recently, however, younger Native writers have embraced popular genres known for being entertaining and suspenseful, such as fantasy and horror. Anishinaabe author Nathan Adler is a figure in this movement. Their 2016 novel *Wrist* is a work of horror fiction.
@@ -65,6 +71,7 @@ D. It describes one Native author's early works, then describes her more recent 
 Answer: A
 
 Question 7:
+[Details]
 Which choice best describes the function of the underlined sentence in the text?
 
 __In 2013 Bridie J.M. Allan and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of *Pomacentrus amboinensis*, a species of fish.__ However, Allan and colleagues' study relied on a mean sample size of only about 18 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.
@@ -76,6 +83,7 @@ D. It states the conclusion reached by Allan and colleagues in their 2013 study.
 Answer: D
 
 Question 8:
+[COE]
 According to the text, in which year was Adrastea discovered?
 
 Io is among Jupiter's four largest moons and was discovered in 1610 by Galileo. Advances in space exploration and imaging technologies have since enabled scientists to discover even more moons orbiting Jupiter. For example, scientists used the *Voyager 1* space probe to discover Adrastea in 1979. And more recently, researchers discovered 12 moons using the Dark Energy Camera at the Cerro Tololo Inter-American Observatory in Chile. As of 2023, the number of confirmed moons orbiting Jupiter was 95, and scientists think further exploration will reveal more.
@@ -87,6 +95,7 @@ D. 1610
 Answer: A
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Millions of Metric Tons of Copper Mined in 1995 and 2020__
@@ -100,6 +109,7 @@ D. 0.51 million metric tons of copper in 2020.
 Answer: A
 
 Question 10:
+[COE]
 Which finding, if true, would most directly support the underlined claim?
 
 For years, Christopher Clavius's 1593 work *Astrolabium* had the earliest known evidence of a decimal point, which was in a sine table's interpolation column. However, math historian Glen Van Brummelen posited that Venetian merchant Giovanni Bianchini, who worked as an astrological consultant, used the mathematical symbol approximately 150 years before Clavius did. Van Brummelen asserts that in his role as a consultant, __Bianchini used trigonometry to calculate the coordinates of the planets, and his calculations contain the earliest example of the decimal point.__
@@ -111,6 +121,7 @@ D. As recorded in his manuscripts, some of Bianchini's calculations for the coor
 Answer: C
 
 Question 11:
+[COE]
 Which finding, if true, would most directly support Adlhart's claim?
 
 To help combat the growing rate of microplastic pollution, a team of researchers developed a synthetic sponge that can soak up microplastic particles from liquid. The sponge, composed mainly of starch and gelatin, does this by trapping the tiny particles within its pores. Guoqing Wang, one of the researchers, says that the formula for the sponge can be adjusted to best suit the size of particle the sponge is intended to trap, making it versatile in its potential applications. Chemist Christian Adlhart, however, claims that this sponge would be difficult to mass-produce.
@@ -122,6 +133,7 @@ D. The worldwide supply of starch and gelatin is in high demand from the food in
 Answer: D
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Researchers investigated how enjoyment of a story is affected when it has been spoiled (when the reader has foreknowledge of an important plot development). As part of the study, participants rated their enjoyment of one story that was spoiled before they read it and one story that was unspoiled. For each story, participants who had been given a spoiler reported greater enjoyment than did those who hadn't received a spoiler. But the degree of this difference varied across the stories, as is best illustrated by the enjoyment ratings for ______
@@ -133,6 +145,7 @@ D. "The Calm" and "Plumbing."
 Answer: B
 
 Question 13:
+[Infer]
 Which choice most logically completes the text?
 
 Humans are overwhelmingly right-hand dominant (85-90%) and can thus be said to exhibit strong population-level right-handedness (PLRH). Among studies of nonhuman primates, Margaret E. Redshaw's 1993 study of captive gorillas purported to show PLRH, while Jane Goodall's 1963 study of wild chimpanzees did not. Overall, the studies indicating PLRH in nonhuman primates find much lower incidences of right-handedness than humans exhibit, but it's worth noting that studies of captive primates tend to show significantly greater incidences of right-handedness than studies of wild primates do, therefore raising the possibility that ______
@@ -144,6 +157,7 @@ D. the apparent discrepancy between the studies' results may be partly attributa
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The small white heron and the small dark heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D'Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds' habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only small white herons prefer areas with deep water during breeding season, both small white herons and small dark herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______
@@ -155,6 +169,7 @@ D. there is relatively deep water during the breeding season.
 Answer: A
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 It is hard for publishers and printers to create very long books that balance the requirements of readability, durability, and cost. Among some exceptionally long novels published in English, Haruki Murakami's *1Q84* (translated from Japanese) was published in a 1,157-page edition and runs to an estimated 407,000 words, while John Sayles's *A Moment in the Sun* (written originally in English) was published in a 1,100-page edition and runs to an estimated 625,000 words. This indicates that ______
@@ -166,6 +181,7 @@ D. the edition of *1Q84* is printed on thinner paper than the edition of *A Mome
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 *Portrait of Marquess Massimiliano Stampa* is one of dozens of remaining works by the Italian Renaissance artist Sofonisba Anguissola. ______ in 1557, her painting can now be found at the Walters Art Museum in Baltimore.
@@ -177,6 +193,7 @@ D. Was completed
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Synchronized calcium phosphate nanoparticles (CaPNPs) can be used to improve the healing and regeneration of broken bones; this function, well suited for multiple medical applications, ______ from the biocompatible properties of these particles.
@@ -188,6 +205,7 @@ D. to stem
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The Austronesian language family comprises some 1,200 languages—including ______ the Madurese and Bikol, which are spoken by 14 million and 4.6 million speakers, respectively—and accounts for one-fifth of the world's languages, making it of keen interest to linguists like Diane Massam.
@@ -199,6 +217,7 @@ D. languages,
 Answer: A
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 For the past 20 million years, Earth's magnetic poles in the far north and far south have remained roughly where they are today. This has not always been the ______ throughout geologic history, Earth's magnetic poles have swapped places several times through a process called polar wandering.
@@ -210,6 +229,7 @@ D. case, though
 Answer: C
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Russian-born visual artist Helga Stentzel turns household items into strange and surprising works of art. In her prints, tan sweatpants take on the form of a camel as they dangle from a ______ the red handles of a pair of pliers become the thongs of flip-flops made of nails. "This household surrealism," Stentzel says, "is about finding magic in the mundane."
@@ -221,6 +241,7 @@ D. clothesline:
 Answer: B
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Nineteenth-century Modernista architects championed nature in their designs. Granted, the dramatic archways and botanical glasswork of Palau Mornau, a Modernista private home designed by Manuel Raspall, couldn't exactly go in a forest. ______ one can see natural influences in Raspall's penchant for curves (rather than right angles) and plant-and animal-inspired flourishes.
@@ -232,6 +253,7 @@ D. In other words,
 Answer: B
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In Panama, citizens must be at least 18 years old to vote in their county's elections. ______ citizens in the Isle of Man need only be 16 years old to cast their vote.
@@ -243,6 +265,7 @@ D. Therefore,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Generally, sleek vehicles are more aerodynamic than bulkier ones. For example, the streamlined nose of the Airbus A320 jet helps it glide through wind with relative ease. ______ a boxy semitruck encounters more wind resistance, making it less aerodynamic.
@@ -254,6 +277,7 @@ D. In conclusion,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 As part of a study, participants were asked to list animals they thought of as "charismatic," which was defined as "attractive, fascinating, or appealing." Researchers compiled the responses into a single list and found that elephants were ranked higher than crocodiles. ______ elephants were ranked third, and crocodiles were ranked fifteenth.
@@ -265,6 +289,7 @@ D. Later,
 Answer: B
 
 Question 25:
+[Synthesis]
 The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -283,6 +308,7 @@ D. With broadcasts of ordinary events, like artists at work, occurring in real t
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -301,6 +327,7 @@ D. The US has designated more than 500 areas NWRs, including the Crocodile Lake 
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

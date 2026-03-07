@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 As used in the text, what does the word “define” most nearly mean?
 
 The following text is adapted from the 1895 poem “Shadow River” by Emily Pauline Johnson (Tekahionwake). The speaker is looking at the reflections of plants in a river.
@@ -18,6 +19,7 @@ D. Explain
 Answer: A
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “life” is ______ in written English could find evidence supporting that assumption in a corpus: “life” is the ninth most commonly used noun.
@@ -29,6 +31,7 @@ D. misused
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are ______ , the effect on blood chemistry of living in locations below sea level, such as the California towns of Niland and Thermal, has received comparatively little notice.
@@ -40,6 +43,7 @@ D. copious
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 One way to evaluate the importance of a scholar’s research is to ______ other scholars’ references to that research. For example, a count of other scholars’ citations shows that Cornell University economist Francine Blau, who studies labor economics, is referenced frequently, indicating that her work has been significant in the field.
@@ -51,6 +55,7 @@ D. circumvent
 Answer: C
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 High-speed rail systems, in which trains can move at great speeds, are expanding in many countries because high-speed rail can reduce the number of automobiles on the road and ultimately conserve energy. In Denmark, for instance, 56 kilometers of high-speed rail lines are in operation as of 2023, and 717 kilometers are under construction.
@@ -62,6 +67,7 @@ D. The text notes a general trend and then cites an example of that trend.
 Answer: D
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?&nbsp;
 
 In 1965, poet and scholar Dudley Randall founded Broadside Press in Detroit, Michigan. With the goal of making the work of Black poets widely available to the public, Randall published and distributed broadsides: individual poems printed on single sheets of paper. __Since these broadsides became associated with the innovative aesthetics of the Black Arts Movement (1965–1975)__, Randall’s publication format may likewise seem to have been pioneering, but, in fact, broadside poetry had also flourished in seventeenth-century London, where single-sheet popular ballads flooded the marketplace.
@@ -73,6 +79,7 @@ D. It provides context for Randall’s decision to publish work by Black poets a
 Answer: B
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is adapted from Daniel Defoe’s 1704 nonfiction book *The Storm*.
@@ -86,6 +93,7 @@ D. Historians should clearly indicate the extent to which each of their sources 
 Answer: D
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 In their meta-analysis of research on advergames (video games developed to promote products or services), Zeph M.C. van Berlo et al. confirm that such games, though they can elicit player interest, may not facilitate subsequent recall of product and brand information. This phenomenon can be explained by the finite nature of cognitive capacity as it is articulated in Annie Lang’s limited capacity model of motivated mediated message processing. In this case, players’ cognitive resources are directed foremost toward the advergame’s mechanics, leaving little or no capacity for encoding and storing the information the advertiser intends to be salient.
@@ -97,6 +105,7 @@ D. Although the limited capacity model of motivated mediated message processing 
 Answer: A
 
 Question 9:
+[Cross Text]
 Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
 
 **Text 1**
@@ -114,6 +123,7 @@ D. Nabhan’s team’s method could be refined to more actively prevent soil moi
 Answer: A
 
 Question 10:
+[COE]
 Which choice best describes data from the table that weaken the students’ claim?
 
 While observing birds for a biology class, a group of students noticed a Western sandpiper (*Calidris mauri*), a bird of the order Charadriiformes (shorebirds), slowly move away, make loud noises, and feign an injured wing as the group approached the bird’s ground nest. Researching this behavior, the students learned that this phenomenon is commonly referred to as “broken-wing display” and is meant to lure predators away from the nesting site and toward a seemingly vulnerable adult bird. Upon learning of other birds that also exhibit the behavior they had observed, the students hypothesized that the phenomenon is exclusive to shorebirds.
@@ -125,6 +135,7 @@ D. Both the yellow-billed cuckoo and the sandhill crane are known to perform bro
 Answer: D
 
 Question 11:
+[COE]
 Which choice uses data from the table to effectively complete the text?
 
 After sample A0106 was retrieved from the asteroid Ryugu, a portion of it was subjected to an extraction protocol in which small amounts of pulverized material were rinsed, sequentially, with hexane, dichloromethane, methanol, and finally a mixture of dichloromethane and methanol. Each rinse created a separate extract suitable for spectral analysis. Based on the table, both alkane and dimethyl sulfide compounds must have been present in the pulverized sample before the methanol-only extraction, because ______
@@ -136,6 +147,7 @@ D. the fourth extract in the sequence contains alkanes but no dimethyl sulfides
 Answer: A
 
 Question 12:
+[COE]
 Which statement, if true, would most strongly support Wade’s argument?
 
 In medieval England, singers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as directly appealing to the audience, extensive use of repetition (allowing for easy memorization), and requests for tips (payment) from listeners.
@@ -147,6 +159,7 @@ D. The three pieces in question contain references that presume that the audienc
 Answer: D
 
 Question 13:
+[COE]
 Based on the text, which finding, if true, would best account for the discrepancy Etta-Nkwelle observed?
 
 Economists have demonstrated that herding—in which individuals converge on the same action by imitating the economic decisions of one or more peers—occurs among investors. Investigating whether herding also occurs among nations in matters of economic policy, Maru Etta-Nkwelle examined changes in the foreign currency reserves of emerging economies in various world regions in the years following the widespread financial crisis of 1997. Etta-Nkwelle posited that herding would manifest in regional peer countries converging on the same foreign currency accumulation rate regardless of each country’s observable circumstances. She found that Asian countries showed evidence of herding but African countries did not.
@@ -158,6 +171,7 @@ D. The 1997 financial crisis resulted in immediate declines in many of the Afric
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Introducing a new species into a delicate ecosystem can often be harmful. The hwamei and other fruit-eating birds have established themselves on the Hawaiian island of Oahu after being brought there in the last 150 years. Many plant species on the island rely on the activity of fruit-eating birds to maintain and increase their populations. In recent studies, hwameis have been found to spread seeds of native forest plants that are at risk of extinction, such as the kawau tree and the alahee tree, suggesting that ______
@@ -169,6 +183,7 @@ D. non-native birds, such as the hwamei, are unlikely to eat fruits from non-nat
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Lichens lack root systems, so they must absorb water directly from the air, dew, and even tree bark and retain it in their bodies. A team of scientists recently used computer simulations to evaluate the importance of water stored in tree bark (bark water) for lichens in the Mediterranean region. In the control simulation, lichens had access to all water sources; in the experimental simulation, lichens had access to all sources except bark water. Compared to the control, the experimental simulation predicted a decrease in the lichens’ overall biomass production of 21%. The experimental simulation (but not the control simulation) also predicted a decrease in the survival of certain species of lichen during the summer due to evaporative water loss, suggesting that ______
@@ -180,6 +195,7 @@ D. bark water absorption reduces biomass production in lichens but makes them mo
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Key-value pairs are an important aspect of JavaScript Object Notation (JSON), an electronic file format for storing and transmitting data. Keys function as labels, while values contain the actual information. In a JSON file storing data about fire belly ______ instance, you could encounter a key such as “species” with the associated value of “*Cynops orientalis.*”
@@ -191,6 +207,7 @@ D. newts, for
 Answer: D
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Released in 1992, the Hewlett-Packard PA-7100 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. ______ a “power wall” in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.
@@ -202,6 +219,7 @@ D. Upon hitting
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Should the United Kingdom cut taxes? As of 2017, the United Kingdom’s top tax rate (59%) was lower than the highest point on the country’s Laffer curve. A theoretical relationship between tax rates and revenues, the curve can be used to determine whether tax cuts will ultimately increase a country’s tax revenue, according to some ______ The 2017 data suggested that the United Kingdom was below the threshold for a tax cut.
@@ -213,6 +231,7 @@ D. economists. The
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A 2024 study by archaeologist Guadalupe Romero Villanueva and colleagues ______ that comb-shaped motifs painted on the walls of Argentina’s Cueva Huenul (a cave in northern Patagonia) are approximately 8,200 years old offers compelling geochronological evidence that humans had been visiting the cave for more than 3,000 years before abandoning it around 5,100 years ago.
@@ -224,6 +243,7 @@ D. reporting
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Obsidian hydration dating (OHD), an artifact-dating technique that measures the thickness of the rind that forms on the surface of obsidian (a volcanic glass), can be used to estimate when prehistoric humans used the sharp glass to shape stone tools. The use of OHD requires careful calibration based on a sample’s climatic context and ______ temperature fluctuations, variations in water vapor pressure, and differences in glass chemistry are known to affect the rate of rind growth.
@@ -235,6 +255,7 @@ D. composition though
 Answer: D
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Stephanie Shonekan of the University of Missouri, along with researchers George Starks of Drexel University and Tyron Cooper of Indiana University, ______ on the advisory team for the Timeline of African American Music, an interactive digital resource that explores African American musical history from the 1600s to the present day.
@@ -246,6 +267,7 @@ D. serve
 Answer: C
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Since 1941, the South Side Community Art Center in Chicago, Illinois, has cultivated a multigenerational community of Black creatives—from writer Gwendolyn Brooks, to musician Nat King Cole, to visual artists like Espi Eph and Barbara Jones-Hogu. ______ it has garnered a reputation as a hub of Black art and culture in Chicago.
@@ -257,6 +279,7 @@ D. Accordingly,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Despite her considerable body of work, the writer Ann Batten Cristall (1769–1848) was largely overlooked by twentieth-century scholars of British Romantic poetry, whose research tended to focus on the Romantic era’s most prominent figures (such as William Wordsworth, the author of “Composed upon Westminster Bridge” and other well-known poems). ______ a 2020 analysis of Cristall’s poems by scholar Stefanie John helps illuminate Cristall’s significant contributions to Romanticism.
@@ -268,6 +291,7 @@ D. Addressing this oversight,
 Answer: D
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The names of geological eras uniformly describe phases in Earth’s evolutionary history (e.g., *Phanerozoic* means “abundant life”). Names given to geological periods, ______ are of diverse origins. The Permian period is named after the historical region of Perm in Russia, for example, while the Silurian period takes its name from the Celtic tribe the Silures.
@@ -279,6 +303,7 @@ D. furthermore,
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to contrast the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -296,6 +321,7 @@ D. Coupland’s sculpture Digital Orca, which depicts a whale formed from black 
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to make a generalization about free-elections clauses in state constitutions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -313,6 +339,7 @@ D. In addition to constitutional provisions such as free-elections clauses, stat
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to emphasize a historical similarity between Hadid’s and Gehry’s respective projects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

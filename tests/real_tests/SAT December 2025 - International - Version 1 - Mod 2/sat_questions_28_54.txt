@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 As a defense mechanism, the monarch butterfly ______ toxic compounds from milkweed plants. On ingesting a piece of milkweed, the monarch selectively absorbs toxic cardenolides from the plant in its gut and stores them in the tissues throughout its body, rendering the butterfly unpalatable to predators.
@@ -11,6 +12,7 @@ D. secretes
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Mastering 'ajami, a Syrian art of creating intricately painted wood panels, demands a skill set that ______ innate talent: crafting the panels requires not just the ability to draw but also an understanding of traditional techniques, materials, and design elements, necessitating expertise gained through dedicated guidance from experienced artisans.
@@ -23,6 +25,7 @@ D. restrains
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Writer Lydia Davis observed that while ______ literary forms, such as the short story, are recognizable as such even as they evolve, there are pathbreaking "intergeneric" forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson's collection *Float* arguably fits in this category, since it straddles the line between prose and poetry.
@@ -35,6 +38,7 @@ D. established
 Answer: D
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Although *Mistress and Maid*, which depicts two women perusing a letter, is atypical of Johannes Vermeer's genre paintings (scenes of everyday life) in that its subjects are set against a plain background instead of --- as in *Woman Writing a Letter, with Her Maid* --- a richly detailed one, the painting nonetheless ______ many signature traits of Vermeer's art, including prominent use of yellow pigments.
@@ -47,6 +51,7 @@ D. evinces
 Answer: D
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 Technological advances have prompted companies to increasingly rely on automation to streamline production. Armin Granulo and colleagues, however, found that for products with higher symbolic value (those viewed as contributing to individual self-expression), consumers prefer products made by humans rather than by robots, likely because human-made products are more strongly associated with uniqueness. __When considering automation, therefore, companies --- especially those specializing in products of symbolic value --- should weigh trade-offs between efficiency gains and consumer preferences.__
@@ -59,6 +64,7 @@ D. It illustrates the need for additional research to evaluate the claim in the 
 Answer: B
 
 Question 6:
+[COE]
 Which statement about the prints by Kano and Kawaguchi in Images of Autonomous Matter is best supported by the text?
 
 The prints in Images of Autonomous Matter, part of a traveling exhibition of innovative Japanese art from the 1960s and 1970s, exemplify the interest in creating minimalist images of stark materials, such as steel, that first emerged among Japanese printmakers in the mid-to-late twentieth century. Mitsuo Kano’s close-up of a serrated metal fragment, Soldered Blue, and Tatsuo Kawaguchi’s image of a single corroded staple, which belongs to his Relation Quality series, are two such works in the exhibit. In their emphasis on the innate qualities of manufactured materials, both prints push traditional boundaries for figurative art.
@@ -71,6 +77,7 @@ D. The prints emulate the style of an earlier artistic movement that used simpli
 Answer: B
 
 Question 7:
+[Cross Text]
 Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the painting The Lackawanna Valley?
 
 Text 1
@@ -85,6 +92,7 @@ C. The author of Text 1 suggests that the painting can reveal information about 
 Answer: C
 
 Question 8:
+[COE]
 According to the text, which factors seemed to be linked to the behavior of butterflies in Grace Herzel and colleagues’ study?
 
 Biological Grace Herzel and colleagues conducted a study of how butterfly color and weather conditions relate to butterfly behavior, which wouldn’t have been possible without data gathered by students and other amateur science enthusiasts in the community. Considering over three years’ worth of data, the researchers found that butterfly color might influence behavior more than butterfly size does, and that butterflies tended to prefer orange and red flowers on cloudy days and multicolor flowers on partly cloudy days.
@@ -97,6 +105,7 @@ D. Both butterfly color and weather conditions
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.
@@ -109,6 +118,7 @@ D. Consumers are more likely to find companies blameworthy for negative consumer
 Answer: B
 
 Question 10:
+[COE]
 Which statement about the mycelium of the twenty mushroom species is best supported by the text?
 
 Arturo Casadevall et al. have confirmed that twenty mushroom species (including Amanita muscaria and species from the genus Hortiboletus) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium - a difference that persisted even after fruited bodies were detached - the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
@@ -121,6 +131,7 @@ D. The correlation between higher mycelium temperature and greater fruit product
 Answer: B
 
 Question 11:
+[COE]
 What does the text most strongly suggest about Poe’s work and American readers?
 
 The following text is from William Carlos Williams’s 1925 creative nonfiction book in the American Grain. Williams is discussing how works by nineteenth-century Us poet and fiction writer Edgar Allan Poe were received by American readers.
@@ -134,6 +145,7 @@ D. Poe’s work had few defenders among American readers because it tended to pr
 Answer: C
 
 Question 12:
+[COE]
 Which choice most effectively uses data from the table to support Macqueen et al.'s conclusion?
 
 Myoglobin (Mb) Levels in the Cardiac Tissue of Three Teleost Species
@@ -148,6 +160,7 @@ D. P. buchholzi had very low Mb levels in their cardiac tissue.
 Answer: D
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 Persistence of Settlements and Compound Average Annual Population Growth Rate in the Yautepec Valley
@@ -162,6 +175,7 @@ D. Teotihuacan’s hegemony imposed stability on the Yautepec Valley, mitigating
 Answer: C
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Studying animals in a laboratory allows variables to be systematically controlled, but removing animals from their wild habitats can affect their behavior and biology in unforeseen ways. Given this, biologists Rebecca M, Calisi-Rodriguez and George E. Bentley examined research on brown-throated three-toed sloths and white-throated sparrows to see whether results from studies in the wild were consistent with the results of studies in the laboratory. Therefore, data showing that brown-throated three-toed sloths tend to sleep fewer than 10 hours per day in the wild would be irrelevant to Calisi-Rodriguez and Bentley’s investigation if ______.
@@ -174,6 +188,7 @@ D. such data have been collected for white-throated sparrows in laboratory setti
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 In an analysis of medieval urbanization in Florence, Greifswald, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration --- drivers of urban agglomeration --- the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______.
@@ -186,6 +201,7 @@ D. the social and economic dynamics that affect urban agglomeration were likely 
 Answer: C
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 As jazz singer Sarah Vaughan honed her vocal abilities - acquiring a sophisticated timbre and precise control over pitch, dynamics, and ______ she earned comparisons to opera icon Leontyne Price, one of her personal heroes. The comparisons highlight how Vaughan, a jazz star, had transcended genre boundaries with her singing prowess.
@@ -198,6 +214,7 @@ D. vibrato,
 Answer: A
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In her Silueta sculpture series, the Cuban American artist Ana ______ to access what she called an “omnipresent female force,” utilized a variety of natural materials to create outlines-or silhouettes of her own body.
@@ -210,6 +227,7 @@ D. Mendieta hoped
 Answer: B
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (See Alice Jump, 2011) and artist David Hammons(Hammons meets a hyena on holiday, ______ celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.
@@ -222,6 +240,7 @@ D. 2016), long
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Among the small magazines animating Boston’s vibrant literary scene in the early twentieth century was ______ by William Stanley Braithwaite and featuring poetry by John Gould Fletcher, Louis Untermeyer, and Richard Aldington; essays by Amy Lowell and Jeanette Marks; and reviews of recent books, this magazine publicized the work of influential avant-garde writers and artists of the day.
@@ -234,6 +253,7 @@ D. the Poetry Review of America. Edited
 Answer: D
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Reena Esmail's classical composition "E Safar" incorporates a raag, a melodic framework used in Hindustani classical music, called Raag Malkauns. Often, interplay between the raag's designated vadi and samvadi (the first- and second-most important notes, respectively) and its prescribed melodic sequences ______ a mood of longing.
@@ -246,6 +266,7 @@ D. have evoked
 Answer: B
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is The Pearls Leading to Accepted Guidance, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
@@ -258,6 +279,7 @@ D. offers
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The moon Carpo orbits Jupiter in the same direction that the planet rotates. ______ Carpo’s orbit is described as prograde. Erinome, another of Jupiter’s moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.
@@ -270,6 +292,7 @@ D. Nevertheless,
 Answer: B
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 lodine and beryllium are among the elements contained in the salty, concentrated brine that remains after seawater is desalinated. Elements can be extracted from this brine in much the same way that materials are mined from the earth. ______ recovering materials from desalination by-products is known as brine mining.
@@ -282,6 +305,7 @@ D. Next,
 Answer: B
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Born in Port Gibson, Mississippi, in 1902, musician J.D. Short is best known as a key figure in the development of the Delta blues, a variant of blues that originated in the Mississippi Delta region. ______________ steeped in the fertile music scene that sprung up in the alluvial delta between the Mississippi and Yazoo Rivers, Short and his peers developed their distinctive stripped-down, guitar-driven style.
@@ -294,6 +318,7 @@ D. There,
 Answer: D
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 According to climate envelope models, individual organisms that inhabit the coolest areas of their species' geographic distribution are expected to benefit from a warming climate while individuals in the warmest areas will struggle. A 2024 University of Arizona study, ______ found that warmer-than-average temperatures resulted in a decrease in growth across all areas of the common pinon tree's distribution range.
@@ -306,6 +331,7 @@ D. moreover,
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -323,6 +349,7 @@ D. By studying high-energy astrophysical neutrinos to name just one example part
 Answer: A
 
 Question 27:
+[Synthesis]
 The student wants to contrast ukiyo-e and sosaku-hanga production methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

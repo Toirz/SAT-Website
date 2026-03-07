@@ -1,4 +1,5 @@
 Question 1:
+[Details]
 Which choice best describes the function of the underlined portion of the text?
 
 While captive chimpanzees are known to learn tool use, wild chimpanzees had not been observed using tools until recently, when scientists documented chimpanzees near Kibale Forest in Uganda utilizing tools to extract insects from tree hollows and seeds from the Mbira fruit. What could account for this group’s use of tools? It seems unlikely that the Kibale chimpanzees are inherently more intelligent; captive chimpanzees have already shown that the species possesses the cognitive ability to use tools. An alternative explanation could be environmental. Whereas earlier studies focused on chimpanzees living in arid woodland regions, the Kibale chimpanzees inhabit a dense rainforest where insects thrive in tree hollows and Mbira fruit is plentiful. However, __in other regions where Mbira also grows, chimpanzees do gather its seeds__, but without tools, they collect fewer seeds than their Kibale counterparts.
@@ -10,6 +11,7 @@ D. to imply that the Kibale chimpanzees’ tool use cannot be fully attributed t
 Answer: D
 
 Question 2:
+[COE]
 Which of the following can be inferred from the passage about Mexican and Vietnamese cuisine?
 
 Although the Phoritto—a style of modern fusion food from the United States—was developed from very diverse culinary traditions, Mexican and Vietnamese elements were eventually integrated so seamlessly that some food bloggers declined to classify the phoritto as a unique dish. Upon tasting it, however, a diner can perceive the difference in a Phoritto's flavor profile from other related fusion creations. Enthusiasts of this dish regularly employ several uniquely descriptive terms to articulate the sensations present in the Phoritto's culinary composition. "Broth-infusion" describes a savory moistness reminiscent of pho soup; "lime-zest" refers to a bright, citrusy tang; and a "serrano-spark" is a quick bite of heat. These and other characteristics typical of the phoritto can also be identified in other types of culinary fusion, including modern Asian-Latin cuisine.
@@ -21,6 +23,7 @@ D. They feature flavor elements comparable to the "lime-zest."
 Answer: B
 
 Question 3:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In what is now Minnesota, the Shakopee Mdewakanton Sioux Community operates the Hoċokata Ti, a cultural center: Relying on traditional knowledge to guide the design of exhibits, this institution presents Dakota history and culture to the tribe’s citizens. The Comanche Nation, a tribe in Oklahoma, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren’t Indigenous-led; __when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.__
@@ -32,6 +35,7 @@ D. It acknowledges an exception to the general principle proposed earlier in the
 Answer: C
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined portion of the text?
 
 The following text is adapted from Adib Khorram’s 2018 novel "Darius the Great Is Not Okay." The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.
@@ -46,6 +50,7 @@ D. It indicates the specific time in the past when the buildings became ruins.
 Answer: A
 
 Question 5:
+[COE]
 Which choice best describes the main purpose of the text?
 
 The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (to Say Nothing of the Dog).
@@ -59,6 +64,7 @@ D. To convey the narrator’s confidence that he understands the role expected o
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the reference to "anvil and strife" in the text as a whole?
 
 The following text is from Anne Spencer's 1922 poem "Translation.”
@@ -77,6 +83,7 @@ D. It symbolizes the speaker's friend's view that meaningful work and social eng
 Answer: C
 
 Question 7:
+[COE]
 Which choice best states the overall structure of the text?
 
 The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors.
@@ -89,6 +96,7 @@ D. The narrator implies that a character is not well liked by his neighbors and 
 Answer: B
 
 Question 8:
+[COE]
 Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
 
 "*Uncle Vanya: Scenes from Country Life in Four Acts*" is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______.
@@ -100,6 +108,7 @@ D. Vanya says to himself, "I was proud of [Professor Serebryakov] and of his lea
 Answer: B
 
 Question 9:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
@@ -112,6 +121,7 @@ D. It details an example that supports the author’s primary claim.
 Answer: A
 
 Question 10:
+[COE]
 Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
 
 The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.

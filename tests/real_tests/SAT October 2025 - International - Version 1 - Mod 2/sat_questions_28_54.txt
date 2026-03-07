@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Microbiologist Radamés Cordero and team investigated surface temperatures of a variety of fungi, including Marasmius capillaris and a species from the genus Cantharellus, in a study ______ a previous observation: Cordero had taken thermal images of various wild mushrooms while hiking and found that the mushrooms all appeared to be colder than the surrounding environment, raising questions about thermoregulation in fungi.
@@ -11,6 +12,7 @@ D. prompted by
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Players of online games are largely aware that the games collect their data, and they’re often willing to trade some privacy for a fun experience. But the games are often quite ______ about what data they collect and why. Because of this, data-privacy advocates are seeking to expand online players’ knowledge of data collection practices and improve their ability to navigate privacy-setting features in games.
@@ -23,6 +25,7 @@ D. outspoken
 Answer: A
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Described in treatises mainly published between 1768 and 1950 (such as William Holdsworth and William Aldridge’s Natural Short-Hand), musical stenography used quickly written squiggles and dots in an attempt to preserve, in print and in real time, the ______ features of live performances—those that result from impromptu deviations of performers when fidelity to an established musical score is not mandated.
@@ -35,6 +38,7 @@ D. extemporaneous
 Answer: D
 
 Question 4:
+[WIC]
 As used in the text, what does the word "betraying" most nearly mean?
 
 The following text is from Edward Gibbon's 1796 Memoirs of My Life and Writings. Gibbon reflects on publishing a volume of his series The History of the Decline and Fall of the Roman Empire. I am at a loss how to describe the success of the work, without __betraying__ the vanity of the writer. The first impression was exhausted in a few days; a second and third edition were scarcely adequate to the demand.
@@ -47,6 +51,7 @@ D. Exposing
 Answer: D
 
 Question 5:
+[Structure]
 Which choice best states the main purpose of the text?
 
 Al Black’s Sunset Backwater Scene with Egrets, a wetland landscape with silhouettes of moss-covered trees contrasted by a vibrant orange sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and ’60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today: the natural iconography that Black and colleagues constantly revisited—lush tropical forests, vivid sunsets—is now seen as classically Floridian.
@@ -59,6 +64,7 @@ D. To contrast the public’s reaction during the 1950s and ’60s to a particul
 Answer: B
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 The metal featured in both the structure of the House in Kamiaraya by Kazuto Nishi Architects and the hardware in the One-Room Residence of 5 Layers by Matsuyama Architect and Associates is representative of a trend in contemporary Japanese interior design to juxtapose sleek, modern accents with traditional organic materials such as paper. The prominent featuring of metal stems from the post-World War II emphasis on technological progress, while more traditional natural materials help preserve longstanding architectural and aesthetic approaches.
@@ -71,6 +77,7 @@ D. The text cites examples of a design trend and then briefly establishes the pr
 Answer: D
 
 Question 7:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Nathaniel Hawthorne’s 1830 short story "Sir William Phips." The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map,—minute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.
@@ -83,6 +90,7 @@ D. Maps are more practical to own than paintings.
 Answer: B
 
 Question 8:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Examples of Hoards found in Ireland and Northern Ireland
@@ -97,6 +105,7 @@ D. the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been foun
 Answer: A
 
 Question 9:
+[COE]
 Which choice most effectively uses data from the table to complete the comparison?
 
 Impact of Four Key Industries on Oklahoma Economy in 2017
@@ -111,6 +120,7 @@ D. both accommodation/food services and retail but below health care.
 Answer: A
 
 Question 10:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
@@ -125,6 +135,7 @@ D. differences in dogs’ pupil size may elicit a stronger response in humans th
 Answer: C
 
 Question 11:
+[COE]
 Which finding from the study, if true, would most directly support the text’s characterization of the study’s results?
 
 Carolina chickadees are cavity nesting birds that initiate nest building at the same time of year as golden paper wasps, a species that also nests in enclosed spaces. Researchers observed that both species will settle in nesting boxes, but birds and wasps are not often observed co-occupying boxes, leading to the hypothesis that the two species compete for nesting sites. To test this hypothesis, the researchers installed nesting boxes throughout a nature preserve in the US state of North Carolina, manipulated some of the boxes to exclude birds, and then monitored the boxes for two years. Not only was the hypothesis validated, there was also a clear indication of competitive advantage for birds.
@@ -137,6 +148,7 @@ D. Although only 15 instances of co-occupation of unmanipulated boxes by wasps a
 Answer: C
 
 Question 12:
+[COE]
 Which finding about the Cairo site, if true, would most directly support Khudadad’s conclusion?
 
 Based on findings from fossil sites, paleobotanists had developed the so-called partition hypothesis, which holds that there were two distinctly different kinds of biomes during the Devonian period (circa 360 to 420 million years ago). One was a tropical deltaic forest biome home to plants such as the fernlike Eospermatopteris, and the other was an arid floodplain forest biome home to plants such as the coniferlike Archaeopteris. Recently, however, evolutionary ecologist Khudadad Khudadad examined the remnants of a Devonian forest in what is now Cairo, New York, and concluded that evidence from the Cairo site is inconsistent with the partition hypothesis.
@@ -149,6 +161,7 @@ D. Fossil evidence from the site suggests that several forest plant species othe
 Answer: C
 
 Question 13:
+[COE]
 Which finding, if true, would most directly challenge the second research team’s conclusion?
 
 Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reported data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Baipaki P. Hikwama provided more specificity in its data than a study by Timothy G. Townsend and colleagues did.
@@ -161,6 +174,7 @@ D. The study by Townsend and colleagues had a low detail rating and a low tracea
 Answer: B
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 From November 1980 to February 1981, oil prices rose 45%, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks’ effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists’ estimates of national economies’ responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of the United States during a recent oil shock, for instance—suggesting that ______.
@@ -173,6 +187,7 @@ D. differences in oil import-export ratios from one country to another may accou
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product's risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Australia, investigating participants' intentions to purchase a new television, and found that, on average, middle-aged adults had the lowest perception among all the demographic groups in the study of the environmental risks of the TV. Assuming that the results of Tarabieh's study are broadly applicable, this finding suggests that ______.
@@ -185,6 +200,7 @@ D. there is not a meaningful difference in the average likelihood of purchasing 
 Answer: B
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Helical ______ widely understood to confer stability and efficiency in the locomotion of a variety of microscopic organisms—including bacteria, eukaryotic algae, and ciliates—bestows similar advantages, albeit via different propulsive modes, to larger oceanic macroplanktons, such as salps.
@@ -197,6 +213,7 @@ D. swimming is
 Answer: C
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In a letter dated January 14th, 1780, congressman John Witherspoon attempts to persuade General George Washington that the Continental Army’s difficulty in procuring supplies, often attributed to disloyalty among civilian farmers and merchants, ______ due to concerns suppliers have about receiving compensation in the form of rapidly depreciating Continental currency.
@@ -209,6 +226,7 @@ D. have largely occurred
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Social media platforms have made the collection of qualitative human behavioral data easier than ever. To collect such data by means of social media does raise a serious ethical ______ terms of service stipulate that platforms can analyze users' accounts and posts, according to sociologist Jose van Dijck, users are not informed when their data are included in behavioral studies.
@@ -221,6 +239,7 @@ D. concern: though
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The neurotechnology company MindMaze is working on an exciting new technology: game-based digital therapies that improve neuroplasticity to help with cognitive rehabilitation. MindMaze’s technology, alongside other such neuromodulation technologies that function by stimulating nervous system structures, ____ the way for future advancements in neurotechnology.
@@ -233,6 +252,7 @@ D. are paving
 Answer: B
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Alberto Gabriele, author of *Reading Popular Culture in Victorian Print*, tracks the transnational dissemination of works by author Mary Elizabeth Braddon via the magazine ______ from 1866 to 1899 and distributed throughout the Australian cities of Melbourne, Adelaide, and Hobart; the continental European cities of Brussels, Paris, and Turin; and cities in Turkey, India, and Jamaica, this magazine helped make Braddon’s serialized novels globally available.
@@ -245,6 +265,7 @@ D. Belgravia published
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Brothers Orville and Wilbur Wright famously received a patent for their flying machine on May 22, 1906. Louisiana native Charles F. Page, who was born into slavery and self-educated, created a gas-powered flying ship in 1903 that was officially patented on April 10, _____ only model had been suspiciously destroyed en route to a planned demonstration at the 1904 World’s Fair, and, discouraged, he never built a replacement.
@@ -257,6 +278,7 @@ D. 1906—roughly six weeks earlier. Page’s
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In contrast to first-past-the-post electoral processes, the proportional representation system by which Australia’s Senate is elected begins with citizens casting their votes not for specific candidates but for political parties. _____ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.
@@ -269,6 +291,7 @@ D. Then,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At Storm King Art Center, an outdoor sculpture park in New York, Charles Ginnever’s *Fayette: For Charles and Medgar Evers* is exposed to rain, snow, heat, and humidity. _____ it remains in good condition due to its material: Ginnever’s sculpture is made of corrosion-resistant steel.
@@ -281,6 +304,7 @@ D. As a result,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 A writer whose debut novel is a success may struggle to live up to that first book’s promise. _____ as in the case of Tommy Orange, author of the popular debut *There There* (2018) and the sequel *Wandering Stars* (2024), the follow-up actually elevates the writer’s reputation. (*Wandering Stars* was labeled a “towering achievement” by the *New York Times*.)
@@ -293,6 +317,7 @@ D. For example,
 Answer: C
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Box modeling and digital sculpting approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. _____ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.
@@ -305,6 +330,7 @@ D. However,
 Answer: A
 
 Question 26:
+[Synthesis]
 The student wants to contrast the locations of the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -323,6 +349,7 @@ D. Horridus is housed at the Melbourne Museum in Melbourne, Australia, while Dio
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to explain why Cree is classified as a synthetic language. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

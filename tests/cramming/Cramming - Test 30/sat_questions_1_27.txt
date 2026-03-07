@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the Kocatepe Mosque, which incorporates elements from the Neoclassical Ottoman and modern styles, will also include several of these standard features.
@@ -12,6 +13,7 @@ Answer: D
 
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 A speaker at a recent children's book publishing conference acknowledged the high quality of many contemporary illustrators but argued that for an example of flawless execution, one must look to a master of the craft. She contended that Jerry Pinkney's work for *The Talking Eggs: A Folktale from the American South* represents a true ______ of the form, an achievement that many strive for but few attain.
@@ -25,6 +27,7 @@ Answer: D
 
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Run by researchers in Europe, the Survey of Health, Ageing, and Retirement in Europe (SHARE) is an examination of aging that has attempted to track approximately 120,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of _____, over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.
@@ -38,6 +41,7 @@ Answer: A
 
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.
@@ -51,6 +55,7 @@ Answer: C
 
 
 Question 5:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Advancements like the emergence of ceramics manufacturing in central Europe circa 28,000 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity. Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold filigree (in which fine threads of gold are arranged in intricate patterns) and other sophisticated goldsmithing techniques suggests that simpler processes supplanted advanced methods.
@@ -64,6 +69,7 @@ Answer: A
 
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 Though John Crowley, author of The Translator, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
@@ -77,6 +83,7 @@ Answer: C
 
 
 Question 7:
+[COE]
 Which of the following can be inferred from the passage regarding DuBois’ The Quest of the Silver Fleece?
 
 It would be expected that a novel by a figure as prominent as W. E. B. DuBois would attract the attention of literary critics. Additionally, when the novel subtly engages the issue of race, as DuBois’ The Quest of the Silver Fleece (1911) does, it would be a surprise not to encounter an abundance of scholarly work about that text. But though valuable scholarship has examined DuBois’ political and historical thought, his novels have received scant attention. Perhaps DuBois the novelist must wait his turn behind DuBois the philosopher, historian, and editor. But what if the truth lies elsewhere: what if his novels do not speak to current concerns?
@@ -90,6 +97,7 @@ Answer: C
 
 
 Question 8:
+[Structure]
 Which choice best states the main purpose of the text?
 
 The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
@@ -104,6 +112,7 @@ Answer: A
 
 
 Question 9:
+[COE]
 According to the text, what information did Herodotus include in his Histories?
 
 In a period of great prosperity during his reign, Egyptian pharaoh Amenemhat III (circa 1800 BCE) had a pyramid with a massive substructure built at Hawara. The underground complex was largely dismantled in antiquity, but accounts of its splendor remain, including one from Greek historian Herodotus, who claimed to have seen it. In his *Histories* (circa 425 BCE), Herodotus writes of 3,000 chambers adorned with carved figures, a dozen courts flanked by white stone pillars, and many winding passages in the complex, characterizing it as a great labyrinth and “an unending marvel.”
@@ -117,6 +126,7 @@ Answer: A
 
 
 Question 10:
+[Cross Text]
 Based on the texts, how would the researchers discussed in Text 2 most likely respond to the underlined claim presented in Text 1?
 
 Text 1
@@ -133,6 +143,7 @@ Answer: B
 
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the comparison?
 
 A citizen of the Leech Lake Band of Ojibwe is a student in a geography class. The student wants to compare the total area covered by her tribal nation in Minnesota with the total areas covered by certain tribal nations in other states. Looking at the table, she finds that the area of the Leech Lake Band of Ojibwe is 1,311 square miles, while the area of the White Mountain Apache Tribe in Arizona is ______
@@ -146,6 +157,7 @@ Answer: B
 
 
 Question 12:
+[COE]
 Which finding, if true, would most directly support the hypothesis presented in the text?
 
 Some toothpastes contain titanium dioxide nanoparticles (TiO₂-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Adeline Bourgeault and colleagues found that TiO₂-NPs can accumulate in the bodies of zebra mussels (Dreissena polymorpha). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that TiO₂-NP bioaccumulation in invertebrates like D. polymorpha could serve a valuable proxy, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as common carp (Cyprinus carpio), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
@@ -159,6 +171,7 @@ Answer: A
 
 
 Question 13:
+[COE]
 Which finding, if true, would most directly support the researchers' conclusion?
 
 Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shells' chambers are called septa, and the concentration of the isotope oxygen-18 they contain exactly reflects the isotope's concentration in the water at the depth at which the septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells; finding that sample F13 had a higher concentration of the isotope than sample M03 did, the researchers concluded that F13 must have formed at a significantly lower temperature than M03 did.
@@ -172,6 +185,7 @@ Answer: C
 
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 The many editions of James Joyce's 1922 novel Ulysses are not textually identical, and scholars debate which versions reflect Joyce's authorial intent. One no longer widely read edition is the 1984 "critical and synoptic edition" edited by Hans Walter Gabler, which followed French and German editorial theories rather than editorial traditions of the United States and United Kingdom and which was later found to have introduced errors due to Gabler's choice to consult facsimile manuscripts rather than using only originals. However, few Joyce scholars worldwide had expertise in such textual issues, and most of those who did worked on the edition with Gabler. So, it is unsurprising that initial scholarly reviews of the 1984 edition were mostly ______.
@@ -185,6 +199,7 @@ Answer: C
 
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Maniq people from a small community in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than diethyl disulfide, which smells like garlic. The team’s study thus undermined the idea that ______.
@@ -198,6 +213,7 @@ Answer: B
 
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the 1920s and 1930s, the singer Frank “Machito” Grillo performed with Cuba’s most popular dance orchestras. However, the fusion of Latin music and American jazz that Machito innovated while performing in New York City is what has _____
@@ -211,6 +227,7 @@ Answer: D
 
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The intricate jazz compositions of Duke Ellington, combining classical structures with improvisational energy, have secured the American bandleader respect from celebrated modern ____ them trumpeter and educator Wynton Marsalis, who has described Ellington's work as defining the American sound.
@@ -224,6 +241,7 @@ Answer: D
 
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In his 1923 essay *Towards a New Architecture: Guiding Principles of Modernism*, architect Le Corbusier first outlined with passion his vision of a “machine for living”—the concept that the specific functional and structural elements a building has incorporated (steel, glass, reinforced concrete, etc.) _____ every spatial experience that building offers for a resident.
@@ -237,6 +255,7 @@ Answer: C
 
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A recent paper by bioinformaticist Kenji Tanaka and his team ______ that epigenetic modifications in non-coding DNA regions previously deemed “junk DNA” are instrumental in regulating cell differentiation provides a powerful new framework that challenges the canonical gene-centric view of inheritance and disease etiology.
@@ -250,6 +269,7 @@ Answer: D
 
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With the short documentary Rick Bartow: The Man Who Made Marks, Osage and Cherokee director Nanette Kelley joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about the art of painter and musician Rick Bartow.
@@ -263,6 +283,7 @@ Answer: B
 
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Taking a deconstructionist approach to analyzing Ji-li Jiang’s novel *Red Scarf Girl* would lead a critic to focus on the linguistic structures inherent in the novel. On the other hand, a cultural studies analysis ______ on the intersection of literature and popular culture might yield a radically different interpretation of Jiang’s novel.
@@ -276,6 +297,7 @@ Answer: C
 
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 The names of chemical elements in the halogen group uniformly describe a key chemical property (e.g., the name halogen itself means “salt-producing”). Names given to many other elements, ______, are of diverse origins. Curium is named after the scientist Marie Curie, for example, while berkelium takes its name from the city of Berkeley, California.
@@ -289,6 +311,7 @@ Answer: C
 
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. ____ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
@@ -302,6 +325,7 @@ Answer: D
 
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In his 2020 poem “This Town,” Saad Ali contemplates Ivan Aivazovsky’s 1859 painting Lunar Night on the Black Sea.Translating the painting's depiction of a seascape into vivid figurative phrases—such as “a dozen sea shells converse”—Ali suggests the fluid interplay of poetry and painting. ______ Ali’s poem highlights fundamental tensions between these modes of representation.
@@ -315,6 +339,7 @@ Answer: A
 
 
 Question 25:
+[COE]
 Which choice most effectively uses information from the given sentences to specify the length of the Foucault pendulum’s cable?
 
 The University of Oslo in Oslo, Norway, is home to a Foucault pendulum.
@@ -332,6 +357,7 @@ Answer: D
 
 
 Question 26:
+[Synthesis]
 The student wants to emphasize the global rank of Mauritania’s youth population. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -350,6 +376,7 @@ Answer: A
 
 
 Question 27:
+[Synthesis]
 The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:

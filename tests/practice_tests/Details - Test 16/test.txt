@@ -1,4 +1,5 @@
 Question 1:
+[Details]
 Which choice best describes the function of the references to "neighborhood type" and "individual physical fitness" in the text as a whole?
 
 Lisbon has high pedestrian traffic, but simply replicating a feature of Lisbon associated with walkability—e.g., its high number of relatively short blocks—may be insufficient to induce increased walking in other cities. As urbanist Mariella Alfonzo argues, our understanding of individuals' decision-making about whether to walk is insufficiently robust: some studies emphasize the role of neighborhood type, others the role of individual physical fitness, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices.
@@ -10,6 +11,7 @@ D. They identify factors that Alfonzo argues have been overemphasized in studies
 Answer: B
 
 Question 2:
+[COE]
 Which quotation from a translation of The Underdogs most effectively illustrates the claim?
 
 The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ___
@@ -21,6 +23,7 @@ D. “Before Juchipila was lost from sight, Valderrama got off his horse, bent d
 Answer: C
 
 Question 3:
+[COE]
 Which choice best describes the main purpose of the text?
 
 In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the local availability of different fuel sources.
@@ -32,6 +35,7 @@ D. To challenge a common explanation for households’ fuel choices
 Answer: D
 
 Question 4:
+[Details]
 Which choice best describes the function of the underlined portion in the text as a whole?
 
 In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows how reductive this model is, however: __although income of course constrained fuel choice__, several circumstances, including the local availability of different fuel sources, influenced decisions.
@@ -43,6 +47,7 @@ D. It concedes that a finding may not appear to support the main view that the t
 Answer: C
 
 Question 5:
+[Details]
 Which choice best describes the function of the underlined portion of the text?
 
 The following text is adapted from Adib Khorram’s 2018 novel "Darius the Great Is Not Okay." The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.

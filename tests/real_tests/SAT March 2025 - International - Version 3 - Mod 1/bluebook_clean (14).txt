@@ -1,4 +1,5 @@
 Question 1:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 In some of his sculptures, Allan Houser uses abstract geometric shapes to depict his subjects rather than portraying them in realistic detail. For instance, his 1989 work *Embrace* is highly abstract and therefore differs strikingly from some of his other pieces in which the viewer can easily ______ familiar objects.
@@ -10,6 +11,7 @@ D. identify
 Answer: D
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 During film's early years, those who worked in the industry had a vested interest in convincing the public to embrace the new medium. As Sumiko Higashi argues, some filmmakers relied on film critics to influence the public's ______ the world of cinema. Critics who drew similarities between film and traditional art forms, like drama, could help legitimize film as an art form.
@@ -21,6 +23,7 @@ D. application to
 Answer: B
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The dinosaur displays at museums such as the Field Museum of Natural History in Chicago (which has a mounted *Apatosaurus* skeleton among its holdings) are notable for the ______ of the research behind them—the museum staff consulted numerous sources to ensure the accuracy of the displays.
@@ -32,6 +35,7 @@ D. novelty
 Answer: A
 
 Question 4:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The presence of Belarus's Mir Castle Complex on the United Nations Educational, Scientific, and Cultural Organization's World Heritage List indicates that the organization has ______ the site's "outstanding universal value," and that UNESCO is therefore championing its preservation and protection.
@@ -43,6 +47,7 @@ D. neglected
 Answer: B
 
 Question 5:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Today's theater stages are frequently filled with props and scenery to immerse the audience in a play's world. Because theatergoers have grown used to carefully designed sets, plays with few visual elements can surprise audiences. But simple, unadorned stages were likely ______ audiences in the very distant past: highly decorated and detailed sets were not common until the 1600s.
@@ -54,6 +59,7 @@ D. exciting to
 Answer: C
 
 Question 6:
+[Details]
 Which choice best describes the function of the underlined sentence in the text as a whole?
 
 The following text is from Yung Wing's 1909 memoir *My Life in China and America*. Yung Wing was the first person from China to graduate from a US university.
@@ -67,6 +73,7 @@ D. It illustrates the sense of adventure that Yung developed as a child.
 Answer: C
 
 Question 7:
+[Cross Text]
 Based on the texts, Anbar et al. (Text 1) and Slotznick et al. (Text 2) would most likely disagree about the answer to which question about the portion of the Mount McRae Shale rock-core corresponding to 2.5 Ga?
 
 **Text 1**
@@ -82,6 +89,7 @@ D. Does the increase in Mo in that portion suggest that atmospheric oxygen level
 Answer: B
 
 Question 8:
+[COE]
 Which choice best states the overall structure of the text?
 
 Elio Sucena and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
@@ -93,6 +101,7 @@ D. It describes a phenomenon, provides examples of two studies of that phenomeno
 Answer: D
 
 Question 9:
+[COE]
 Which contrast does the text draw between the Museo de Las Americas and LA Plaza de Cultura y Artes?
 
 Founded in 1991, the Museo de Las Americas showcases art from Latin America, including the art of Indigenous peoples. It is located in Denver and has more than 4,800 objects in its collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is LA Plaza de Cultura y Artes in Los Angeles. It opened in 2011 and focuses on Mexican American art and culture.
@@ -104,6 +113,7 @@ D. LA Plaza de Cultura y Artes opened more recently.
 Answer: D
 
 Question 10:
+[COE]
 Based on the text, how would an advocate of the energy ladder model most likely explain the change observed in Brazil?
 
 In Brazil, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by around 70 percent between 2000 and 2019; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin's study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including households' cooking habits.
@@ -115,6 +125,7 @@ D. Household incomes in Brazil rose from 2000 to 2019, which weakened the associ
 Answer: A
 
 Question 11:
+[COE]
 Which quotation from "The Monster" most effectively illustrates the claim?
 
 "The Monster" is an 1898 story by Stephen Crane. In the story, whenever Jimmie, a young boy, has been scolded by his father for misbehavior, he seeks comfort from Henry Johnson, the man responsible for the care of Jimmie's father's horses. However, Henry does not always provide such comfort; Crane suggests this by writing, ______
@@ -126,6 +137,7 @@ D. "Whenever Henry dwelt for a time in sackcloth [a symbol of guilt over wrongdo
 Answer: C
 
 Question 12:
+[COE]
 Which choice most effectively uses a quotation from "Aunt Sue's Stories" to illustrate the claim?
 
 "Aunt Sue's Stories" is a 1926 poem by Langston Hughes. In the poem, the speaker indicates that the stories Aunt Sue tells are based on Aunt Sue's personal experiences, saying that ______
@@ -137,6 +149,7 @@ D. the stories are told during "Summer nights on the front porch."
 Answer: A
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the graph to complete the statement?
 
 Researchers investigated how enjoyment of a story is affected when it has been spoiled (when the reader has foreknowledge of an important plot development). As part of the study, participants rated their enjoyment of one story that was spoiled before they read it and one story that was unspoiled. For each story, participants who had been given a spoiler reported greater enjoyment than did those who hadn't received a spoiler. But the degree of this difference varied across the stories, as is best illustrated by the enjoyment ratings for ______
@@ -148,6 +161,7 @@ D. "Blitzed" and "Plumbing."
 Answer: A
 
 Question 14:
+[COE]
 Which finding, if true, would most directly support the researchers' claim regarding the size of PCFG whales?
 
 Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar pre-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.
@@ -159,6 +173,7 @@ D. Certain crustacean prey species available along the coasts of Northern Califo
 Answer: C
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Ocean Vuong's 2019 novel *On Earth We're Briefly Gorgeous* is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel's character of Little Dog and those of Vuong—but it should not be taken to mean that all the people and events depicted in *On Earth We're Briefly Gorgeous* are based on actual people and events. The novel is largely pure invention, and readers who neglect this fact and instead try to identify more and more real-life analogues thus risk ______
@@ -170,6 +185,7 @@ D. overemphasizing the extent to which Vuong took inspiration from earlier write
 Answer: A
 
 Question 16:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The first modern public zoo opened at the height of the French Revolution in 1793. Located in downtown Paris, the zoo was called the Menagerie du Jardin des Plantes. It was filled with living animals that had been confiscated ______ the private collections of French aristocrats.
@@ -181,6 +197,7 @@ D. from,
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Museo de Recursos Históricos de Lares, a history museum in Lares, Puerto Rico, is one of more than eighty museums in the US territory. Puerto Rico's museums ______ visitors about everything from the territory's history to its architecture to its coffee.
@@ -192,6 +209,7 @@ D. inform
 Answer: D
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In May of 1959, the song "Danny Boy" was a top-ten hit. Having climbed the charts for ten weeks, ______ ranked No. 1 on the Billboard Hot 100 list of most popular songs.
@@ -203,6 +221,7 @@ D. it
 Answer: D
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 A worker cooperative is a business that is owned and operated by its workers. This model stands in contrast to traditional models in which a smaller group of owners controls a company. Because the profits made by a cooperative are shared by all workers—who are also owners—the workers ______ directly from its success.
@@ -214,6 +233,7 @@ D. were benefiting
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 With an average summer temperature of 61 degrees Fahrenheit, Moscow is one European ______ many travelers recommend, especially from June to September.
@@ -225,6 +245,7 @@ D. city that
 Answer: D
 
 Question 21:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Generally, sleek vehicles are more aerodynamic than bulkier ones. For example, the streamlined nose of the T-38 Talon jet helps it glide through wind with relative ease. ______ a boxy semitruck encounters more wind resistance, making it less aerodynamic.
@@ -236,6 +257,7 @@ D. On the other hand,
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Contemplating the beauty of a natural landscape, the serene speaker of William Wordsworth's poem "Lines Composed a Few Miles above Tintern Abbey" (1798) seems wholly insulated from society. As scholars have argued, however, Wordsworth's retreat to nature was an aesthetic response to—and implicit critique of—England's rapid industrialization and urbanization at that time. ______ despite its idyllic quality, the poem bears the imprint of the dramatic changes affecting English life.
@@ -247,6 +269,7 @@ D. As such,
 Answer: D
 
 Question 23:
+[Synthesis]
 The student wants to provide an example of a country that uses the word "dinar" in the name of its currency. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -262,6 +285,7 @@ D. The Latin word "denarius" is the origin of the Arabic word "dinar."
 Answer: A
 
 Question 24:
+[Synthesis]
 The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -280,6 +304,7 @@ D. With broadcasts of ordinary events, like artists at work, occurring in real t
 Answer: C
 
 Question 25:
+[Synthesis]
 The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -297,6 +322,7 @@ D. Forming and breaking apart over hundreds of millions of years, supercontinent
 Answer: C
 
 Question 26:
+[Synthesis]
 The student wants to provide an example of a dinosaur fossil specimen's nickname. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
@@ -314,6 +340,7 @@ D. Pops is the nickname of a *Triceratops* fossil specimen housed at the Denver 
 Answer: D
 
 Question 27:
+[COE]
 Which choice most effectively uses information from the given sentences to present the study's findings to an audience already familiar with the concept of seedling emergence?
 
 While researching a topic, a student has taken the following notes:

@@ -1,4 +1,5 @@
 Question 1:
+[COE]
 Based on the text, what does Wong most likely mean when she states that she is "composing"?
 
 The following text is from Alice Wong's 2022 memoir *Year of the Tiger: An Activist's Life*. Wong has just described her tendency to procrastinate when she has a writing deadline.
@@ -14,6 +15,7 @@ D. She is being soothed by immersing herself in creative works by other people.
 Answer: B
 
 Question 2:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.
@@ -25,6 +27,7 @@ D. synthesis
 Answer: D
 
 Question 3:
+[WIC]
 Which choice completes the text with the most logical and precise word or phrase?
 
 Studying advertisements for defunct amusement parks, menus from nineteenth-century restaurants, and handbills promoting long-forgotten political candidates may seem like a frivolous pursuit, but ephemeral objects like these are useful as ______ cultural change, revealing shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
@@ -36,6 +39,7 @@ D. pretexts for
 Answer: C
 
 Question 4:
+[WIC]
 As used in the text, what does the word “manifest” most nearly mean?
 
 The following text is from a 1955 translation of Samuel Beckett's 1951 novel *Molloy* (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.
@@ -51,6 +55,7 @@ D. Perceptible
 Answer: D
 
 Question 5:
+[COE]
 Which choice best describes the main purpose of the text?
 
 Historians point to the rule of the Piast dynasty as crucial to the formation of the Polish state. But some differentiate between members of the dynasty like Otto Bolesławowic, who ruled as duke in 1032 CE, and less well-documented figures like Siemowit, who is said to have ruled in the 9th century but whose historical actuality is disputed. Siemowit appears in the *Gesta principum Polonorum*, an authentic chronicle of medieval Polish history written in the 12th century. But the chronicle’s documentation of Siemowit relies on oral tradition, unlike its records of later rulers.
@@ -62,6 +67,7 @@ D. It explains why historians differ in their treatment of an aspect of Polish h
 Answer: D
 
 Question 6:
+[Structure]
 Which choice best describes the overall structure of the text?
 
 *The Silence of Dean Maitland* is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Mary Tuttiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
@@ -73,6 +79,7 @@ D. An assertion about a literary project is reported, the team of scholars that 
 Answer: A
 
 Question 7:
+[Cross Text]
 Which choice best describes a difference in what the author of Text 1 and the author of Text 2 believe about female birdsong?
 
 **Text 1**
@@ -90,6 +97,7 @@ D. The author of Text 2 would likely reject the claim by the author of Text 1 th
 Answer: B
 
 Question 8:
+[Structure]
 Which choice best states the main idea of the text?
 
 The following text is from Nathaniel Hawthorne’s 1830 short story “Sir William Phips.”
@@ -103,6 +111,7 @@ D. Historians’ fidelity to the truth often results in work that is less engagi
 Answer: D
 
 Question 9:
+[Structure]
 Which choice best states the main idea of the text?
 
 Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Anderson’s “Sonnet for Her Labor” and Tyehimba Jess’s “Millie and Christine McCoy”—poems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnet—ostensibly rigid and timeworn—could accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genre’s conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.
@@ -114,6 +123,7 @@ D. Although the sonnet is now recognized for the way it facilitates experimentat
 Answer: B
 
 Question 10:
+[Structure]
 Which choice best states the main idea of the text?
 
 Postcranial skeletal pneumaticity (PSP), a system of skeletal air sacs, occurred in three Cretaceous clades, including pterosaurs (e.g., *Pteranodon*); past studies have hypothesized that the trait was homologous (originating from a shared ancestor). With this in mind, Tito Aureliano et al. examined fossils of common ancestors of the clades using microtomography, finding openings in bones—a possible indicator of PSP—but of sizes inconsistent with PSP. The team reported other findings contradicting the homology hypothesis as well, concluding that PSP likely evolved independently in each clade.
@@ -125,6 +135,7 @@ D. Aureliano et al. found that pterosaurs and two other Cretaceous clades with P
 Answer: D
 
 Question 11:
+[COE]
 Which choice most effectively uses data from the table to complete the statement?
 
 Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______.
@@ -136,6 +147,7 @@ D. Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s.
 Answer: C
 
 Question 12:
+[COE]
 Taken together, information in the text and graph best support which conclusion about the campaign ads used in the study by Valentino et al.?
 
 Political scientists have asserted that by providing succinct and clear information about candidates and issues, campaign advertisements should reduce the differences in political knowledge observed between groups of voters. Cognitive scientists have noted, however, that existing domain knowledge facilitates the acquisition of new information in that domain. Valentino et al. shed light on this issue by presenting control ads or ads for George W. Bush or Al Gore (candidates in the 2000 US presidential election) to participants with low or high existing political knowledge, then quizzing participants on their understanding of both candidates’ positions.
@@ -147,6 +159,7 @@ D. They appear to have had the result that political scientists predict that cam
 Answer: B
 
 Question 13:
+[COE]
 Which choice most effectively uses data from the table to complete the text?
 
 Domestic sheep’s wild ancestor, the mouflon, has a coarse outer coat and an inner coat of wool fiber that is finer in diameter and therefore much softer. In some domestic breeds, such as the Spanish Merino, the outer fiber is only marginally coarser than the inner, and the wool is soft overall. Thus, Merino wool is ideal for delicate garments worn against the skin. Meanwhile, the Navajo-Churro has been selected to retain the marked distinction between outer and inner fiber that the Merino has lost. Being coarser than Merino wool overall, Navajo-Churro wool yields a more durable yarn, which Diné (Navajo) weavers use in their celebrated rugs. Yet a comparison of the fiber characteristics of all three sheep reveals that ______ .
@@ -158,6 +171,7 @@ D. the selection process that enabled the Navajo-Churro to retain its somewhat c
 Answer: D
 
 Question 14:
+[Infer]
 Which choice most logically completes the text?
 
 Belonging to neither the minimalist nor the abstract art movements but heavily influencing both, Constantin Brâncuși spent his sculpting career returning to the same few themes—a kiss, a sleeping head, and a bird in flight—each rendered in pristine, simple, almost abstract forms. Perhaps the most famous example is *Bird in Space* (1941), a tall, slender bronze sculpture that arcs upward in a manner suggestive of a bird. Despite the seeming simplicity of his works, the exacting standards to which Brâncuși held his work meant that he produced relatively few pieces over his career. There is thus something of a disparity between ______
@@ -169,6 +183,7 @@ D. Brâncuși’s relatively limited productivity and the diversity of his sculp
 Answer: B
 
 Question 15:
+[Infer]
 Which choice most logically completes the text?
 
 Subsequent to simulating an attack to elicit defense responses in three caterpillar species, ecologists placed a treatment group of those individuals in an enclosure where they were exposed to slight, harmless ambient electric field shifts like those created by common predatory wasps in flight. When exposed to the treatment, cinnabar moth caterpillars and scarce vapourer moth caterpillars remained coiled in a defensive position for an average of 71 seconds and 87 seconds, respectively, whereas European peacock butterfly caterpillars continued to flail defensively for 20 seconds. Meanwhile, in a control group, all individuals (from all three species) resumed neutral behavior in less than one-tenth of a second after the simulated attack. These results suggest that ______ .
@@ -180,6 +195,7 @@ D. caterpillar species with the sensory acuity to detect small changes in ambien
 Answer: A
 
 Question 16:
+[Infer]
 Which choice most logically completes the text?
 
 The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that ______.
@@ -191,6 +207,7 @@ D. consumers are unlikely to purchase physical copies of music that is readily a
 Answer: B
 
 Question 17:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Occurring in the constellation Coma Berenices, 38 million light-years from Earth, SN 1940B was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Josef Johnson.
@@ -202,6 +219,7 @@ D. supernova: the
 Answer: C
 
 Question 18:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Taking a deconstructionist approach to analyzing Ji-li Jiang’s novel *Red Scarf Girl* would lead a critic to focus on the linguistic structures inherent in the novel. On the other hand, a cultural studies analysis ______ on the intersection of literature and popular culture might yield a radically different interpretation of Jiang’s novel.
@@ -213,6 +231,7 @@ D. focuses
 Answer: C
 
 Question 19:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 The vertical position of the Sun in the sky at a particular time of day varies throughout the year: due to Earth’s axial tilt, it appears higher in the summer and lower in the winter. Axial tilt is not the only factor that affects the Sun’s ______ as the eccentricity of Earth’s orbit causes its position to vary horizontally as well, resulting in a figure-eight shape called an analemma (if the Sun’s position is recorded at the same time of day throughout the year).
@@ -224,6 +243,7 @@ D. position, though;
 Answer: A
 
 Question 20:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 While the ancient Celts—Iron Age peoples who inhabited parts of western and central Europe—weren’t a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.
@@ -235,6 +255,7 @@ D. significance, depictions
 Answer: C
 
 Question 21:
+[Grammar]
 Which choice completes the text so that it conforms to the conventions of Standard English?
 
 Scientists have long known that cyclones can contribute to the formation of polynyas, large patches of unfrozen water that sporadically form amid vast sheets of sea ice. A recent study found evidence that these polynyas may be ______ but also by vapor streams, which travel through the atmosphere from the tropics toward the North and South Poles.
@@ -246,6 +267,7 @@ D. caused not only by cyclones
 Answer: D
 
 Question 22:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At the Marie Hitchcock Puppet Theater in San Diego, California, audiences sit down to enjoy a live puppet show. ______ they will experience puppetry in its highest form. The theater’s professional puppeteers are experts in any number of the dozens of puppetry styles, from bunraku puppetry to marionette puppetry.
@@ -257,6 +279,7 @@ D. There,
 Answer: D
 
 Question 23:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Oklahoma’s Port Silt Loam soil was formally designated in 1987, and Maine’s Chesuncook soil in 1999. ______ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.
@@ -268,6 +291,7 @@ D. Therefore,
 Answer: A
 
 Question 24:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state’s USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
@@ -279,6 +303,7 @@ D. However,
 Answer: C
 
 Question 25:
+[Transition]
 Which choice completes the text with the most logical transition?
 
 At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism *B. pumilio* is preserved as the reference organism for the species. This specimen is a holotype, meaning it was the basis of the first formal scientific description of *B. pumilio*. ______ the reference organism for the planktonic *G. inflata*, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.
@@ -290,6 +315,7 @@ D. For instance,
 Answer: A
 
 Question 26:
+[COE]
 Which choice most effectively uses information from the given sentences to emphasize a difference between the two flags?
 
 While researching a topic, a student has taken the following notes:
@@ -307,6 +333,7 @@ D. El Salvador includes a plant on its flag, whereas Zambia’s flag includes an
 Answer: D
 
 Question 27:
+[Synthesis]
 The student wants to refute a scientific assumption about the Leidenfrost effect. Which choice most effectively uses relevant information from the notes to accomplish this goal?
 
 While researching a topic, a student has taken the following notes:
