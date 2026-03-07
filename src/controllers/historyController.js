@@ -134,6 +134,57 @@ async function getReviewDetail(req, res) {
       errorLogs[String(logRow.question_id)] = logRow.log_text || "";
     });
 
+    const classResult = await db.query(
+      `SELECT class_id FROM users WHERE id = $1 LIMIT 1`,
+      [userId]
+    );
+
+    let classStats = null;
+    const classId = classResult.rows[0]?.class_id || null;
+
+    if (classId) {
+      const classNameResult = await db.query(
+        `SELECT name FROM classes WHERE id = $1 LIMIT 1`,
+        [classId]
+      );
+
+      const scoreStatsResult = await db.query(
+        `
+        SELECT
+          AVG(th.score)::float AS avg_score,
+          MAX(th.score) AS max_score,
+          COUNT(*)::int AS attempts_count
+        FROM test_history th
+        INNER JOIN users u ON u.id = th.user_id
+        WHERE u.class_id = $1
+          AND th.test_file = $2
+      `,
+        [classId, row.test_file]
+      );
+
+      const topAttemptResult = await db.query(
+        `
+        SELECT th.score, u.username
+        FROM test_history th
+        INNER JOIN users u ON u.id = th.user_id
+        WHERE u.class_id = $1
+          AND th.test_file = $2
+        ORDER BY th.score DESC, th.taken_at ASC
+        LIMIT 1
+      `,
+        [classId, row.test_file]
+      );
+
+      classStats = {
+        classId,
+        className: classNameResult.rows[0]?.name || null,
+        avgScore: Number(scoreStatsResult.rows[0]?.avg_score || 0),
+        maxScore: Number(scoreStatsResult.rows[0]?.max_score || 0),
+        attemptsCount: Number(scoreStatsResult.rows[0]?.attempts_count || 0),
+        topStudentUsername: topAttemptResult.rows[0]?.username || null,
+      };
+    }
+
     res.json({
       file: row.test_file,
       answers: JSON.parse(row.answers_json),
@@ -141,6 +192,7 @@ async function getReviewDetail(req, res) {
       totalQuestions: row.total_questions,
       taken_at: row.taken_at,
       errorLogs,
+      classStats,
     });
   } catch (err) {
     console.error("getReviewDetail error:", err);

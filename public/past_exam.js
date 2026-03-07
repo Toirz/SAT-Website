@@ -135,7 +135,89 @@ function getAttemptElapsedMinutes(savedAnswers = {}, totalMinutes = 0) {
     return Math.max(0, Math.min(totalMinutes, elapsedMinutes));
   }
 
-  return totalMinutes;
+  return 0;
+}
+
+function getQuestionElapsedSeconds(answersMeta = {}, questionCount = 0, totalMinutes = 0) {
+  const totalSeconds = Math.max(0, Math.floor(Number(totalMinutes || 0) * 60));
+  const spentSecondsMeta = Number(answersMeta?.__meta_time_spent_seconds);
+  const elapsedSeconds = Number.isFinite(spentSecondsMeta)
+    ? Math.max(0, Math.min(totalSeconds, Math.floor(spentSecondsMeta)))
+    : 0;
+
+  const safeQuestionCount = Math.max(0, Number(questionCount) || 0);
+  const averagePerQuestionSeconds = safeQuestionCount > 0
+    ? Math.round(elapsedSeconds / safeQuestionCount)
+    : 0;
+
+  return {
+    elapsedSeconds,
+    averagePerQuestionSeconds,
+    longestQuestionId: safeQuestionCount > 0 ? 1 : null,
+    longestQuestionSeconds: averagePerQuestionSeconds,
+  };
+}
+
+function formatSecondsAsMinutesSeconds(totalSeconds = 0) {
+  const safeSeconds = Math.max(0, Math.floor(Number(totalSeconds) || 0));
+  const minutes = Math.floor(safeSeconds / 60);
+  const seconds = safeSeconds % 60;
+  return `${minutes} phút ${seconds.toString().padStart(2, "0")} giây`;
+}
+
+function formatScore(score, totalQuestions) {
+  const safeScore = Number(score);
+  const safeTotal = Number(totalQuestions);
+  if (!Number.isFinite(safeScore) || !Number.isFinite(safeTotal) || safeTotal <= 0) {
+    return "—";
+  }
+  return `${safeScore} / ${safeTotal}`;
+}
+
+function renderTimeStatsPanel({ answersMeta = {}, questionCount = 0, totalMinutes = 0, score = null, totalQuestions = 0, classStats = null } = {}) {
+  const panelEl = document.getElementById("attempt-time-stats");
+  if (!panelEl) return;
+
+  const {
+    averagePerQuestionSeconds,
+    longestQuestionId,
+    longestQuestionSeconds,
+  } = getQuestionElapsedSeconds(answersMeta, questionCount, totalMinutes);
+
+  const averageClassScoreText = classStats
+    ? formatScore(Math.round(Number(classStats.avgScore || 0) * 100) / 100, totalQuestions)
+    : "Không thuộc lớp";
+
+  const topClassScoreText = classStats
+    ? `${formatScore(classStats.maxScore, totalQuestions)}${classStats.topStudentUsername ? `` : ""}`
+    : "Không thuộc lớp";
+
+  panelEl.classList.remove("hidden");
+  panelEl.innerHTML = `
+    <h3 class="attempt-time-stats-title">Thống kê thời gian</h3>
+    <ul class="attempt-time-stats-list">
+      <li class="attempt-time-stats-line">
+        <span>Thời gian trung bình mỗi câu:</span>
+        <strong>${formatSecondsAsMinutesSeconds(averagePerQuestionSeconds)}</strong>
+      </li>
+      <li class="attempt-time-stats-line">
+        <span>Câu làm lâu nhất:</span>
+        <strong>${longestQuestionId ? `Câu ${longestQuestionId} – ${formatSecondsAsMinutesSeconds(longestQuestionSeconds)}` : "—"}</strong>
+      </li>
+      <li class="attempt-time-stats-line">
+        <span>Điểm của bạn:</span>
+        <strong>${formatScore(score, totalQuestions)}</strong>
+      </li>
+      <li class="attempt-time-stats-line">
+        <span>Điểm trung bình của lớp:</span>
+        <strong>${averageClassScoreText}</strong>
+      </li>
+      <li class="attempt-time-stats-line">
+        <span>Điểm cao nhất của lớp:</span>
+        <strong>${topClassScoreText}</strong>
+      </li>
+    </ul>
+  `;
 }
 
 function extractQuestionTopic(rawText = "") {
@@ -597,6 +679,16 @@ async function loadPastExam() {
         <span class="meta-value">${correctCount} / ${questions.length}</span>
       `;
     }
+
+    renderTimeStatsPanel({
+      answersMeta: answers,
+      questionCount: questions.length,
+      totalMinutes,
+      score: meta.score,
+      totalQuestions: meta.totalQuestions || questions.length,
+      classStats: meta.classStats || null,
+    });
+
 
     renderTopicBreakdown(questions);
 
