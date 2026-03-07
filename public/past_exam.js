@@ -117,6 +117,27 @@ function splitQuestionAndPassage(rawText = "") {
   };
 }
 
+function getAttemptTotalMinutes(testFile = "") {
+  const category = String(testFile || "").split("/").filter(Boolean)[0] || "";
+  const isMathCategory = category === "math" || category === "math_cramming";
+  return isMathCategory ? 35 : 32;
+}
+
+
+
+function getAttemptElapsedMinutes(savedAnswers = {}, totalMinutes = 0) {
+  const totalSeconds = Number(savedAnswers?.__meta_total_time_seconds);
+  const spentSeconds = Number(savedAnswers?.__meta_time_spent_seconds);
+
+  if (Number.isFinite(totalSeconds) && Number.isFinite(spentSeconds) && totalSeconds > 0) {
+    const normalizedSpent = Math.max(0, Math.min(totalSeconds, spentSeconds));
+    const elapsedMinutes = Math.round(normalizedSpent / 60);
+    return Math.max(0, Math.min(totalMinutes, elapsedMinutes));
+  }
+
+  return totalMinutes;
+}
+
 function extractQuestionTopic(rawText = "") {
   const lines = normalizeQuestionText(rawText)
     .split("\n")
@@ -559,8 +580,8 @@ async function loadPastExam() {
       `;
     }
 
-    const totalMinutes = questions.length;
-    const elapsedMinutes = totalMinutes;
+    const totalMinutes = getAttemptTotalMinutes(fileFromQuery || meta.file || "");
+    const elapsedMinutes = getAttemptElapsedMinutes(answers, totalMinutes);
     const timeEl = document.getElementById("attempt-time");
     if (timeEl) {
       timeEl.innerHTML = `
@@ -569,7 +590,7 @@ async function loadPastExam() {
       `;
     }
 
-      const correctEl = document.getElementById("attempt-correct");
+    const correctEl = document.getElementById("attempt-correct");
     if (correctEl) {
       correctEl.innerHTML = `
         <span class="meta-label">Số câu đúng:</span>

@@ -22,6 +22,27 @@ let answers = {};
 let questions = [];
 let score = 0;
 
+function getTestDurationSeconds(testFile = "") {
+  const category = String(testFile || "").split("/").filter(Boolean)[0] || "";
+  const isMathCategory = category === "math" || category === "math_cramming";
+  return isMathCategory ? 35 * 60 : 32 * 60;
+}
+
+function buildHistoryAnswers(rawAnswers = {}, testFile = "", remainingTime = null) {
+  const historyAnswers = { ...(rawAnswers || {}) };
+  const totalTimeSeconds = getTestDurationSeconds(testFile);
+  const parsedRemainingTime = Number(remainingTime);
+
+  if (Number.isFinite(parsedRemainingTime) && parsedRemainingTime >= 0) {
+    const normalizedRemaining = Math.max(0, Math.min(totalTimeSeconds, Math.floor(parsedRemainingTime)));
+    const timeSpentSeconds = Math.max(0, totalTimeSeconds - normalizedRemaining);
+    historyAnswers.__meta_total_time_seconds = totalTimeSeconds;
+    historyAnswers.__meta_time_spent_seconds = timeSpentSeconds;
+  }
+
+  return historyAnswers;
+}
+
 function decodeQuestions(rawQuestions = []) {
   if (typeof window.decodeQuestionPayload === "function") {
     return window.decodeQuestionPayload(rawQuestions);
@@ -67,6 +88,8 @@ async function loadScore() {
     }
 
     answers = state.answers || {};
+    const historyAnswers = buildHistoryAnswers(answers, file, state.remainingTime);
+
 
     const data = await fetch(`/api/parsed-test?file=${encodeURIComponent(file)}`).then((r) => r.json());
     questions = decodeQuestions(data.questions);
@@ -80,7 +103,7 @@ async function loadScore() {
     await fetch("/api/test-history", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ file, score, totalQuestions: total, answers }),
+      body: JSON.stringify({ file, score, totalQuestions: total, answers: historyAnswers }),
       credentials: "same-origin",
     });
 
