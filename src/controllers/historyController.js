@@ -157,6 +157,7 @@ async function getReviewDetail(req, res) {
         FROM test_history th
         INNER JOIN users u ON u.id = th.user_id
         WHERE u.class_id = $1
+          AND u.is_admin = 0
           AND th.test_file = $2
       `,
         [classId, row.test_file]
@@ -168,6 +169,7 @@ async function getReviewDetail(req, res) {
         FROM test_history th
         INNER JOIN users u ON u.id = th.user_id
         WHERE u.class_id = $1
+          AND u.is_admin = 0
           AND th.test_file = $2
         ORDER BY th.score DESC, th.taken_at ASC
         LIMIT 1

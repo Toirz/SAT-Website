@@ -492,6 +492,7 @@ function startTimer() {
 
   timerInterval = setInterval(() => {
     timeLimit--;
+    elapsedSinceLastAutoSave++;
 
     updateTimerUI(timeLimit);
     if (elapsedSinceLastAutoSave >= AUTO_SAVE_INTERVAL_SECONDS) {
