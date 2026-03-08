@@ -415,6 +415,77 @@ const AUTO_SAVE_INTERVAL_SECONDS = 20;
 let timeLimit = DEFAULT_TIME_LIMIT_SECONDS;
 let timerInterval = null;
 let elapsedSinceLastAutoSave = 0;
+let questionTimeSpentSeconds = {};
+let activeQuestionId = null;
+let activeQuestionStartedAt = null;
+
+function getSafeQuestionId(value) {
+  return value === null || value === undefined ? null : String(value);
+}
+
+function normalizeQuestionTimeMeta(rawMeta = {}) {
+  const normalized = {};
+  if (!rawMeta || typeof rawMeta !== "object") return normalized;
+
+  Object.entries(rawMeta).forEach(([questionId, seconds]) => {
+    const parsed = Number(seconds);
+    if (!Number.isFinite(parsed) || parsed <= 0) return;
+    normalized[String(questionId)] = parsed;
+  });
+
+  return normalized;
+}
+
+function syncQuestionTimeMetaToAnswers() {
+  answers.__meta_question_time_seconds = Object.fromEntries(
+    Object.entries(questionTimeSpentSeconds).map(([questionId, seconds]) => [
+      questionId,
+      Math.max(0, Math.round(Number(seconds) || 0)),
+    ])
+  );
+}
+
+function flushActiveQuestionTime() {
+  if (!activeQuestionId || !activeQuestionStartedAt) return;
+
+  const now = Date.now();
+  const elapsed = (now - activeQuestionStartedAt) / 1000;
+  if (elapsed > 0) {
+    questionTimeSpentSeconds[activeQuestionId] =
+      (Number(questionTimeSpentSeconds[activeQuestionId]) || 0) + elapsed;
+    syncQuestionTimeMetaToAnswers();
+  }
+
+  activeQuestionStartedAt = now;
+}
+
+function setActiveQuestionTrackingByIndex(index) {
+  flushActiveQuestionTime();
+
+  const question = questions[index];
+  activeQuestionId = getSafeQuestionId(question?.id);
+  activeQuestionStartedAt = document.hidden || !activeQuestionId ? null : Date.now();
+}
+
+function hydrateQuestionTimeFromAnswers() {
+  questionTimeSpentSeconds = normalizeQuestionTimeMeta(
+    answers?.__meta_question_time_seconds
+  );
+  syncQuestionTimeMetaToAnswers();
+}
+
+function getTestStatePayload() {
+  return {
+    file,
+    answers,
+    eliminatedChoices,
+    reviewList,
+    highlights,
+    currentIndex: current,
+    remainingTime: timeLimit,
+  };
+}
+
 
 function startTimer() {
   updateTimerUI(timeLimit);
@@ -453,18 +524,18 @@ function updateTimerUI(seconds) {
    SAVE STATE -> LƯU TRÊN DB
 ---------------------------------------------------------- */
 function saveState() {
+  flushActiveQuestionTime();
+
+  const payload = getTestStatePayload();
+
+  if (activeQuestionId && !document.hidden) {
+    activeQuestionStartedAt = Date.now();
+  }
+
   return fetch("/api/test-state", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      file,
-      answers,
-      eliminatedChoices,
-      reviewList,
-      highlights,
-      currentIndex: current,
-      remainingTime: timeLimit,
-    }),
+    body: JSON.stringify(payload),
   }).catch((err) => console.error("Save state error:", err));
 }
 
@@ -518,6 +589,7 @@ async function load() {
     current = 0;
     timeLimit = DEFAULT_TIME_LIMIT_SECONDS;
   }
+  hydrateQuestionTimeFromAnswers();
 
   // 3. Nếu có goto (từ review)
   if (gotoIndex !== null) {
@@ -536,6 +608,7 @@ async function load() {
   // 5. Render lần đầu + start timer
   render();
   renderGrid();
+  setActiveQuestionTrackingByIndex(current);
   startTimer();
 }
 
@@ -1150,6 +1223,7 @@ function renderGrid() {
     if (reviewList.includes(i)) div.classList.add("marked");
 
     div.onclick = () => {
+      setActiveQuestionTrackingByIndex(i);
       current = i;
       hidePopover();
       render();
@@ -1166,18 +1240,23 @@ function renderGrid() {
 ---------------------------------------------------------- */
 document.getElementById("next-btn").onclick = () => {
   if (current < questions.length - 1) {
+    setActiveQuestionTrackingByIndex(current + 1);
     current++;
     render();
     renderGrid();
     saveState();
   } else {
     // Đi hết -> sang review
+    flushActiveQuestionTime();
+    syncQuestionTimeMetaToAnswers();
+    activeQuestionStartedAt = null;
     window.location.href = "review.html?file=" + file;
   }
 };
 
 document.getElementById("back-btn").onclick = () => {
   if (current > 0) {
+    setActiveQuestionTrackingByIndex(current - 1);
     current--;
     render();
     renderGrid();
@@ -1203,6 +1282,7 @@ document.getElementById("mark-review-btn").onclick = () => {
   } else {
     // Thêm mark
     reviewList.push(current);
+    
   }
 
   // Cập nhật UI
@@ -1303,8 +1383,39 @@ if (eraseActionBtn) {
    GO REVIEW
 ---------------------------------------------------------- */
 document.getElementById("go-review-btn").onclick = () => {
+  flushActiveQuestionTime();
+  syncQuestionTimeMetaToAnswers();
+  activeQuestionStartedAt = null;
   window.location.href = "review.html?file=" + file;
 };
+
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden) {
+    flushActiveQuestionTime();
+    activeQuestionStartedAt = null;
+    saveState();
+    return;
+  }
+
+  activeQuestionStartedAt = activeQuestionId ? Date.now() : null;
+});
+
+window.addEventListener("beforeunload", () => {
+  flushActiveQuestionTime();
+  syncQuestionTimeMetaToAnswers();
+  activeQuestionStartedAt = null;
+
+  try {
+    if (navigator.sendBeacon) {
+      const blob = new Blob([JSON.stringify(getTestStatePayload())], {
+        type: "application/json",
+      });
+      navigator.sendBeacon("/api/test-state", blob);
+    }
+  } catch (error) {
+    console.error("beforeunload save error:", error);
+  }
+});
 
 const directionsBtn = document.getElementById("direction");
 const overlay = document.getElementById("directions-overlay");

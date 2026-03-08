@@ -144,6 +144,40 @@ function getQuestionElapsedSeconds(answersMeta = {}, questionCount = 0, totalMin
   const elapsedSeconds = Number.isFinite(spentSecondsMeta)
     ? Math.max(0, Math.min(totalSeconds, Math.floor(spentSecondsMeta)))
     : 0;
+  const questionTimeMeta = answersMeta?.__meta_question_time_seconds;
+  const normalizedQuestionTimes =
+    questionTimeMeta && typeof questionTimeMeta === "object"
+      ? Object.entries(questionTimeMeta)
+          .map(([questionId, seconds]) => ({
+            questionId: String(questionId),
+            seconds: Math.max(0, Math.round(Number(seconds) || 0)),
+          }))
+          .filter((entry) => entry.seconds > 0)
+      : [];
+
+  if (normalizedQuestionTimes.length > 0) {
+    const totalQuestionElapsedSeconds = normalizedQuestionTimes.reduce(
+      (sum, entry) => sum + entry.seconds,
+      0
+    );
+    const longestQuestion = normalizedQuestionTimes.reduce((currentMax, entry) => {
+      if (!currentMax || entry.seconds > currentMax.seconds) {
+        return entry;
+      }
+      return currentMax;
+    }, null);
+
+    const averagePerQuestionSeconds = Math.round(
+      totalQuestionElapsedSeconds / normalizedQuestionTimes.length
+    );
+
+    return {
+      elapsedSeconds,
+      averagePerQuestionSeconds,
+      longestQuestionId: longestQuestion?.questionId || null,
+      longestQuestionSeconds: longestQuestion?.seconds || 0,
+    };
+  }
 
   const safeQuestionCount = Math.max(0, Number(questionCount) || 0);
   const averagePerQuestionSeconds = safeQuestionCount > 0
@@ -284,7 +318,6 @@ function renderTopicBreakdown(questionsList = []) {
   topicBreakdownEl.classList.remove("hidden");
   topicBreakdownEl.innerHTML = `
     <h3 class="topic-breakdown-panel-title">
-      <img src="/images/luyentap.png" alt="Thống kê câu sai">
       <span>Thống kê câu sai</span>
     </h3>
     <ul class="topic-breakdown-list">
