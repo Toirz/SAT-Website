@@ -1,6 +1,6 @@
 Question 1:
 [WIC]
-Which choice completes the text with the most logical and precise word or phrase? (with video explanation)
+Which choice completes the text with the most logical and precise word or phrase?
 
 Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ____ to some readers of his time.
 
@@ -301,7 +301,7 @@ Answer: C
 
 Question 22:
 [Grammar]
-Which choice completes the text so that it conforms to the conventions of Standard English? (with video explanation)
+Which choice completes the text so that it conforms to the conventions of Standard English?
 
 In the list “Things That Make One’s Heart Beat Faster” from Sei Shōnagon’s Pillow Book, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ____ readers a thousand years later.
 
@@ -343,7 +343,7 @@ Answer: A
 
 Question 25:
 [Synthesis]
-The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal? (with video explanation)
+The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal? 
 
 While researching a topic, a student has taken the following notes:
 • Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.

@@ -43,7 +43,7 @@ Answer: C
 
 Question 4:
 [WIC]
-Which choice completes the text with the most logical and precise word or phrase? (with video explanation)
+Which choice completes the text with the most logical and precise word or phrase? 
 
 During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries’ central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries’ policy environments seem to have been ____ swap line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.
 
@@ -117,7 +117,7 @@ Answer: A
 
 Question 9:
 [COE]
-Which choice most effectively uses data from the table to complete the statement? (with video explanation)
+Which choice most effectively uses data from the table to complete the statement? 
 
 Table: Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters
 
@@ -364,7 +364,7 @@ Answer: A
 
 Question 26:
 [Synthesis]
-The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal? (with video explanation)
+The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal? 
 
 While researching a topic, a student has taken the following notes:
 • Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.

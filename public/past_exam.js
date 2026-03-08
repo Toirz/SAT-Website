@@ -317,16 +317,16 @@ function renderTopicBreakdown(questionsList = []) {
 
   topicBreakdownEl.classList.remove("hidden");
   topicBreakdownEl.innerHTML = `
-    <h3 class="topic-breakdown-panel-title">
+     <h3 class="attempt-time-stats-title">
       <span>Thống kê câu sai</span>
     </h3>
-    <ul class="topic-breakdown-list">
+    <ul class="attempt-time-stats-list">
       ${Array.from(topicStats.entries())
         .map(
           ([topic, stats]) => `
-            <li class="topic-breakdown-line">
+            <li class="attempt-time-stats-line">
               <span>${topic}:</span>
-              <span class="topic-breakdown-line-score">${stats.correct} / ${stats.total}</span>
+              <strong>${stats.correct} / ${stats.total}</strong>
             </li>
           `
         )

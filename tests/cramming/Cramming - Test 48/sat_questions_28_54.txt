@@ -144,7 +144,7 @@ Answer: D
 
 Question 11:
 [COE]
-Which finding, if true, would most directly support the text’s claim about wireless communication devices? (with video explanation)
+Which finding, if true, would most directly support the text’s claim about wireless communication devices?
 
 Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
 
@@ -218,7 +218,7 @@ Answer: D
 
 Question 16:
 [Infer]
-Which choice most logically completes the text? (with video explanation)
+Which choice most logically completes the text?
 
 The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____.
 
