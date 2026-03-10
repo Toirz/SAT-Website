@@ -55,7 +55,7 @@ Automatic recurring transactions (which ask for little attention from consumers)
 
 
 
-A. Service F likely remained higher than the monthly subscription price for the longest duration among the three services.(Câu này thiếu hình full nên có thể học thuộc key này)
+A. Service F likely remained higher than the monthly subscription price for the longest duration among the three services.
 B. all three services likely remained higher than the monthly subscription price for inattentive subscribers than for fully attentive subscribers but for less than 12 months among fully attentive subscribers.
 C. all three services likely remained higher than the monthly subscription price for the subscription duration among inattentive subscribers but not among fully attentive subscribers.
 D. Service I likely remained higher than the monthly subscription price for the longest duration among the three services.
