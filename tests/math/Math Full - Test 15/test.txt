@@ -43,7 +43,7 @@ B. {{MATH_42}}
 C. {{MATH_43}}
 D. {{MATH_44}}
 
-Answer: 17
+Answer: B
 
 Question 6:
 Rectangle ABCD and EFGH are similar. The length of each side of EFGH is 10 times the length of the corresponding side of ABCD. The area of ABCD is 100 square units. What is the area, in square units, of EFGH?
@@ -68,7 +68,7 @@ A. 4
 B. 9
 C. 12
 D. 36
-Answer: D
+Answer: C
 
 Question 9:
 In the given equation, k and n are constants and {{MATH_11}}.
@@ -130,7 +130,7 @@ A. 15
 B. 150
 C. 225
 D. 375
-Answer: D
+Answer: A
 
 Question 16:
 Cristina was elected to the city council. Each city council person is required to attend at least 21 of the 27 scheduled council meetings in a year to keep their position. Which inequality represents the number of city council meetings, x, Cristina must attend in a year to keep her position on the city council?

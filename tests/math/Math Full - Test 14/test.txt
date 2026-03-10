@@ -108,7 +108,7 @@ Question 14:
 In the following expression, a and b are constants such that sin a = 0.60, cos b = 0.80, and 0 < b < 90. What is the value of the expression when y = 0? (điền đ-p -n dạng số thập ph-n)
 2 cos(90-a) – cos b + sin(a + y) - sin(90- b)
 
-Answer: 0.88
+Answer: 0.2
 
 Question 15:
 The functions {{MATH_29}} and {{MATH_30}} are defined by the given equations, where {{MATH_31}} {{MATH_32}} and {{MATH_33}}are integer constants,{{MATH_34}} and {{MATH_35}} If {{MATH_36}} and {{MATH_37}} are graphed in the {{MATH_38}}plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where {{MATH_39}}

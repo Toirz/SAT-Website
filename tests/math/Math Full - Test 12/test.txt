@@ -149,15 +149,6 @@ C. The estimate of the percentage of the gym's members that would continue to pa
 D. The estimate of the percentage of the gym's members that would continue to pay for a membership if the price increased will be higher.
 Answer: A
 
-Question 19:
-In the figure above, {{MATH_25}} is the altitude to the hypotenuse {{MATH_26}} of right triangle {{MATH_27}}. If the length of segment {{MATH_28}} is {{MATH_88}} times the length of segment {{MATH_29}}, what is the value of {{MATH_30}}?
-
-A. {{MATH_31}}
-B. {{MATH_32}}
-C. {{MATH_89}}
-D. {{MATH_90}}
-Answer: D
-
 Question 20:
 Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is {{MATH_91}} square centimeters (cm^{2}), and the surface area of right rectangular prism Y is {{MATH_92}} cm^{2}. The volume of right rectangular prism Y is {{MATH_93}} cubic centimeters (cm^{3}). What is the sum of the volumes, in cm^{3}, of right rectangular prism X and right rectangular prism Y?
 

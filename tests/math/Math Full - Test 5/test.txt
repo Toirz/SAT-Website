@@ -173,7 +173,7 @@ B. {{MATH_74}}
 C. {{MATH_75}}
 D. {{MATH_76}}
 
-Answer: A
+Answer: D
 
 Question 20:
 A scientist studying the life cycle of butterflies counted the number of butterflies in a certain habitat each day for 46 days. On June 15, there were 168 butterflies in the habitat. The percent increase in the number of butterflies in the habitat from May 1 to June 15 was 31.25%. How many butterflies were in the habitat on May 1?
