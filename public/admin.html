@@ -579,15 +579,15 @@
         <div class="assignment-panel" id="assignment-panel">
           <div class="assignment-header">
             <div>
-              <h3>Giao bài tập cho lớp</h3>
+              <h3>Giao bài tập tự động theo deadline</h3>
               <p class="section-desc" id="assignment-desc">
-                Chọn một lớp để hiện các đề thuộc từng mục luyện đề, bấm vào pill để giao hoặc thu hồi bài tập.
+                Đã bỏ giao bài thủ công. Bài có deadline sẽ tự động được tính là đã giao cho lớp.
               </p>
             </div>
             <span class="assignment-class-label" id="assignment-class-label"></span>
           </div>
           <div class="assignment-content" id="assignment-content">
-            <div class="assignment-empty">Hãy chọn một lớp ở danh sách trên.</div>
+            <div class="assignment-empty">Hãy chọn một lớp để xem hướng dẫn đặt deadline.</div>
           </div>
         </div>
       </section>
@@ -1331,35 +1331,18 @@
             }
 
             setAssignmentPanelVisible(true);
-            setAssignmentMessage("Đang tải danh sách bài tập...");
-
-            try {
-              const res = await fetch(`/admin/classes/${classId}/assignments`);
-
-              if (!res.ok) {
-                const text = await res.text();
-                setAssignmentMessage(text || "Không thể tải bài tập");
-                return;
-              }
-
-              const payload = await res.json();
-
-              if (assignmentClassLabel) {
-                assignmentClassLabel.textContent = payload.className
-                  ? `Lớp ${payload.className}`
-                  : "";
-              }
+            if (assignmentClassLabel) {
+              assignmentClassLabel.textContent =
+                currentClassName ? `Lớp ${currentClassName}` : "";
+            }
 
               if (assignmentDesc) {
-                assignmentDesc.textContent =
-                  "Bấm vào từng pill để giao hoặc thu hồi bài tập cho lớp đã chọn.";
-              }
-
-              renderAssignmentCategories(payload);
-            } catch (error) {
-              console.error(error);
-              setAssignmentMessage("Không thể tải bài tập của lớp này.");
+              assignmentDesc.textContent =
+                "Đã bỏ giao bài thủ công. Hãy vào tab \"Set deadline\" để đặt hạn nộp, hệ thống sẽ tự tính bài được giao.";
             }
+            setAssignmentMessage(
+              "Không cần giao thủ công nữa. Bài test có deadline sẽ tự động xuất hiện trong danh sách bài được giao của học sinh."
+            );
           };
 
           async function toggleAssignment(classId, testFile, category) {

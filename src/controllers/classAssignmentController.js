@@ -34,7 +34,7 @@ async function getClassAssignments(req, res) {
     }
 
     const assignmentsResult = await db.query(
-      `SELECT test_file FROM class_assignments WHERE class_id = $1`,
+      `SELECT test_file FROM class_test_deadlines WHERE class_id = $1`,
       [classId]
     );
 
@@ -93,18 +93,15 @@ async function getUserMissingAssignments(req, res) {
 
     const missingResult = await db.query(
       `
-      SELECT ca.test_file, ca.category, ca.assigned_at, ctd.deadline
-      FROM class_assignments ca
-      LEFT JOIN class_test_deadlines ctd
-        ON ctd.class_id = ca.class_id
-       AND ctd.test_file = ca.test_file
-      WHERE ca.class_id = $1
-        AND (ctd.deadline IS NULL OR ctd.deadline >= CURRENT_DATE)    
+      SELECT ctd.test_file, ctd.category, ctd.updated_at AS assigned_at, ctd.deadline
+      FROM class_test_deadlines ctd
+      WHERE ctd.class_id = $1
+        AND ctd.deadline >= CURRENT_DATE
         AND NOT EXISTS (
           SELECT 1 FROM test_history th
-          WHERE th.user_id = $2 AND th.test_file = ca.test_file
+          WHERE th.user_id = $2 AND th.test_file = ctd.test_file
         )
-      ORDER BY ctd.deadline ASC NULLS LAST, ca.assigned_at DESC
+      ORDER BY ctd.deadline ASC, ctd.updated_at DESC
       `,
       [classId, userId]
     );
@@ -123,67 +120,10 @@ async function getUserMissingAssignments(req, res) {
 }
 
 async function toggleClassAssignment(req, res) {
-  const classId = Number(req.params.id);
-  const testFile = (req.body.test_file || "").trim();
-  const category = (req.body.category || "").trim();
-
-  if (!classId || Number.isNaN(classId)) {
-    return res.status(400).json({ error: "Lớp không hợp lệ" });
-  }
-
-  if (!testFile) {
-    return res.status(400).json({ error: "Thiếu thông tin bài tập" });
-  }
-
-  try {
-    const classResult = await db.query(
-      `SELECT id FROM classes WHERE id = $1 LIMIT 1`,
-      [classId]
-    );
-
-    if (classResult.rows.length === 0) {
-      return res.status(404).json({ error: "Không tìm thấy lớp" });
-    }
-
-    const categories = buildCategoryPayload();
-    const allTests = new Set(
-      Object.values(categories)
-        .flat()
-        .map((item) => item.test_file)
-    );
-
-    if (!allTests.has(testFile)) {
-      return res.status(400).json({ error: "Bài tập không hợp lệ" });
-    }
-
-    const existing = await db.query(
-      `SELECT id FROM class_assignments WHERE class_id = $1 AND test_file = $2 LIMIT 1`,
-      [classId, testFile]
-    );
-
-    if (existing.rows.length > 0) {
-      await db.query(
-        `DELETE FROM class_assignments WHERE class_id = $1 AND test_file = $2`,
-        [classId, testFile]
-      );
-
-      return res.json({ assigned: false });
-    }
-
-    const effectiveCategory = category || testFile.split("/")[0] || "";
-
-    await db.query(
-      `INSERT INTO class_assignments (class_id, test_file, category, assigned_by)
-       VALUES ($1, $2, $3, $4)
-       ON CONFLICT (class_id, test_file) DO NOTHING`,
-      [classId, testFile, effectiveCategory, req.session.userId || null]
-    );
-
-    return res.json({ assigned: true });
-  } catch (err) {
-    console.error("toggleClassAssignment error:", err);
-    return res.status(500).json({ error: "Không thể cập nhật giao bài" });
-  }
+  return res.status(410).json({
+    error:
+      "Đã bỏ chức năng giao bài thủ công. Bài có deadline sẽ tự động được tính là đã giao.",
+  });
 }
 
 async function getMyAssignments(req, res) {
@@ -204,18 +144,15 @@ async function getMyAssignments(req, res) {
 
     const assignmentsResult = await db.query(
       `
-      SELECT ca.test_file, ca.category, ca.assigned_at, ctd.deadline
-      FROM class_assignments ca
-      LEFT JOIN class_test_deadlines ctd
-        ON ctd.class_id = ca.class_id
-       AND ctd.test_file = ca.test_file
-      WHERE ca.class_id = $1
-        AND (ctd.deadline IS NULL OR ctd.deadline >= CURRENT_DATE)
+      SELECT ctd.test_file, ctd.category, ctd.updated_at AS assigned_at, ctd.deadline
+      FROM class_test_deadlines ctd
+      WHERE ctd.class_id = $1
+        AND ctd.deadline >= CURRENT_DATE
         AND NOT EXISTS (
           SELECT 1 FROM test_history th
-          WHERE th.user_id = $2 AND th.test_file = ca.test_file
+          WHERE th.user_id = $2 AND th.test_file = ctd.test_file
         )
-      ORDER BY ctd.deadline ASC NULLS LAST, ca.assigned_at DESC
+      ORDER BY ctd.deadline ASC, ctd.updated_at DESC
       `,
       [user.class_id, userId]
     );
