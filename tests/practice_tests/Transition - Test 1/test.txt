@@ -238,3 +238,13 @@ C. Similarly,
 D. Furthermore,
 Answer: A
 
+Question 21:
+[Transition]
+Unlike standard Western maps, which privileged static features like coastlines, the Marshallese stick charts used by Pacific Islands navigators for centuries depicted fluctuating ocean dynamics, such as ocean swells, through intricate lattice-like constructions of wood, fibers, and shells. ______ these stick charts were memorized prior to a voyage rather than consulted at sea.
+
+A. Subsequently,
+B. However,
+C. Even so,
+D. Moreover,
+Answer : D
+
