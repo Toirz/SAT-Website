@@ -248,5 +248,5 @@ A. Subsequently,
 B. However,
 C. Even so,
 D. Moreover,
-Answer : D
+Answer: D
 
