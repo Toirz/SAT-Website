@@ -26,26 +26,50 @@ function toDateKey(value) {
   ).padStart(2, "0")}`;
 }
 
-async function getUserClassId(userId) {
-  if (!userId) return null;
-  const result = await db.query(`SELECT class_id FROM users WHERE id = $1`, [userId]);
-  return result.rows[0]?.class_id || null;
+async function getUserClassIds(userId) {
+  if (!userId) return [];
+  const result = await db.query(
+    `
+      SELECT class_id
+      FROM (
+        SELECT uc.class_id
+        FROM user_classes uc
+        WHERE uc.user_id = $1
+        UNION
+        SELECT u.class_id
+        FROM users u
+        WHERE u.id = $1 AND u.class_id IS NOT NULL
+      ) memberships
+      ORDER BY class_id ASC
+    `,
+    [userId]
+  );
+  return result.rows.map((row) => row.class_id);
 }
 
-async function getTestDeadlines(classId) {
-  if (!classId) return new Map();
+async function getTestDeadlines(classIds) {
+  if (!Array.isArray(classIds) || classIds.length === 0) return new Map();
   const result = await db.query(
-    `SELECT test_file, deadline FROM class_test_deadlines WHERE class_id = $1`,
-    [classId]
+    `
+      SELECT test_file, MIN(deadline) AS deadline
+      FROM class_test_deadlines
+      WHERE class_id = ANY($1::int[])
+      GROUP BY test_file
+    `,
+    [classIds]
   );
   return new Map(result.rows.map((row) => [row.test_file, row.deadline]));
 }
 
-async function getDeadlineForTest(testFile, classId) {
-  if (!classId) return null;
+async function getDeadlineForTest(testFile, classIds) {
+  if (!Array.isArray(classIds) || classIds.length === 0) return null;
   const result = await db.query(
-    `SELECT deadline FROM class_test_deadlines WHERE test_file = $1 AND class_id = $2`,
-    [testFile, classId]
+    `
+      SELECT MIN(deadline) AS deadline
+      FROM class_test_deadlines
+      WHERE test_file = $1 AND class_id = ANY($2::int[])
+    `,
+    [testFile, classIds]
   );
   return result.rows[0]?.deadline || null;
 }
@@ -111,8 +135,8 @@ async function getTests(req, res) {
     const isAdmin = req.session.isAdmin === true;
     const category = req.query.category;
     const accessMap = await getFreeTestSet();
-    const classId = await getUserClassId(req.session.userId);
-    const deadlineMap = await getTestDeadlines(classId);
+    const classIds = await getUserClassIds(req.session.userId);
+    const deadlineMap = await getTestDeadlines(classIds);
     const todayKey = toDateKey(new Date());
 
     if (category) {
@@ -243,8 +267,8 @@ async function getParsedTest(req, res) {
     });
   }
   
-  const classId = await getUserClassId(req.session.userId);
-  const deadlineKey = toDateKey(await getDeadlineForTest(folder, classId));
+  const classIds = await getUserClassIds(req.session.userId);
+  const deadlineKey = toDateKey(await getDeadlineForTest(folder, classIds));
   const todayKey = toDateKey(new Date());
   if (!isAdmin && deadlineKey && todayKey > deadlineKey && !allowReviewLocked) {
     return res.status(403).json({

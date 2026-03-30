@@ -294,10 +294,27 @@ async function getAdminDevices(req, res) {
 
     const usersResult = await db.query(
       `
-      SELECT u.id, u.username, u.is_admin, u.is_pro, u.class_id, c.name AS class_name
+      SELECT
+        u.id,
+        u.username,
+        u.is_admin,
+        u.is_pro,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(uc.class_id, u.class_id))
+            FILTER (WHERE COALESCE(uc.class_id, u.class_id) IS NOT NULL),
+          ARRAY[]::INTEGER[]
+        ) AS class_ids,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(c.name, c_primary.name))
+            FILTER (WHERE COALESCE(c.name, c_primary.name) IS NOT NULL),
+          ARRAY[]::TEXT[]
+        ) AS class_names
       FROM users u
-      LEFT JOIN classes c ON u.class_id = c.id
-      ORDER BY id ASC
+      LEFT JOIN user_classes uc ON uc.user_id = u.id
+      LEFT JOIN classes c ON uc.class_id = c.id
+      LEFT JOIN classes c_primary ON c_primary.id = u.class_id
+      GROUP BY u.id, u.username, u.is_admin, u.is_pro
+      ORDER BY u.id ASC
     `,
       []
     );
@@ -317,15 +334,26 @@ async function getAdminDevices(req, res) {
         th.id,
         u.email,
         u.username,
-        u.class_id,
-        c.name AS class_name,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(uc.class_id, u.class_id))
+            FILTER (WHERE COALESCE(uc.class_id, u.class_id) IS NOT NULL),
+          ARRAY[]::INTEGER[]
+        ) AS class_ids,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(c.name, c_primary.name))
+            FILTER (WHERE COALESCE(c.name, c_primary.name) IS NOT NULL),
+          ARRAY[]::TEXT[]
+        ) AS class_names,
         th.test_file,
         th.score,
         th.total_questions,
         th.taken_at
       FROM test_history th
       JOIN users u ON th.user_id = u.id
-      LEFT JOIN classes c ON u.class_id = c.id
+      LEFT JOIN user_classes uc ON uc.user_id = u.id
+      LEFT JOIN classes c ON uc.class_id = c.id
+      LEFT JOIN classes c_primary ON c_primary.id = u.class_id
+      GROUP BY th.id, u.email, u.username, th.test_file, th.score, th.total_questions, th.taken_at
       ORDER BY th.taken_at DESC
       LIMIT 100
     `,
@@ -371,9 +399,8 @@ async function deleteClass(req, res) {
   }
 
   try {
-    await db.query(`UPDATE users SET class_id = NULL WHERE class_id = $1`, [
-      classId,
-    ]);
+    await db.query(`UPDATE users SET class_id = NULL WHERE class_id = $1`, [classId]);
+    await db.query(`DELETE FROM user_classes WHERE class_id = $1`, [classId]);
     await db.query(`DELETE FROM classes WHERE id = $1`, [classId]);
 
     return res.redirect("/admin");
@@ -416,23 +443,48 @@ async function renameClass(req, res) {
 }
 
 async function assignUserClass(req, res) {
-  const userId = req.params.id;
-  const classId = (req.body.class_id || "").trim();
+  const userId = Number(req.params.id);
+  const classIdsRaw = req.body.class_ids;
 
-  if (!userId) {
+  if (!userId || Number.isNaN(userId)) {
     return res.status(400).send("Thiếu thông tin người dùng");
   }
 
-  const normalizedClassId = classId === "" ? null : Number(classId);
+  const normalizedClassIds = Array.from(
+    new Set(
+      (Array.isArray(classIdsRaw) ? classIdsRaw : classIdsRaw ? [classIdsRaw] : [])
+        .map((value) => Number(String(value).trim()))
+        .filter((value) => !Number.isNaN(value) && value > 0)
+    )
+  );
 
-  if (normalizedClassId !== null && Number.isNaN(normalizedClassId)) {
-    return res.status(400).send("Lớp không hợp lệ");
-  }
 
   try {
-    await db.query(`UPDATE users SET class_id = $1 WHERE id = $2`, [normalizedClassId, userId]);
+    const classesResult = await db.query(`SELECT id FROM classes`, []);
+    const validClassIds = new Set(classesResult.rows.map((row) => row.id));
+    const filteredClassIds = normalizedClassIds.filter((id) => validClassIds.has(id));
+
+    await db.query("BEGIN");
+    await db.query(`DELETE FROM user_classes WHERE user_id = $1`, [userId]);
+
+    for (const classId of filteredClassIds) {
+      await db.query(
+        `
+        INSERT INTO user_classes (user_id, class_id)
+        VALUES ($1, $2)
+        ON CONFLICT (user_id, class_id) DO NOTHING
+      `,
+        [userId, classId]
+      );
+    }
+
+    const primaryClassId = filteredClassIds[0] || null;
+    await db.query(`UPDATE users SET class_id = $1 WHERE id = $2`, [primaryClassId, userId]);
+    await db.query("COMMIT");
+
     return res.redirect("/admin");
   } catch (err) {
+    await db.query("ROLLBACK");
     console.error("assignUserClass error:", err);
     return res.status(500).send("Lỗi server");
   }

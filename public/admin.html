@@ -1389,7 +1389,11 @@
             const filteredUsers =
               currentClassFilter === null
                 ? users
-                : users.filter((u) => u.class_id === currentClassFilter);
+                : users.filter((u) =>
+                    Array.isArray(u.class_ids)
+                      ? u.class_ids.includes(currentClassFilter)
+                      : u.class_id === currentClassFilter
+                  );
 
             filteredUsers.forEach((user) => {
               const tr = document.createElement("tr");
@@ -1424,14 +1428,17 @@
                 ...classes.map(
                   (cls) =>
                     `<option value="${cls.id}" ${
-                      cls.id === user.class_id ? "selected" : ""
+                      (user.class_ids || []).includes(cls.id) ? "selected" : ""
                     }>${cls.name}</option>`
                 ),
               ].join("");
 
-              const classBadge = user.class_name
-                ? `<span class="class-badge">${user.class_name}</span>`
-                : '<span class="class-badge class-empty">Chưa gán lớp</span>';
+              const classBadges =
+                (user.class_names || []).length > 0
+                  ? (user.class_names || [])
+                      .map((name) => `<span class="class-badge">${name}</span>`)
+                      .join(" ")
+                  : '<span class="class-badge class-empty">Chưa gán lớp</span>';
               const actionButton =
                 user.is_pro === 1
                   ? `
@@ -1452,11 +1459,14 @@
                 <td>${user.username}</td>
                 <td>${accountBadge}</td>
                 <td>
-                  ${classBadge}
+                  ${classBadges}
                   <form class="class-form" method="POST" action="/admin/users/${
                     user.id
                   }/class">
-                    <select name="class_id">${classOptions}</select>
+                    <select name="class_ids" multiple size="${Math.min(
+                      Math.max(classes.length, 2),
+                      6
+                    )}">${classOptions}</select>
                     <button type="submit" class="btn-secondary">Lưu</button>
                   </form>
                 </td>
@@ -1472,8 +1482,11 @@
             const filteredSubmissions =
               currentClassFilter === null
                 ? submissions
-                : submissions.filter((s) => s.class_id === currentClassFilter);
-
+                : submissions.filter((s) =>
+                    Array.isArray(s.class_ids)
+                      ? s.class_ids.includes(currentClassFilter)
+                      : s.class_id === currentClassFilter
+                  );
             filteredSubmissions.forEach((s) => {
               const tr = document.createElement("tr");
               const testName = formatTestName(s.test_file);
@@ -1587,8 +1600,10 @@
                   }
 
                   (data.users || []).forEach((user) => {
-                    if (user.class_id === Number(cls.id)) {
-                      user.class_name = payload.name;
+                    if ((user.class_ids || []).includes(Number(cls.id))) {
+                      user.class_names = (user.class_names || []).map((name) =>
+                        name === cls.name ? payload.name : name
+                      );
                     }
                   });
                   renderUsers(classes, data.users || []);

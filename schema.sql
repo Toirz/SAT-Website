@@ -39,6 +39,19 @@ CREATE TABLE IF NOT EXISTS classes (
 ALTER TABLE users
   ADD COLUMN IF NOT EXISTS class_id INTEGER REFERENCES classes(id);
 
+  CREATE TABLE IF NOT EXISTS user_classes (
+  user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  class_id INTEGER NOT NULL REFERENCES classes(id) ON DELETE CASCADE,
+  assigned_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (user_id, class_id)
+);
+
+INSERT INTO user_classes (user_id, class_id)
+SELECT id, class_id
+FROM users
+WHERE class_id IS NOT NULL
+ON CONFLICT (user_id, class_id) DO NOTHING;
+
 -- =======================
 -- BẢNG GIAO BÀI THEO LỚP
 -- =======================

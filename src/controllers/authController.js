@@ -153,11 +153,29 @@ async function getSessionInfo(req, res) {
   try {
     const result = await db.query(
       `
-      SELECT u.id, u.username, u.is_admin, u.is_pro, u.email, u.google_name, c.id AS class_id, c.name AS class_name
+      SELECT
+        u.id,
+        u.username,
+        u.is_admin,
+        u.is_pro,
+        u.email,
+        u.google_name,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(uc.class_id, u.class_id))
+            FILTER (WHERE COALESCE(uc.class_id, u.class_id) IS NOT NULL),
+          ARRAY[]::INTEGER[]
+        ) AS class_ids,
+        COALESCE(
+          ARRAY_AGG(DISTINCT COALESCE(c.name, c_primary.name))
+            FILTER (WHERE COALESCE(c.name, c_primary.name) IS NOT NULL),
+          ARRAY[]::TEXT[]
+        ) AS class_names
       FROM users u
-      LEFT JOIN classes c ON u.class_id = c.id
+      LEFT JOIN user_classes uc ON uc.user_id = u.id
+      LEFT JOIN classes c ON c.id = uc.class_id
+      LEFT JOIN classes c_primary ON c_primary.id = u.class_id
       WHERE u.id = $1
-      LIMIT 1
+      GROUP BY u.id, u.username, u.is_admin, u.is_pro, u.email, u.google_name
     `,
       [userId]
     );
@@ -171,6 +189,9 @@ async function getSessionInfo(req, res) {
     const proStatus = await resolveEffectiveProStatus(user.id);
     req.session.isPro = proStatus.isPro;
 
+    const primaryClassId = user.class_ids?.[0] || null;
+    const primaryClassName = user.class_names?.[0] || null;
+
     res.json({
       userId: user.id,
       username: user.username,
@@ -179,8 +200,10 @@ async function getSessionInfo(req, res) {
       isPro: proStatus.isPro,
       proExpiresAt: proStatus.proExpiresAt,
       email: user.email,
-      classId: user.class_id || null,
-      className: user.class_name || null,
+      classId: primaryClassId,
+      className: primaryClassName,
+      classIds: user.class_ids || [],
+      classNames: user.class_names || [],
     });
   } catch (err) {
     console.error("getSessionInfo error:", err);

@@ -75,17 +75,32 @@ async function getUserMissingAssignments(req, res) {
       return res.status(404).json({ error: "Không tìm thấy lớp" });
     }
 
-    const userResult = await db.query(
-      `SELECT id, username, class_id FROM users WHERE id = $1 LIMIT 1`,
-      [userId]
-    );
+    const userResult = await db.query(`SELECT id, username FROM users WHERE id = $1 LIMIT 1`, [userId]);
 
     if (userResult.rows.length === 0) {
       return res.status(404).json({ error: "Không tìm thấy người dùng" });
     }
 
     const user = userResult.rows[0];
-    if (user.class_id !== classId) {
+    const membershipResult = await db.query(
+      `
+      SELECT 1
+      FROM (
+        SELECT uc.class_id
+        FROM user_classes uc
+        WHERE uc.user_id = $1
+        UNION
+        SELECT u.class_id
+        FROM users u
+        WHERE u.id = $1 AND u.class_id IS NOT NULL
+      ) memberships
+      WHERE memberships.class_id = $2
+      LIMIT 1
+    `,
+      [userId, classId]
+    );
+
+    if (membershipResult.rows.length === 0) {
       return res
         .status(400)
         .json({ error: "Học sinh không thuộc lớp đã chọn" });
@@ -131,35 +146,56 @@ async function getMyAssignments(req, res) {
 
   try {
     const userResult = await db.query(
-      `SELECT u.class_id, c.name AS class_name FROM users u
-       LEFT JOIN classes c ON u.class_id = c.id
-       WHERE u.id = $1 LIMIT 1`,
+      `
+      SELECT memberships.class_id, c.name AS class_name
+      FROM (
+        SELECT uc.class_id
+        FROM user_classes uc
+        WHERE uc.user_id = $1
+        UNION
+        SELECT u.class_id
+        FROM users u
+        WHERE u.id = $1 AND u.class_id IS NOT NULL
+      ) memberships
+      INNER JOIN classes c ON c.id = memberships.class_id
+      ORDER BY c.name ASC
+    `,
       [userId]
     );
 
-    const user = userResult.rows[0];
-    if (!user || !user.class_id) {
-      return res.json({ classId: null, className: null, assignments: [] });
+    const classRows = userResult.rows || [];
+    const classIds = classRows.map((row) => row.class_id);
+
+    if (classIds.length === 0) {
+      return res.json({ classId: null, className: null, classes: [], assignments: [] });
     }
 
     const assignmentsResult = await db.query(
       `
-      SELECT ctd.test_file, ctd.category, ctd.updated_at AS assigned_at, ctd.deadline
+      SELECT DISTINCT ON (ctd.test_file)
+        ctd.test_file,
+        ctd.category,
+        ctd.updated_at AS assigned_at,
+        ctd.deadline
       FROM class_test_deadlines ctd
-      WHERE ctd.class_id = $1
+      WHERE ctd.class_id = ANY($1::int[])
         AND ctd.deadline >= CURRENT_DATE
         AND NOT EXISTS (
           SELECT 1 FROM test_history th
           WHERE th.user_id = $2 AND th.test_file = ctd.test_file
         )
-      ORDER BY ctd.deadline ASC, ctd.updated_at DESC
+      ORDER BY ctd.test_file, ctd.deadline ASC, ctd.updated_at DESC
       `,
-      [user.class_id, userId]
+      [classIds, userId]
     );
 
     res.json({
-      classId: user.class_id,
-      className: user.class_name || null,
+      classId: classRows[0]?.class_id || null,
+      className: classRows[0]?.class_name || null,
+      classes: classRows.map((row) => ({
+        classId: row.class_id,
+        className: row.class_name,
+      })),
       assignments: assignmentsResult.rows,
     });
   } catch (err) {
